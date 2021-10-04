@@ -91,7 +91,7 @@ section {
 
 .sidebar {
 	background-color: $gray-lighter;
-  font-size: 15px;
+  font-size: 18px;
   padding-bottom: 10px;
 }
 
@@ -129,7 +129,7 @@ section {
 .sidebar li a {
 	display: block;
   padding: 0.8em 0.5em;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	@include transition(color, 0.3s, linear);
 }
 
@@ -164,14 +164,14 @@ section {
 	  padding-left: 60px;
   }
 
-  .sidebar li:before {
+ .sidebar li:before {
     content: "";
-    border-left: 3px solid #aab0bf;
+   /*  border-left: 3px solid #aab0bf; */
     position: absolute;
     left: 40px;
     height: 100%;
     top: 0;
-  }
+  } 
 
   .sidebar li.first:before {
     height: 50%;
@@ -188,10 +188,12 @@ section {
     top: 0;
   }
 
+
   .sidebar li a {
-    padding: 1.2em 0;
+    padding: .5em 0;
   }
 
+/*
   .sidebar li a:before {
     content: "\f005";
     font-family: FontAwesome;
@@ -209,9 +211,12 @@ section {
     font-size: 0.8em;
   }
 
+
   .sidebar li.active a:before {
     content: "\f04b";
   }
+
+  */
 
   .sidebar li a:after {
     content: "";

@@ -1,4 +1,5 @@
 <div class="sidebar col-md-3">
+	<!-- 
 	{% include next_module.html %}
 
 	{% if prev %}
@@ -10,10 +11,13 @@
 				{{ prev }} </a>
 		</div>
 		<hr />
-	{% endif %}
+	{% endif %} -->
 	<ul>
 		{% for post in site.categories[module] reversed %}
-			<li class="{% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+
+			
+
+			<li class="{% if post.url == page.url %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %} {% unless post.tags contains 'sectionHead' %}subsection{% endunless %} {% if post.tags contains 'sectionHead' %}sectionHead{% endif %}">
 				<a
 						href="{{ site.baseurl }}{{ post.url }}">
 					{{ post.title }}
