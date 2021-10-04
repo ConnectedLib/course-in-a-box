@@ -1,3 +1,119 @@
+<style>
+      
+/* topnav css */
+.topnav {
+  overflow: hidden;
+  margin-top: 6px;
+  /* background-color: #EFE7F3;
+  border-color: rgb(231, 231, 231);
+  font-family: "Open Sans," "Helvetica Neue",Helvetica;
+  font-size: 16px;
+  line-height: 22.85px; */
+  color: #ffffff; 
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #ffffff;
+  /* text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px; */
+}
+
+.active {
+  background-color: #4bbcb3; /* teal */
+  color: #ffffff;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    /* font-size: 17px;    */
+    border: none;
+    outline: none;
+    color: rgba(255, 255, 255, 0.8);
+   /* padding: 14px 16px; */
+    background-color: inherit;
+    font-family: inherit;
+   /* margin: 0; */
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* THE DROPDOWN MODULE LIST */
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px; 
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+/* .topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #ffa32f;
+  color: #000;
+} */
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+
+
+
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md py-0 .navbar-dark bg-dark text-light">
   <a class="navbar-brand" href="{{site.baseurl}}/"><i class="fa fa-home"></i></a>
@@ -8,19 +124,68 @@
 
   <div class="navbar-collapse collapse" id="navbarSupportedContent">
     <ul class="navbar-nav">
+
+ <li class="nav-item py-2{% if page.categories[1] == module %} active{% endif %}">
+         <a class="nav-link" href="{{ site.baseurl }}{{ first_post.url }}">About</a></li>
+          <li class="nav-item py-2{% if page.categories[1] == module %} active{% endif %}">
+         <a class="nav-link" href="{{ site.baseurl }}{{ first_post.url }}">Contact Us</a></li>
+
+
+<!--
       {% for module in site.data.course.modules %}
        {% assign first_post = site.categories[module]|reverse|first %}
        <li class="nav-item py-2{% if page.categories[1] == module %} active{% endif %}">
          <a class="nav-link" href="{{ site.baseurl }}{{ first_post.url }}">
-           {{ module }}
+          {{% if module == 'basics' %}}
+           Connected Learning Basics
+           {{% endIf %}}
+    
          </a>
        </li>
       {% endfor %}
-<!--
+
       <li class="nav-item py-2">
         <a class="nav-link" href="https://www.p2pu.org/en/" target="_blank">Example Link</a>
       </li>
 -->
+<li class="nav-item py-2 nav-link">
+<div class="topnav" id="myTopnav">
+  <div class="dropdown">
+    <button class="dropbtn">Modules 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="{{site.baseurl}}/modules/basics/">Connected Learning Basics</a>
+      <a href="{{site.url}}{{site.baseurl}}/modules/programming/">---</a>
+      <a href="{{site.url}}{{site.baseurl}}/modules/partnerships/">---</a>
+      <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/">---</a>
+      <a href="{{site.url}}{{site.baseurl}}/modules/assessment/">---</a>
+      <a href="{{site.url}}{{site.baseurl}}/modules/capacity/">---</a>
+      <a href="{{site.url}}{{site.baseurl}}/modules/design-thinking/">---</a>
+      <a href="{{site.url}}{{site.baseurl}}/modules/youth-development/">---</a>
+      <a href="{{site.url}}{{site.baseurl}}/modules/mentoring/">---</a>
+
+      
+      
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+</li>
     </ul>
   </div>
 </nav>
+
+
+
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
