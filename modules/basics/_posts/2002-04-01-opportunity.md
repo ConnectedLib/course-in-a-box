@@ -2,4 +2,3 @@
 title: Opportunity
 ---
  
-# Hello. 
