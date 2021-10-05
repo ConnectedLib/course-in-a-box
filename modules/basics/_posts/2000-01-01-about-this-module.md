@@ -18,12 +18,12 @@ Introductory paragraph about the Connected Learning Basics module.
 <div class="callout activity" markdown="1">
 ## Connected Learning KWL
 
-<a href="/docs/basics/basics_kwl.docx"><img src="/img/basics/basics_kwl.png" alt="image of KWL worksheet:" width="150px" align="right" style="margin-left:  10px;"/></a>
+<a href="/docs/basics/basics_kwl.docx"><img src="{{site.baseurl}}/img/basics/basics_kwl.png" alt="image of KWL worksheet:" width="150px" align="right" style="margin-left:  10px;"/></a>
 
 Complete this worksheet by first describing your experience (if any) with connected learning. Then create a list of what you already know (the K in KWL) about connected learning. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.
 
 
 
-Download: <a href="/docs/basics/basics_kwl.docx">DOCX</a>
+Download: <a href="{{site.baseurl}}/docs/basics/basics_kwl.docx">DOCX</a>
 
 </div>
