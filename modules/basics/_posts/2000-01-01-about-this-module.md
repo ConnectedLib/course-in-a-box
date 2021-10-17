@@ -23,6 +23,8 @@ Introductory paragraph about the Connected Learning Basics module.
 Complete this worksheet by first describing your experience (if any) with connected learning. Then create a list of what you already know (the K in KWL) about connected learning. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.
 
 
+<script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 Download: <a href="{{site.baseurl}}/docs/basics/basics_kwl.docx">DOCX</a>
 

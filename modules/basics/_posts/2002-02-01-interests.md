@@ -23,6 +23,14 @@ The teen years are a time for identity formation. Young people are becoming more
 At the Providence Public Library teens gain confidence and an understanding of themselves through learning how to code and building websites for their community.
 </div>
 
+<div class="callout videos" markdown="1">
+## "If it smells like school, they won't touch it"
+<iframe src="https://www.youtube.com/embed/3wMk8SqFoEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
+	
+
+
 
 <div class="callout activity" markdown="1">
 ## Interest-Based Learning
