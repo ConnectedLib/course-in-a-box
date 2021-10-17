@@ -1,5 +1,5 @@
 ---
-title: About This Module
+title: What is Connected Learning? 
 tags: ['sectionHead']
 permalink: /modules/basics/
 ---
