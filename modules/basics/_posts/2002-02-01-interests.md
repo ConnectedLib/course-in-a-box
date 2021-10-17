@@ -40,18 +40,7 @@ Think back to a time in your youth when an adult tried to get you to learn somet
 
 How well do your youth services and programs incorporate the principle of interests?
                                                                   
-<table>
-	<tr>
-		<th width="60%">Example</th>
-		<th width="25%">Your Rating</th>
-		<th width="15%">Your Points</th>
-	</tr>
-	<tr>
-		<td>Teens explore and form new interests through activities where they can simply “mess around.” There are also opportunities to dig more deeply into a topic if they want to. </td>
-		<td>&nbsp;😃 (3 pts)<br/>&nbsp;😐 (2 pts)<br/>&nbsp;😱 (1 pt)</td>
-		<td></td>
-	</tr>
-</table>
+<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=1" width="958" height="425" frameborder="0" allowfullscreen="allowfullscreen" title="Connected Learning Self-Assessment"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
@@ -63,4 +52,3 @@ How well do your youth services and programs incorporate the principle of intere
 
 
 
-<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=1" width="958" height="425" frameborder="0" allowfullscreen="allowfullscreen" title="Connected Learning Self-Assessment"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
