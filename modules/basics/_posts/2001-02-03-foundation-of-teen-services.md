@@ -3,25 +3,36 @@ title: The Foundation of Teen Services
 ---
 <div class="tasks">
 	<ul>
-		<li>Rewrite "scenario" box to be more of a scenario</li>
+		<li>Rewrite "scenario" examples to be mnore concrete</li>
 	</ul>
 </div>
  
 Do you ever find yourself thinking “I just can’t get teens to come to my programs. Even though I’ve asked what programs they would like, they still don’t participate in library activities."  When connected learning is embedded into the foundation of your teen services, and isn't just an add-on, your priorities will shift. Instead of worrying about whether or not teens come into the library building, you'll focus on finding ways to work with community stakeholders to guarantee that teens have the support they need to succeed in their personal goals.  
 
-<div class="case_study callout" markdown="1">
+
+
+
+
+<!-- <div class="case_study callout" markdown="1">
 ## Scenario: Supporting Teens Interested in the Environment
 
-For example,  if library staff are aware that teens in the community are interested in activities related to the environment, a library connected learning approach to supporting that interest would:
+Imagine that library staff in a suburban area have noticed that some of the teens in the community are interested in the environment. To support that interest through a connected learning approach, staff could: 
 
 * Focus on library staff learning about the opportunities in the community to help teens engage in environmental activities locally
-* Working with those other organizations, teens,  and stakeholders to build environmental activities in which teens take part
-* Leveraging library space and resources as needed to support those activities. 
+* Work with those other organizations, teens,  and stakeholders to build environmental activities in which teens take part
+* Leverage library space and resources as needed to support those activities. 
 
 The focus then is not on teens in the building, but teens gaining a variety of skills, in and with the community, with support from the library.
-</div>
+</div> -->
 
 When connected learning is the foundation of teen services, all the teen-centric programs and services that the library staff sponsor integrate connected learning principles. Such library staff would not, for example, host a teen advisory group "and also" a connected learning program. Instead, any teen program or service — including teen advisory groups — are planned and implemented around the core ideas of connected learning.  
+
+<div class="callout activity" markdown="1">
+
+
+<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="958" height="529" frameborder="0" allowfullscreen="allowfullscreen" title="Scenario: Supporting Teens Interested in the Environment"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+</div>
 
 <div class="callout activity" markdown="1">
 ## A Vision for your Library's Teen Services
