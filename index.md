@@ -21,6 +21,10 @@ published: true
  <img src="{{ site.baseurl }}/img/moduleLogos/basics.png" width="90px" ALT="Connected Learning Basics"/>
 </div></a></div>
 
+
+<div class="grid-item"> <a href="modules/youth-development/"><div>youth<br/>development<br/>
+ <!--<img src="{{ site.baseurl }}/img/moduleLogos/basics.png" width="90px" ALT="Youth Development"/>-->
+</div></a></div>
  <!-- NOT READY YET 
 
   <div class="grid-item"><a href="modules/programming/"><div>

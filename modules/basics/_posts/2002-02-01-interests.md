@@ -1,6 +1,13 @@
 ---
 title: Interests
 ---
+<div class="tasks">
+	<ul>
+		<li>Interactive-ize the activity</li>
+		<li>Get two videos from Linda</li>
+	</ul>
+
+</div>
 
 > "We need to help them [teens] explore possibilities for their passions and give them the tools necessary to explore those passions.” <br/>– Youth Services Coordinator at an Urban Midwest Library
  

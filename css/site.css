@@ -2,7 +2,7 @@
 
 .tasks {
  border-radius: 10px;
- padding: 20px 20px 10px 75px;
+ padding: 20px 20px 10px 20px;
  margin-bottom: 25px;
 line-height:  1.3em;
 background: lightpink; 
@@ -89,7 +89,7 @@ p.sidebar-title {
 
 .callout, blockquote {
  border-radius: 10px;
- padding: 20px 20px 10px 75px;
+ padding: 5px 20px 10px 75px;
  margin-bottom: 25px;
 color: #000000; 
 line-height:  1.3em;
@@ -167,14 +167,62 @@ line-height:  2em;
 
 /* CASE STUDY/EXAMPLES */
 
-.case_study_box { 
+.case_study { 
   border-left: solid 10px #3d244e; /* dark purple */
-  background-color: #e5e5e5;
-  border-radius: 10px;
-  margin: 20px 0 35px 0;
-  padding: 20px 35px 25px 70px;
-  background-image: url(../img/caseStudyIcon.png);
+  background-color: lavender;
+  background-image: url(../img/boxIcons/casestudies.png);
   background-size: auto;
   background-position: 10px 10px;
   background-repeat: no-repeat; 
+}
+
+
+/* ADDITIONAL INFO */
+
+.info { 
+  border-left: solid 10px #0ccc05;  /* bright green */
+  background-color: lightgreen;
+  background-image: url(../img/boxIcons/info.png);
+  background-size: auto;
+  background-position: 10px 20px;
+  background-repeat: no-repeat; 
+  min-height: 80px;
+}
+
+
+/* VIDEO METADATA */
+.time, .videotime {
+  color:#3fb58e;
+  background: #caf6e6;
+  border-radius: 10px;
+  margin: 0px 0 0 0;
+  display: inline-block;
+  border-width: 0 0 0 2px;
+  padding: 8px 13px 8px 34px;
+  background-image: url(../img/clock.svg);
+  background-size: 18px;
+  background-position: 10px center;
+  background-repeat: no-repeat;
+}
+
+.videotime {
+  float:left;
+}
+
+.source { 
+  color:#710040;
+  background: #E58CBE;
+  border-radius: 10px;
+  margin-left: 25px;
+  display: inline-block;
+  border-width: 0 0 0 2px;
+  padding: 8px 13px 8px 13px;
+  /* background-image: url(../img/clock.svg);
+  background-size: 18px;
+  background-position: 10px center;
+  background-repeat: no-repeat; */
+}
+
+.source a, .source a:visited {
+  color:#710040;
 }

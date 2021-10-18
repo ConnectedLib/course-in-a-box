@@ -1,6 +1,13 @@
 ---
 title: Opportunity
 ---
+<div class="tasks">
+	<ul>
+		<li>Add assessment activity</li>
+	</ul>
+
+</div>
+
  
 > “A college degree has become a requirement for most good jobs but is no longer a guarantee of acquiring one.”<br/>— Mizuko Ito et al. in _Connected Learning: An Agenda for Research and Design_
 
@@ -15,8 +22,10 @@ Opportunity-oriented learning helps teens build skills for academic, economic, o
 * Library staff or mentors help teens connect their interests to broader marketable skills
 
 
-<div class="callout videos" markdown="1">
+<div class="callout case_study" markdown="1">
 ## Opportunity-oriented learning in action
+<span class="videotime">5:59</span><span class="source">TED</span>
+
 In the following TED Talk, Geoff Mulgan describes how the UK's studio school model has taken teens from the lowest to the highest grades by letting them "learn for real."
 
 <iframe src="https://embed.ted.com/talks/lang/en/geoff_mulgan_a_short_intro_to_the_studio_school" frameborder="0" scrolling="no" allowfullscreen></iframe>

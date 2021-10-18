@@ -3,7 +3,14 @@ title: Three Spheres of Learning
 tags: ['sectionHead']
 ---
 
-Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings.1 When the spheres are connected, teens’ quality of learning and engagement with learning increases.
+<div class="tasks">
+	<ul>
+		<li>Interactive-ize the activity</li>
+	</ul>
+
+</div>
+
+Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings. When the spheres are connected, teens’ quality of learning and engagement with learning increases.
 
 * Relationships: Teens learning with and from other teens as well as adults
 * Interests: Aligned with teens’ goals and motivations
@@ -14,9 +21,10 @@ Learning that engages all of these spheres is learning teens want to do because 
 
 <div class="videos callout" markdown="1">
 ## Connected Learning Explained
+<span class="videotime">3:00</span><span class="source">Connected Learning Alliance</span>
 <iframe src="https://www.youtube.com/embed/HacgaDN971Y?start=432&end=612" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-_Watch the [full 18-minute video on YouTube](https://www.youtube.com/watch?v=HacgaDN971Y)._
+_This is an excerpt from a longer talk. You can see the [full 18-minute video on YouTube](https://www.youtube.com/watch?v=HacgaDN971Y)._
 
 </div>
 
