@@ -4,9 +4,8 @@ title: Promoting Equity
 
 <div class="tasks" markdown="1">
 ## To Do
-* One
-* Two
-* Three
+* Fix videos & related boxes
+* Add ladder image
 </div>
  
 > To what extent does your conception of equity in libraries boil down to providing access to library resources and services and in what ways may that reinforce existing power structures? What might equity in library services look like beyond access?<br/>Sandra Hughes-Hassell in _Library Staff as Public Servants: A Field Guide to to Preparing to Support Communities in times of Crisis_
@@ -19,7 +18,7 @@ Equity is at the heart of CL. It's through CL that library staff serving teens m
 One way to think about how teen services build equity through CL is to review the Ladder Of Citizen Participation.  (The ladder originally appeared in the UNICEF pamphlet Children’s Participation from Tokenism to Citizenship and was revised by DEI Program Manager Josie Watanabe in 2021.)  This ladder shows that at the lowest rungs, there is no attention to collaboration or empowerment. The lowest rungs focus on access where youth and adults are notified, informed, and consulted about resources. They are not empowered to have a voice in how programs and services are designed and implemented. At the highest rungs youth and adults work together to make decisions.  At the lowest rungs, library staff do not engage with community to determine if the service is equitable, nor do they get to know communities outside of those that are traditionally served by the library.
 </div>
 
-<div class="callout" markdown="1">
+<div class="callout case_study" markdown="1">
 ## Schoolyard Roots
 
 An example of equity and CL working together is seen In Tuscaloosa, AL,where many students live in food deserts. The Schoolyard Roots program mitigated this inequity in access to food and nutrition by working with schools in the city to build a gardening program that not only helped families access healthy food but also provided opportunities for youth to gain a wide-array of skills related to gardening and agriculture, decision-making and problem solving, and teamwork and collaboration. CL is seen throughout the program as youth involved work on something that is meaningful to their day-to-day lives, they build relationships with community members, specifically those with gardening and agriculture expertise, and they are provided opportunities for bringing what they learn to their academic and personal experiences.  The youth and families that participate in the program may not be traditional library users, however the library can actively leverage the assets of the program to support those community members, even if they don’t enter the library building. 
