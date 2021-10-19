@@ -1,4 +1,4 @@
-<div class="sidebar col-md-3">
+<div class="sidebar col-md-3" style="padding-top: 0px; margin-left:0px">
 	<!-- 
 	{% include next_module.html %}
 
@@ -12,15 +12,20 @@
 		</div>
 		<hr />
 	{% endif %} -->
+	<div style="margin:0px;padding-bottom:15px;background-color:#fff;">
 <center>
 
-	{% if module == 'basics' %} 
+
+
+	<img src="{{ site.baseurl }}/img/moduleLogos/{{module}}.png"/ ALT="Module Icon" width="75%">
+
+		{% if module == 'basics' %} 
 	<p class="sidebar-title">Connected Learning Basics</p>
+	{% elsif module == 'youth-development' %}
+	<p class="sidebar-title">Youth<br/>Development</p>
 	{% endif %}
 
-	<img src="{{ site.baseurl }}/img/moduleLogos/{{module}}.png"/ ALT="Module Icon">
-
-</center>
+</center></div>
 
 	<ul>
 		{% for post in site.categories[module] reversed %}

@@ -3,7 +3,7 @@ title: The Foundation of Teen Services
 ---
 <div class="tasks">
 	<ul>
-		<li>Rewrite "scenario" examples to be mnore concrete</li>
+		<li>Rewrite "scenario" examples to be more concrete</li>
 	</ul>
 </div>
  
@@ -13,7 +13,7 @@ Do you ever find yourself thinking “I just can’t get teens to come to my pro
 
 
 
-<!-- <div class="case_study callout" markdown="1">
+<div class="case_study callout" markdown="1">
 ## Scenario: Supporting Teens Interested in the Environment
 
 Imagine that library staff in a suburban area have noticed that some of the teens in the community are interested in the environment. To support that interest through a connected learning approach, staff could: 
@@ -23,16 +23,10 @@ Imagine that library staff in a suburban area have noticed that some of the teen
 * Leverage library space and resources as needed to support those activities. 
 
 The focus then is not on teens in the building, but teens gaining a variety of skills, in and with the community, with support from the library.
-</div> -->
+</div>
 
 When connected learning is the foundation of teen services, all the teen-centric programs and services that the library staff sponsor integrate connected learning principles. Such library staff would not, for example, host a teen advisory group "and also" a connected learning program. Instead, any teen program or service — including teen advisory groups — are planned and implemented around the core ideas of connected learning.  
 
-<div class="callout activity" markdown="1">
-
-
-<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="958" height="529" frameborder="0" allowfullscreen="allowfullscreen" title="Scenario: Supporting Teens Interested in the Environment"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-</div>
 
 <div class="callout activity" markdown="1">
 ## A Vision for your Library's Teen Services

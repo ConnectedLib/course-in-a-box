@@ -55,7 +55,7 @@ li.sectionHead {
 p.sidebar-title {
 	font-weight: bold;
 	font-size:  x-large;
-	SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	font-family:  SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 /* INDEX - GRID */
