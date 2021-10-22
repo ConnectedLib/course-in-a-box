@@ -1,5 +1,5 @@
 ---
 title: Module Overview 
 tags: ['sectionHead']
-permalink: /modules/youth-development/
+permalink: /modules/youth-development-module-overview/
 ---
