@@ -1,5 +1,4 @@
 ---
-title: Module Overview 
-tags: ['sectionHead']
+title: Theories of Youth Development
 permalink: /modules/youth-development/
 ---
