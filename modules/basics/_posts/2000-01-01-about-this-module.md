@@ -12,7 +12,7 @@ permalink: /modules/basics/
 
 * Describe connected learning and what it connects
 * Explain how connected learning is fundamental to teen services
-* Explain how connected learning fits into your library’s mission and goals 
+* Explain how connected learning fits into your library’s mission and goals
 * Develop an action plan to implement connected learning in your library, no matter how big or small
 </div>
 
