@@ -11,6 +11,7 @@ Many library staff we spoke with expressed anxiety about their ability to keep u
 
 
 By emphasizing the hows and whys behind the use of technology, rather than the specific whats, connected learning builds skills that will transfer to whatever new developments are around the corner. A variety of skills, from computational thinking to photo composition, can be learned just as well on simple or even analog technologies as they can be learned with the latest edtech and will be useful for years or even decades to come.
+
 Another way connected learning builds capacity in teens is by affecting their sense of self through creative experiences and interactions with experts. Teens can begin to see themselves as learners, creators, or professionals. This changed perception of themselves inspires and empowers them to continue being learners, creators, and professionals. For teens who believe that certain opportunities—like a STEM career or college—are not available to them, a change in self-concept can be a powerful catalyst for growth and development.
 
 <div class="callout case_study" markdown="1">
