@@ -21,21 +21,24 @@ Connected learning is an educational framework — an approach to creating learn
 At the heart of connected learning is an “equity agenda” to help close the cultural and economic gaps that non-dominant youth face. By connecting teens’ interests and relationships with real-life opportunities, connected learning helps prepare youth for life after high school with 21st century skills and the development of emerging digital literacies.
  
 
-## The Power of Making Learning Relevant
+## The Power of Making Learning Relevant (2:20)
 
 <iframe src="https://www.youtube.com/embed/TH6gH6lMDD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <span class="videotime">2:20</span><span class="source">[DML Research Hub](https://dmlhub.net/){:target="_blank"}</span>
 
 
 <div class="callout activity" markdown="1">
-## Connected Learning KWL
+## Try it Out: Connected Learning Basics Workbook
 
-First describe your experience (if any) with connected learning. Then make a list of things you already know (the K in KWL) about connected learning. Then write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.
+Throughout the Connected Learning Basics module, there are reflections and activities to help you apply what you learn to your own context. Use the [Connected Learning Basics Workbook](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit?usp=sharing){:target="_blank"} to keep track of your thoughts. You can copy the workbook to your own Google Drive, or download it as a PDF or Word file. 
+</div>
 
-**Important: Your work will not be saved when you leave this page. You must use the "export" function or copy and paste your answers to another document in order to save them. You can also <a href="{{site.baseurl}}/docs/basics/basics_kwl.docx">download a blank worksheet in Microsoft Word format</a>.**
+<div class="callout activity" markdown="1">
+## Try it Out: Connected Learning K-W-L
 
+The first worksheet in your _Connected Learning Basics Workbook_ is a "KWL" — that stands for Know, Want to learn, and Learned. 
 
-<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=2" width="958" height="549" frameborder="0" allowfullscreen="allowfullscreen" title="Connected Learning K-W-L"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+Before moving forward in the module, spend some time thinking about what you already know about connected learning, and what you hope to learn from this module. 
 
-
+First describe your experience (if any) with connected learning. Then make a list of things you already **know** about connected learning. Then write down what you **want to learn** in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.
 </div>
