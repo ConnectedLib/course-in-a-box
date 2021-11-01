@@ -6,8 +6,10 @@ p {
 
 .callout li {  font-family:  Arial, Helvetica, sans-serif; }
 
-a {
-  color: #0c513c !important;
+.content a {
+  color: #377a5e !important;
+  font-weight: bold;
+  text-decoration:  underline;
 }
 
 h1 {
