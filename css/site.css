@@ -11,12 +11,13 @@ h1 {
 }
 
 h2 {
-  font-family:  SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  /* text-transform:  uppercase;  */
+  /* font-family:  SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  text-transform:  uppercase;  */
   margin-top:  20px;
   font-size:  larger;
+  font-weight:  bold;
   background-color:  #efefef;
-  padding:  5px;
+  padding:  8px;
 }
 
 /* TASKS */
