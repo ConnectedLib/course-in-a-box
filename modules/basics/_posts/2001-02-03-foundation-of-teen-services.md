@@ -18,7 +18,7 @@ When connected learning is the foundation of teen services, all the teen-centric
 
 
 <div class="callout activity" markdown="1">
-## A Vision for your Library's Teen Services
+### A Vision for your Library's Teen Services
 
 **Refer to worksheet #2 in your workbook.**
 
