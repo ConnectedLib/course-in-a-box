@@ -129,9 +129,10 @@ blockquote {
   font-size:  1.3em;
   background: lightgray; 
   border-left: solid 10px dimgray; 
-  /* font-family:  Patrick Hand, san-serif; */
-  line-height:  2;
+  /* font-family:  Patrick Hand, san-serif; 
+  line-height:  2;*/
   padding-top: 15px;
+  font-style:  italic;
 }
 
 /* VIDEOS BOX */

@@ -21,15 +21,10 @@ Connected learning is an educational framework — an approach to creating learn
 At the heart of connected learning is an “equity agenda” to help close the cultural and economic gaps that non-dominant youth face. By connecting teens’ interests and relationships with real-life opportunities, connected learning helps prepare youth for life after high school with 21st century skills and the development of emerging digital literacies.
  
 
-
-
-<div class="info callout" markdown="1">
 ## The Power of Making Learning Relevant
-<span class="videotime">2:20</span><span class="source">[DML Research Hub](https://dmlhub.net/){:target="_blank"}</span>
+
 <iframe src="https://www.youtube.com/embed/TH6gH6lMDD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
+<span class="videotime">2:20</span><span class="source">[DML Research Hub](https://dmlhub.net/){:target="_blank"}</span>
 
 
 <div class="callout activity" markdown="1">
