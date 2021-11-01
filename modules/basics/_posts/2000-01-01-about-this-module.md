@@ -8,7 +8,7 @@ permalink: /modules/basics/
 – Mimi Ito et al. in _Connected Learning: An Agenda for Research and Design_ -->
 
 <div class="callout objectives" markdown="1"> 
-## Goals for this module: 
+### Goals for this module: 
 
 * Describe connected learning 
 * Explain how connected learning is fundamental to teen services
@@ -33,7 +33,7 @@ Throughout the Connected Learning Basics module, there are reflections and activ
 </div>
 
 <div class="callout activity" markdown="1">
-## Try it Out: Connected Learning K-W-L
+### Try it Out: Connected Learning K-W-L
 
 The first worksheet in your _Connected Learning Basics Workbook_ is a "KWL" — that stands for Know, Want to learn, and Learned. 
 
