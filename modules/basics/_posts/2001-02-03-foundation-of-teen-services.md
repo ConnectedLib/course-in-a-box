@@ -7,7 +7,7 @@ title: The Foundation of Teen Services
 	</ul>
 </div>
  
-Do you ever find yourself thinking “I just can’t get teens to come to my programs. Even though I’ve asked what programs they would like, they still don’t participate in library activities."  When connected learning is embedded into the foundation of your teen services, and isn't just an add-on, your priorities will shift. Instead of worrying about whether or not teens come into the library building, you'll focus on finding ways to work with community stakeholders to guarantee that teens have the support they need to succeed in their personal goals.  
+When connected learning is embedded into the foundation of your teen services, and isn't just an add-on, your priorities will shift. Instead of worrying about whether or not teens come into the library building, you'll focus on finding ways to work with community stakeholders to guarantee that teens have the support they need to succeed in their personal goals.  
 
 
 
@@ -36,9 +36,9 @@ Start thinking about how to truly make connected learning the foundation of your
 * Teach for America: “One day, all children in this nation will have the opportunity to attain an excellent education.” 
 * Tehama County Library in CA: “A community where learning, imagination, and opportunity thrive.” 
 
-If your library's teen services were focused more fully on the teens and the community instead of the library, what would your vision be? It might be something like, “Where teens find possibilities,” or “Guaranteeing teens succeed,” or “Building community through learning, creating, and opportunity.”
+If your library's teen services were focused fully on the teens and the community instead of the library, what would your vision be? It might be something like, “Where teens find possibilities,” or “Guaranteeing teens succeed,” or “Building community through learning, creating, and opportunity.”
 
-As you write about your vision, don't think about what the library gets by building connected learning-based teen services. Focus instead on what the benefit(s) are to teens and the community. As you continue with the materials in this module, return to your vision and make any changes that you think help your library create a foundation of CL for all teen programs and services.
+As you write your vision, don't think about how the library benefits from building connected learning-based teen services. Focus instead on what the benefit(s) are to teens and the community. As you continue with the materials in this module, return to your vision and make any changes that you think help your library create a foundation of CL for all teen programs and services.
 
 </div>
 

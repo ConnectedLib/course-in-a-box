@@ -5,7 +5,7 @@ p {
 }
 
 a {
-  color: #158765;
+  color: #158765 !important;
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-family:  Verdana, Helvetica, Arial, sans-serif;
-  text-transform:  uppercase;  */
+  /* text-transform:  uppercase;  */
   margin-top:  20px;
   font-size:  larger;
   font-weight:  bold;
