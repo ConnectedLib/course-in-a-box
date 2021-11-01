@@ -8,9 +8,9 @@ permalink: /modules/basics/
 – Mimi Ito et al. in _Connected Learning: An Agenda for Research and Design_ -->
 
 <div class="callout objectives" markdown="1"> 
-## After completing this module, you will be able to...
+## Goals: 
 
-* Describe connected learning and what it connects
+* Describe connected learning 
 * Explain how connected learning is fundamental to teen services
 * Explain how connected learning fits into your library’s mission and goals
 * Develop an action plan to implement connected learning in your library, no matter how big or small
@@ -24,7 +24,6 @@ At the heart of connected learning is an “equity agenda” to help close the c
 ## The Power of Making Learning Relevant (2:20)
 
 <iframe src="https://www.youtube.com/embed/TH6gH6lMDD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<span class="videotime">2:20</span><span class="source">[DML Research Hub](https://dmlhub.net/){:target="_blank"}</span>
 
 
 <div class="callout activity" markdown="1">

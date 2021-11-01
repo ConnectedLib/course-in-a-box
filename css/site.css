@@ -104,7 +104,7 @@ p.sidebar-title {
 /* CALLOUT BOXES */
 
 .callout h2 {
- /* font-family:  Verdana, Helvetica, Arial, sans-serif; */
+ font-family:  Verdana, Helvetica, Arial, sans-serif;
  font-weight:  bold;
  font-size: 1.1em;
  background-color: transparent;
@@ -112,7 +112,7 @@ p.sidebar-title {
 
 .callout, blockquote {
  border-radius: 10px;
- padding: 5px 20px 10px 75px;
+ padding: 5px 20px 10px 20px;
  margin-bottom: 45px;
  margin-top:  45px;
 color: #000000; 
@@ -173,8 +173,8 @@ line-height:  2em;
 .activity { 
   background: #fffd86; /* very pale yellow */
   border-left: solid 10px #faf304; /* very bright yellow */
-  background-image: url(../img/boxIcons/activity.png);
-  /* Learning by jai from the Noun Project, https://thenounproject.com/search/?q=learning&i=1236442 */
+  /* background-image: url(../img/boxIcons/activity.png);
+  Learning by jai from the Noun Project, https://thenounproject.com/search/?q=learning&i=1236442 */
   background-size: auto;
   background-position: 10px 10px;
   background-repeat: no-repeat; 
