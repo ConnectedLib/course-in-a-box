@@ -22,10 +22,11 @@ h2 {
   font-family: Helvetica, Arial, sans-serif;
   /* text-transform:  uppercase;  */
   margin-top:  20px;
-  font-size:  2em;
+  font-size:  1.1em;
   font-weight:  bold;
   background-color:  #C5C5C5;
   padding:  10px;
+  border-radius: 10px;
 }
 
 /* TASKS */
@@ -112,7 +113,7 @@ p.sidebar-title {
 /* CALLOUT BOXES */
 
 .callout h2 {
- font-family:  Verdana, Helvetica, Arial, sans-serif;
+ font-family:  Helvetica, Arial, sans-serif;
  font-weight:  bold;
  font-size: 1.1em;
  background-color: transparent;
