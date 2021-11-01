@@ -27,9 +27,9 @@ At the heart of connected learning is an “equity agenda” which helps to  clo
 
 
 <div class="callout activity" markdown="1">
-## Try it Out: Connected Learning Basics Workbook
+### Try it Out: Connected Learning Basics Workbook
 
-Throughout the Connected Learning Basics module, there are reflections and activities to help you apply what you learn to your own context. Use the [Connected Learning Basics Workbook](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit?usp=sharing){:target="_blank"} to keep track of your thoughts. You can copy the workbook to your own Google Drive, or download it as a PDF or Word file. 
+Throughout the Connected Learning Basics module, there are reflections and activities to help you apply what you learn to your own context. Use the [_Connected Learning Basics Workbook_](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit?usp=sharing){:target="_blank"} to keep track of your thoughts. You can copy the workbook to your own Google Drive, or download it as a PDF or Word file. 
 </div>
 
 <div class="callout activity" markdown="1">
