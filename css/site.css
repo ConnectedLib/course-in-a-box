@@ -22,8 +22,7 @@ h1 {
   /* font-family: Helvetica, Arial, sans-serif;
   text-transform:  uppercase;  */
   margin-top:  20px;
-  font-size:  1.1em;
-  font-weight:  bold !important;
+  font-size:  1.2em;
   border-bottom: solid 2px #000;
 
 }
@@ -116,6 +115,7 @@ p.sidebar-title {
  font-weight:  bold;
  font-size: 1.1em;
  background-color: transparent;
+ text-decoration:  none;
 }
 
 .callout, blockquote {
