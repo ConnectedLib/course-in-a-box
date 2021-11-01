@@ -4,8 +4,6 @@ title: The Foundation of Teen Services
  
 When connected learning is embedded into the foundation of your teen services, and isn't just an add-on, your priorities will shift. Instead of worrying about whether or not teens come into the library building, you'll focus on finding ways to work with community stakeholders to guarantee that teens have the support they need to succeed in their personal goals.  
 
-## Example: Supporting Teens Interested in the Environment
-
 Imagine that library staff in a suburban area have noticed that some of the teens in the community are interested in the environment. To support that interest through a connected learning approach, staff could: 
 
 * Focus on library staff learning about the opportunities in the community to help teens engage in environmental activities locally

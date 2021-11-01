@@ -4,9 +4,13 @@ p {
   font-family:  Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
 .content li {  
   font-family:  Arial, Helvetica, sans-serif;
-  padding-left: 10px; 
+  padding-left: 10px !important; 
 line-height:  1.5;
 }
 
