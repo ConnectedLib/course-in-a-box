@@ -8,7 +8,7 @@ permalink: /modules/basics/
 – Mimi Ito et al. in _Connected Learning: An Agenda for Research and Design_ -->
 
 <div class="callout objectives" markdown="1"> 
-## Goals: 
+## Goals for this module: 
 
 * Describe connected learning 
 * Explain how connected learning is fundamental to teen services
