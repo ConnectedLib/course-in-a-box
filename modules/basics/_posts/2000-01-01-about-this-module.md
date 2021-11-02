@@ -9,6 +9,7 @@ permalink: /modules/basics/
 <ul>
 	<li>Approve spacing/font throughout</li>
 	<li>Decide order of spheres and make consistent throughout</li>
+	<li>Accessibility checker</li>
 </ul>
 
 </div>
@@ -27,10 +28,10 @@ Connected learning is an educational framework — an approach to creating learn
 At the heart of connected learning is an “equity agenda” which helps to  close the cultural and economic gaps that non-dominant youth face. By connecting teens’ interests and relationships with real-life opportunities, connected learning helps prepare youth for life after high school with 21st century skills and the development of emerging digital literacies.
  
 
-## The Power of Making Learning Relevant (2:20)
+<!-- ## The Power of Making Learning Relevant (2:20)
 
 <iframe src="https://www.youtube.com/embed/TH6gH6lMDD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+-->
 
 ## Connected Learning Basics Workbook
 

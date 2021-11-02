@@ -17,7 +17,7 @@ Teens’ learning occurs primarily in three different contexts, or spheres: thei
 <table class="colorful">
 	<tr><th bgcolor="teal">Relationships</th><td>Teens learning with and from other teens as well as adults</td></tr>
 	<tr><th bgcolor="purple">Interests</th><td>Offerings are aligned with teens’ goals and motivations</td></tr>
-	<tr><th bgcolor="skyblue">Opportunity</th><td>Directed towards academic, civic, or economic achievement</td></tr>
+	<tr><th bgcolor="skyblue">Opportunity</th><td>Building skills directed towards academic, civic, or economic achievement</td></tr>
 </table>
 
 Learning that engages all of these spheres is learning teens want to do because it is aligned with their goals and benefits these important areas of their lives.

@@ -37,7 +37,7 @@ The teen years are a time for identity formation. Young people are becoming more
 <div class="callout videos" markdown="1">
 ### Building Identity Through Interests
 
-At the Providence Public Library teens gain confidence and develop their identity by learning how to code and building websites for their community.
+At the Providence Public Library teens gain confidence and develop their identity through pursuing their passions and exploring new interests.
 
 <iframe src="https://www.youtube.com/embed/B92MWLn0wAQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
