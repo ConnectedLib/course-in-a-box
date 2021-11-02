@@ -3,6 +3,12 @@ title: Three Spheres of Learning
 tags: ['sectionHead']
 ---
 
+<div class="tasks">
+	<ul>
+		<li>Fix table (colors and spacing)</li>
+	</ul>
+</div>
+
 > “Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.”<br/>
 – Mimi Ito et al. in _Connected Learning: An Agenda for Research and Design_ 
 

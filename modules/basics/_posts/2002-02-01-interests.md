@@ -2,9 +2,25 @@
 title: Interests
 ---
 
+<div class="tasks">
+	<ul>
+		<li>Write summary of Jennifer DeLeon video</li>
+	</ul>
+</div>
+
 > "We need to help them [teens] explore possibilities for their passions and give them the tools necessary to explore those passions.” <br/>– Youth Services Coordinator at an Urban Midwest Library
  
 Learning that is driven by teens’ interests better aligns with their personal motivations and goals, leading to deeper learning and higher achievement. This helps all youth dig into learning in ways that may not be possible in traditional education settings. 
+
+
+## What does learning through interests look like?
+
+
+* Library staff get to know teens and what they’re interested in  from filmmaking to their favorite TV series and from nutrition to cooking. 
+* Teens explore and form new interests through activities where they can simply “mess around.” There are also opportunities to dig more deeply into a topic if they want to.
+* Teens know it’s OK to “quit” working on or learning something new if they lose interest in it. 
+* Peers and adults help teens to design pathways for learning more, develop  interests and recognize achievements
+
 
 <div class="callout videos" markdown="1">
 ## Learning Through Shared Interests
@@ -17,11 +33,17 @@ This video of teen girls talking with author Jennifer DeLeon about their lived e
 The teen years are a time for identity formation. Young people are becoming more independent of their caretakers and learning more about themselves and the world as they interact with people, culture, and society. Connected learning can help teens construct their identity as they pursue their passions and explore new interests. 
 
 
-<div class="callout videos" markdown="1">
-## Building Identity Through Interests
 
-At the Providence Public Library teens gain confidence and an understanding of themselves through learning how to code and building websites for their community.
+<div class="callout videos" markdown="1">
+### Building Identity Through Interests
+
+At the Providence Public Library teens gain confidence and develop their identity by learning how to code and building websites for their community.
+
+<iframe src="https://www.youtube.com/embed/B92MWLn0wAQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 </div>
+
+
 
 ## "If it smells like school, they won't touch it"
 <iframe src="https://www.youtube.com/embed/3wMk8SqFoEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

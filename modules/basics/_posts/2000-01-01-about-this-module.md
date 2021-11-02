@@ -4,10 +4,11 @@ tags: ['sectionHead']
 permalink: /modules/basics/
 ---
 
-<div class="tasks" markdown="1">
-	### Module-wide tasks
-
-	* Approve spacing/font throughout
+<div class="tasks">
+	<b>Module-wide tasks</b>
+<ul>
+	<li>Approve spacing/font throughout</li>
+</ul>
 
 </div>
 
