@@ -25,11 +25,12 @@ One way to think about how teen services build equity through CL is to review th
 An example of equity and connected learning working together is seen in Tuscaloosa, AL, where many students live in food deserts. The Schoolyard Roots program mitigated this inequity in access to food and nutrition by working with schools in the city to build a gardening program that not only helped families access healthy food but also provided opportunities for youth to gain a wide-array of skills related to gardening and agriculture, decision-making and problem solving, and teamwork and collaboration. Connected learning is seen throughout the program as youth involved work on something that is meaningful to their day-to-day lives, they build relationships with community members, specifically those with gardening and agriculture expertise, and they are provided opportunities for bringing what they learn to their academic and personal experiences.  The youth and families that participate in the program may not be traditional library users, however the library can actively leverage the assets of the program to support those community members, even if they don’t enter the library building. 
 
 <div class="callout activity" markdown="1">
-	### Worksheet #?: Schoolyard Roots
+
+### Worksheet #?: Schoolyard Roots
 
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fschoolyardroots%2Fvideos%2F402681234203602%2F&show_text=false&width=560&t=1200" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fschoolyardroots%2Fvideos%2F402681234203602%2F&show_text=false&width=560&t=1200" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 
 
 As you watch the video, think about how equity and CL are embedded into the work. Reflect on the following questions: 
