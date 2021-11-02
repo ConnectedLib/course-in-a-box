@@ -4,8 +4,12 @@ tags: ['sectionHead']
 permalink: /modules/basics/
 ---
 
-<!-- > “Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.”<br/>
-– Mimi Ito et al. in _Connected Learning: An Agenda for Research and Design_ -->
+<div class="tasks" markdown="1">
+	### Module-wide tasks
+
+	* Approve spacing/font throughout
+
+</div>
 
 <div class="callout objectives" markdown="1"> 
 ### Goals for this module: 
@@ -26,11 +30,9 @@ At the heart of connected learning is an “equity agenda” which helps to  clo
 <iframe src="https://www.youtube.com/embed/TH6gH6lMDD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-<div class="callout activity" markdown="1">
-### Connected Learning Basics Workbook
+## Connected Learning Basics Workbook
 
 Throughout the Connected Learning Basics module, there are reflections and activities to help you apply what you learn to your own context. Use the [_Connected Learning Basics Workbook_](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit?usp=sharing){:target="_blank"} to keep track of your thoughts. You can copy the workbook to your own Google Drive, or download it as a PDF or Word file. 
-</div>
 
 <div class="callout activity" markdown="1">
 ### Worksheet #1: Connected Learning K-W-L
