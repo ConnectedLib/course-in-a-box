@@ -6,9 +6,9 @@ When connected learning is embedded into the foundation of your teen services, a
 
 Imagine that library staff in a suburban area have noticed that some of the teens in the community are interested in the environment. To support that interest through a connected learning approach, staff could: 
 
-	* Focus on library staff learning about the opportunities in the community to help teens engage in environmental activities locally
-	* Work with those other organizations, teens,  and stakeholders to build environmental activities in which teens take part
-	* Leverage library space and resources as needed to support those activities. 
+* Focus on library staff learning about the opportunities in the community to help teens engage in environmental activities locally
+* Work with those other organizations, teens,  and stakeholders to build environmental activities in which teens take part
+* Leverage library space and resources as needed to support those activities. 
 
 The focus then is not on teens in the building, but teens gaining a variety of skills, in and with the community, with support from the library.
 

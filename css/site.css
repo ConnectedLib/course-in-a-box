@@ -145,7 +145,7 @@ line-height:  1.4em;
 /* BLOCKQUOTES */
 
 blockquote {
-  font-size:  1.3em;
+  /* font-size:  1.3em; */
   background: lightgray; 
   border-left: solid 10px dimgray; 
   /* font-family:  Patrick Hand, san-serif; 
@@ -166,6 +166,7 @@ iframe {
   margin-top:  10px;
   margin-bottom:  10px;
   margin-left:  40px;
+  border:  solid 2px #000;
 }
 
 /* OBJECTIVES BOX */
@@ -290,6 +291,7 @@ line-height:  2em;
 
 }
 
+/*
 .colorful tr:nth-child(even) td, .colorful tr:nth-child(even) th {
   background-color:#A4EBE6;
   }
@@ -297,6 +299,7 @@ line-height:  2em;
 .colorful tr:nth-child(odd) td, .colorful tr:nth-child(odd) th {
   background-color:#DDDBDB;
 }
+*/
 
 .colorful-th, .colorful-th th {
   padding:10px;
