@@ -15,8 +15,8 @@ Opportunity-oriented learning helps teens build skills for academic, economic, o
 * Library staff or mentors help teens connect their interests to broader marketable skills
 
 
-<div class="callout case_study" markdown="1">
-### Example: Opportunity-oriented learning in action (5:59)
+<div class="callout videos" markdown="1">
+### Opportunity-oriented learning in action (5:59)
 
 In the following TED Talk, Geoff Mulgan describes how the UK's studio school model has taken teens from the lowest to the highest grades by letting them "learn for real."
 

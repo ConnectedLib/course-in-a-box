@@ -5,6 +5,8 @@ title: Promoting Equity
 <div class="tasks" markdown="1">
 * Fix videos & related boxes
 * Add ladder image
+* @Linda: provide source for ladder image
+* "Ladder of Citizen Participation" concept is actually from Sherry Arnstein (1969), need to revise text to reflect that
 </div>
  
 > To what extent does your conception of equity in libraries boil down to providing access to library resources and services and in what ways may that reinforce existing power structures? What might equity in library services look like beyond access?<br/>Sandra Hughes-Hassell in _Library Staff as Public Servants: A Field Guide to to Preparing to Support Communities in times of Crisis_
@@ -13,7 +15,9 @@ Equity is at the heart of CL. It's through CL that library staff serving teens m
 
 
 ## The Ladder of Citizen Participation
-One way to think about how teen services build equity through CL is to review the Ladder Of Citizen Participation.  (The ladder originally appeared in the UNICEF pamphlet Children’s Participation from Tokenism to Citizenship and was revised by DEI Program Manager Josie Watanabe in 2021.)  This ladder shows that at the lowest rungs, there is no attention to collaboration or empowerment. The lowest rungs focus on access where youth and adults are notified, informed, and consulted about resources. They are not empowered to have a voice in how programs and services are designed and implemented. At the highest rungs youth and adults work together to make decisions.  At the lowest rungs, library staff do not engage with community to determine if the service is equitable, nor do they get to know communities outside of those that are traditionally served by the library.
+One way to think about how teen services build equity through CL is to review the Ladder Of Citizen Participation.  (The ladder originally appeared in the UNICEF pamphlet [Children’s Participation from Tokenism to Citizenship](https://www.unicef-irc.org/publications/100-childrens-participation-from-tokenism-to-citizenship.html){:target="_blank"} and was revised by DEI Program Manager Josie Watanabe in 2021.)  This ladder shows that at the lowest rungs, there is no attention to collaboration or empowerment. The lowest rungs focus on access where youth and adults are notified, informed, and consulted about resources. They are not empowered to have a voice in how programs and services are designed and implemented. At the highest rungs youth and adults work together to make decisions.  At the lowest rungs, library staff do not engage with community to determine if the service is equitable, nor do they get to know communities outside of those that are traditionally served by the library.
+
+<img src="../img/basics/ladder_of_participation.png" ALT="Ladder of Participation"/>
 
 <div class="callout case_study" markdown="1">
 ## Schoolyard Roots

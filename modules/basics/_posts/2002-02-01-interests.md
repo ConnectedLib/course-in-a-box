@@ -54,7 +54,7 @@ At the Providence Public Library teens gain confidence and develop their identit
 
 
 <div class="callout activity" markdown="1">
-## Worksheet #4: Interest-Based Learning
+### Worksheet #4: Interest-Based Learning
 
 Think back to a time in your youth when an adult tried to get you to learn something you weren’t interested in. Then think of a time you were very interested in learning about something. How did those experiences differ? Here are a few questions to get you started:
 * How much time did you spend learning about the topics?
