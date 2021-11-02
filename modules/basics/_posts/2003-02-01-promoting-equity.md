@@ -16,7 +16,7 @@ Equity is at the heart of CL. It's through CL that library staff serving teens m
 
 ## The Ladder of Citizen Participation
 
-<img src="{{ site.baseurl }}/basics/ladder_of_participation.png"  ALT="Ladder of Participation" style="float: left;"/>
+<img src="{{ site.baseurl }}/img/basics/ladder_of_participation.png"  ALT="Ladder of Participation" style="float: left;"/>
 
 One way to think about how teen services build equity through CL is to review the Ladder Of Citizen Participation.  (The ladder originally appeared in the UNICEF pamphlet [Children’s Participation from Tokenism to Citizenship](https://www.unicef-irc.org/publications/100-childrens-participation-from-tokenism-to-citizenship.html){:target="_blank"} and was revised by DEI Program Manager Josie Watanabe in 2021.)  This ladder shows that at the lowest rungs, there is no attention to collaboration or empowerment. The lowest rungs focus on access where youth and adults are notified, informed, and consulted about resources. They are not empowered to have a voice in how programs and services are designed and implemented. At the highest rungs youth and adults work together to make decisions.  At the lowest rungs, library staff do not engage with community to determine if the service is equitable, nor do they get to know communities outside of those that are traditionally served by the library.
 
