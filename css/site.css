@@ -10,7 +10,7 @@ h1 {
 
 .content li {  
   font-family:  Arial, Helvetica, sans-serif;
-  padding-left: 10px !important; 
+  margin-left: 20px !important; 
 line-height:  1.5;
 }
 
@@ -274,4 +274,42 @@ line-height:  2em;
 
 .source a, .source a:visited {
   color:#710040;
+}
+
+/* COLORFUL TABLE */
+.colorful, .colorful td, .colorful th {
+  border:none;
+  padding:20px;
+  color: #000000;
+  vertical-align:center;
+}
+
+.colorful th {
+  text-align:center;
+  font-weight:bold;
+
+}
+
+.colorful tr:nth-child(even) td, .colorful tr:nth-child(even) th {
+  background-color:#A4EBE6;
+  }
+
+.colorful tr:nth-child(odd) td, .colorful tr:nth-child(odd) th {
+  background-color:#DDDBDB;
+}
+
+.colorful-th, .colorful-th th {
+  padding:10px;
+  color: #000000;
+  vertical-align:middle;
+  border-spacing: 30px;
+  border-collapse: separate;
+}
+
+.colorful-th td {
+  vertical-align:top;
+}
+
+.colorful-th th {
+  font-size:125%;
 }
