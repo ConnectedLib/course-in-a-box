@@ -1,13 +1,6 @@
 ---
 title: Opportunity
 ---
-<div class="tasks">
-	<ul>
-		<li>Add assessment activity</li>
-	</ul>
-
-</div>
-
  
 > “A college degree has become a requirement for most good jobs but is no longer a guarantee of acquiring one.”<br/>— Mizuko Ito et al. in _Connected Learning: An Agenda for Research and Design_
 

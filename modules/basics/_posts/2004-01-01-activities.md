@@ -6,7 +6,7 @@ tags: ['sectionHead']
 Now that you’ve had an overview of connected learning, what does this mean for you and your library? In this section you will create a simple plan to implement or enhance connected learning for your library’s teen services. 
 
 
-<div class="activity callout">
+<div class="activity callout" markdown="1">
 
 ### Worksheet #7: Putting Connected Learning into Context for Your Library
 

@@ -11,7 +11,7 @@ Connected learning emphasizes building community relationships. Relationships wi
 
 <iframe src="https://www.youtube.com/embed/1gPm-c1wRsQ" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-<! -- <div class="callout activity" markdown="1">
+<!-- <div class="callout activity" markdown="1">
 ## Learning Activity: Teen Employment in Your Area
     
 Read Employment and Disconnection Among Teens and Young Adults from the Brookings Institution. Explore the interactive feature, using the closest metropolitan area to you as a filter.     
