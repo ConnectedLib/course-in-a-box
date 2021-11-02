@@ -232,10 +232,10 @@ line-height:  2em;
 .info { 
   border-left: solid 10px #0ccc05;  /* bright green */
   background-color: #d2ffb9;
-  background-image: url(../img/boxIcons/info.png);
+ /* background-image: url(../img/boxIcons/info.png);
   background-size: auto;
   background-position: 10px 20px;
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat; */
   min-height: 80px;
 }
 

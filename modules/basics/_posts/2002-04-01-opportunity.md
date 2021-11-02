@@ -23,8 +23,7 @@ Opportunity-oriented learning helps teens build skills for academic, economic, o
 
 
 <div class="callout case_study" markdown="1">
-## Opportunity-oriented learning in action
-<span class="videotime">5:59</span><span class="source">TED</span>
+### Example: Opportunity-oriented learning in action (5:59)
 
 In the following TED Talk, Geoff Mulgan describes how the UK's studio school model has taken teens from the lowest to the highest grades by letting them "learn for real."
 
@@ -34,9 +33,12 @@ In the following TED Talk, Geoff Mulgan describes how the UK's studio school mod
 
 <div class="callout activity" markdown="1">
 
-## Reflection: Learn to DJ Lab
+### Worksheet #6: Learn to DJ Lab
 The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Participants in the program have performed at public events and some have even earned money. Watch the video, then reflect on the questions below.
-Learn How to DJ at Enterprise Library
+
+<iframe src="https://www.youtube.com/embed/t2uoZINMGmI" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
 * What is the immediate opportunity for the teen participants?
 * What are the longer-term opportunities that the teens may have because of their participation in this program?
 * How would you help a teen translate their experience with this program into bullet points for a resume?

@@ -4,7 +4,7 @@ title: Relationships
  
 <div class="tasks">
 	<ul>
-		<li>Add assessment activity</li>
+		<li>Add reflection activity</li>
 	</ul>
 
 </div>
@@ -20,11 +20,10 @@ When learning is supported by relationships, teens aren’t just learning with e
 * Library staff  and/or mentors help teens build or join a community around their interests
 
 
-<div class="callout videos" markdown="1">
-
-## Learning Through Relationships
-<span class="videotime">6:30</span><span class="source">Chicago City of Learning</span>
+## Peer Supported, Socially Connected (6:30)
 
 <iframe src="https://www.youtube.com/embed/whc_ZivyEdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<div class="callout activity" markdown="1">
+	### Worksheet #5: Reflection Activity of Some Sort
 </div>

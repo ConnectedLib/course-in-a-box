@@ -8,6 +8,7 @@ permalink: /modules/basics/
 	<b>Module-wide tasks</b>
 <ul>
 	<li>Approve spacing/font throughout</li>
+	<li>Decide order of spheres and make consistent throughout</li>
 </ul>
 
 </div>
