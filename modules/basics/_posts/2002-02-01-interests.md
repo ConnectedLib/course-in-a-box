@@ -27,6 +27,9 @@ Learning that is driven by teens’ interests better aligns with their personal 
 
 This video of teen girls talking with author Jennifer DeLeon about their lived experiences demonstrates how they are able to learn with and from each other and DeLeon through their shared interest in reading.
 
+<iframe src="https://www.youtube.com/embed/whvuEhNNleg?start=1451&end=3153" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 </div>
 
 
@@ -44,11 +47,11 @@ At the Providence Public Library teens gain confidence and develop their identit
 </div>
 
 
-
+<!--
 ## "If it smells like school, they won't touch it"
 <iframe src="https://www.youtube.com/embed/3wMk8SqFoEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
+-->
 	
 
 
