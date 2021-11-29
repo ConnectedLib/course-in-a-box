@@ -253,7 +253,7 @@ line-height:  2em;
   background-position: 10px center;
   background-repeat: no-repeat;
   float:none;
-  width:  75px;
+  width:  85px;
   margin-left:  40px;
   margin-right:  10px;
   margin-bottom: 10px;
@@ -318,8 +318,12 @@ line-height:  2em;
   padding:  10px;
   font-family:  Arial, Helvetica, san-serif;
   font-size:  1em;
+  font-weight:  bold;
   border-collapse:  separate !important;
   border: 15px solid white !important;
 }
 
+.updatedcolor th {
+  text-align: center;
+}
 
