@@ -314,9 +314,8 @@ line-height:  2em;
 }
 
 
-table.updatedcolor {
+.updatedcolor {
   font-family:  Arial, Helvetica, san-serif;
   font-size:  1em;
-  border-size:  1px;
-  border-style:  solid;
+  border: 5px solid black;
 }
