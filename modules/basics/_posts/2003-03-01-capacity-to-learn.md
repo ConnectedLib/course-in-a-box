@@ -2,12 +2,6 @@
 title: Building Capacity to Learn
 ---
 
-<div class="tasks">
-	<ul>
-		<li>Add to case study - talk more about skills and technolog learned</li>
-	</ul>
-</div>
-
 > “I’d love to have an ongoing Minecraft club, but I’m getting a little pushback from my team because they don’t see Minecraft as a library service. They don’t see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don’t exist today, so who knows?”<br/>— Programming Coordinator & Technology Coordinator at a Southern Suburban Library
 
 
@@ -21,14 +15,13 @@ By emphasizing the hows and whys behind the use of technology, rather than the s
 Another way connected learning builds capacity in teens is by affecting their sense of self through creative experiences and interactions with experts. Because teens have the opportunity to express themselves creatively, they develop a better understanding of who they are and what they are most interested in doing and being. Teens can begin to see themselves as learners, creators, or professionals. This changed perception of themselves inspires and empowers them to continue being learners, creators, and professionals. For teens who believe that certain opportunities — like a STEM career or college — are not available to them, a change in self-concept can be a powerful catalyst for growth and development.
 
 <div class="callout case_study" markdown="1">
+
 ## Changing the way teens see themselves
-At one lower-income high school in the northeast United States, a print journalism class requires students to finance, write, and produce several issues of the school newspaper. Students in the class reported that they saw themselves as better writers and as more professional as a result of the class.
+At one lower-income high school in the northeast United States, a print journalism class requires students to finance, write, and produce several issues of the school newspaper. The experience of learning and practicing brand-new skills changed the way students saw themselves as learners and writers.
 * “Journalism has allowed me to write better and shaped me into an adult. Think about all the pros within the class: learning to write better, be professional, and how to make connections... Not only have I become a better writer from journalism class but a better person in terms of learning crucial qualities needed for the professional world.”
 * “I view myself as more a social and confident person now since I have conducted so many interviews with people I don’t know.”
 * “I feel I can do more now — more is loaded on me and I can get it done on a deadline time.”
 
 *For the full study, see: Cybart, A. K. (2017). Resurrecting dinosaurs: How print journalism production using mobile phones impacts marginalized students in a high school classroom. Available from [ProQuest Dissertations & Theses Global](https://search.proquest.com/docview/1907487050?accountid=14696){:target="_blank"}.*
 
-
-
-
+</div>

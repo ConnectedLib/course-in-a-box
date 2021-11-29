@@ -7,9 +7,10 @@ title: Developing Community and Connections
 Connected learning emphasizes building community relationships. Relationships with community organizations, businesses, and formal and informal learning institutions can enhance a library's capacity to support learning needs of teens.
 
 
-## The power of participation (7:53)
+## The Power of Participation
 
 <iframe src="https://www.youtube.com/embed/1gPm-c1wRsQ" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<div class="videotime">7:53</div>
 
 <!-- <div class="callout activity" markdown="1">
 ## Learning Activity: Teen Employment in Your Area
