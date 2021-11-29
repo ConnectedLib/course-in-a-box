@@ -6,12 +6,12 @@ tags: ['sectionHead']
 > “Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.”<br/>
 – Mimi Ito et al. in _Connected Learning: An Agenda for Research and Design_ 
 
-Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings. When the spheres are connected, teens’ quality of learning and engagement with learning increases.
+Teens’ learning occurs primarily in three different contexts, or spheres: their unique personal interests, their relationships, and their academic, work, or community settings. When the spheres are connected, teens’ quality of learning and engagement with learning increases.
 
-<table style="border-spacing: 15px;">
-	<tr><th bgcolor="lightpink">Relationships</th><td>Teens build relationships by learning with and from other teens as well as adults</td></tr>
-	<tr><td colspan="2">&nbsp;</td></tr>
+<table class="colorful" style="border-spacing: 15px;">
 	<tr><th bgcolor="#85c0fe">Interests</th><td>Learning opportunities are aligned with teens’ goals and motivations</td></tr>
+	<tr><td colspan="2">&nbsp;</td></tr>
+	<tr><th bgcolor="lightpink">Relationships</th><td>Teens build relationships by learning with and from other teens as well as adults</td></tr>
 	<tr><td colspan="2">&nbsp;</td></tr>
 	<tr><th bgcolor="#fffd86">Opportunity</th><td>Building skills directed towards academic, civic, or economic achievement</td></tr>
 </table>
