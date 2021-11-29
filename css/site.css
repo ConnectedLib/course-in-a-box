@@ -314,8 +314,8 @@ line-height:  2em;
 }
 
 
-.updatedcolor {
+.updatedcolor, .updatedcolor th, .updatedcolor td {
   font-family:  Arial, Helvetica, san-serif;
   font-size:  1em;
-  border: 5px solid black;
+  border: 15px solid gray;
 }
