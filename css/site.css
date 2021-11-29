@@ -241,7 +241,7 @@ line-height:  2em;
 
 
 /* VIDEO METADATA */
-.time, .videotime {
+.videotime {
   color:#3fb58e;
   background: #caf6e6;
   border-radius: 10px;
@@ -253,33 +253,18 @@ line-height:  2em;
   background-size: 18px;
   background-position: 10px center;
   background-repeat: no-repeat;
-}
-
-.videotime {
   float:left;
 }
 
-.source { 
-  color:#710040;
-  background: #E58CBE;
-  border-radius: 10px;
-  margin-left: 25px;
-  display: inline-block;
-  border-width: 0 0 0 2px;
-  padding: 8px 13px 8px 13px;
-  /* background-image: url(../img/clock.svg);
-  background-size: 18px;
-  background-position: 10px center;
-  background-repeat: no-repeat; */
-}
 
-.source a, .source a:visited {
-  color:#710040;
-}
+
+
+
+
 
 /* COLORFUL TABLE */
 .colorful, .colorful td, .colorful th {
-  border:none;
+  /* border:none; */
   padding:20px;
   color: #000000;
   vertical-align:center;
@@ -293,7 +278,7 @@ line-height:  2em;
   color: #000000;
   vertical-align:middle;
   border-spacing: 30px;
-  border-collapse: separate;
+  /* border-collapse: separate; */
 
 }
 
@@ -322,3 +307,5 @@ line-height:  2em;
 .colorful-th th {
   font-size:125%;
 }
+
+
