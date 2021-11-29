@@ -2,12 +2,6 @@
 title: Interests
 ---
 
-<div class="tasks">
-	<ul>
-		<li>Write summary of Jennifer DeLeon video</li>
-	</ul>
-</div>
-
 > "We need to help them [teens] explore possibilities for their passions and give them the tools necessary to explore those passions.” <br/>– Youth Services Coordinator at an Urban Midwest Library
  
 Learning that is driven by teens’ interests better aligns with their personal motivations and goals, leading to deeper learning and higher achievement. This helps all youth dig into learning in ways that may not be possible in traditional education settings. 
@@ -25,7 +19,8 @@ Learning that is driven by teens’ interests better aligns with their personal 
 <div class="callout videos" markdown="1">
 ## Learning Through Shared Interests
 
-This video of teen girls talking with author Jennifer DeLeon about their lived experiences demonstrates how they are able to learn with and from each other and DeLeon through their shared interest in reading.
+This video of teen girls talking with author Jennifer DeLeon about their lived experiences demonstrates how they are able to learn with and from each other and DeLeon through their shared interest in reading.  The girls speak openly with DeLeon about their lived experiences, specifically related to the ways in which they are treated by peers and the micro-agressions they often face.  These experiences help the teen girls to build trusting relationships that have led to exploring mutual interests together. We encourage those going through the module to watch the full video as it provides an insightful look into the lives of the teen girls, their interests and passions, and the power of trusting relationships.
+
 
 <iframe src="https://www.youtube.com/embed/whvuEhNNleg?start=1451&end=3153" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -36,9 +31,9 @@ This video of teen girls talking with author Jennifer DeLeon about their lived e
 The teen years are a time for identity formation. Young people are becoming more independent of their caretakers and learning more about themselves and the world as they interact with people, culture, and society. Connected learning can help teens construct their identity as they pursue their passions and explore new interests. 
 
 
-
-<div class="callout videos" markdown="1">
 ### Building Identity Through Interests
+
+The teen years are a time for identity formation. Young people are becoming more independent of their caretakers and learning more about themselves and the world as they interact with people, culture, and society. Connected learning can help teens construct their identity as they pursue their passions and explore new interests.
 
 At the Providence Public Library teens gain confidence and develop their identity through pursuing their passions and exploring new interests.
 
@@ -57,7 +52,8 @@ At the Providence Public Library teens gain confidence and develop their identit
 
 
 <div class="callout activity" markdown="1">
-### Worksheet #4: Interest-Based Learning
+
+### [Worksheet #3: Interest-Based Learning](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.vjbsa0pri5cm){:target="_blank"}
 
 Think back to a time in your youth when an adult tried to get you to learn something you weren’t interested in. Then think of a time you were very interested in learning about something. How did those experiences differ? Here are a few questions to get you started:
 * How much time did you spend learning about the topics?
