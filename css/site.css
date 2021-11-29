@@ -315,10 +315,11 @@ line-height:  2em;
 
 
 .updatedcolor, .updatedcolor th, .updatedcolor td {
+  padding:  10px;
   font-family:  Arial, Helvetica, san-serif;
   font-size:  1em;
   border-collapse:  separate !important;
-  border: 15px solid gray !important;
+  border: 15px solid white !important;
 }
 
 
