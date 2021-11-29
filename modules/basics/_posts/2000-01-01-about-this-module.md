@@ -13,7 +13,7 @@ permalink: /modules/basics/
 * Develop an action plan to implement connected learning in your library, no matter how big or small
 </div>
 
-Connected learning is an educational framework — an approach to creating learning experiences — that connects relationships, interests, and opportunities. Connected learning is driven by learners’ interests, supported by their relationships, and oriented towards academic, economic, or civic opportunities.
+Connected learning is an educational framework — an approach to creating learning experiences — that connects interests, relationships, and opportunities. Connected learning is driven by learners’ interests, supported by their relationships, and oriented towards academic, economic, or civic opportunities.
 
 At the heart of connected learning is an “equity agenda” which helps to  close the cultural and economic gaps that non-dominant youth face. By connecting teens’ interests and relationships with real-life opportunities, connected learning helps prepare youth for life after high school with 21st century skills and the development of emerging digital literacies.
  

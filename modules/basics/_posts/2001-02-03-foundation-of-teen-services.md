@@ -10,7 +10,7 @@ Imagine that library staff in a suburban area have noticed that some of the teen
 * Work with those other organizations, teens,  and stakeholders to build environmental activities in which teens take part
 * Leverage library space and resources as needed to support those activities. 
 
-The focus then is not on teens in the building, but teens gaining a variety of skills, in and with the community, with support from the library.
+> The focus is not on teens in the building, but teens gaining a variety of skills, in and with the community, with support from the library.<br/>— Linda Braun
 
 When connected learning is the foundation of teen services, all the teen-centric programs and services that the library staff sponsor integrate connected learning principles. Such library staff would not, for example, host a teen advisory group "and also" a connected learning program. Instead, any teen program or service — including teen advisory groups — are planned and implemented around the core ideas of connected learning.  
 

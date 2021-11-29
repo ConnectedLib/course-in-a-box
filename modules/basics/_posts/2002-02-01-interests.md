@@ -7,7 +7,7 @@ title: Interests
 Learning that is driven by teens’ interests better aligns with their personal motivations and goals, leading to deeper learning and higher achievement. This helps all youth dig into learning in ways that may not be possible in traditional education settings. 
 
 
-## What does learning through interests look like?
+## What Does Learning Through Interests Look Like?
 
 
 * Library staff get to know teens and what they’re interested in  from filmmaking to their favorite TV series and from nutrition to cooking. 
@@ -19,12 +19,15 @@ Learning that is driven by teens’ interests better aligns with their personal 
 <div class="callout videos" markdown="1">
 ### Learning Through Shared Interests
 
-This video of teen girls talking with author Jennifer DeLeon about their lived experiences demonstrates how they are able to learn with and from each other and DeLeon through their shared interest in reading.  The girls speak openly with DeLeon about their lived experiences, specifically related to the ways in which they are treated by peers and the micro-agressions they often face.  These experiences help the teen girls to build trusting relationships that have led to exploring mutual interests together. We encourage those going through the module to watch the full video as it provides an insightful look into the lives of the teen girls, their interests and passions, and the power of trusting relationships.
+In this video, these teens talk with author Jennifer DeLeon about their lived experiences, demonstrating how they learn with and from each other and DeLeon through their shared interest in reading.  The teens speak openly with DeLeon about how they are treated by peers and the micro-agressions they often face.  These experiences helped the teens build trusting relationships that have led to exploring mutual interests together. 
 
+Following is a lengthy excerpt of the full conversation. Although it is longer than most videos in the _ConnectedLib Toolkit_, we encourage you to watch it if you have time. It provides an insightful look into the lives of the teens, their interests and passions, and the power of trusting relationships.
 
 <iframe src="https://www.youtube.com/embed/whvuEhNNleg?start=1451&end=3153" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<div class="videotime" style="float:none;">?:??</div>
+<div class="videotime" style="float:none;">28:22</div>
+
+_This is an excerpt from a much longer discussion. You can see the [full 1 hour 40 minute video on YouTube](https://www.youtube.com/watch?v=whvuEhNNleg){:target="_blank"}._
 
 
 </div>
@@ -34,7 +37,7 @@ This video of teen girls talking with author Jennifer DeLeon about their lived e
 
 The teen years are a time for identity formation. Young people are becoming more independent of their caretakers and learning more about themselves and the world as they interact with people, culture, and society. Connected learning can help teens construct their identity as they pursue their passions and explore new interests.
 
-At the Providence Public Library teens gain confidence and develop their identity through pursuing their passions and exploring new interests.
+At the Providence Public Library teens gain confidence and develop their identity through the freedom to explore that they are allowed to have in the library's teen programming. 
 
 <iframe src="https://www.youtube.com/embed/B92MWLn0wAQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime" style="float:none;">1:55</div>
@@ -58,6 +61,8 @@ Think back to a time in your youth when an adult tried to get you to learn somet
 * Do you still remember anything about the topics?
 * How engaged were you with the topics—did you ask questions or do your own research?
 * How did the adult (if any) in the situation interact with you?
+
+Now think about the teen services at your library. What do your answers to the previous questions tell you about your library's teen services?
 
 </div>
 

@@ -16,7 +16,7 @@ Another way connected learning builds capacity in teens is by affecting their se
 
 <div class="callout case_study" markdown="1">
 
-### Changing the way teens see themselves
+### Changing the Way Teens See Themselves
 At one lower-income high school in the northeast United States, a print journalism class requires students to finance, write, and produce several issues of the school newspaper. The experience of learning and practicing brand-new skills changed the way students saw themselves as learners and writers.
 * “Journalism has allowed me to write better and shaped me into an adult. Think about all the pros within the class: learning to write better, be professional, and how to make connections... Not only have I become a better writer from journalism class but a better person in terms of learning crucial qualities needed for the professional world.”
 * “I view myself as more a social and confident person now since I have conducted so many interviews with people I don’t know.”

@@ -2,14 +2,14 @@
 title: Promoting Equity
 ---
  
-> To what extent does your conception of equity in libraries boil down to providing access to library resources and services and in what ways may that reinforce existing power structures? What might equity in library services look like beyond access?<br/>Sandra Hughes-Hassell in _Library Staff as Public Servants: A Field Guide to to Preparing to Support Communities in times of Crisis_
+> To what extent does your conception of equity in libraries boil down to providing access to library resources and services and in what ways may that reinforce existing power structures? What might equity in library services look like beyond access?<br/> — Sandra Hughes-Hassell in _Library Staff as Public Servants: A Field Guide to to Preparing to Support Communities in times of Crisis_
 
 Equity is at the heart of CL. It's through CL that library staff serving teens move beyond programs and services focused on feedback from those who are traditional library users, to services that bring in the voices of non-dominant community members that may not be traditional library users. It moves the library’s focus from access to materials as the center of equity initiatives to a focus on sharing power with community stakeholders (adults and teens) in order to design and implement equitable services. 
 
 
 ## The Ladder of Citizen Participation
 
-One way to think about how teen services build equity through connected learning is to review the "Ladder Of Citizen Participation". Originally created by Sherry Arnstein in 1969, the ladder appeared in modified form inthe UNICEF pamphlet [Children’s Participation from Tokenism to Citizenship](https://www.unicef-irc.org/publications/100-childrens-participation-from-tokenism-to-citizenship.html){:target="_blank"} and was subsequently revised again by Josie Watanabe in 2021. 
+One way to think about how teen services build equity through connected learning is to review the "Ladder Of Citizen Participation". Originally created by [Sherry Arnstein in 1969](https://organizingengagement.org/models/ladder-of-citizen-participation/){:target="_blank"}, the ladder appeared in modified form inthe UNICEF pamphlet [Children’s Participation from Tokenism to Citizenship](https://www.unicef-irc.org/publications/100-childrens-participation-from-tokenism-to-citizenship.html){:target="_blank"} and was subsequently revised again by Josie Watanabe in 2021. 
 
 <img src="{{ site.baseurl }}/img/basics/ladder_of_participation.png"  ALT="Ladder of Participation" style="width: 550px;padding-right:10px;padding-bottom:10px;" />
 <br/> _Source: Josie Watanabe. Used with permission._
@@ -45,7 +45,7 @@ _As you watch the video consider how CL and equity are embedded into what the te
 
 <div class="activity callout" markdown="1">
 
-### [Worksheet #X: Equity at Your Library](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.isxlazu21uc9){:target="_blank"}
+### [Worksheet #7: Equity at Your Library](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.9hpybxnqopwu){:target="_blank"}
 
 Where do you see an opportunity to build equitable library teen services for and with teens by using the principles and ideas of CL?  Why do you think this is an opportunity for equitable teen services? How do your ideas leverage CL and power-sharing and move beyond a focus on access as the heart of equity and libraries?
 

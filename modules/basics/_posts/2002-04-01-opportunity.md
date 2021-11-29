@@ -7,7 +7,7 @@ title: Opportunity
 
 Opportunity-oriented learning helps teens build skills for academic, economic, or civic success, performing better in school, preparing for a 21st century workplace, and connecting with their community. Connected learning emphasizes opportunity now, not just in the far-off, theoretical future of a post-school college or job market, and connected learning activities give teens the chance to see the benefits of their actions first-hand.
 
-## What does opportunity-oriented learning look like?
+## What Does Opportunity-Oriented Learning Look Like?
 * Teens are connected to mentors with professional experience
 * Programs relate to civic, economic, or academic development
 * Teens see immediate value in activities
@@ -16,7 +16,7 @@ Opportunity-oriented learning helps teens build skills for academic, economic, o
 
 
 <div class="callout videos" markdown="1">
-### Opportunity-oriented learning in action
+### Opportunity-Oriented Learning in Action
 
 In the following TED Talk, Geoff Mulgan describes how the UK's studio school model has taken teens from the lowest to the highest grades by letting them "learn for real."
 
@@ -38,5 +38,6 @@ The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenag
 * What are the longer-term opportunities that the teens may have because of their participation in this program?
 * How would you help a teen translate their experience with this program into bullet points for a resume?
 
+Now think about the teen services at your library. Where do you see opportunity for the teens in your community? 
 
 </div>

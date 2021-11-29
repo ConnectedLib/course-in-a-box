@@ -6,10 +6,10 @@ title: Relationships
 
 When learning is supported by relationships, teens aren’t just learning with each other -— they’re also learning from each other by sharing their ideas, providing constructive feedback, and collaborating on projects.
 
-## What does learning through relationships look like?
+## What Does Learning Through Relationships Look Like?
 * Teens have time and space to “just hang out”
 * Teens collaborate, share projects and activities, and give constructive feedback to each other
-* Programs incorporate elements of culture that are important to teens
+* Programs incorporate elements of culture that are important to teens' communities
 * Library staff  and/or mentors help teens build or join a community around their interests
 
 
