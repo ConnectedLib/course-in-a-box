@@ -246,14 +246,15 @@ line-height:  2em;
   background: #caf6e6;
   border-radius: 10px;
   margin: 0px 0 0 0;
-  display: inline-block;
+  /* display: inline-block;*/
   border-width: 0 0 0 2px;
   padding: 8px 13px 8px 34px;
   background-image: url(../img/clock.svg);
   background-size: 18px;
   background-position: 10px center;
   background-repeat: no-repeat;
-  float:left;
+  /* float:left; */
+  margin-left:  40px;
 }
 
 
@@ -264,8 +265,7 @@ line-height:  2em;
 
 /* COLORFUL TABLE */
 .colorful, .colorful td, .colorful th {
-  /* border:none; */
-  padding:20px;
+  padding:10px;
   color: #000000;
   vertical-align:center;
   margin-left:  40px;
@@ -297,15 +297,12 @@ line-height:  2em;
   color: #000000;
   vertical-align:middle;
   border-spacing: 30px;
-  border-collapse: separate;
+ /* border-collapse: separate;*/
 }
 
 .colorful-th td {
   vertical-align:top;
 }
 
-.colorful-th th {
-  font-size:125%;
-}
 
 
