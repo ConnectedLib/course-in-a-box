@@ -39,13 +39,14 @@ Before connecting teens with mentors, consider carefully what makes a good mento
 
 
 <div class="callout activity" markdown="1">
-	
+
 ## [Worksheet #5: Identifying Mentors](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.ma6oe1p49a7w){:target="_blank"}
 
-	Read the complete article by Alyse Kalish about [What Makes a Good Mentor](https://www.themuse.com/advice/how-to-find-qualities-good-mentor){:target="_blank"}, the complete the following activities in your workbook.
-	* Make a list of the interests of teens in your community.
-	* Make a list of the people who you think share those interests and meet the qualities of what makes a good mentor.
-	* Look at the interests in which you do not know a possible mentor. Who do you know who could help you to make relevant connections? 
-	* How can your library help to build relationships between these mentors and teens in the community?
+Read the complete article by Alyse Kalish about [What Makes a Good Mentor](https://www.themuse.com/advice/how-to-find-qualities-good-mentor){:target="_blank"}, the complete the following activities in your workbook.
+
+* Make a list of the interests of teens in your community.
+* Make a list of the people who you think share those interests and meet the qualities of what makes a good mentor.
+* Look at the interests in which you do not know a possible mentor. Who do you know who could help you to make relevant connections? 
+* How can your library help to build relationships between these mentors and teens in the community?
 
 </div>

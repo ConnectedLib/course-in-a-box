@@ -37,7 +37,6 @@ At the Providence Public Library teens gain confidence and develop their identit
 
 <iframe src="https://www.youtube.com/embed/B92MWLn0wAQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-</div>
 
 
 <!--
