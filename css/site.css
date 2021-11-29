@@ -245,7 +245,6 @@ line-height:  2em;
   color:#3fb58e;
   background: #caf6e6;
   border-radius: 10px;
-  margin: 0px 0 0 0;
   /* display: inline-block;*/
   border-width: 0 0 0 2px;
   padding: 8px 13px 8px 34px;
@@ -253,7 +252,7 @@ line-height:  2em;
   background-size: 18px;
   background-position: 10px center;
   background-repeat: no-repeat;
-  /* float:left; */
+  float:left;
   margin-left:  40px;
 }
 
