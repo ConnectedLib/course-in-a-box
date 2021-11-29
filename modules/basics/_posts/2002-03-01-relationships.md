@@ -14,16 +14,18 @@ When learning is supported by relationships, teens aren’t just learning with e
 
 
 ## Peer Supported, Socially Connected
-<div class="videotime">6:30</div>
+
 <iframe src="https://www.youtube.com/embed/whc_ZivyEdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">6:30</div>
 
 ## Mentor Relationships
 
 Mentors play a key role in supporting teen interests and helping teens to gain skills and knowledge.  This video of the late "Brother Mike" Hawkins talking about his role as a mentor, and how others have mentored him, illustrates why mentors are important for teens.  
 
-<div class="videotime">8:35</div>
+
 
 <iframe src="https://player.vimeo.com/video/43862075?h=b4bdb3a7ce&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div class="videotime">8:35</div>
 
 As a part of connected learning, library staff should strive to connect teens and their interests to community members and stakeholders who can bring their own passions and interests to teens in order to build knowledge and skills.   
 
@@ -40,7 +42,7 @@ Before connecting teens with mentors, consider carefully what makes a good mento
 
 <div class="callout activity" markdown="1">
 
-## [Worksheet #5: Identifying Mentors](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.ma6oe1p49a7w){:target="_blank"}
+### [Worksheet #5: Identifying Mentors](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.ma6oe1p49a7w){:target="_blank"}
 
 Read the complete article by Alyse Kalish about [What Makes a Good Mentor](https://www.themuse.com/advice/how-to-find-qualities-good-mentor){:target="_blank"}, then complete the following activities in your workbook.
 

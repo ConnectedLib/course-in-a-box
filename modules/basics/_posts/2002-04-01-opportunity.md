@@ -21,7 +21,7 @@ Opportunity-oriented learning helps teens build skills for academic, economic, o
 In the following TED Talk, Geoff Mulgan describes how the UK's studio school model has taken teens from the lowest to the highest grades by letting them "learn for real."
 
 <iframe src="https://embed.ted.com/talks/lang/en/geoff_mulgan_a_short_intro_to_the_studio_school" frameborder="0" scrolling="no" allowfullscreen></iframe>
-<div class="videotime">5:59</div>
+<div class="videotime" style="float:none;">5:59</div>
 </div>
 
 
@@ -32,7 +32,7 @@ In the following TED Talk, Geoff Mulgan describes how the UK's studio school mod
 The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Participants in the program have performed at public events and some have even earned money. Watch the video, then reflect on the questions below.
 
 <iframe src="https://www.youtube.com/embed/t2uoZINMGmI" frameborder="0" scrolling="no" allowfullscreen></iframe>
-<div class="videotime">4:13</div>
+<div class="videotime" style="float:none;">4:13</div>
 
 * What is the immediate opportunity for the teen participants?
 * What are the longer-term opportunities that the teens may have because of their participation in this program?
