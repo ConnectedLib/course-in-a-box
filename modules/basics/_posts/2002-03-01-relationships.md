@@ -16,7 +16,7 @@ When learning is supported by relationships, teens aren’t just learning with e
 ## Peer Supported, Socially Connected
 
 <iframe src="https://www.youtube.com/embed/whc_ZivyEdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime">6:30</div>
+<div class="videotime" style="float:none;">6:30</div>
 
 ## Mentor Relationships
 
@@ -25,7 +25,7 @@ Mentors play a key role in supporting teen interests and helping teens to gain s
 
 
 <iframe src="https://player.vimeo.com/video/43862075?h=b4bdb3a7ce&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<div class="videotime">8:35</div>
+<div class="videotime" style="float:none;">8:35</div>
 
 As a part of connected learning, library staff should strive to connect teens and their interests to community members and stakeholders who can bring their own passions and interests to teens in order to build knowledge and skills.   
 

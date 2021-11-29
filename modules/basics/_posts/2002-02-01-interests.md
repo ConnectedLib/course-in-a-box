@@ -17,13 +17,14 @@ Learning that is driven by teens’ interests better aligns with their personal 
 
 
 <div class="callout videos" markdown="1">
-## Learning Through Shared Interests
+### Learning Through Shared Interests
 
-<div class="videotime">?:??</div>
 This video of teen girls talking with author Jennifer DeLeon about their lived experiences demonstrates how they are able to learn with and from each other and DeLeon through their shared interest in reading.  The girls speak openly with DeLeon about their lived experiences, specifically related to the ways in which they are treated by peers and the micro-agressions they often face.  These experiences help the teen girls to build trusting relationships that have led to exploring mutual interests together. We encourage those going through the module to watch the full video as it provides an insightful look into the lives of the teen girls, their interests and passions, and the power of trusting relationships.
 
 
 <iframe src="https://www.youtube.com/embed/whvuEhNNleg?start=1451&end=3153" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="videotime" style="float:none;">?:??</div>
 
 
 </div>
@@ -36,7 +37,7 @@ The teen years are a time for identity formation. Young people are becoming more
 At the Providence Public Library teens gain confidence and develop their identity through pursuing their passions and exploring new interests.
 
 <iframe src="https://www.youtube.com/embed/B92MWLn0wAQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime">1:55</div>
+<div class="videotime" style="float:none;">1:55</div>
 
 
 <!--

@@ -27,7 +27,7 @@ An example of equity and connected learning working together is seen in Tuscaloo
 <div class="videotime">7:11</div>
 
 
-As you watch the video, think about how equity and CL are embedded into the work. How are the ideas of interests, relationships, and opportunity embedded into the Schoolyard Roots program? How does this program move beyond access to sharing power among youth and community?
+_As you watch the video, think about how equity and CL are embedded into the work. How are the ideas of interests, relationships, and opportunity embedded into the Schoolyard Roots program? How does this program move beyond access to sharing power among youth and community?_
 
 ## Los Angeles Public Library: Teens Leading Change
 
@@ -40,7 +40,7 @@ This presentation from teens at the Palisades Branch discusses their research on
 <div class="videotime">7:02</div>
 
 
-As you watch the video consider how CL and equity are embedded into what the teens discuss. How are the ideas of interests, relationships, and opportunity embedded into the LAPL Teens Leading Change program? How does this program move beyond access to sharing power among youth and community?
+_As you watch the video consider how CL and equity are embedded into what the teens discuss. How are the ideas of interests, relationships, and opportunity embedded into the LAPL Teens Leading Change program? How does this program move beyond access to sharing power among youth and community?_
 
 
 <div class="activity callout" markdown="1">
