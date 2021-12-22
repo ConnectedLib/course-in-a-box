@@ -1,15 +1,17 @@
 p {
   line-height:  1.5;
   padding: 0px 40px 0px 40px;
-  font-family:  Arial, Helvetica, sans-serif;
+  /* font-family:  Arial, Helvetica, sans-serif; */
+  font-family:  Merriweather, serif;
 }
 
 h1 {
-    font-family:  Arial, Helvetica, sans-serif;
+    font-family:  Montserrat, Arial, Helvetica, sans-serif;
 }
 
 .content li {  
-  font-family:  Arial, Helvetica, sans-serif;
+  /* font-family:  Arial, Helvetica, sans-serif; */
+  font-family:  Merriweather, serif;
   margin-left: 20px !important; 
 line-height:  1.5;
 }
@@ -27,7 +29,7 @@ h1 {
 }
 
 .content h2 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Montserrat, Helvetica, Arial, sans-serif;
   /*  text-transform:  uppercase;  */
   margin-top:  50px;
   font-size:  1.1em;
