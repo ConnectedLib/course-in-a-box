@@ -21,9 +21,9 @@ When connected learning is the foundation of teen services, all the teen-centric
 
 Start thinking about how to truly make connected learning the foundation of your teen services by developing a vision for your library’s teen services.  A vision is a short statement about what the library’s impact will be. Examples from the nonprofit world are:  
 
-* Habitat for Humanity: “A world where everyone has a decent place to live.” 
-* Teach for America: “One day, all children in this nation will have the opportunity to attain an excellent education.” 
-* Tehama County Library in CA: “A community where learning, imagination, and opportunity thrive.” 
+* [Habitat for Humanity](https://www.habitat.org/stories/everyone-deserves-decent-place-live#:~:text=Our%20shared%20vision%20is%20a,a%20decent%20place%20to%20live.&text=Every%20mother%20needs%20to%20know,healthier,%20more%20financially%20stable%20life.){:target="_blank"}: “A world where everyone has a decent place to live.” 
+* [Teach for America](https://www.teachforamerica.org/what-we-do/who-we-are){:target="_blank"}: “One day, all children in this nation will have the opportunity to attain an excellent education.” 
+* [Tehama County Library in California](http://www.tehamacountylibrary.org/about/){:target="_blank"}: “A community where learning, imagination, and opportunity thrive.” 
 
 If your library's teen services were focused fully on the teens and the community instead of the library, what would your vision be? It might be something like, “Where teens find possibilities,” or “Guaranteeing teens succeed,” or “Building community through learning, creating, and opportunity.”
 

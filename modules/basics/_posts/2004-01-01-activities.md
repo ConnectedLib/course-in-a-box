@@ -8,7 +8,7 @@ Now that you’ve had an overview of connected learning, what does this mean for
 
 <div class="activity callout" markdown="1">
 
-### [Worksheet #7: Putting Connected Learning into Context for Your Library](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.mybzfps64awf){:target="_blank"}
+### [Worksheet #8: Putting Connected Learning into Context for Your Library](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.mybzfps64awf){:target="_blank"}
 
 You will need your manager’s and director’s buy-in to allow you to take the time and effort to implement connected learning programs, so start by thinking about your library’s mission and strategic goals. Your library probably has a strategic planning document that describes a vision or mission. If not, try to have a conversation with the director and/or supervisor about their ideas and vision, or try to articulate this yourself based on what has been said and done in the past. Even if you do have a document to reference, you may still wish to have a conversation with one or both of them to fully understand their vision.
 
