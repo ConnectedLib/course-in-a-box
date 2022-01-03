@@ -8,6 +8,9 @@ p {
 h1 {
     font-family:  Montserrat, Arial, Helvetica, sans-serif;
     font-weight: bold;
+    /* border-bottom: solid 2px #000;
+    margin-bottom: 25px;
+    padding-bottom:  5px; */
 }
 
 .content li {  
@@ -23,11 +26,7 @@ line-height:  1.5;
   text-decoration:  underline;
 }
 
-h1 {
-  border-bottom: solid 2px #000;
-  margin-bottom: 25px;
-  padding-bottom:  5px;
-}
+
 
 .content h2 {
   font-family: Montserrat, Helvetica, Arial, sans-serif;
