@@ -15,8 +15,8 @@ h1 {
 
 p {
   line-height:  1.5;
-  padding: 0px;
   font-family:  Merriweather, serif;
+  margin-bottom: 15px;
 }
 
 .content li {  
@@ -166,7 +166,7 @@ iframe {
   height: 400px;
   margin-top:  10px;
   margin-bottom:  10px;
-  margin-left:  40px;
+  /* margin-left:  40px; */
   border:  solid 2px #000;
 }
 
