@@ -320,9 +320,12 @@ line-height:  2em;
   padding:  10px;
   font-family:  Arial, Helvetica, san-serif;
   font-size:  1em;
-  font-weight:  bold !important;
   border-collapse:  separate !important;
   border: 15px solid white !important;
+}
+
+.updatedcolor th {
+  font-weight:  bold !important;
 }
 
 .updatedcolor th {
