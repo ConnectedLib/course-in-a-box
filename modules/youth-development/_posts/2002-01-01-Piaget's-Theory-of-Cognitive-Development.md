@@ -16,7 +16,7 @@ Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-19
 *Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington*
 
 
-<table class="updatedcolor">
+<table class="updatedcolor" markdown="1">
 	<tr><th bgcolor="#85c0fe">Schemas</th><td>People organize what they learn from their experiences into mental frameworks called schemas that help them make sense of the world.</td><td>_Fourteen-year-old Julia has developed schemas around what she and her peers consider on trend or out of style. She also has schemas for gender roles (girls can’t ask boys out) and what career paths are available to her (girls aren’t good at math, so she shouldn’t consider a STEM career)._
 </td></tr>
 	<tr><th bgcolor="lightpink">Assimilation</th><td>We assimilate new information into our existing schemas.</td><td>_Julia grew up in a community mostly populated by people of a similar background. She has created schemas about people from another ethnic group based on TV, movies, and things she’s heard people say. When she reads something that fits with this stereotype, she absorbs or assimilates it into her existing schema._</td></tr>
@@ -50,15 +50,13 @@ Most new teens will be in the early formal operational stage. They can reason lo
 
 * Are your participants in the early formal operational stage? If so, can you help them develop further by integrating abstract concepts with the help of scaffolding (see Section 2: Vygotsky’s Sociocultural Learning Theory)?
 
+<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=6" width="676" height="378" frameborder="0" allowfullscreen="allowfullscreen" title="Test Your Knowledge: Piaget’s Cognitive Stages"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 -- ACTIVITY BOX ---------------------------
-TEST YOUR KNOWLEDGE
-Match the following situations with the type of thinking they represent: sensorimotor, pre-operational, concrete operational, or formal operational.
-Knowing that a graham cracker broken in half is still the same amount of graham cracker (not twice as much)
 Understanding how much different books weigh by picking them up
 Creating a list of potential impacts that a new library policy might have on teens
 Pretending a french fry is an airplane
 Answers
-Concrete Operational: Understanding that a graham cracker broken in half is still the same amount of graham cracker (not twice as much)
 Sensorimotor: Understanding how much different books weigh by picking them up
 Formal Operational: Creating a list of potential impacts that a new library policy might have on teens
 Preoperational: Pretending a french fry is an airplane
