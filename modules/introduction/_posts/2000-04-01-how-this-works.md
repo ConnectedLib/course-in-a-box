@@ -27,16 +27,10 @@ Most modules are accompanied by a workbook that you can download or copy from Go
 
 ## Learning Circles
 
-A learning circle is...
+A learning circle is an small, interest-based learning group composed of peers and led by a peer facilitator — that is, someone who is learning alongside the rest of the group, not an expert or an instructor. This video from [Peer 2 Peer University](https://www.p2pu.org/){:target="_blank"} (P2PU), a thought leader in learning circles, explains the concept in more detail. 
 
 <iframe src="https://www.youtube.com/embed/s8w9IKiuyys" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime" style="float:none;">1:45</div>
 
-- Benefits of learning circles
-
-Consider forming a ConnectedLib learning circle with other staff members at your library, library workers in your region or state, or members of a professional interest group you belong to. 
-
-### Learning Circle Resources
-
-- P2PU link
+Consider forming a ConnectedLib learning circle with other staff members at your library, library workers in your region or state, or members of a professional interest group you belong to. [P2PU's Learning Circle Knowledge Base](https://docs.p2pu.org/){:target="_blank"} contains a wealth of helpful information, guides, and checklists for forming your own learning circle. 
 
