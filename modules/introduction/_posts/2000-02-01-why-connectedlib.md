@@ -3,10 +3,18 @@ title: Why ConnectedLib?
 tags: ['sectionHead']
 ---
 
-The ConnectedLib Toolkit was created to equip public youth library staff with the knowledge and skills they need to create connected learning programs at their own libraries. The modules can be completed as standalone lessons in any order, but working through the entire suite of lessons in order may help you get the most out of them. As a whole, the toolkit is designed to walk you through the connected learning basics, help you learn how to work effectively with teens, how to strategize and plan to implement connected learning in your own library, and how to reach out and work with your community to create effective connected learning programs for your youth patrons.
+> As social and technological hubs for their communities, libraries are natural
+environments to connect learning, creativity, and knowledge production. They are
+centers for knowledge creation and sharing, they support self-directed and interest-based
+learning, and they are inclusive public spaces that bring many different groups together.<br/><br/>— [Connected Libraries: Surveying the Current Landscape and Charting a Path to the Future](https://connectedlib.ischool.uw.edu/wp-content/uploads/2019/09/ConnectedLibraries-SurveyingtheCurrentLandscape-and-ChartingthePathtotheFuture.pdf){:target="_blank"}
 
-Visit our project website to learn more about ConnectedLib and our team.
 
-## History of connected learning
+The ConnectedLib Toolkit was created to fill the need for accessible professional educational resources for library staff who work with teens and wish to learn how connected learning can help their youth services have a greater impact for their community. Public libraries have a unique set of strengths and opportunities that are not found in formal learning environments, which makes connected learning materials designed for schools or other structured settings less relevant to libraries. The Toolkit was created with the input of over one hundred staff from libraries all over the United States.
 
-In the first decade of the 21st century, many organizations, projects, and researchers contributed to the movement towards more social, participatory, and interest-driven learning that led to connected learning -- the MacArthur Foundation, the Digital Youth Network, the DML Research Hub, Howard Gardner, Henry Jenkins, Katie Salen, Bill Penuel, Nichole Pinkard, Joseph Kahne, and more. The framework itself was developed in the early 2010s by Mimi Ito and her colleagues after extensively researching and working with teens. Connected learning is now at the center of a vibrant community of researchers and practitioners centered around the Connected Learning Alliance. For more about the history of connected learning, see Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future.
+
+<div class="callout info" markdown="1">
+## A Short history of connected learning
+
+In the first decade of the 21st century, many organizations, projects, and researchers contributed to a movement centered on social, participatory, and interest-driven learning that led to connected learning. Organizations including the [MacArthur Foundation](https://www.macfound.org/){:target=”_blank”}, the [Digital Youth Network](http://digitalyouthnetwork.org/){:target=”_blank”}, and the [Digital Media Learning (DML) Research Hub](https://dmlhub.net/){:target=”_blank”}, and individuals like Howard Gardner, Henry Jenkins, Katie Salen, Bill Penuel, Nichole Pinkard, Joseph Kahne, and many more all engaged in this movement. The connected learning framework itself was developed in the early 2010s by Mimi Ito and her colleagues after extensive research and engagement with teens. Since that time, a vibrant community of researchers and practitioners has formed with the Connected Learning Alliance as a central hub for ongoing learning and practice. . Learn more about the history of connected learning, in [Connected Libraries: Surveying the Current Landscape and Charting a Path to the Future](https://connectedlib.ischool.uw.edu/wp-content/uploads/2019/09/ConnectedLibraries-SurveyingtheCurrentLandscape-and-ChartingthePathtotheFuture.pdf){:target="_blank"}
+
+</div>
