@@ -15,14 +15,12 @@ Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-19
 
 *Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington*
 
-<div markdown="1">
 <table class="updatedcolor">
 	<tr><th bgcolor="#85c0fe">Schemas</th><td>People organize what they learn from their experiences into mental frameworks called schemas that help them make sense of the world.</td><td><i>Fourteen-year-old Julia has developed schemas around what she and her peers consider on trend or out of style. She also has schemas for gender roles (girls can’t ask boys out) and what career paths are available to her (girls aren’t good at math, so she shouldn’t consider a STEM career).</i>
 </td></tr>
 	<tr><th bgcolor="lightpink">Assimilation</th><td>We assimilate new information into our existing schemas.</td><td><i>Julia grew up in a community mostly populated by people of a similar background. She has created schemas about people from another ethnic group based on TV, movies, and things she’s heard people say. When she reads something that fits with this stereotype, she absorbs or assimilates it into her existing schema.</i></td></tr>
 	<tr><th bgcolor="#fffd86">Accommodation</th><td>We accommodate new information that doesn’t fit into our schemas by altering our beliefs.</td><td><i>Julia’s family moves to a new town and she enters a high school with students from many different ethnic and cultural backgrounds. Her interactions with new friends may result in experiences that do not fit into her existing schemas, prompting her to change or alter her beliefs to accommodate the new information.</i></td></tr>
 </table>
-</div>
 
 
 ### Stages of Cognitive Development
