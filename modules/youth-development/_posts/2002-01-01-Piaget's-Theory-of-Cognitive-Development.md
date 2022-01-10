@@ -17,10 +17,10 @@ Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-19
 
 <div markdown="1">
 <table class="updatedcolor">
-	<tr><th bgcolor="#85c0fe">Schemas</th><td>People organize what they learn from their experiences into mental frameworks called schemas that help them make sense of the world.</td><td>_Fourteen-year-old Julia has developed schemas around what she and her peers consider on trend or out of style. She also has schemas for gender roles (girls can’t ask boys out) and what career paths are available to her (girls aren’t good at math, so she shouldn’t consider a STEM career)._
+	<tr><th bgcolor="#85c0fe">Schemas</th><td>People organize what they learn from their experiences into mental frameworks called schemas that help them make sense of the world.</td><td><i>Fourteen-year-old Julia has developed schemas around what she and her peers consider on trend or out of style. She also has schemas for gender roles (girls can’t ask boys out) and what career paths are available to her (girls aren’t good at math, so she shouldn’t consider a STEM career).</i>
 </td></tr>
-	<tr><th bgcolor="lightpink">Assimilation</th><td>We assimilate new information into our existing schemas.</td><td>_Julia grew up in a community mostly populated by people of a similar background. She has created schemas about people from another ethnic group based on TV, movies, and things she’s heard people say. When she reads something that fits with this stereotype, she absorbs or assimilates it into her existing schema._</td></tr>
-	<tr><th bgcolor="#fffd86">Accommodation</th><td>We accommodate new information that doesn’t fit into our schemas by altering our beliefs.</td><td>_Julia’s family moves to a new town and she enters a high school with students from many different ethnic and cultural backgrounds. Her interactions with new friends may result in experiences that do not fit into her existing schemas, prompting her to change or alter her beliefs to accommodate the new information._</td></tr>
+	<tr><th bgcolor="lightpink">Assimilation</th><td>We assimilate new information into our existing schemas.</td><td><i>Julia grew up in a community mostly populated by people of a similar background. She has created schemas about people from another ethnic group based on TV, movies, and things she’s heard people say. When she reads something that fits with this stereotype, she absorbs or assimilates it into her existing schema.</i></td></tr>
+	<tr><th bgcolor="#fffd86">Accommodation</th><td>We accommodate new information that doesn’t fit into our schemas by altering our beliefs.</td><td><i>Julia’s family moves to a new town and she enters a high school with students from many different ethnic and cultural backgrounds. Her interactions with new friends may result in experiences that do not fit into her existing schemas, prompting her to change or alter her beliefs to accommodate the new information.</i></td></tr>
 </table>
 </div>
 
@@ -53,13 +53,7 @@ Most new teens will be in the early formal operational stage. They can reason lo
 
 ## Test Your Knowledge
 
-<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=6" width="676" height="378" frameborder="0" allowfullscreen="allowfullscreen" title="Test Your Knowledge: Piaget’s Cognitive Stages"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
--- ACTIVITY BOX ---------------------------
-Understanding how much different books weigh by picking them up
-Creating a list of potential impacts that a new library policy might have on teens
-Pretending a french fry is an airplane
-Answers
-Sensorimotor: Understanding how much different books weigh by picking them up
-Formal Operational: Creating a list of potential impacts that a new library policy might have on teens
-Preoperational: Pretending a french fry is an airplane
+<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="958" height="315" frameborder="0" allowfullscreen="allowfullscreen" title="Test Your Knowledge: Piaget's Stages of Cognitive Development"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+

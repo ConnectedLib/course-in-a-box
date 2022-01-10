@@ -28,7 +28,7 @@ published: true
 
 
 <div class="grid-item"> <a href="modules/youth-development/"><div>youth<br/>development<br/>
- <!--<img src="{{ site.baseurl }}/img/moduleLogos/basics.png" width="90px" ALT="Youth Development"/>-->
+ <img src="{{ site.baseurl }}/img/moduleLogos/youth-development.png" width="90px" ALT="Youth Development"/>-->
 </div></a></div>
  <!-- NOT READY YET 
 
