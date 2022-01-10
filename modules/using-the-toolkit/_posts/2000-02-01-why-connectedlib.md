@@ -13,7 +13,7 @@ The ConnectedLib Toolkit was created to fill the need for accessible professiona
 
 
 <div class="callout info" markdown="1">
-## A Short history of connected learning
+## A short history of connected learning
 
 In the first decade of the 21st century, many organizations, projects, and researchers contributed to a movement centered on social, participatory, and interest-driven learning that led to connected learning. Organizations including the [MacArthur Foundation](https://www.macfound.org/){:target=”_blank”}, the [Digital Youth Network](http://digitalyouthnetwork.org/){:target=”_blank”}, and the [Digital Media Learning (DML) Research Hub](https://dmlhub.net/){:target=”_blank”}, and individuals like Howard Gardner, Henry Jenkins, Katie Salen, Bill Penuel, Nichole Pinkard, Joseph Kahne, and many more all engaged in this movement. The connected learning framework itself was developed in the early 2010s by Mimi Ito and her colleagues after extensive research and engagement with teens. Since that time, a vibrant community of researchers and practitioners has formed with the Connected Learning Alliance as a central hub for ongoing learning and practice. . Learn more about the history of connected learning, in [Connected Libraries: Surveying the Current Landscape and Charting a Path to the Future](https://connectedlib.ischool.uw.edu/wp-content/uploads/2019/09/ConnectedLibraries-SurveyingtheCurrentLandscape-and-ChartingthePathtotheFuture.pdf){:target="_blank"}
 

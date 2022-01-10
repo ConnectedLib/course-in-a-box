@@ -10,6 +10,12 @@ The ConnectedLib Toolkit was designed to be as flexible as possible for use by a
 
 ### The Modules
 
+* **Using the Toolkit**: You are here! This module provides a quick introduction to the Toolkit and the different ways you can use it.
+
+* **[Connected Learning Basics](/basics/)** provides an introduction to what connected learning is and how it can help your library's teen services. 
+
+* **[Youth Development](/youth-development/)** explores how libraries can support tweens and teens in their development at every stage.
+
 ### Experiencing the Entire Toolkit
 
 Each module in the Toolkit has been developed as a stand-alone section. However, if you wish to work through all [number] modules, there is a particular order which may enhance your learning experience. 
