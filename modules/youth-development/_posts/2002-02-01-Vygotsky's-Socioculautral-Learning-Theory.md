@@ -2,16 +2,18 @@
 title: Vygotsky's Sociocultural Learning Theory
 ---
 
-> "What a child can do with assistance today she will be able to do by herself tomorrow." <br/> -- Lev Vygotsky
+> "What a child can do with assistance today she will be able to do by herself tomorrow." <br/><br/> -- Lev Vygotsky
 
 
 Soviet psychologist Lev Vygotsky’s (1896-1934) sociocultural learning theory emphasizes the role of social interactions with parents, caregivers, and peers in cognitive development.
 
 ## Key Concepts from Vygotsky's Sociocultural Learning Theory
 
-Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington
-1:02
-Dr. Katie Davis, University of Washington
+<iframe src="https://www.youtube.com/embed/Tgu0eYwm4I8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime" style="float:none;">1:02</div>
+
+*Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington*
+
 
 
 ### Cognitive Tools
