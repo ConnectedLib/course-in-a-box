@@ -2,14 +2,16 @@
 title: Bronfenbrenner's Ecological Model Theory
 ---
 
-> "Particular attention should be given to the opportunities which the environment presents or precludes for involvement of children with persons both older and younger than themselves." -- Urie Bronfenbrenner
+> "Particular attention should be given to the opportunities which the environment presents or precludes for involvement of children with persons both older and younger than themselves." <br/><br/>-- Urie Bronfenbrenner
 
-Developmental psychologist Urie Bronfenbrenner (1917-2005) emphasized the importance of studying children and adults in real life settings, instead of labs, and examining all the socio-cultural contexts in which growth and development occurs.2
+Developmental psychologist Urie Bronfenbrenner (1917-2005) emphasized the importance of studying children and adults in real life settings, instead of labs, and examining all the socio-cultural contexts in which growth and development occurs.
 
 ## Key Concepts from Bronfenbrenner's Ecological Model
-Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington
-1:40
-Dr. Katie Davis, University of Washington
+
+<iframe src="https://www.youtube.com/embed/kuso4lkb4UI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime" style="float:none;">1:39</div>
+
+*Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington*
 
 Bronfenbrenner’s model is a series of nested contexts:
 * The microsystem is the innermost system; it contains people and settings that directly involve a young person, such as their home, family, peer group, work, or school.
@@ -21,20 +23,14 @@ Bronfenbrenner’s model is a series of nested contexts:
 Each of these systems interrelates and interacts with one another, demonstrating the role of environmental factors in a young person’s development over time.
 
 ## Digital Technology Through an Ecological Lens
-Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington
-1:49
-Dr. Katie Davis, University of Washington
---------------------------------------------------
 
 
--- ACTIVITY BOX ---------------------------
-TEST YOUR KNOWLEDGE
-When two different microsystems interact, they create 
-Another microsystem 
-A macrosystem
-An ecology
-A mesosystem
-Answer
-When two different microsystems interact, they create a mesosystem.
+<iframe src="https://www.youtube.com/embed/o2_jcLEF1Kg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime" style="float:none;">1:49</div>
 
-----------------------------------------------------
+*Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington*
+
+
+## Test Your Knowledge
+
+<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="958" height="343" frameborder="0" allowfullscreen="allowfullscreen" title="Bronfenbrenner"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
