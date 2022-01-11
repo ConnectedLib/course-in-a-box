@@ -2,4 +2,12 @@
 title: Other Theories of Youth Development
 ---
 
-[table summarizing three above plus ones we deleted]
+There are more theories of youth development than we can cover in a single module. Here are a few other theories that are relevant to connected learning. 
+
+<table class="updatedcolor">
+	<tr><th bgcolor="#85c0fe">Constructionism Theory<br/>Seymour Papert</th><td>Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016), a founding faculty member of the <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">MIT Media Lab</a>, developed the concept of **constructionism**. Constructionism emphasizes the agency of young people as active participants in the construction of their own learning. Papert developed one of the first educational programming languages, known as <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">LOGO</a>, which inspired the popular programming language <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>. Papert’s work also led to the <a href="https://theclubhousenetwork.org/" target="_blank">Computer Clubhouse project</a>, a network of over 100 learning centers where youth from underserved communities learn to create and express themselves using emerging technologies. 
+</td></tr>
+	<tr><th bgcolor="lightpink">Social Cognitive Learning Theory<br/>Albert Bandura</th><td>In the early 1960s, Albert Bandura’s (1925 - present) classic Bobo doll experiments demonstrated how children mimic or “model” actions and behaviors that they have seen adults perform. Bandura’s **social cognitive learning theory** (an expansion of his earlier **social learning theory**) describes how learning can occur through observation, not just direct experience. 
+	</td></tr>
+	<tr><th bgcolor="#fffd86">Psychosocial Theory<br/>Erik Erikson</th><td>Pyschosocial theory, developed by German psychoanalyst Erik Erikson (1902-1994), emphasizes a person’s development over the entire span of their life. Psychosocial theory is composed of eight stages of interaction with the social environment, with each stage building upon the previous ones.</td></tr>
+</table>
