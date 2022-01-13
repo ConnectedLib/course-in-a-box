@@ -1,10 +1,10 @@
 ---
-title: How this Works
+title: How the Toolkit Works
 tags: ['sectionHead']
 ---
 
 
-The ConnectedLib Toolkit was designed to be as flexible as possible for use by a variety of learners with different levels of knowledge and different amounts of time to spend. You can work through each module in a linear fashion in the order suggested below, or you can pick and choose modules (or even sections of modules) based on your needs and interests. You can work through the toolkit content on your own, or form a virtual or in-person *learning circle* with colleagues. 
+The ConnectedLib Toolkit was designed to be as flexible as possible for use by a variety of learners with different levels of knowledge about connected learning and different amounts of time to spend. You can work through each module in a linear fashion in the order suggested below, or you can pick and choose modules (or even sections of modules) based on your needs and interests. You can work through the toolkit content on your own, or form a virtual or in-person *learning circle* with colleagues. 
 
 ## Toolkit Content
 
@@ -33,7 +33,7 @@ Most modules are accompanied by a workbook that you can download or copy from Go
 
 ## Learning Circles
 
-A learning circle is an small, interest-based learning group composed of peers and led by a peer facilitator — that is, someone who is learning alongside the rest of the group, not an expert or an instructor. This video from [Peer 2 Peer University](https://www.p2pu.org/){:target="_blank"} (P2PU), a thought leader in learning circles, explains the concept in more detail. 
+A learning circle is a small, interest-based learning group composed of peers and led by a peer facilitator — that is, someone who is learning alongside the rest of the group, not an expert or an instructor. This video from [Peer 2 Peer University](https://www.p2pu.org/){:target="_blank"} (P2PU), a thought leader in learning circles, explains the concept in more detail. 
 
 <iframe src="https://www.youtube.com/embed/s8w9IKiuyys" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime" style="float:none;">1:45</div>
