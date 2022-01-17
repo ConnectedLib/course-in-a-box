@@ -4,6 +4,7 @@ title: The SEL Settings
 
 The SEL "settings" are, similar to Bronfenbrenner’s ecological systems, four different environments where youth learn social and emotional skills. When the settings are partnered and aligned, the youths’ SEL is even greater. 
 
+<!--
 <table class="updatedcolor">
 	<tr><th bgcolor="#85c0fe">Classrooms</th><td>Classrooms can foster SEL through explicit instruction and curriculum, but also by fostering a classroom climate that models and scaffolds the five competencies. Although classrooms are formal learning environments, some of the ways they can support SEL are relevant to learning that is sponsored by or takes place in the library, or any learning that involves interaction with library staff.
 </td></tr>
@@ -16,6 +17,6 @@ The SEL "settings" are, similar to Bronfenbrenner’s ecological systems, four d
 </td></tr>
 
 </table>
-
+-->
 
 <iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="958" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="SEL Settings"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>

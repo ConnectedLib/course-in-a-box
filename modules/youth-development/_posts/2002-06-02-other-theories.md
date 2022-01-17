@@ -14,7 +14,7 @@ There are more theories of youth development than we can cover in a single modul
 
 <div class="callout activity" markdown="1">
 
-### Worksheet #2: Apply Your Understanding
+## [Worksheet #2: Apply Your Understanding](https://docs.google.com/document/d/1PZJ_VmpqentsoFv__xt5jRH5g8Ta0u4-2i3XAW4HuKU/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
 
 Think of a program or service that your library offers to teens. How does your new knowledge of youth development change your understanding of the program’s value or impact? How can you use the science of youth development to improve your programs and services for teens? 
 

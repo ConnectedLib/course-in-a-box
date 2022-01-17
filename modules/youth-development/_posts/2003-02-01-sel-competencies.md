@@ -5,10 +5,10 @@ title: The SEL Competencies
 The SEL framework is composed of five competencies (self-awareness, self-management, social awareness, relationship skills, and responsible decision-making) that youth develop across four settings (classrooms, schools, families and caregivers, and communities).
 
 <iframe src="https://www.youtube.com/embed/ouXhi_CfBVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime" style="float:none;">3:23</div>
+<div class="videotime" style="float:none;">4:50</div>
 
 
-The competencies represent knowledge and skills in five different facets of social and emotional abilities. The table below defines each competency and describes some ways that library services and connected learning could support teens’ SEL. (The definitions are from CASEL’s Interactive Wheel.)
+The competencies represent knowledge and skills in five different facets of social and emotional abilities. The table below defines each competency and describes some ways that library services and connected learning could support teens’ SEL. (The definitions are from [CASEL’s Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}.)
 
 <table class="updatedcolor">
 	<tr><th bgcolor="#85c0fe">Self-awareness</th><td>“The abilities to understand one’s own emotions, thoughts, and values and how they influence behavior across contexts.”
@@ -41,4 +41,4 @@ Helping teens see connections between today’s behaviors and future consequence
 	</td></tr>
 </table>
 
-*Definitions are from CASEL’s Interactive Wheel*
+*Definitions are from [CASEL’s Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}.*
