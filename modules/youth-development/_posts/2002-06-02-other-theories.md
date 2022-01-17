@@ -11,3 +11,16 @@ There are more theories of youth development than we can cover in a single modul
 	</td></tr>
 	<tr><th bgcolor="#fffd86">Psychosocial Theory<br/>Erik Erikson</th><td>Pyschosocial theory, developed by German psychoanalyst Erik Erikson (1902-1994), emphasizes a person’s development over the entire span of their life. Psychosocial theory is composed of eight stages of interaction with the social environment, with each stage building upon the previous ones.</td></tr>
 </table>
+
+<div class="callout activity" markdown="1">
+
+### Worksheet #2: Apply Your Understanding
+
+Think of a program or service that your library offers to teens. How does your new knowledge of youth development change your understanding of the program’s value or impact? How can you use the science of youth development to improve your programs and services for teens? 
+
+* Describe the program or service you are thinking of in one or two sentences: 
+* What stage of cognitive development are the participants in, according to Piaget? 
+* How does your program or service provide scaffolding and cognitive tools for teens? 
+* What ecological systems are influencing the teens who participate in the program or service?  
+
+</div>

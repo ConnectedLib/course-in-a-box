@@ -16,3 +16,6 @@ The SEL "settings" are, similar to Bronfenbrenner’s ecological systems, four d
 </td></tr>
 
 </table>
+
+
+<iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="958" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="SEL Settings"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
