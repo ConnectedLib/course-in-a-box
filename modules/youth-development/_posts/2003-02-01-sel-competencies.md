@@ -42,3 +42,15 @@ Helping teens see connections between today’s behaviors and future consequence
 </table>
 
 *Definitions are from [CASEL’s Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}.*
+
+<div class="callout activity" markdown="1">
+
+## Worksheet #3: The CASEL Settings
+
+Explore [CASEL's Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}, then answer the following questions. 
+
+* What is the library’s place in the “settings” part of the wheel? 
+* Are there any ways you can apply the information about “classrooms” to the library? 
+* Which of the competencies do you see as strongest in the teens of your community? How could the library help them strengthen the competencies that are less developed? 
+
+</div>
