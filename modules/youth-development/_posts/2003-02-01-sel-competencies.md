@@ -45,7 +45,7 @@ Helping teens see connections between today’s behaviors and future consequence
 
 <div class="callout activity" markdown="1">
 
-## Worksheet #3: The CASEL Settings
+## [Worksheet #3: The CASEL Settings](https://docs.google.com/document/d/1PZJ_VmpqentsoFv__xt5jRH5g8Ta0u4-2i3XAW4HuKU/edit#heading=h.q0jrmlw992w9){:target="_blank"}
 
 Explore [CASEL's Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}, then answer the following questions. 
 
