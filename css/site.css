@@ -14,7 +14,7 @@ h1 {
 }
 
 .content h2 {
-font-size: 1.1em;
+font-size: 1.25em;
 
 }
 
@@ -255,19 +255,17 @@ line-height:  2em;
 .videotime {
   /* color:#3fb58e;
   background: #caf6e6;
-  border-radius: 10px; */
+  border-radius: 10px;*/
   display: inline-block;
   border-width: 0 0 0 2px;
-  padding: 0px;
+  padding: 8px 13px 8px 34px;
   background-image: url(../img/clock.svg);
   background-size: 18px;
   background-position: 10px center;
   background-repeat: no-repeat;
   float:none;
   width:  85px;
-  margin-left:  40px;
-  margin-right:  10px;
-  margin-bottom: 10px;
+  margin:  10px;
 }
 
 
