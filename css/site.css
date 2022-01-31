@@ -337,6 +337,29 @@ line-height:  2em;
   text-align: center !important;
 }
 
+
+/* COLOR HIGHLIGHTS TO REPLACE COLOR TABLES */
+
+.colorhighlight {
+  border-width:0px 0px 0px 25px; 
+  border-style:solid; 
+  padding:20px; 
+  margin-top: 20px
+}
+
+.color1 {
+  border-color: #85c0fe; /* blue */
+}
+
+
+.color2 {
+  border-color:  lightpink;
+}
+
+.color3 {
+  border-color: #fffd86; /* yellow */
+}
+
 /* 
 
  Using the Toolkit:  How To by Caesar Rizky Kurniawan from NounProject.com
