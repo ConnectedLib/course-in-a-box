@@ -19,7 +19,7 @@ font-size: 1.25em;
 }
 
 
-p {
+p, table, td, th, tr {
   line-height:  1.7;
   font-family:  Merriweather, serif;
   margin-bottom: 25px;
@@ -265,7 +265,7 @@ line-height:  2em;
   background-repeat: no-repeat;
   float:none;
   width:  85px;
-  margin:  10px;
+  margin-right:  10px;
 }
 
 
