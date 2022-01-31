@@ -21,6 +21,6 @@ Think of a program or service that your library offers to teens. How does your n
 * Describe the program or service you are thinking of in one or two sentences: 
 * What stage of cognitive development are the participants in, according to Piaget? 
 * How does your program or service provide scaffolding and cognitive tools for teens? 
-* What ecological systems are influencing the teens who participate in the program or service?  
+* Are there opportunities to create a mesosystem by connecting the library to another context in teens' lives?  
 
 </div>
