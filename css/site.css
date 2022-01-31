@@ -254,21 +254,24 @@ line-height:  2em;
 /* VIDEO METADATA */
 .videotime {
   /* color:#3fb58e;
-  background: #caf6e6;
-  border-radius: 10px;*/
+  background: #caf6e6; */
+  border-radius: 10px;
   display: inline-block;
-  border-width: 0 0 0 2px;
-  padding: 8px 13px 8px 34px;
+  border-width: 1px;
+  border-color:  #000;
+  / *padding: 8px 13px 8px 34px;
   background-image: url(../img/clock.svg);
   background-size: 18px;
   background-position: 10px center;
   background-repeat: no-repeat;
-  float:none;
+  float:none; /*
   width:  85px;
-  margin-right:  10px;
+  margin-right:  10px; */
 }
 
-
+.videotime::before {
+  content:  "⏱";
+  }
 
 
 
