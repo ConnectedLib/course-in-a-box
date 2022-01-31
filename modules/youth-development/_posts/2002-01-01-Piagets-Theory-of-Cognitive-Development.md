@@ -22,7 +22,7 @@ Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-19
 
 People organize what they learn from their experiences into mental frameworks called **schemas** that help them make sense of the world.
 
-Example: _Fourteen-year-old Julia has developed schemas around what she and her peers consider on trend or out of style. She also has schemas for gender roles (girls can’t ask boys out) and what career paths are available to her (girls aren’t good at math, so she shouldn’t consider a STEM career)._
+**Example:** _Fourteen-year-old Julia has developed schemas around what she and her peers consider on trend or out of style. She also has schemas for gender roles (girls can’t ask boys out) and what career paths are available to her (girls aren’t good at math, so she shouldn’t consider a STEM career)._
 
 </div>
 
@@ -32,21 +32,21 @@ Example: _Fourteen-year-old Julia has developed schemas around what she and her 
 
 We **assimilate** new information into our existing schemas.
 
-Example: _Julia grew up in a community mostly populated by people of a similar background. She has created schemas about people from another ethnic group based on TV, movies, and things she’s heard people say. When she reads something that fits with this stereotype, she_ absorbs _or_ assimilates _it into her existing schema._
+**Example:** _Julia grew up in a community mostly populated by people of a similar background. She has created schemas about people from another ethnic group based on TV, movies, and things she’s heard people say. When she reads something that fits with this stereotype, she_ absorbs _or_ assimilates _it into her existing schema._
 
 </div>
 
-<div class="colorhighlight border3" markdown="1">
+<div class="colorhighlight color3" markdown="1">
 
 ### Accommodation
 
 We **accommodate** new information that doesn’t fit into our schemas by altering our beliefs.
 
-Example: _Julia’s family moves to a new town and she enters a high school with students from many different ethnic and cultural backgrounds. Her interactions with new friends may result in experiences that do not fit into her existing schemas, prompting her to change or alter her beliefs to accommodate the new information._
+**Example:** _Julia’s family moves to a new town and she enters a high school with students from many different ethnic and cultural backgrounds. Her interactions with new friends may result in experiences that do not fit into her existing schemas, prompting her to change or alter her beliefs to accommodate the new information._
 
 </div>
 
-### Stages of Cognitive Development
+## Stages of Cognitive Development
 
 Instead of viewing children as miniature adults -- a common attitude in his time -- Piaget theorized that intellectual growth moves through a series of stages:
 
