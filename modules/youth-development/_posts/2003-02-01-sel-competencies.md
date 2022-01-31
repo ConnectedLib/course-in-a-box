@@ -26,12 +26,19 @@ The competencies represent knowledge and skills in five different facets of soci
 
 </div>
 
+<div class="colorhighlight color2" markdown="1">
+
+## Self-management
+
+“The abilities to manage one’s emotions, thoughts, and behaviors effectively in different situations and to achieve goals and aspirations.”
+
+* Helping teens identify goals and steps towards achieving those goals
+* Mentors and other adults may express negative emotions, but also demonstrate strategies to help them regulate those feelings
+
+</div>
+
 <table>
-	<tr><th bgcolor="lightpink">Self-management</th><td>“The abilities to manage one’s emotions, thoughts, and behaviors effectively in different situations and to achieve goals and aspirations.”
-<ul><li>
-Helping teens identify goals and steps towards achieving those goals</li>
-<li>Mentors and other adults may express negative emotions, but also demonstrate strategies to help them regulate those feelings</li></ul>
-	</td></tr>
+
 	<tr><th bgcolor="#fffd86">Social Awareness</th><td>“The abilities to understand the perspectives of and empathize with others, including those from diverse backgrounds, cultures, and contexts.”</td></tr>
 <tr><th bgcolor="#85c0fe">Relationship skills</th><td>“The abilities to establish and maintain healthy and supportive relationships and to effectively navigate settings with diverse individuals and groups.”
 <ul><li>

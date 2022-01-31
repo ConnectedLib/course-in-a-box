@@ -259,12 +259,12 @@ line-height:  2em;
   display: inline-block;
   border-width: 1px;
   border-color:  #000;
-  / *padding: 8px 13px 8px 34px;
+  /* *padding: 8px 13px 8px 34px;
   background-image: url(../img/clock.svg);
   background-size: 18px;
   background-position: 10px center;
   background-repeat: no-repeat;
-  float:none; /*
+  float:none; */
   width:  85px;
   margin-right:  10px; */
 }
