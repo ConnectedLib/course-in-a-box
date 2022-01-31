@@ -10,12 +10,7 @@ Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-19
 
 <iframe src="https://www.youtube.com/embed/Tgu0eYwm4I8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-&#x23F0; 3:31 &124; *Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington*
-
-
-<div class="videotime" style="float:none;">3:31</div>
-
-
+&#x23F0; 3:31 \| *Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington*
 
 ## Key Concepts from Piaget's Cognitive Development Theory
 
