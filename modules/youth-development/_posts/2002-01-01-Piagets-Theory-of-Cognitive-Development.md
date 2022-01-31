@@ -27,21 +27,21 @@ Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-19
 
 Instead of viewing children as miniature adults -- a common attitude in his time -- Piaget theorized that intellectual growth moves through a series of stages:
 
-* Sensorimotor (birth to around age 2): Reasoning is largely dependent on perception. Babies’ senses help them understand and experiment with their environment, and they use their eyes, mouths, and hands to learn more about objects.
+* **Sensorimotor (birth to around age 2)**: Reasoning is largely dependent on perception. Babies’ senses help them understand and experiment with their environment, and they use their eyes, mouths, and hands to learn more about objects.
 
-* Preoperational (around ages 2 to 7): Children can mentally represent objects and events without needing to use senses like touching, hearing, or seeing. For example, in this stage children might pretend a block is a phone, and interact with it the way they would with a real phone.
+* **Preoperational (around ages 2 to 7)**: Children can mentally represent objects and events without needing to use senses like touching, hearing, or seeing. For example, in this stage children might pretend a block is a phone, and interact with it the way they would with a real phone.
 
-* Concrete operational (around ages 7 to 11): Children can perform inductive reasoning around concrete objects -- that is, they can logically generalize from a specific experience. For instance, if they sneeze a lot around their friend’s dog, they may conclude that they will be allergic to other dogs as well.
+* **Concrete operational (around ages 7 to 11)**: Children can perform inductive reasoning around concrete objects -- that is, they can logically generalize from a specific experience. For instance, if they sneeze a lot around their friend’s dog, they may conclude that they will be allergic to other dogs as well.
 
-* Formal operational (adolescence to adulthood): Teens and tweens start to be able to reason logically about abstract concepts like algebra, social justice, or freedom. They may begin to think more critically about moral or ethical issues, such as norms in an online community or principles regarding right or wrong. They are able to devise their own solutions and answers to problems without needing firsthand experience.
+* **Formal operational (adolescence to adulthood)**: Teens and tweens start to be able to reason logically about abstract concepts like algebra, social justice, or freedom. They may begin to think more critically about moral or ethical issues, such as norms in an online community or principles regarding right or wrong. They are able to devise their own solutions and answers to problems without needing firsthand experience.
 
-Researchers are finding that Piaget may have overestimated the reasoning skills of teens. Abstract and creative reasoning may exist in the teenage years, but recent research has found that the brain continues to develop up until the age of 25.
+Researchers today are finding that Piaget may have overestimated the reasoning skills of teens. Abstract and creative reasoning may exist in the teenage years, but recent research has found that the brain continues to develop up until the age of 25.
 
 ## Putting Cognitive Development Theory Into Practice
 
-Most new teens will be in the early formal operational stage. They can reason logically and apply specific knowledge to general contexts. They are probably moving towards or have already started applying logic and morality to abstract concepts, and constructing their own solutions to individual and societal problems. Ask yourself the following questions about your teen programming and services:
+Most early adolescents will be in the early formal operational stage. They can reason logically and apply specific knowledge to general contexts. They are probably moving towards or have already started applying logic and morality to abstract concepts, and constructing their own solutions to individual and societal problems. Ask yourself the following questions about your teen programming and services:
 
-* What relevant cognitive schemas do the participants have? Do they reflect reality or are they skewed or distorted?
+* What relevant cognitive schemas are the participants bringing with them?
 
 * Will the teens assimilate what they learn, or will they have to accommodate new information?
 

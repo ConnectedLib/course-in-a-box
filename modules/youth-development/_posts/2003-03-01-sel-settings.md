@@ -2,7 +2,7 @@
 title: The SEL Settings
 ---
 
-The SEL "settings" are, similar to Bronfenbrenner’s ecological systems, four different environments where youth learn social and emotional skills. When the settings are partnered and aligned, the youths’ SEL is even greater. 
+The SEL "settings" are four different environments where youth learn social and emotional skills (the settings are similar to [Bronfenbrenner’s ecological systems](2002-05-01-Bronfenbrenners-Ecological-Model)). When the settings are partnered and aligned, youths’ SEL is even greater. 
 
 <!--
 <table class="updatedcolor">
