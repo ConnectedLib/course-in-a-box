@@ -53,7 +53,7 @@ Other people support learning through social scaffolding. Like the temporary pla
 
 Blogger and former teacher JoEllen describes her personal experience with scaffolding and the ZPD in this excerpt from her cuppacocoa blog. She describes how she learned to parallel park: 
 
-"It wasn’t until a friend sat in my car and gave me the crucial tip to wait until the side-view mirror lined up just so with the parked car in front, that I finally figured it out. He got in the driver’s seat and showed me, and then he then sat in the passenger’s seat and coached me while I tried again... I was in the zone of proximal development for parallel parking. There was a good amount of driving technique I had down, but I needed some coaching to get parallel parking down. A friend was there, he saw what I was doing, knew how to fix it, and showed me the way."
+"It wasn’t until a friend sat in my car and gave me the crucial tip to wait until the side-view mirror lined up just so with the parked car in front, that I finally figured it out. He got in the driver’s seat and showed me, and then he sat in the passenger’s seat and coached me while I tried again... I was in the zone of proximal development for parallel parking. There was a good amount of driving technique I had down, but I needed some coaching to get parallel parking down. A friend was there, he saw what I was doing, knew how to fix it, and showed me the way."
 
 Read the rest of her post, [The Zone of Proximal Development](http://www.cuppacocoa.com/the-zone-of-proximal-development/){:target="_blank"}.
 

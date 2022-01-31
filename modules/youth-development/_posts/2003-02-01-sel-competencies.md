@@ -5,7 +5,7 @@ title: The SEL Competencies
 The SEL framework is composed of five competencies (self-awareness, self-management, social awareness, relationship skills, and responsible decision-making) that youth develop across four settings (classrooms, schools, families and caregivers, and communities).
 
 <iframe src="https://www.youtube.com/embed/ouXhi_CfBVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-⏱ 4:50 
+<div class="videotime">4:50</div>
 
 
 The competencies represent knowledge and skills in five different facets of social and emotional abilities. The table below defines each competency and describes some ways that library services and connected learning could support teens’ SEL. (The definitions are from [CASEL’s Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}.)
@@ -37,26 +37,39 @@ The competencies represent knowledge and skills in five different facets of soci
 
 </div>
 
-<table>
+<div class="colorhighlight color3" markdown="1">
 
-	<tr><th bgcolor="#fffd86">Social Awareness</th><td>“The abilities to understand the perspectives of and empathize with others, including those from diverse backgrounds, cultures, and contexts.”</td></tr>
-<tr><th bgcolor="#85c0fe">Relationship skills</th><td>“The abilities to establish and maintain healthy and supportive relationships and to effectively navigate settings with diverse individuals and groups.”
-<ul><li>
-Teens work collaboratively in groups</li>
-<li>Library staff help groups identify and assign group roles</li>
-<li>Mentors and other adults demonstrate conflict resolution strategies</li>
-</ul>
+## Social Awareness
 
-</td></tr>
+“The abilities to understand the perspectives of and empathize with others, including those from diverse backgrounds, cultures, and contexts.”
+
+</div>
+
+<div class="colorhighlight color1" markdown="1">
+
+## Relationship skills
+
+“The abilities to establish and maintain healthy and supportive relationships and to effectively navigate settings with diverse individuals and groups.”
+
+* Teens work collaboratively in groups
+* Library staff help groups identify and assign group roles
+* Mentors and other adults demonstrate conflict resolution strategies
+
+</div>
 
 
-<tr><th bgcolor="lightpink">Responsible decision-making</th><td>“The abilities to make caring and constructive choices about personal behavior and social interactions across diverse situations.”
-<ul><li>
-Helping teens see connections between today’s behaviors and future consequences </li>
-<li>Allowing teens to (safely) “fail” and learn from mistakes</li></ul>
-	</td></tr>
-</table>
+<div class="colorhighlight color2" markdown="1">
 
+## Responsible decision-making
+
+
+“The abilities to make caring and constructive choices about personal behavior and social interactions across diverse situations.”
+
+* Helping teens see connections between today’s behaviors and future consequences
+* Allowing teens to (safely) “fail” and learn from mistakes
+
+</div>
+	
 *Definitions are from [CASEL’s Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}.*
 
 <div class="callout activity" markdown="1">

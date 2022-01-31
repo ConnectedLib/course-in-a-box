@@ -20,3 +20,16 @@ The SEL "settings" are four different environments where youth learn social and 
 -->
 
 <iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="958" height="564" frameborder="0" allowfullscreen="allowfullscreen" title="SEL Settings"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+<div class="callout activity" markdown="1">
+
+## [Worksheet #3: The CASEL Settings](https://docs.google.com/document/d/1PZJ_VmpqentsoFv__xt5jRH5g8Ta0u4-2i3XAW4HuKU/edit#heading=h.q0jrmlw992w9){:target="_blank"}
+
+Explore [CASEL's Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}, then answer the following questions. 
+
+* What is the library’s place in the four outer rings that form the “settings” part of the wheel? 
+* Are there any ways you can apply the information about “classrooms” to the library? 
+* Which of the competencies do you see as strongest in the teens of your community? How could the library help them strengthen the competencies that are less developed? 
+
+</div>

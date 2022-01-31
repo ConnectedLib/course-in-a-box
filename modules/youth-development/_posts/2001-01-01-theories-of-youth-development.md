@@ -3,7 +3,7 @@ title: Theories of Youth Development
 tags: ['sectionHead']
 ---
 
-Youth development can be approached from many perspectives. In this section, you will be introduced to key theories of child and adolescent development. In particular, we focus on:
+Youth development can be approached from many perspectives. In this section, you will be introduced to key theories of children's development into adolesence. In particular, we focus on:
 
 <table class="updatedcolor">
 	<tr><th bgcolor="#85c0fe">Piaget's Cognitive Development Theory</th><td>Cognitive development progresses through four distinct stages; people construct knowledge and meaning from their experiences</td></tr>
