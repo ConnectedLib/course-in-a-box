@@ -1,5 +1,5 @@
 ---
-title: Module Overview 
+title: Youth Development 
 tags: ['sectionHead']
 permalink: /modules/youth-development/
 ---

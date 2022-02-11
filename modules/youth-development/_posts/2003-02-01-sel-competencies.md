@@ -69,17 +69,4 @@ The competencies represent knowledge and skills in five different facets of soci
 * Allowing teens to (safely) “fail” and learn from mistakes
 
 </div>
-	
-*Definitions are from [CASEL’s Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}.*
 
-<div class="callout activity" markdown="1">
-
-## [Worksheet #3: The CASEL Settings](https://docs.google.com/document/d/1PZJ_VmpqentsoFv__xt5jRH5g8Ta0u4-2i3XAW4HuKU/edit#heading=h.q0jrmlw992w9){:target="_blank"}
-
-Explore [CASEL's Interactive Wheel](https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/#interactive-casel-wheel){:target="_blank"}, then answer the following questions. 
-
-* What is the library’s place in the “settings” part of the wheel? 
-* Are there any ways you can apply the information about “classrooms” to the library? 
-* Which of the competencies do you see as strongest in the teens of your community? How could the library help them strengthen the competencies that are less developed? 
-
-</div>
