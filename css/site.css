@@ -14,7 +14,7 @@ h1 {
 }
 
 .content h2 {
-font-size: 1.3em;
+font-size: 1.4em;
 
 }
 
@@ -38,29 +38,6 @@ p, table, td, th, tr {
   color: #377a5e !important;
   font-weight: bold;
   text-decoration:  underline;
-}
-
-
-/* TASKS */
-
-.tasks {
- border-radius: 10px;
- padding: 20px 20px 10px 20px;
- margin-bottom: 25px;
-line-height:  1.3em;
-background: lightpink; 
-border-left: solid 10px hotpink;
-}
-
-.tasks ul {
-      list-style:  none;
-}
-
-.tasks li:before
-{
-
-    content: "\2610";
-    margin-right:5px;
 }
 
 
@@ -166,8 +143,8 @@ blockquote {
 
 /* VIDEOS BOX */
 .videos {
-background: lavender; 
-border-left: solid 10px purple;
+background: dimgray; 
+border-left: solid 10px darkgray;
 }
 
 iframe {
@@ -258,10 +235,10 @@ line-height:  2em;
 .videotime {
   /* color:#3fb58e;
   background: #caf6e6; */
-  border-radius: 10px;
+  border-radius: 0px;
   display: inline-block;
-  border: solid 1px #000000;
-  /* *padding: 8px 13px 8px 34px;
+  /* border: solid 1px #000000;
+  *padding: 8px 13px 8px 34px;
   background-image: url(../img/clock.svg);
   background-size: 18px;
   background-position: 10px center;
@@ -272,7 +249,7 @@ line-height:  2em;
 }
 
 .videotime::before {
-  content:  "⏱ ";
+  content:  " ⏱ ";
   }
 
 
