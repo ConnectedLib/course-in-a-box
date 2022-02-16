@@ -1,7 +1,6 @@
 ---
 title: What is Mentoring?
 tags: ['sectionHead']
-
 ---
 > A mentor is a person or friend who guides a less experienced person by building trust and modeling positive behaviors. An effective mentor understands that his or her role is to be dependable, engaged, authentic, and tuned into the needs of the mentee.<br/><br/>-- [Oregon Youth Challenge Program Mentor Training](https://www.oycp.com/MentorTraining/3/m3.html)
 
@@ -17,4 +16,4 @@ Although mentors who work with libraries are often volunteers from the community
 ## Making an impact with mentoring
 <iframe src="https://www.youtube.com/embed/1t0_D7UcfgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<div class="videotime" style="float:left;">2:54</div>
+<div class="videotime">2:54</div>

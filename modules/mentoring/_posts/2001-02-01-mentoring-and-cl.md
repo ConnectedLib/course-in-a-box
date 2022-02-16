@@ -11,8 +11,7 @@ Mentoring relationships offer someone to generate ideas with, engage in discussi
 
 ### Mentoring supporting interests
 <iframe src="https://www.youtube.com/embed/_T04VKsyBfs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<div class="videotime" style="float:left;">3:18</div>
+<div class="videotime">3:18</div>
  
 ## Relationships
 
@@ -24,7 +23,7 @@ Supportive relationships with caring adults often reduce negative outcomes and c
 
 <iframe src="https://www.youtube.com/embed/JEbad3WM-Hw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<div class="videotime" style="float:left;">3:40</div>
+<div class="videotime">3:40</div>
 
 ## Opportunity
 
@@ -34,4 +33,4 @@ Mentoring experiences can support academic success, build career-related skills,
 
 <iframe src="https://www.youtube.com/embed/jSG-HFyZy0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<div class="videotime" style="float:left;">2:02</div>
+<div class="videotime">2:02</div>

@@ -22,7 +22,7 @@ Learning that engages all of these spheres is learning teens want to do because 
 
 <iframe src="https://www.youtube.com/embed/HacgaDN971Y?start=432&end=612" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<div class="videotime" style="float:left;">3:00</div>
+<div class="videotime">3:00</div>
 
 
 _This is an excerpt from a longer talk. You can see the [full 18-minute video on YouTube](https://www.youtube.com/watch?v=HacgaDN971Y){:target="_blank"}._
