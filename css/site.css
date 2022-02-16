@@ -18,6 +18,11 @@ font-size: 1.4em;
 
 }
 
+.callout h2 {
+font-size: 1.2em;
+
+}
+
 .content h3 {
   font-size: 1.20em;
 }
@@ -148,7 +153,7 @@ background: darkgray;
 }
 
 iframe {
-  width: 90%;
+  width: 95%;
   height: 400px;
   margin-top:  10px;
   margin-bottom:  0px;
