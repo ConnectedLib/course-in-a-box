@@ -73,8 +73,8 @@ One youth services librarian found that her local community was “…rich in te
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/PcZG4stgg8g?start=0&end=93" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime">1:33</div>
-_This is an excerpt from a longer video. You can see the [full 3-minute video on YouTube](https://www.youtube.com/watch?v=HacgaDN971Y){:target="_blank"}._
+<div class="videotime" markdown="1">1:33 | _This is an excerpt from a longer video. You can see the [full 3-minute video on YouTube](https://www.youtube.com/watch?v=HacgaDN971Y){:target="_blank"}._</div>
+
 </div>
 
 ### Connecting young people with local organizations
