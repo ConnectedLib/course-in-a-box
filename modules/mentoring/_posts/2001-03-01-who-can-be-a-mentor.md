@@ -15,7 +15,7 @@ You can find mentors within your library staff, the youth themselves, and member
 
 ### Academic assistance that supports school projects
 
->“… we offer Capstone support every week for anyone who needs assistance with their Capstone. We also have mentors here… we’re working individually with youth on making sure that they’re on task with their Capstones.”
+>“… we offer Capstone support every week for anyone who needs assistance with their Capstone. We also have mentors here… we’re working individually with youth on making sure that they’re on task with their Capstones.”<br/><br/>— Youth librarian at an urban northeastern library
 
 Youth librarians can support teens through programs designed to increase academic success and build career related skills. At an urban northeastern library, youth librarians and teen mentors collaborate to support the local high school’s senior capstone project.
 
@@ -24,7 +24,7 @@ Youth librarians can support teens through programs designed to increase academi
 By providing access to mentors from the community, youth librarians may be able to help teens develop career and personal interests in ways that their immediate family, teachers, or peers may not. At the Providence Public Library, youth interested in fashion and art connected with design educators and students from a local college. For instance, at one workshop, a teenage boy interested in fashion was able to meet a college student who shared a similar background.
 
 ### Digital media mentors        
-> “If a teen comes to one of us and say ‘I want to do this thing’ and if none of us know how to do it, we sit down and we figure out how to do it together whether it be trying to find information in the book, looking up a tutorial on YouTube, reaching out to maybe another mentor or someone else in our life, who might know what’s going on.” <br/><br/>– Teen Librarian at a suburban northeast library    
+> “If a teen comes to one of us and say ‘I want to do this thing’ and if none of us know how to do it, we sit down and we figure out how to do it together whether it be trying to find information in the book, looking up a tutorial on YouTube, reaching out to maybe another mentor or someone else in our life, who might know what’s going on.” <br/><br/>– Teen Librarian at a suburban northeastern library    
 
 Youth librarians can play a distinct role in helping young people navigate our digital world. New technology like 3D printers or advanced concepts like coding can be intimidating, and library staff can encourage youth to experiment and explore, or collaborating and working through problems together.
 
@@ -32,13 +32,15 @@ Youth librarians can play a distinct role in helping young people navigate our d
 
 Peer mentors acquire leadership skills from their interactions with mentees. Teens can help each other prepare for college entrance exams, complete school projects, and experiment with new technologies. They can help expand library capacity by providing additional support, while benefiting from the experience themselves. 
 
+<div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/Fu_SfXxkGhM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">3:59</div>
+</div>
 
 
 ### Teens can develop into mentors by “geeking out” with the library’s resources
 
->“… He was a teen and then he graduated to what we call Geek Status and now he’s teaching other teens how to use the [recording] studio.”<br/><br/> — Teen Librarian at a suburban northeast library
+>“… He was a teen and then he graduated to what we call Geek Status and now he’s teaching other teens how to use the [recording] studio.”<br/><br/> — Teen Librarian at a suburban northeastern library
 
 Some libraries have trained high school students to operate and teach technology in libraries studios which may include 3D printers, tablets, and design software. Library staff can encourage teens to “geek out” by designing their own programming for other teens while staff mentors guide them and offer feedback.
 
@@ -52,14 +54,16 @@ A youth services coordinator described how her teen advisory board helped develo
 
 ## Community Members as Mentors
 
->We will be renovating our library garden this next summer.  The local garden club will be actively involved in that project, and we are calling the space our outdoor classroom.  This could be a chance to do lots of mentoring. <br/><br/>- Sonya Harsha
+>We will be renovating our library garden this next summer.  The local garden club will be actively involved in that project, and we are calling the space our outdoor classroom.  This could be a chance to do lots of mentoring. <br/><br/>- Sonya Harsha, Algona (IA) Public Library
 
 >“… find people from the community that will come in and either teach something that they’re already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.” <br/><br/>— Librarian at an urban western library
 
 Libraries have a longstanding tradition of connecting youth to community members, often for help with job seeking, technology training, or career development. 
 
+<div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/cIWcevekZYo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">2:43</div>
+</div>
 
 
 ### Connecting youth with experts in the community
@@ -67,9 +71,11 @@ Libraries have a longstanding tradition of connecting youth to community members
 
 One youth services librarian found that her local community was “…rich in terms of artists, writers, and scientists.” She brought youth and adults together “…so that kids can meet adults that they may not meet at school or through their families.”
 
+<div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/PcZG4stgg8g?start=0&end=93" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">1:33</div>
 _This is an excerpt from a longer video. You can see the [full 3-minute video on YouTube](https://www.youtube.com/watch?v=HacgaDN971Y){:target="_blank"}._
+</div>
 
 ### Connecting young people with local organizations
 
