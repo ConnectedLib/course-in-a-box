@@ -148,7 +148,8 @@ blockquote {
 
 /* VIDEOS BOX */
 .videos {
-background: darkgray; 
+background: #000000;
+color:  #FFFFFF; 
 /* border-left: solid 10px darkgray; */
 }
 
@@ -238,8 +239,8 @@ line-height:  2em;
 
 /* VIDEO METADATA */
 .videotime {
-  /* color:#3fb58e;
-  background: #caf6e6; */
+  color:#FFFFFF;
+  /* background: #caf6e6; */
   border-radius: 0px;
   display: inline-block;
   /* border: solid 1px #000000;
