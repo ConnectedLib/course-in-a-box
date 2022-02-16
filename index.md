@@ -30,6 +30,10 @@ published: true
 <div class="grid-item"> <a href="modules/youth-development/"><div>youth<br/>development<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/youth-development.png" width="90px" ALT="Youth Development"/>
 </div></a></div>
+
+<div class="grid-item"> <a href="modules/mentoring/"><div>mentoring<br/>
+ <img src="{{ site.baseurl }}/img/moduleLogos/mentoring.png" width="90px" ALT="Mentoring"/>
+</div></a></div>
  <!-- NOT READY YET 
 
   <div class="grid-item"><a href="modules/programming/"><div>
@@ -52,11 +56,6 @@ published: true
  <div class="grid-item"><a href="modules/design-thinking/index.html"><div>design<br/>thinking<br/>
     <img src="{{site.url}}{{site.baseurl}}/assets/img/design-thinkingModuleIcon.png" width="90px"/></div></a></div>
 
-<div class="grid-item"><a href="modules/youth-development/index.html"><div>youth<br/>development<br/>
-    <img src="{{site.url}}{{site.baseurl}}/assets/img/youth-developmentModuleIcon.png" width="90px"/></div></a></div>
-
-  <div class="grid-item"><a href="modules/mentoring/index.html"><div>mentoring<br/>&nbsp;<br/>
-    <img src="{{site.url}}{{site.baseurl}}/assets/img/mentoringModuleIcon.png" width="90px"/></div></a></div>
 
   -->
 
