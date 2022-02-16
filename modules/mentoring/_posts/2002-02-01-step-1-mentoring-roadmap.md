@@ -1,5 +1,5 @@
 ---
-title: Step 1/: Create your mentoring roadmap
+title: Step 1 - Create your mentoring roadmap
 ---
 
 It’s important to understand your community and begin developing your mentoring roadmap, or basic plan for how you will execute your program. Consult the Creating Community-Centered Services module to learn more.
@@ -15,10 +15,6 @@ As with any program or service design process, it’s helpful to start with the 
 Having clearly expressed goals will also make it easier to recruit mentors for your program, particularly if you are working with other organizations or businesses to obtain mentors. 
 
 > "We identified some of the businesses we worked with as partners and sent a survey about their participation with our program, and it became clear that we were weak on presenting goals for the partnership and clear communication.  These should be outlined."" -- Sonya Harsha
-
-Building Trust and Mentoring Youth - start from about 9:16 to 11:13
-
-https://www.youtube.com/watch?v=
 
 <iframe src="https://www.youtube.com/embed/Uv8a6RiFZ2E?start=556&end=673" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">1:57</div>
