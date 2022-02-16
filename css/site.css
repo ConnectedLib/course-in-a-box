@@ -143,15 +143,15 @@ blockquote {
 
 /* VIDEOS BOX */
 .videos {
-background: dimgray; 
-border-left: solid 10px darkgray;
+background: darkgray; 
+/* border-left: solid 10px darkgray; */
 }
 
 iframe {
   width: 90%;
   height: 400px;
   margin-top:  10px;
-  margin-bottom:  10px;
+  margin-bottom:  0px;
   /* margin-left:  40px; */
   border:  solid 2px #000;
 }

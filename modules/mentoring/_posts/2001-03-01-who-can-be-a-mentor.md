@@ -8,7 +8,7 @@ An effective mentor must understand how the experience will affect youth and how
 * Offer encouragement and role modeling. Through working together, youth and mentors can problem-solve and collaborate. Mentors share their skills, knowledge, expertise.
 * Put in the time. Mentors and youth who spend time together on a consistent basis over long periods of time can create lasting bonds.
 
-[something here introducing next three sections]
+You can find mentors within your library staff, the youth themselves, and members of your community. 
 
 ## Library Staff as Mentors
 >  “My primary way of interacting with teenagers is remembering that I’m not their teacher, I’m not their parent. I am someone who’s older, who may have more life experience, but I’m someone to help facilitate what they wanna do… There are a lot of different ways that you can successfully interact with teenagers as a librarian, but a lot of it really depends on your personal style.” –urban western library 
