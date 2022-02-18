@@ -53,3 +53,17 @@ Library organizations such as American Libraries Association and YALSA, as well 
 > “I actually call people a lot and I text people and I follow people on their Instagrams. And then I actually like getting together with people in real life and having dinner…”<br/><br/> — Adult Librarian at an urban western library
 
 Informal mentoring also occurs when library workers network with others in the field. Likewise, social media can allow you to connect with and meet other library workers and discuss ideas in a group format. You can also week out mentors and connections with people outside of public libraries, such as teachers, professionals in STEM fields, parents of tweens and teens, and faculty within library schools.
+
+<div class="callout activity" markdown="1">
+	
+## [Worksheet #6: Anticipating Challenges](https://docs.google.com/document/d/1MN0NPnxHub2tFqB4HR8EkBLgRkUU6Y-pYUmuyCF6fe0/edit#heading=h.5qg00gbbili3){:target="_blank"}
+
+Use this worksheet to anticipate and problem-solve challenges you might face relating to mentoring. In the first column, list any barriers, concerns, or pain points. In the second column, think about what kind of resources can help you overcome those barriers. Finally, in the third column, brainstorm some activities you can undergo that will help you get those resources. 
+
+Here is a sample worksheet completed by some of our ConnectedLib librarian partners: 
+
+
+<img src="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png"  ALT="Mentoring issues worksheet"  />
+
+</div>
+
