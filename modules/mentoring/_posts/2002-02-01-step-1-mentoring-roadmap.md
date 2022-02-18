@@ -17,11 +17,13 @@ As with any program or service design process, it’s helpful to start with the 
 Having clearly expressed goals will also make it easier to recruit mentors for your program, particularly if you are working with other organizations or businesses to obtain mentors. 
 
 
-<!-- <div class="callout videos" markdown="1">
+<div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/Uv8a6RiFZ2E?start=556&end=673" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime" markdown="1">1:57 | _This is an excerpt from a longer video. You can see the [full 13-minute video on YouTube](https://www.youtube.com/embed/Uv8a6RiFZ2E){:target="_blank"}._</div></div> -->
+<div class="videotime" markdown="1">1:57 | _This is an excerpt from a longer video. You can see the [full 13-minute video on YouTube](https://www.youtube.com/embed/Uv8a6RiFZ2E){:target="_blank"}._</div></div> 
 
-<div class="videotime" markdown="1">1:57 | _This is an excerpt from a longer video. You can see the [full 13-minute video on YouTube](https://www.youtube.com/embed/Uv8a6RiFZ2E){:target="_blank"}._</div>
+<!-- 
+	<div class="videotime" markdown="1">1:57 | _This is an excerpt from a longer video. You can see the [full 13-minute video on YouTube](https://www.youtube.com/embed/Uv8a6RiFZ2E){:target="_blank"}._</div> 
+-->
 
 
 ## Fill in the details
