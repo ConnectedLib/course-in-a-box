@@ -34,8 +34,7 @@ Peer mentors acquire leadership skills from their interactions with mentees. Tee
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/Fu_SfXxkGhM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime">3:59</div>
-</div>
+<div class="videotime">3:59</div></div>
 
 
 ### Teens can develop into mentors by “geeking out” with the library’s resources
@@ -62,8 +61,7 @@ Libraries have a longstanding tradition of connecting youth to community members
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/cIWcevekZYo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime">2:43</div>
-</div>
+<div class="videotime">2:43</div></div>
 
 
 ### Connecting youth with experts in the community
