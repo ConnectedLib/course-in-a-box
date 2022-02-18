@@ -16,3 +16,25 @@ Although mentors who work with libraries are often volunteers from the community
 <iframe src="https://www.youtube.com/embed/1t0_D7UcfgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">2:54</div>
 </div>
+
+<div class="callout activity" markdown="1">
+	
+## [Worksheet #2: Your Experiences](https://docs.google.com/document/d/1MN0NPnxHub2tFqB4HR8EkBLgRkUU6Y-pYUmuyCF6fe0/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
+
+
+Have you ever been a mentee, or experienced a mentee-like relationship with someone? How would you complete the following reflective prompts? 
+
+* When I was a mentee...
+* I learned...
+* One thing that could have improved my experiences as a mentee was...
+
+
+Have you ever been a mentor, or experienced a mentor-like relationship with someone? How would you complete the following reflective prompts? 
+
+* When I was a mentor...
+* I learned...
+* My mentee learned...
+* One thing that could have improved my experiences as a mentor was...
+
+
+</div>

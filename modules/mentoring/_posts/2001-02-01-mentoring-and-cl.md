@@ -33,3 +33,12 @@ Mentoring experiences can support academic success, build career-related skills,
 <iframe src="https://www.youtube.com/embed/jSG-HFyZy0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">2:02</div>
 </div>
+
+<div class="callout activity" markdown="1">
+	
+## [Worksheet #3: Mentoring and Connected Learning](https://docs.google.com/document/d/1MN0NPnxHub2tFqB4HR8EkBLgRkUU6Y-pYUmuyCF6fe0/edit#heading=h.5zgjr1t6m4px){:target="_blank"}
+
+Think about the mentoring and/or mentee experiences you described in Worksheet #2. How did they relate to the spheres of connected learning: interests, relationships, and opportunity? 
+
+</div>
+
