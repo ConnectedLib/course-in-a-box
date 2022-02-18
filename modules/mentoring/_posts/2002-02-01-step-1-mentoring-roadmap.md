@@ -89,3 +89,28 @@ Think about your matching process:
 * Is there any incentive/recognition for the mentors?
 
 Make a plan for launching or promoting the mentoring opportunities or connecting with possible community partners and organizations. Craft a message and talking points to deliver and present to local organizations.
+
+<div class="callout activity" markdown="1">
+	
+## [Worksheet #4: Mentoring Roadmap](https://docs.google.com/document/d/1MN0NPnxHub2tFqB4HR8EkBLgRkUU6Y-pYUmuyCF6fe0/edit#heading=h.jdbvlegsfj5l){:target="_blank"}
+
+Use this worksheet to start building your mentoring roadmap. 
+
+</div>
+
+<div class="callout activity" markdown="1">
+	
+## [Worksheet #5: Mentoring Policies](https://docs.google.com/document/d/1MN0NPnxHub2tFqB4HR8EkBLgRkUU6Y-pYUmuyCF6fe0/edit#heading=h.g8fzdhvtyal1){:target="_blank"}
+
+Use this worksheet to start developing your mentoring policies. 
+
+</div>
+
+
+
+
+
+
+
+
+
