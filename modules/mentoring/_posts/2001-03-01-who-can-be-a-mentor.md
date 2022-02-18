@@ -69,9 +69,11 @@ Libraries have a longstanding tradition of connecting youth to community members
 
 One youth services librarian found that her local community was “…rich in terms of artists, writers, and scientists.” She brought youth and adults together “…so that kids can meet adults that they may not meet at school or through their families.”
 
-<div class="callout videos" markdown="1">
+<div class="callout videos">
 <iframe src="https://www.youtube.com/embed/PcZG4stgg8g?start=0&end=93" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime" markdown="1">1:33 | _This is an excerpt from a longer video. You can see the [full 3-minute video on YouTube](https://www.youtube.com/watch?v=HacgaDN971Y){:target="_blank"}._</div></div>
+<div class="videotime">1:33 | <i>This is an excerpt from a longer video. You can see the 
+<a href="https://www.youtube.com/watch?v=HacgaDN971Y" target="_blank">full 3-minute video on YouTube</a>.</i></div></div> 
+
 
 ### Connecting young people with local organizations
 
