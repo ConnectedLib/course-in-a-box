@@ -60,10 +60,10 @@ Informal mentoring also occurs when library workers network with others in the f
 
 Use this worksheet to anticipate and problem-solve challenges you might face relating to mentoring. In the first column, list any barriers, concerns, or pain points. In the second column, think about what kind of resources can help you overcome those barriers. Finally, in the third column, brainstorm some activities you can undergo that will help you get those resources. 
 
-Here is a sample worksheet completed by some of our ConnectedLib librarian partners: 
+Here is a sample worksheet completed by some of our ConnectedLib librarian partners (click to enlarge): 
 
 
-<img src="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png"  ALT="Mentoring issues worksheet"  />
+<a href=""{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png""><img src="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png"  ALT="Mentoring issues worksheet"  /></a>
 
 </div>
 
