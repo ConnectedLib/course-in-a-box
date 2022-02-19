@@ -63,7 +63,7 @@ Use this worksheet to anticipate and problem-solve challenges you might face rel
 Here is a sample worksheet completed by some of our ConnectedLib librarian partners (click to enlarge): 
 
 
-<a href=""{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png""><img src="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png"  ALT="Mentoring issues worksheet"  /></a>
+<a href="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png"><img src="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png"  ALT="Mentoring issues worksheet"  /></a>
 
 </div>
 
