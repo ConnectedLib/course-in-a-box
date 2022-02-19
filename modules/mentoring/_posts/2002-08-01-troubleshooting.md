@@ -5,7 +5,10 @@ tags: ['sectionHead']
 
 It can be challenging to create successful mentorship experiences. It may take several attempts, plenty of time, and significant effort to build a supportive community with meaningful relationships. This section outlines some common challenges and solutions. 
 
-Building Trust and Mentoring Youth - start from about 11:13 to 12:07
+<div class="callout videos">
+<iframe src="https://www.youtube.com/watch?v=Uv8a6RiFZ2E?start=673&end=723" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">1:33 | <i>This is an excerpt from a longer video. You can see the 
+<a href="https://www.youtube.com/watch?v=HacgaDN971Y" target="_blank">full 13-minute video on YouTube</a>.</i></div></div> 
 
 ## Unique Communities
 
@@ -13,7 +16,7 @@ Every community is unique, of course, but you may be thinking “These ideas won
 
 >“Specifically look at other service models… to see how their concepts/training/methods could translate to libraries recruiting for teen mentorship programs. I started looking into Big Brothers Big Sisters to see their method and it gave me some ideas about how I could partner with that organization in my community to recruit/train adult mentors in a library setting.<br/><br/> -- SE, ConnectedLib Contributor 
 
-SE found some information relating to mentorship and similar outcomes on the [Big Brothers Big Sisters website (https://www.bbbs.org/research/). See if you can find similar information about organizations in your area (you may need to reach out in person). 
+SE found some information relating to mentorship and similar outcomes on the [Big Brothers Big Sisters website](https://www.bbbs.org/research/){:target="_blank"}. See if you can find similar information about organizations in your area (you may need to reach out in person). 
                 
 ## Restrictive Policies
 
@@ -22,13 +25,13 @@ SE found some information relating to mentorship and similar outcomes on the [Bi
 
 ## Unfamiliar Technologies
 
->“The connected learning model requires librarians and staff members to leap into an uncharted territory.” <br/><br/>-- Subramaniam, M., Scaff, L., Kawas, S., Hoffman, K. M., & Davis, K. (2018). Using technology to support equity and inclusion in youth library programming: Current practices and future opportunities. The Library Quarterly, 88(4), 315–331. https://doi.org/10.1086/699267
+>“The connected learning model requires librarians and staff members to leap into an uncharted territory.” <br/><br/>-- Mega Subramaniam et al., [Using Technology to Support Equity and Inclusion in Youth Library Programming: Current Practices and Future Opportunities](https://doi.org/10.1086/699267){:target="_blank"}, _The Library Quarterly, 88_(4). 
  
-Some people are reluctant to view themselves as digital media mentors because they are not confident in their ability to use the latest technologies. Instead of seeing this as a limitation, view it as an opportunity to engage in [colearning](link to section in Basics) by letting go of the “expert” role and becoming a partner, exploring the technology alongside the young person. By doing this, you will also be modeling effective learning practices.
+Some people are reluctant to view themselves as digital media mentors because they are not confident in their ability to use the latest technologies. Instead of seeing this as a limitation, view it as an opportunity to engage in [colearning](../modules/introducing-the-toolkit/mindset/){:target="_blank"} by letting go of the “expert” role and becoming a partner, exploring the technology alongside the young person. By doing this, you will also be modeling effective learning practices.
 
 You may also consider partnering with someone in the community with skills that complement yours. Pairing a subject-matter expert with someone who knows how teens learn and how to work with them is often a successful combination. 
 
-Ready to Code, by Linda Braun and Marijke Visser, discusses coding and computational thinking programs in libraries, run by staff without formal technology backgrounds, along with the challenges and opportunities they face. 
+[Ready to Code](http://www.ala.org/advocacy/sites/ala.org.advocacy/files/content/pp/Ready_To_Code_Report_FINAL.pdf){:target="_blank"}, by Linda Braun and Marijke Visser, discusses coding and computational thinking programs in libraries, run by staff without formal technology backgrounds, along with the challenges and opportunities they face. 
 
 ## Time commitment too large
 
@@ -44,11 +47,11 @@ A new mentor may be intimidated or unsure about the “right” approach to work
 * “Mentoring the mentors” is an integral part of all librarianship, and if you or another library staff member are the inexperienced mentor in question, you can find your own mentoring and support in meetings, training sessions, workshops, or informal conversations. 
 
 Library organizations such as American Libraries Association and YALSA, as well as ALA-affiliated associations, offer mentoring programs:
-* YALSA’s Virtual Mentoring Program. Experienced librarians are paired with a new librarian or graduate student in a Library Science program.
-* ALA Emerging Leaders Program. Mentoring and training for new librarians.
-* REFORMA Mentoring Program
-* Asian Pacific American Librarians Association
-* Chinese American Librarians Association
+* [YALSA’s Virtual Mentoring Program](http://www.ala.org/yalsa/profdev/mentoring){:target="_blank"}
+* [ALA Emerging Leaders Program](http://www.ala.org/educationcareers/leadership/emergingleaders){:target="_blank"}
+* [REFORMA Mentoring Program](https://www.reforma.org/content.asp?contentid=34){:target="_blank"}
+* [Asian Pacific American Librarians Association](http://www.apalaweb.org/about/committees/standing-committees/mentoring-committee/mentoring-program/){:target="_blank"}
+* [Chinese American Librarians Association](https://www.cala-web.org/node/1680){:target="_blank"}
 
 > “I actually call people a lot and I text people and I follow people on their Instagrams. And then I actually like getting together with people in real life and having dinner…”<br/><br/> — Adult Librarian at an urban western library
 
@@ -63,7 +66,7 @@ Use this worksheet to anticipate and problem-solve challenges you might face rel
 Here is a sample worksheet completed by some of our ConnectedLib librarian partners (click to enlarge): 
 
 
-<a href="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png"><img src="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png"  ALT="Mentoring issues worksheet"  /></a>
+<a href="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png" target="_blank"><img src="{{ site.baseurl }}/img/mentoring/mentoring_issues_sample.png"  ALT="Mentoring issues worksheet"  /></a>
 
 </div>
 
