@@ -6,9 +6,12 @@ tags: ['sectionHead']
 It can be challenging to create successful mentorship experiences. It may take several attempts, plenty of time, and significant effort to build a supportive community with meaningful relationships. This section outlines some common challenges and solutions. 
 
 <div class="callout videos">
-<iframe src="https://www.youtube.com/watch?v=Uv8a6RiFZ2E?start=673&end=723" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Uv8a6RiFZ2E?start=673&end=723" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">1:33 | <i>This is an excerpt from a longer video. You can see the 
-<a href="https://www.youtube.com/watch?v=HacgaDN971Y" target="_blank">full 13-minute video on YouTube</a>.</i></div></div> 
+<a href="https://www.youtube.com/watch?v=Uv8a6RiFZ2E" target="_blank">full 13-minute video on YouTube</a>.</i></div></div> 
+
+
+
 
 ## Unique Communities
 
