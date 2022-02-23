@@ -26,7 +26,7 @@ You will want to collect some information about potential mentors to evaluate th
 The Young Adult Library Services Association (YALSA) outlines some key competencies to look for in mentors, including:
 * Interest in helping others learn, both in one-on-one and in small group situations
 * Demonstrated commitment to lifelong learning
-* Time commitment to participate in all aspects of the program1
+* Time commitment to participate in all aspects of the program
 * Talk to and observe your youth community and learn about their interests. Perhaps you can help introduce potential mentees to mentors who can help them reach their goals.
 
 ## Youth Signaling

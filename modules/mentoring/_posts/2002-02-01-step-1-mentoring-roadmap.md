@@ -10,9 +10,15 @@ It’s important to understand your community and begin developing your mentorin
 
 As with any program or service design process, it’s helpful to start with the outcomes you want to see at the conclusion. Ask yourself the following questions: 
 
-* Why and how would a mentoring program be helpful to the community? To the youth? To the library? 
-* What kinds of mentors do I want? What kind of youth participants? 
-* What will the participants’ goals be, and what will they get out of the program? What about the mentor?
+* Why and how would mentoring be helpful to the community? To the youth? To the library's mission? 
+* Based on what we've learned about teen interests and the community, what would we like teens to gain or achieve through the mentoring experience?
+* Based on what we've learned about teen interests, what related skills could teens gain through this mentorship service?
+* What kinds of mentors do we need?
+* What will the participants’ goals be, and what will they get out of the mentorship? What about the mentor?
+
+
+
+
 
 Having clearly expressed goals will also make it easier to recruit mentors for your program, particularly if you are working with other organizations or businesses to obtain mentors. 
 

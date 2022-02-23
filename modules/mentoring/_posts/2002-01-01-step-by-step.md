@@ -4,7 +4,7 @@ tags: ['sectionHead']
 ---
 
 Developing A Mentorship Program: Step-by-Step
-While mentoring relationships often happen organically, many libraries have developed programming with a focus on mentorship to reach certain goals. These goals might include supporting youth interested in STEM, reaching out to an underserved community, or providing youth with leadership and volunteer experience. In this section, we offer guidelines and prompts for designing a mentoring program that suits the needs of your library and your youth community. You will follow this process through five steps: 
+While mentoring relationships often happen organically, many libraries have developed programming with a focus on mentorship to reach certain goals. These goals might include supporting youth interested in STEM, reaching out to an underserved community, or providing youth with leadership and volunteer experience. In this section, we offer guidelines and prompts for designing a mentoring service to meet the needs of your library and your youth community. Follow this process through four steps: 
 
 * Step 1: Create your mentoring roadmap
 * Step 2: Connect with mentors and mentees
