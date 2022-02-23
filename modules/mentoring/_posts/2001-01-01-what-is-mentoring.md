@@ -2,7 +2,8 @@
 title: What is Mentoring?
 tags: ['sectionHead']
 ---
-> A mentor is a person or friend who guides a less experienced person by building trust and modeling positive behaviors. An effective mentor understands that his or her role is to be dependable, engaged, authentic, and tuned into the needs of the mentee.<br/><br/>-- [Oregon Youth Challenge Program Mentor Training](https://www.oycp.com/MentorTraining/3/m3.html)
+
+>"A mentor is someone who helps you grow your skills, make better decisions, and gain new perspectives on your life and career... By having someone who knows more than yourself share advice, offer guidance and be a sounding board for your thoughts you stand to benefit from experience beyond your own."<br/><br/>— [Together, Inc.](https://www.togetherplatform.com/blog/what-is-the-purpose-of-mentoring)
 
 Mentoring is a supportive learning relationship.
 

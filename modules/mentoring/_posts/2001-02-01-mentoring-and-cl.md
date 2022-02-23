@@ -16,7 +16,7 @@ Mentoring relationships offer someone to generate ideas with, engage in discussi
  
 ## Relationships
 
-Relationships are at the core of mentoring. Mentors and mentees interact socially, engage in fun activities, and share life lessons. 
+Relationships are at the core of mentoring. Mentors and mentees must build trusting relationships in order to engage in activities in which they feel comfortable having fun together and learning from each other. 
 
 Supportive relationships with caring adults often reduce negative outcomes and can strengthen protective factors for at-risk youth. Youth themselves can serve as peer mentors for other youth, gaining leadership skills and learning from each others’ unique experiences. Mentoring relationships can provide a sense of belonging for young people in addition to their immediate family, friends, and school.
 
