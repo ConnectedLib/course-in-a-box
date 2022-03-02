@@ -34,6 +34,11 @@ published: true
 <div class="grid-item"> <a href="modules/mentoring/"><div>mentoring<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/mentoring.png" width="90px" ALT="Mentoring"/>
 </div></a></div>
+
+<div class="grid-item"> <a href="modules/community-centered/"><div>community centered services<br/>
+ <img src="{{ site.baseurl }}/img/moduleLogos/community-centered.png" width="90px" ALT="Community-Centered Services"/>
+</div></a></div>
+
  <!-- NOT READY YET 
 
   <div class="grid-item"><a href="modules/programming/"><div>
