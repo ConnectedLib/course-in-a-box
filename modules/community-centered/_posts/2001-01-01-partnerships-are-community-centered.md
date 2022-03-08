@@ -1,5 +1,5 @@
 ---
-title: Partnerships are Community-Centered
+title: Partnerships
 tags: ['sectionHead']
 ---
 
