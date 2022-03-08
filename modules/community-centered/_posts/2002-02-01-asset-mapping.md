@@ -2,7 +2,7 @@
 title: Asset Mapping
 ---
 
-Asset mapping is a systematic approach to getting to know the people, places, and resources that surround your library. It is a way to take stock of “the gifts, skills and capacities of individuals, voluntary associations, institutions, physical assets, local economy assets and stories in the community.”1 The community mapping process may draw on, among other sources of information,
+Asset mapping is a systematic approach to getting to know the people, places, and resources that surround your library. It is a way to take stock of “the gifts, skills and capacities of individuals, voluntary associations, institutions, physical assets, local economy assets and stories in the community.” The community mapping process may draw on, among other sources of information,
 * Interviews
 * Surveys
 * Focus groups
