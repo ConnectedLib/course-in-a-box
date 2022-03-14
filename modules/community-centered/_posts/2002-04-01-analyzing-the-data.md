@@ -1,5 +1,5 @@
 ---
-title: Analyzing the Data
+title: Analyzing and Using the Data
 ---
 
 All of the data you collect, from asset mapping to conversations with the community, to gathering numbers and statistics, must be analyzed in order to understand the community and the assets and needs of teens.  As you analyze the information you gather:
@@ -10,7 +10,7 @@ All of the data you collect, from asset mapping to conversations with the commun
 * **What new questions arise:** Research almost always starts with a particular question or sets of questions and as the research process takes place new questions arise based on what is learned.  Keep track of the questions that come up as you analyze your data and consider how to find the answers and what the answers will help you to know and understand about your community.
 
 
-## Now what? 
+## Now what?
 
 Now that you have a clear picture of the people and assets in your community, what do you do with this information?
 
@@ -18,3 +18,5 @@ Now that you have a clear picture of the people and assets in your community, wh
 * **Think about your library’s capacity.** There may be resources in your community that you can take advantage of to extend your capacity or reach. Ask how, by building a partnership with one or more of those on your asset map, you can extend your capacity in support of teen services and connected learning
 * **Continue working with the community.** Getting the community involved in your library is more than just talking to them and asking them questions, it is empowering them to help make a difference1. If a public library puts the community’s voices at the center of their planning, the library will in turn become the center of the community. Public libraries are ideally positioned to be leaders of civic engagement in the community, and thoroughly understanding that community is a key part of that role2.
 **Build with the Community:** Identify who on your map is a potential partner in designing community-centered connected learning services.  Build relationships and accept opportunities to share power in working to guarantee that teens have what they need to succeed.
+
+

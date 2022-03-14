@@ -26,10 +26,20 @@ Driving or walking around as if you are new to the area can help you:
 * Understand what is available to community members and how people spend their time.
 * Recognize what business employ those who the library serves
 
-Community mapping focuses on the strengths and assets of a community instead of on weaknesses and gaps, leading to unconventional programs that leverage a community’s unique strengths. 
+Community mapping focuses on the strengths and assets of a community instead of on weaknesses and gaps, leading to unconventional programs that leverage a community’s unique strengths.
 
 Community asset maps take many forms, from simple lists that fit on a single piece of paper to extensive reports and geographic maps. Plotting the resources and groups you discover on a map of your city or neighborhood may be useful and can inspire you to form out-of-the-box connections, but many community maps are much more simple. Look at the following examples for inspiration.
 
 * There is an example of a community asset map on page 38 of The Engaged Library: Chicago Stories of Community Building from the Urban Libraries Council.
 * This map from Brighter Futures Together depicts assets of individuals alongside those of associations and organizations in the community.
 * The UCLA Center for Health Policy Research locates assets on a geographic map.
+
+<div class="callout info" markdown="1">
+## Low-capacity asset mapping 
+Your asset map doesn't have to be far-reaching — you can choose how detailed it is based on your needs and your resources. A busy "everything librarian" in a rural one-room library can benefit from an asset-mapping project that takes one afternoon with a search engine. 
+
+Focusing on a very specific part of the community (for instance, "downtown" or "sports-related") can help scale your efforts down to a manageable size. You can also consider it an interactive process — you can return to your map periodically to update or expand it. 
+
+Another way to make the job easier is to find out if someone from another organization has conducted a community mapping project before you and is willing to share their work. 
+</div>
+
