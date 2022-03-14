@@ -46,7 +46,7 @@ What moves a partnership from collaboration and cooperation to fully community-c
 </div>
 
 <div class="colorhighlight color1" markdown="1">
-**Collective impact** can occur when disparate organizations unite to work on a particular community issue together. The collective impact approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure. </div>
+**Collective impact** can occur when disparate organizations unite to work on a particular community issue together. The collective impact approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure. 
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/pzmMk63ihNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
