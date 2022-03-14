@@ -1,31 +1,34 @@
 ---
 title: Working with different types of partners
 ---
-Informal Learning Institutions
-            
-“It’s very important to the art museum that they attract more local families and teens, so they have actually sent their education department to our different branches to do programs with families and then they have paid for the transportation… to take those families from the individual branches to the art museum for a field trip.”
 
-— Director of Youth & Family Engagement at an urban midwestern library
+## Informal Learning Institutions
+
+> “It’s very important to the art museum that they attract more local families and teens, so they have actually sent their education department to our different branches to do programs with families and then they have paid for the transportation… to take those families from the individual branches to the art museum for a field trip.”<br/><br/>— Director of Youth & Family Engagement at an urban midwestern library
+
 Libraries are centers for informal learning, so other informal learning institutions—museums, science centers, archives, botanical gardens, and more—make natural partners. These organizations often share a library’s mission to empower the public through knowledge and learning.
-Opportunities
-Similar programs and goals
-Since informal learning institutions often share similar missions, the programs they develop and the goals they set are often similar as well, making collaboration easier.1, 2
-Outreach staff
-For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.2
-New audiences
-Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programming and marketing, or by distributing free or discount passes through the library.2
-Challenges
-Similar restraints
-Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.3
-Management approval
-Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations.
 
-    
-Adler Planetarium and Chicago Public Library
-    
+<div class="colorhighlight color1" markdown="1">
+### Opportunities
+
+* **Similar programs and goals:** Since informal learning institutions often share similar missions, the programs they develop and the goals they set are often similar as well, making collaboration easier.
+* **Outreach staff:** For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.
+* **New audiences:** Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programming and marketing, or by distributing free or discount passes through the library.
+</div>
+
+<div class="colorhighlight color1" markdown="1">
+### Challenges
+
+* **Similar restraints:** Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.
+* **Management approval:** Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations.
+
+<div class="callout case_study" markdown="1">
+### Adler Planetarium and Chicago Public Library
 Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.
-    
-Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local museum to reach more teens! [YALSA members webinar].
+* Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local museum to reach more teens! [YALSA members webinar].
+</div>
+
+
 
 Individuals, Businesses, and Community Groups
             
