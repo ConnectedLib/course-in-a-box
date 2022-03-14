@@ -20,14 +20,14 @@ Libraries are centers for informal learning, so other informal learning institut
 ### Challenges
 
 * **Similar restraints:** Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.
-* **Management approval:** Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations.
+* **Management approval:** Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations.</div>
 
 <div class="callout case_study" markdown="1">
 ### Adler Planetarium and Chicago Public Library
 Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.
+
 * Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local museum to reach more teens! [YALSA members webinar].
 </div>
-
 
 
 Individuals, Businesses, and Community Groups
