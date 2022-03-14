@@ -16,7 +16,7 @@ Partners can help create connections between youth’s everyday learning environ
 * Engaging the entire community in the development of teens develops a sense of shared purpose and lets the teens know they are valued.
 </div>
 
-##Levels of Partnership
+## Levels of Partnership
 
 
 What moves a partnership from collaboration and cooperation to fully community-centered? Partners can have varying levels of engagement and commitment, from simply networking and sharing ideas to long-term co-management of projects. Different levels of engagement may be appropriate for different partners, depending on your respective goals and resources. Just because the partnership is less intense does not mean it is less valuable to your teens.
@@ -49,6 +49,5 @@ What moves a partnership from collaboration and cooperation to fully community-c
 **Collective impact** can occur when disparate organizations unite to work on a particular community issue together. The collective impact approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure. </div>
 
 <div class="callout videos" markdown="1">
-Tackling Complex Social Problems through Collective Impact
 <iframe src="https://www.youtube.com/embed/pzmMk63ihNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">2:02</div></div>

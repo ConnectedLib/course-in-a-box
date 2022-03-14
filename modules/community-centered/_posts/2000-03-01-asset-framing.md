@@ -7,12 +7,10 @@ title: Asset Framing
 Asset framing is a “glass half-full” perspective that focuses on the resources and capacities that already exist in any community. This approach teaches that every member of a community has a “gift” that they can share with others, which could be expertise, resources, or time. The key is to build connections between and among different types of assets—individuals, associations, and institutions—so their gifts can be put to use to better the community. Finding the unique gifts available in your community can lead to unexpected but beneficial collaborations and projects.
 
 <div class="callout videos" markdown="1">
-Trabian Shorters: Define People by Their Aspirations, Not Their Challenges 
 <iframe src="https://www.youtube.com/embed/O04CuqStRvM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">1:08</div></div>
 
 <div class="callout videos" markdown="1">
-Trabian Shorters: The Power of Narrative
 <iframe src="https://www.youtube.com/embed/ZttQ6u61g4k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">1:15</div></div>
 
