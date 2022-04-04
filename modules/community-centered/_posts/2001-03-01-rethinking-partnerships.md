@@ -25,11 +25,11 @@ What moves a partnership from collaboration and cooperation to fully community-c
 **Networking and sharing ideas** with someone who has a different perspective on the community can be valuable. Simply attending another organization’s events can be the first steps in forming a partnership.
 </div>
 
-<div class="colorhighlight color1" markdown="1">
+<div class="colorhighlight color2" markdown="1">
 **Cooperating and coordinating** is possible if you know what other organizations in your community are doing. You can build on each other’s work or avoid duplication. For instance, if the high school library has a vibrant reading group, you may not wish to set up a competing teen book club, but you might promote read-alikes in the library.
 </div>
 
-<div class="colorhighlight color1" markdown="1">
+<div class="colorhighlight color3" markdown="1">
 **Informing teens about partners** can be accomplished by sharing information on the library website or in library spaces. Partners can also be invited to set up a table in the teen area at scheduled times, giving the teens direct access to their services (for instance, providing legal or health information).
 </div>
 
@@ -37,16 +37,17 @@ What moves a partnership from collaboration and cooperation to fully community-c
 **Collaborating on teen programming** with partners can create something more impactful than either partner working alone, as a short series or a one-time event.
 </div>
 
-<div class="colorhighlight color1" markdown="1">
+<div class="colorhighlight color2" markdown="1">
 **Forming or joining community coalitions** allows organizations to support each other’s efforts and to have conversations about how they can all work together better to serve youth.
 </div>
 
-<div class="colorhighlight color1" markdown="1">
+<div class="colorhighlight color3" markdown="1">
 **Embedding partners** means establishing “fully invested” partners with whom the library has forged deep, long-term relationships that are embedded into the library’s regular services to teens.
 </div>
 
 <div class="colorhighlight color1" markdown="1">
-**Collective impact** can occur when disparate organizations unite to work on a particular community issue together. The collective impact approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure. </div>
+**Collective impact** can occur when disparate organizations unite to work on a particular community issue together. The collective impact approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure. 
+</div>
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/pzmMk63ihNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
