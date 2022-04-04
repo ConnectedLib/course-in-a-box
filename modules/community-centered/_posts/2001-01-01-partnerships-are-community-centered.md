@@ -5,7 +5,7 @@ tags: ['sectionHead']
 
 <div class="callout activity" markdown="1">
 
-## Worksheet
+## [Worksheet #2: Who Are Your Partners](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.4hwqn6no1hlk){:target="_blank"}?
 
 Before reading this section of the module, take a few minutes and write down all of the stakeholders and organizations you have a partnership with in support of teen services.
 
