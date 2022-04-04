@@ -46,6 +46,10 @@ p, table, td, th, tr {
 }
 
 
+strong {
+    font-weight:  bold !important;
+}
+
 /* SIDEBAR */
 
 li.subsection {
