@@ -27,6 +27,7 @@ Libraries are centers for informal learning, so other informal learning institut
 Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.
 * Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local museum to reach more teens! [YALSA members webinar].
 </div>
+</div>
 
 ## Individuals, Businesses, and Community Groups
 
@@ -78,7 +79,8 @@ Organizations like the Boys and Girls Club of America, the Boy Scouts of America
 
 * **Vulnerable teens:** Organizations that work with vulnerable teens may have policies in place to protect them and their privacy, and you may need to adjust your programs or procedures accordingly. Discuss this with your partner during the planning stage so you won’t be surprised by a policy mid-project.
 
-* **Turnover:** Organizations that work with teens in particularly difficult situations may have a turnover rate that is higher than normal. To avoid “starting over” with each new employee, try to get more than one person at the other organization invested and involved in your partnership
+* **Turnover:** Organizations that work with teens in particularly difficult situations may have a turnover rate that is higher than normal. To avoid “starting over” with each new employee, try to get more than one person at the other organization invested and involved in your partnership.
+</div>
 
 ## Schools
 
@@ -105,8 +107,6 @@ Partnering with schools is particularly challenging for most of the librarians a
 * **Community service opportunities:** Many schools require students to perform community service. Libraries can offer service opportunities, but can also facilitate connections between students and other community organizations in need of volunteers.
 
 * **Bolster services by combining forces:** Partnering with a school or school library can help you provide better services and resources to teens who are underserved, marginalized, at-risk, or otherwise disadvantaged. For instance, one library in Virginia allowed rotating portions of their audiobook collection to be housed at a school for the benefit of blind students.
-
-
 </div>
 
 <div class="colorhighlight color1" markdown="1">
@@ -119,7 +119,6 @@ Partnering with schools is particularly challenging for most of the librarians a
 * **Yearly schedules conflict:** “It’s all about the timing,” says Tasha Squires. Teachers and school librarians are particularly busy around the end of the school year, just as public librarians approach a flurry of summer learning activities. Squires recommends discussing potential partnerships around the beginning of the school year, which may be stressful but is a time when “people tend to be fresh and optimistic.”
 
 * **Daily schedules conflict:** Even in the day-to-day, youth librarians tend to have “opposite” schedules from teachers and school librarians—they are most busy when youth are not in school. This can make communication challenging, so be patient yet persistent, and be flexible with your schedule to make occasional meetings possible if you can.
-
 </div>
 
 <div class="callout case_study" markdown="1">

@@ -1,7 +1,7 @@
 ---
 title: Making plans together
 ---
->“Communicate often and very far ahead of time. <br/><br/>Librarian at a western urban library
+>“Communicate often and very far ahead of time."<br/><br/>— Librarian at a western urban library
 
 ## Questions to ask
 ### Before putting together plans with a partner
