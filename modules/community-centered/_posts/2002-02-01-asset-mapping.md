@@ -42,3 +42,6 @@ Focusing on a very specific part of the community (for instance, "downtown" or "
 
 Another way to make the job easier is to find out if someone from another organization has conducted a community mapping project before you and is willing to share their work. 
 </div>
+
+## Asset Mapping Examples and Resources
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/cl21/asset-maps-24018575/embed/hide=header%2C+excerpt%2C+info%2C+add"></iframe>
