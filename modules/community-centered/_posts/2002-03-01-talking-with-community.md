@@ -30,4 +30,3 @@ One more way in which to answer the questions you have about your community, is 
 
 As you think about the different tools available, reflect on the questions you would like to have answered.  Consider which tool(s) will best help you to answer the questions.  Ask yourself if you would like to start with a larger context and then dig down into local data in order to put the local data into context.  
 
-

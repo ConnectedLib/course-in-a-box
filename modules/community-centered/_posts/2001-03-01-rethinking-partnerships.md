@@ -19,10 +19,10 @@ Partners can help create connections between youth’s everyday learning environ
 ## Levels of Partnership
 
 
-What moves a partnership from collaboration and cooperation to fully community-centered? Partners can have varying levels of engagement and commitment, from simply networking and sharing ideas to long-term co-management of projects. Different levels of engagement may be appropriate for different partners, depending on your respective goals and resources. Just because the partnership is less intense does not mean it is less valuable to your teens.
+What moves a partnership from collaboration and cooperation to fully community-centered? Partners can have varying levels of engagement and commitment, from simply networking and sharing ideas to, to mentoring, to long-term co-management of projects. Different levels of engagement may be appropriate for different partners, depending on your respective goals and resources. Just because the partnership is less intense does not mean it is less valuable to your teens.
 
 <div class="colorhighlight color1" markdown="1">
-**Networking and sharing ideas** with someone who has a different perspective on the community can be valuable. Simply attending another organization’s events, can be the first steps in forming a partnership.
+**Networking and sharing ideas** with someone who has a different perspective on the community can be valuable. Simply attending another organization’s events can be the first steps in forming a partnership.
 </div>
 
 <div class="colorhighlight color1" markdown="1">
@@ -46,7 +46,7 @@ What moves a partnership from collaboration and cooperation to fully community-c
 </div>
 
 <div class="colorhighlight color1" markdown="1">
-**Collective impact** can occur when disparate organizations unite to work on a particular community issue together. The collective impact approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure. 
+**Collective impact** can occur when disparate organizations unite to work on a particular community issue together. The collective impact approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure. </div>
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/pzmMk63ihNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -31,7 +31,6 @@ Youth services librarians need to get out of the library building and meet teens
 Simply donating money or materials in return for a public “thank you” from the library is an easy entry point to working together for many organizations, particularly local businesses. 
 </div>
 
-== SIDEBAR Partnering With Local Businesses ==
 <div class="colorhighlight color1" markdown="1">
 **Partners can provide a fuller perspective on the community.** 
 
@@ -61,7 +60,7 @@ Library staff can help partners integrate library resources—equipment, softwar
 </div>
 
 <div class="colorhighlight color1" markdown="1">
-**Libraries can deliver programming and expertise to partners.**
+**Libraries can deliver programming and expertise to partners**
 Partners don’t always have to come to the library—libraries can bring their expertise to their partners’ spaces. This can be as simple as conducting an established program or workshop in a new location, or working with the partner to develop something brand new or tailored to the partner’s needs. Library staff have unique knowledge and skills that can be shared. Conducting programming on-site can also help partners learn to conduct more programming themselves.
 </div>
 

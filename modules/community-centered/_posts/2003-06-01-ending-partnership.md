@@ -9,5 +9,3 @@ If you and your partner agreed on an evaluation plan at the beginning of the pro
 
 ## Laying the groundwork for the next collaboration
 If your initial collaboration was successful, both you and your partner will be enthusiastic about working together in the future. If you don’t have any additional work together planned, let your partner know you’ll be happy to collaborate again. Keeping partners up-to-date with your programs and offerings will help remind them of what the library can offer, and they may approach you with their own ideas for collaborations.
-
-

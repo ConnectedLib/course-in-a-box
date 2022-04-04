@@ -42,4 +42,3 @@ Focusing on a very specific part of the community (for instance, "downtown" or "
 
 Another way to make the job easier is to find out if someone from another organization has conducted a community mapping project before you and is willing to share their work. 
 </div>
-

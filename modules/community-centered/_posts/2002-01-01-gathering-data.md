@@ -12,3 +12,4 @@ As you start to learn about your community a good thing to do is to make a list 
 ## Gathering data is a form of assessment
 When you gather data about your community, you are essentially engaging in assessment! Check out the Outcomes, Evaluation, and Assessment module for more information about gathering and analyzing data. 
 </div>
+

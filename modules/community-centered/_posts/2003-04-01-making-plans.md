@@ -1,7 +1,7 @@
 ---
 title: Making plans together
 ---
->"Communicate often and very far ahead of time."<br/><br/>—Librarian at a western urban library
+>“Communicate often and very far ahead of time. <br/><br/>Librarian at a western urban library
 
 ## Questions to ask
 ### Before putting together plans with a partner
@@ -49,8 +49,3 @@ Each memorandum of understanding, or MOU, may be a little different, depending o
 * Who will be responsible for maintaining the project or program and any related materials?
 * If changes are needed mid-way through the collaboration, who will decide what changes to make, and when? 
 * How will you evaluate the program’s success? What will you measure, and who will collect that information? Who will receive a copy of the final evaluation report? 
-
-
-Resources for Establishing a Partnership
-Memorandum of Understanding Sample Template. NISE Network (2015).
-"Good Teen Librarians Make Great Library Advocates" by Maureen L. Hartman. Tips to help teen services librarians form strategic partnerships. In Young Adult Library Services, 2012(Fall).

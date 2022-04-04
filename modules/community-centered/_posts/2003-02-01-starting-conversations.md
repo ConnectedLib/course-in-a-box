@@ -17,4 +17,3 @@ YALSA’s [Partnering to Increase Your Impact](http://www.ala.org/yalsa/partneri
 > “People are afraid of the ‘no,’ and that’s truly the worst that can happen. I have been shut down so many times I’m like, ‘Alright, well, there’s five more ice cream shops on this block, so I’ll find something.’”<br/><br/> — Focus Group Participant
 
 No matter how persuasive and well-crafted your pitch is, you may be turned down. Don’t take it personally. Turn it into a learning experience by understanding why the potential partner wasn’t on board. Did you start the conversation with a fully formed concept, without letting them share their input and expertise? Maybe it’s just bad timing, and you can bring the idea up again in the future. Accept critical feedback with grace and an open mind, then determine if it is worth adjusting your approach moving forward. 
-
