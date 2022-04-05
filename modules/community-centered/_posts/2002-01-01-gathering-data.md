@@ -13,3 +13,23 @@ As you start to learn about your community a good thing to do is to make a list 
 When you gather data about your community, you are essentially engaging in assessment! Check out the Outcomes, Evaluation, and Assessment module for more information about gathering and analyzing data. 
 </div>
 
+<div class="callout activity" markdown="1">
+
+## [Worksheet #3: What are your questions?](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.pvvbazhwa6dh){:target="_blank"}
+
+Using the "who, what, when, where, why, and how" framework of questions along with [Worksheet #3](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.pvvbazhwa6dh){:target="_blank"}, brainstorm some questions you have about your community. Try to generate as many questions as possible at this stage — you’ll choose a few to focus on next. Some sample questions are provided to help you get started. 
+
+* **Who...** are the local people and organizations reaching out to teens?  
+* **What...** is the racial and ethnic makeup of your community?  
+* **When...** do local teens start preparing for college applications? 
+* **Where...** do teens spend their free time? 
+* **Why...** do teens stop visiting the library once they enter high school?
+* **How...** do teens prepare for life after high school? 
+
+</div>
+
+<div class="callout activity" markdown="1">
+
+## [Worksheet #4: Who can help you?](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.lbuwh44xric6){:target="_blank"}
+Consider what and who you already know which can help you to get to the answers you are looking for?  Is there a friend, family member or colleague who can help you? Do you think a friend of a friend would be good to connect with? Where else might you look for background information? Or, are you starting from scratch? Select one of the questions you brainstormed in the previous worksheet, and write down people or other resources that you can use to start to find out the answers. 
+</div>

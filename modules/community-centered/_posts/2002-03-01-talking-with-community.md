@@ -30,3 +30,10 @@ One more way in which to answer the questions you have about your community, is 
 
 As you think about the different tools available, reflect on the questions you would like to have answered.  Consider which tool(s) will best help you to answer the questions.  Ask yourself if you would like to start with a larger context and then dig down into local data in order to put the local data into context.  
 
+<div class="callout activity" markdown="1">
+
+## [Worksheet #5: How will you get your answers?](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.yfplr2ze91z0){:target="_blank"}
+
+Using [Worksheet #5](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.yfplr2ze91z0){:target="_blank"}, write down what you think are the best ways to get answers from the question you described on the previous worksheet. Will you review numerical data, participate in asset mapping, have conversations with community members and stakeholders, all of these, or a couple of these?
+
+</div>

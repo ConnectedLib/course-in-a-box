@@ -18,3 +18,11 @@ Now that you have a clear picture of the people and assets in your community, wh
 * **Think about your library’s capacity.** There may be resources in your community that you can take advantage of to extend your capacity or reach. Ask how, by building a partnership with one or more of those on your asset map, you can extend your capacity in support of teen services and connected learning
 * **Continue working with the community.** Getting the community involved in your library is more than just talking to them and asking them questions, it is empowering them to help make a difference1. If a public library puts the community’s voices at the center of their planning, the library will in turn become the center of the community. Public libraries are ideally positioned to be leaders of civic engagement in the community, and thoroughly understanding that community is a key part of that role2.
 **Build with the Community:** Identify who on your map is a potential partner in designing community-centered connected learning services.  Build relationships and accept opportunities to share power in working to guarantee that teens have what they need to succeed.
+
+<div class="callout activity" markdown="1">
+
+## [Worksheet #6: Analyzing the Data](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.padjn2a0668g){:target="_blank"}
+
+Using [Worksheet #6](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.padjn2a0668g){:target="_blank"}, for each information-gathering activity you completed, write down your key findings in a few sentences. Then synthesize the results in a paragraph summarizing what you have learned about your community, and answer the following questions to help you figure out your next steps. 
+
+</div>
