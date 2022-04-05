@@ -2,11 +2,11 @@
 title: Step 1 - Create your mentoring roadmap
 ---
 
-It’s important to understand your community and begin developing your mentoring roadmap, or basic plan for how you will execute your program. Consult the Creating Community-Centered Services module to learn more.
+It’s important to understand your community and begin developing your mentoring roadmap, or basic plan for how you will execute your program. Consult the [Community-Centered Services module](../community-centered/){:target="_blank"} to learn more.
 
 ## Start with the outcomes
 
-> "We identified some of the businesses we worked with as partners and sent a survey about their participation with our program, and it became clear that we were weak on presenting goals for the partnership and clear communication.  These should be outlined." <br/><br/> -- Sonya Harsha
+> "We identified some of the businesses we worked with as partners and sent a survey about their participation with our program, and it became clear that we were weak on presenting goals for the partnership and clear communication.  These should be outlined." <br/><br/> -- Sonya Harsha, _ConnectedLib_ partner from Algona (Iowa) Public Library
 
 As with any program or service design process, it’s helpful to start with the outcomes you want to see at the conclusion. Ask yourself the following questions: 
 
@@ -34,7 +34,7 @@ Having clearly expressed goals will also make it easier to recruit mentors for y
 
 Once you have a good idea of your destination in the form of outcomes and goals, it’s time to start filling in practical details. 
 
-* **Participants:** Think about the information needs of the youth communities who will participate in the program. Are there non-native speakers of English? Homeschoolers? Immigrant and refugee communities? Could they benefit from additional support outside of the mentoring program? 
+* **Youth:** Think about the information needs of the youth communities who will participate in the program. Are there non-native speakers of English? Homeschoolers? Immigrant and refugee communities? Could they benefit from additional support outside of the mentoring program? 
 * **Mentors:** What specific knowledge, skills, and competencies will your mentors need to have? Do you have access to mentors outside the library? Are you specifically interested in certain occupations, demographics, or backgrounds (e.g. mentors with similar backgrounds as the youth)? 
 * **Program elements:** What will the format of the program be -- one-on-one meetings or group mentoring in a workshop setting? Will it be in-person, virtual, or a hybrid format? What organizations or community members will you be partnering with? 
 
@@ -90,7 +90,7 @@ Guidance on volunteer and mentor policies for libraries:
 
 Think about your matching process:
 
-* How will mentors be recruited and matched? Are you looking for teens to be paired with others that share their lived experiences (similar background)?
+* How will mentors be recruited and matched? Are you looking for teens to be paired with others who share their lived experiences (similar background)?
 * What type of on-boarding or training will mentors be offered?
 * Is there any incentive/recognition for the mentors?
 

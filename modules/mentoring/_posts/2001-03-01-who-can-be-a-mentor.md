@@ -2,10 +2,10 @@
 title: Who can be a mentor? 
 ---
 
-An effective mentor must have a positive attitude towards youth, understand the value of the experience for youth, and be ready  to foster a meaningful relationship. Mentors and youth should develop a connection that is established by trust, friendship, and empathy. Effective mentors will:
+An effective mentor must have a positive attitude towards youth, understand the value of the mentoring experience for youth, and be ready to foster a meaningful relationship with their mentee. Mentors and youth should develop a connection that is established by trust, friendship, and empathy. Effective mentors will:
 
 * Talk with youth instead of at them. Many mentors describe their approach to talking with youth as low-key or an equitable style of conversation.
-* Offer encouragement and role modeling. Through working together, youth and mentors can problem-solve and collaborate. Mentors share their skills, knowledge, expertise and are willing to learn alongside youth. 
+* Offer encouragement and role modeling. Through working together, youth and mentors can problem-solve and collaborate. Mentors share their skills, knowledge, and expertise, and they are willing to learn alongside youth. 
 * Put in the time. Mentors and youth who spend time together on a consistent basis over long periods of time can create lasting bonds.
 
 You can find mentors within your library staff, the youth themselves, and members of your community. 

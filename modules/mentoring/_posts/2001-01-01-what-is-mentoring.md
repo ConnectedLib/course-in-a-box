@@ -7,7 +7,7 @@ tags: ['sectionHead']
 
 Mentoring is a supportive learning relationship.
 
-Informal mentoring relationships often start out as simple friendships, and mentoring happens without structure or oversight. Informal mentoring can also occur when someone independently choses a mentor because they trust them and seek their expertise and advice.
+Informal mentoring relationships often start out as simple friendships, and mentoring happens without structure or oversight. Informal mentoring can also occur when someone independently chooses a mentor because they trust them and seek their expertise and advice.
 
 Formal mentoring relationships can be established through organizations and come with formal training and expectations. These mentorship programs may require a time commitment, learning objectives, and key activities, and typically include regular meetings over a set period of time. 
 

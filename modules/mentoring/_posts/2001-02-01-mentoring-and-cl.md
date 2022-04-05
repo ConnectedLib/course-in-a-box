@@ -18,7 +18,7 @@ Mentoring relationships offer someone to generate ideas with, engage in discussi
 
 Relationships are at the core of mentoring. Mentors and mentees must build trusting relationships in order to engage in activities in which they feel comfortable having fun together and learning from each other. 
 
-Supportive relationships with caring adults often reduce negative outcomes and can strengthen protective factors for at-risk youth. Youth themselves can serve as peer mentors for other youth, gaining leadership skills and learning from each others’ unique experiences. Mentoring relationships can provide a sense of belonging for young people in addition to their immediate family, friends, and school.
+Supportive relationships with caring adults often reduce negative outcomes and can strengthen protective factors for at-risk youth. Youth themselves can serve as peer mentors for other youth, gaining leadership skills and learning from each other's unique experiences. Mentoring relationships can provide a sense of belonging for young people in addition to their immediate family, friends, and school.
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/JEbad3WM-Hw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ Supportive relationships with caring adults often reduce negative outcomes and c
 
 ## Opportunity
 
-Mentoring experiences can support academic success, build career-related skills, or increase engagement between youth and their community. For instance, youth who face an “opportunity gap” but have a mentor in their corner may be more likely to enroll in college than those who did not. Mentoring experiences help young people increase their contributions within their community, and can promote educational achievement, career development, health, safety, and social and emotional support. Some libraries have offered mentorship to teens through STEM career development, internship programs, and leadership experience.
+Mentoring experiences can support academic success, build career-related skills, or increase engagement between youth and their community. For instance, youth who face an “opportunity gap” but have a mentor in their corner may be more likely to enroll in college than those who do not. Mentoring experiences help young people increase their contributions within their community, and can promote educational achievement, career development, health, safety, and social and emotional support. Some libraries offer mentorship to teens through STEM career development, internship programs, and leadership experience.
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/jSG-HFyZy0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
