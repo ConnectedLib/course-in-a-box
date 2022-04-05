@@ -2,7 +2,7 @@
 title: Step 1 - Create your mentoring roadmap
 ---
 
-It’s important to understand your community and begin developing your mentoring roadmap, or basic plan for how you will execute your program. Consult the [Community-Centered Services module](../community-centered/){:target="_blank"} to learn more.
+It’s important to understand your community and begin developing your mentoring roadmap, or basic plan for how you will execute your program. Consult the [Community-Centered Services module](../../community-centered/){:target="_blank"} to learn more.
 
 ## Start with the outcomes
 
