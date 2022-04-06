@@ -1,5 +1,5 @@
 ---
-title: Community at the center of connected learning
+title: Community at the Center of Connected Learning
 ---
 It may seem drastic to say that without community-centered services connected learning is not possible. However, if connected learning is the foundation of teen services, and not just an add-on, then community does have to be at the center of each and every aspect of those services.
 
