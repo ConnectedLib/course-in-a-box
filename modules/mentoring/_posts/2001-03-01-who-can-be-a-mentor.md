@@ -11,6 +11,9 @@ An effective mentor must have a positive attitude towards youth, understand the 
 You can find mentors within your library staff, the youth themselves, and members of your community. 
 
 ## Library Staff as Mentors
+
+Youth librarians can mentor youth by including encouraging lifelong learning, demonstrating what libraries can offer, and facilitating participation in the community. 
+
 >  “My primary way of interacting with teenagers is remembering that I’m not their teacher, I’m not their parent. I am someone who’s older, who may have more life experience, but I’m someone to help facilitate what they wanna do… There are a lot of different ways that you can successfully interact with teenagers as a librarian, but a lot of it really depends on your personal style.” <br/><br/>– Staff member at an urban western library 
 
 ### Academic assistance that supports school projects
@@ -26,11 +29,11 @@ By providing access to mentors from the community, library staff are able to hel
 ### Digital media mentors        
 > “If a teen comes to one of us and say ‘I want to do this thing’ and if none of us know how to do it, we sit down and we figure out how to do it together whether it be trying to find information in the book, looking up a tutorial on YouTube, reaching out to maybe another mentor or someone else in our life, who might know what’s going on.” <br/><br/>– Teen Librarian at a suburban northeastern library    
 
-Library staff can help young people navigate our digital world. New technology like 3D printers or advanced concepts like coding can be intimidating, and library staff can encourage youth to experiment and explore, or collaborating and working through problems together.
+Library staff can help young people navigate our digital world. New technology like 3D printers or advanced concepts like coding can be intimidating, and library staff can encourage youth to experiment and explore, or collaborate and work through problems with them.
 
 ## Youth as Mentors        
 
-Peer mentors acquire leadership skills through their interactions with others of their own age. . Teens can mentor each other as they build skills related to esports, an academic topic, or expand their knowledge of something like music and DJing. . Teens who act as peer mentors bring another level of trust to the relationship - since youth are of similar ages - and can expand library capacity in mentoring about topics that are of particular interest to them.
+Peer mentors acquire leadership skills through their interactions with others of their own age. Teens can mentor each other as they build skills related to an academic topic, or expand their knowledge of esports, music, and DJing. Teens who act as peer mentors bring another level of trust to the relationship - since youth are of similar ages - and can expand library capacity in mentoring about topics that are of particular interest to them.
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/Fu_SfXxkGhM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -41,7 +44,7 @@ Peer mentors acquire leadership skills through their interactions with others of
 
 >“… He was a teen and then he graduated to what we call Geek Status and now he’s teaching other teens how to use the [recording] studio.”<br/><br/> — Teen Librarian at a suburban northeastern library
 
-Some libraries have trained high school students to operate and teach technology in libraries studios which may include 3D printers, tablets, and design software. Library staff can encourage teens to “geek out” by learning about teen interests and skills and designing with those teens services that empower them to mentor and coach others in the community.
+Some libraries have trained high school students to operate and teach technology in library makerspaces or studios, which may include 3D printers, tablets, and design software. Library staff can encourage teens to “geek out” by learning about teen interests and skills and designing with those teens services that empower them to mentor and coach others in the community.
 
 ### College student mentorship programs
 Local colleges and universities can be a source of mentors for young people. Students may receive volunteer experience or fulfill a class project. A youth librarian at an eastern library found that their mentorship program with the local college helped their youth community improve their school performance and prepare for college.
@@ -53,7 +56,7 @@ A youth services coordinator described how her teen advisory board helped develo
 
 ## Community Members as Mentors
 
->We will be renovating our library garden this next summer.  The local garden club will be actively involved in that project, and we are calling the space our outdoor classroom.  This could be a chance to do lots of mentoring. <br/><br/>- Sonya Harsha, Algona (IA) Public Library
+>We will be renovating our library garden this next summer.  The local garden club will be actively involved in that project, and we are calling the space our outdoor classroom.  This could be a chance to do lots of mentoring. <br/><br/>- Sonya Harsha, _ConnectedLib_ partner, Algona (IA) Public Library
 
 Libraries have a longstanding tradition of connecting youth to community members, often for help with job seeking, technology training, or career development. 
 
@@ -75,9 +78,9 @@ This video about a library makerspace in rural Idaho shows how mentors can play 
 
 ### Connecting young people with local organizations
 
-> I see these organizations as resources for mentors because many of the volunteers are there because they already want to share their expertise. Think about skills that you would want to mentor young people in and see how that leads you to the mentors. <br/><br/>- Sonya Harsha
+> I see these organizations as resources for mentors because many of the volunteers are there because they already want to share their expertise. Think about skills that you would want to mentor young people in and see how that leads you to the mentors. <br/><br/>-- Sonya Harsha, _ConnectedLib_ partner, Algona (IA) Public Library
 
-A special collections librarian at an urban northeastern library partnered with their local preservation and historical society in a program where adults mentored students in the design of a digital neighborhood profile. Teens explored map design and history, while mentors assisted with “…. hands-on work, and a lot of time spent asking them to sort of critically engage in the built environment around them”. Mentors also helped young people reflect on the design process, asking them “… how do you make meaning for somebody else by creating this digital tool?”
+A special collections librarian at an urban northeastern library partnered with their local preservation and historical society in a program where adults mentored students in the design of a digital neighborhood profile. Teens explored map design and history, while mentors assisted with “…. hands-on work, and a lot of time spent asking them to sort of critically engage in the built environment around them.” Mentors also helped young people reflect on the design process, asking them “… how do you make meaning for somebody else by creating this digital tool?”
 
 ### Supporting specific youth populations
 

@@ -41,17 +41,17 @@ Once you have a good idea of your destination in the form of outcomes and goals,
 With these questions answered, you can begin creating a timeline and schedule, developing a recruitment or marketing plan (including any materials, handouts, or brochures), outlining training or orientation sessions, and thinking about program evaluation.  
 
 ## Create program policies
-> Libraries may not have the structural policies in place to host mentorship opportunities on their own. Smaller libraries don't always have robust policy manuals and may not have considered limitations of partnering youth and adult mentors (background checks, maximum time limits, off-site meetups, etc.). Looking into library volunteer policies is a critical step in determining how far a mentorship program can go. -- SE
+> Libraries may not have the structural policies in place to host mentorship opportunities on their own. Smaller libraries don't always have robust policy manuals and may not have considered limitations of partnering youth and adult mentors (background checks, maximum time limits, off-site meetups, etc.). Looking into library volunteer policies is a critical step in determining how far a mentorship program can go. -- Sara Evans, _ConnectedLib_ partner_, Trails Regional Library (MO)
 
 The majority of public libraries in the U.S. have volunteer policies in place, which can be a good start for a mentoring program. However, the very personal nature of mentoring and developing trusting relationships with youth means that policies that go beyond the typical library volunteer agreement are needed in order to protect both the mentors and the mentees. 
 
-> "Consult with your library administration about the current volunteer policy to see how the program will fit in. Will mentors need to meet certain criteria to work with you? Are background checks required?" - SE
+> "Consult with your library administration about the current volunteer policy to see how the program will fit in. Will mentors need to meet certain criteria to work with you? Are background checks required?" -- Sara Evans, _ConnectedLib_ partner, Trails Regional Library (MO)
 
 <div class="callout case_study" markdown="1">
 
 ### Do many public libraries have mentoring policies? 
 
-Two ConnectedLib partners, SE and Sonya Harsha, undertook a small project to review some volunteer policies from public libraries and evaluate how effective they would be for a mentoring program. Here are some of their findings: 
+Two ConnectedLib partners, Sara Evans and Sonya Harsha, undertook a small project to review some volunteer policies from public libraries and evaluate how effective they would be for a mentoring program. Here are some of their findings: 
 * “Many of the principles that I am seeing in volunteer policies should also be applied to mentoring, but the mentor should be ready to invest themselves into the lives and learning of the young people that the programs are designed for.”
 * “I definitely noticed a lack of detail in the smaller library volunteer policies. They didn't seem to have directives about what types of specific activities volunteers could engage in other than clerical, cleaning and "special events".”
 * “Most libraries don’t seem to have an explicit section in their policy about working with minors, and I assume it is because they don’t consider it an option.” 

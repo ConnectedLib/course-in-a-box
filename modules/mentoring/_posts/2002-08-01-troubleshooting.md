@@ -23,7 +23,7 @@ SE found some information relating to mentorship and similar outcomes on the [Bi
                 
 ## Restrictive Policies
 
->"Think about partnering with local organizations — they already have a lot of those policies and procedures for safely working with youth in place and could bear some or all responsibility and the library could be more of a support or conduit."<br/><br/> -- SE
+>"Think about partnering with local organizations — they already have a lot of those policies and procedures for safely working with youth in place and could bear some or all responsibility and the library could be more of a support or conduit."<br/><br/> -- Sara Evans, _ConnectedLib_ partner, Trails Regional Library (MO)
 
 
 ## Unfamiliar Technologies
