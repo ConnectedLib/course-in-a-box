@@ -3,7 +3,7 @@ title: Mentoring Workbook
 tags: ['sectionHead']
 ---
 
-Now that you’ve read through the information on community-centered library services it’s time to get started trying it for yourself. Use the _ConnectedLib Mentoring_ workbook to keep on track.
+Now that you’ve read through the information on community-centered library services it’s time to get started trying it for yourself. Use the [_ConnectedLib Mentoring Workbook_](https://docs.google.com/document/d/1MN0NPnxHub2tFqB4HR8EkBLgRkUU6Y-pYUmuyCF6fe0/edit#){:target="_blank"} to keep on track.
 
 ## [Worksheet #1: Mentoring K-W-L](https://docs.google.com/document/d/1MN0NPnxHub2tFqB4HR8EkBLgRkUU6Y-pYUmuyCF6fe0/edit#heading=h.5pf3n53wqrjk){:target="_blank"}
 
