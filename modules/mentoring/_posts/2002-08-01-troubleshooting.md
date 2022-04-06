@@ -38,7 +38,7 @@ You may also consider partnering with someone in the community with skills that 
 
 ## Time commitment too large
 
-Some potential mentors you approach — particularly people who have not served as mentors before — may balk at the idea of a long-term time commitment. recommends thinking in terms of “project-based mentoring.” For instance, an engineer could help you with a short series of engineering workshops, or work with a teen on a specific project. This may have the added benefit of warming them up to the idea of mentoring more in the future. 
+Some potential mentors you approach — particularly people who have not served as mentors before — may balk at the idea of a long-term time commitment. Sonya Harsha, _ConnectedLib_ partner from Algona (IA) Public Library, recommends thinking in terms of “project-based mentoring.” For instance, an engineer could help you with a short series of engineering workshops, or work with a teen on a specific project. This may have the added benefit of warming them up to the idea of mentoring more in the future. 
 
 ## Lack of mentoring experience
 

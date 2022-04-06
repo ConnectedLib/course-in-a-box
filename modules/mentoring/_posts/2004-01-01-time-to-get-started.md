@@ -37,7 +37,6 @@ Think about the mentoring and/or mentee experiences you described in Worksheet #
 
 Use this worksheet to start building your mentoring roadmap. 
 
-	
 ## [Worksheet #5: Mentoring Policies](https://docs.google.com/document/d/1MN0NPnxHub2tFqB4HR8EkBLgRkUU6Y-pYUmuyCF6fe0/edit#heading=h.g8fzdhvtyal1){:target="_blank"}
 
 Use this worksheet to start developing your mentoring policies. 
