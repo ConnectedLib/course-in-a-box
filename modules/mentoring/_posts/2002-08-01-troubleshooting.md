@@ -30,7 +30,7 @@ SE found some information relating to mentorship and similar outcomes on the [Bi
 
 >“The connected learning model requires librarians and staff members to leap into an uncharted territory.” <br/><br/>-- Mega Subramaniam et al., [Using Technology to Support Equity and Inclusion in Youth Library Programming: Current Practices and Future Opportunities](https://doi.org/10.1086/699267){:target="_blank"}, _The Library Quarterly, 88_(4). 
  
-Some people are reluctant to view themselves as digital media mentors because they are not confident in their ability to use the latest technologies. Instead of seeing this as a limitation, view it as an opportunity to engage in [colearning](../modules/introducing-the-toolkit/mindset/){:target="_blank"} by letting go of the “expert” role and becoming a partner, exploring the technology alongside the young person. By doing this, you will also be modeling effective learning practices.
+Some people are reluctant to view themselves as digital media mentors because they are not confident in their ability to use the latest technologies. Instead of seeing this as a limitation, view it as an opportunity to engage in [colearning](../../modules/introducing-the-toolkit/mindset/){:target="_blank"} by letting go of the “expert” role and becoming a partner, exploring the technology alongside the young person. By doing this, you will also be modeling effective learning practices.
 
 You may also consider partnering with someone in the community with skills that complement yours. Pairing a subject-matter expert with someone who knows how teens learn and how to work with them is often a successful combination. 
 

@@ -75,15 +75,15 @@ If the library can provide clear instructions, timelines, and expectations backe
 <div class="callout case_study" markdown="1">
 Sample volunteer policies: 
 
-* [Decatur Public Library](https://www.decaturlibrary.org/volunteer-policy)
-* [Sno-Isle Libraries](https://www.sno-isle.org/policies-and-guidelines/volunteer-policy/)
-* [Morrisville Public Library](https://morrisvillepubliclibrary.org/about-us/library-policy-manual-index/policies-of-the-morrisville-public-library/volunteer-policy/)
-* [Algona Public Library](https://www.ci.algona.ia.us/docview.aspx?docid=28375)
+* [Decatur Public Library](https://www.decaturlibrary.org/volunteer-policy){:target="_blank"} 
+* [Sno-Isle Libraries](https://www.sno-isle.org/policies-and-guidelines/volunteer-policy/){:target="_blank"} 
+* [Morrisville Public Library](https://morrisvillepubliclibrary.org/about-us/library-policy-manual-index/policies-of-the-morrisville-public-library/volunteer-policy/){:target="_blank"} 
+* [Algona Public Library](https://www.ci.algona.ia.us/docview.aspx?docid=28375){:target="_blank"} 
 
 Guidance on volunteer and mentor policies for libraries: 
 
-* [ALA](https://www.ala.org/tools/volunteers-libraries)
-* [ILA](https://www.ila.org/publications/ila-reporter/article/138/you-know-you-want-volunteers-successful-strategies-to-achieve-effective-voluntee)
+* [ALA](https://www.ala.org/tools/volunteers-libraries){:target="_blank"} 
+* [ILA](https://www.ila.org/publications/ila-reporter/article/138/you-know-you-want-volunteers-successful-strategies-to-achieve-effective-voluntee){:target="_blank"} 
 </div>
 
 ## Make a launch plan
