@@ -28,7 +28,7 @@ Remember that talking with community stakeholders may be  a first step to buildi
 * Data USA
 * Local statistical dashboards
 
-<div class="callout casestudy" markdown="1">
+<div class="callout case_study" markdown="1">
 ## Numbers to Build Community Understanding
 
 One more way in which to answer the questions you have about your community, is to gather numbers about those you serve. In [Library Staff as Public Servants](https://yxlab.ischool.umd.edu/projects/reimagining-youth-services-during-crises/){:target="_blank"}, Mega Subramaniam and Linda Braun share the following resources for data-gathering. 
