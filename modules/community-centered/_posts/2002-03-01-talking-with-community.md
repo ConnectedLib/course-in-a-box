@@ -4,7 +4,7 @@ title: Talking with the Community
 
 One powerful way to gather data about your community is to have conversations with those who live and work there.  You may start by connecting to people that you identified in the community mapping process and that also connect to the questions you would like to have answered through your data gathering process.  The goal of talking with those who live and work in the community is to have your questions answered. What you talk about should be focused on what you want to learn, not what you want people to know.  conversations may be
 
-## Getting Started with Community-Centered Conversations
+## Getting started with community-centered conversations
 
 It may be difficult for you to engage in the conversations that are described here.  The tips below should help you get started:
 
@@ -15,23 +15,31 @@ It may be difficult for you to engage in the conversations that are described he
 
 If colleagues and administrators are not supportive of the conversations with community members, begin a conversation about what they would like to know about the community and how they would find out that information. Invite them to join you in the conversations or give you ideas of what to talk about.  Speak about the ways in which the conversations will better support the needs of teens which will ultimately lead to a thriving community.
 
+<div class="callout case_study" mardown="1">
+
+## What should I ask? 
+
+In a worksheet accompanying [_Library Staff as Public Servants_](https://yxlab.ischool.umd.edu/projects/reimagining-youth-services-during-crises/){:target="_blank"}, Mega Subramaniam and Linda Braun suggest the following questions you could ask your community contacts: 
+
+* You interact with the community everyday, what are the problems you are hearing about at this very moment? 
+* What interventions do you think will help solve that problem?
+* Who is working with them to solve these problems, and how?
+* How can we get to know more community connectors like you that can share community needs with me?
+* What are you seeing as the primary needs of youth and families [or insert another community that you are interested in] in your area during this time?  
+* Who in the community is working with the population of interest and what kinds of services are they providing?
+* If I'd like to connect briefly with [community of interest], how should I go about it?
+
+</div>
+
 Use this template to get started planning these types of conversations.
 
 Remember that talking with community stakeholders may be  a first step to building the types of relationships that can lead to partnerships.  This means that you should keep in mind that the conversation has the potential to be more than a one and done experience.  After each of your conversations, consider opportunities to talk again with the person you connected with.  You may want to check-in about something you learned during your conversation or you may want to let them know how you are thinking about what you learned and ideas and knowledge you generated because of the conversation.   As you continue to talk and learn from each other you will gain insight into each other’s goals and start to generate ideas for partnering in support of those.
 
-
-  There are many different ways to gather this data including:
-* Census Data
-* ESRI Tapestry
-* Tableau
-* Kids Count
-* Data USA
-* Local statistical dashboards
-
 <div class="callout case_study" markdown="1">
-## Numbers to Build Community Understanding
 
-One more way in which to answer the questions you have about your community, is to gather numbers about those you serve. In [Library Staff as Public Servants](https://yxlab.ischool.umd.edu/projects/reimagining-youth-services-during-crises/){:target="_blank"}, Mega Subramaniam and Linda Braun share the following resources for data-gathering. 
+## Numbers to build community understanding
+
+One more way in which to answer the questions you have about your community, is to gather numbers about those you serve. In [_Library Staff as Public Servants_](https://yxlab.ischool.umd.edu/projects/reimagining-youth-services-during-crises/){:target="_blank"}, Mega Subramaniam and Linda Braun share the following resources for data-gathering. 
 
 ### [Census Reporter](https://censusreporter.org/){:target="_blank"}
 

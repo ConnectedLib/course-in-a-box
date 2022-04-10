@@ -21,7 +21,7 @@ Now that you have a clear picture of the people and assets in your community, wh
 
 <div class="callout activity" markdown="1">
 
-## [Worksheet #6: Analyzing the Data](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.padjn2a0668g){:target="_blank"}
+## [Worksheet #6: Analyzing the data](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.padjn2a0668g){:target="_blank"}
 
 Using [Worksheet #6](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.padjn2a0668g){:target="_blank"}, for each information-gathering activity you completed, write down your key findings in a few sentences. Then synthesize the results in a paragraph summarizing what you have learned about your community, and answer the following questions to help you figure out your next steps. 
 

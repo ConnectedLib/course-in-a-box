@@ -9,7 +9,7 @@ Now that you’ve read through the information on community-centered library ser
 
 Complete this worksheet by first describing your experience (if any) with community-centered services. Then create a list of what you already know (the K in KWL) about community-centered services. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.
 
-## [#2: Who Are Your Partners?](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
+## [#2: Who are your partners?](https://docs.google.com/document/d/13FyfJr_D6-I2R6_OQhcj0SevTEdMySuy8lh_tLoUl0w/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
 Take a few minutes and write down all of the stakeholders and organizations you have a partnership with in support of teen services. Add more rows to the table if you need to.
 
 After coming up with your list, write down the ways in which that partnership is demonstrated. For example, what do you partner on, how is the partnership setup, why do you define what you are thinking about as a partnership?

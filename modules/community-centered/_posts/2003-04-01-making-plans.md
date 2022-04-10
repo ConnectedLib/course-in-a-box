@@ -1,5 +1,5 @@
 ---
-title: Making plans together
+title: Making Plans Together
 ---
 >“Communicate often and very far ahead of time."<br/><br/>— Librarian at a western urban library
 

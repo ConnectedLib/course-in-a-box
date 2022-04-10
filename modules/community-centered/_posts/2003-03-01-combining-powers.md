@@ -1,5 +1,5 @@
 ---
-title: Combining your powers
+title: Combining Your Powers
 ---
 ## How partners help the library
 

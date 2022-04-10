@@ -1,8 +1,8 @@
 ---
-title: Working with different types of partners
+title: Working with Different Types of Partners
 ---
 
-## Informal Learning Institutions
+## Informal learning institutions
 
 > “It’s very important to the art museum that they attract more local families and teens, so they have actually sent their education department to our different branches to do programs with families and then they have paid for the transportation… to take those families from the individual branches to the art museum for a field trip.”<br/><br/>— Director of Youth & Family Engagement at an urban midwestern library
 
@@ -29,7 +29,7 @@ Staff at Chicago Public Library worked closely with an outreach and education sp
 </div>
 </div>
 
-## Individuals, Businesses, and Community Groups
+## Individuals, businesses, and community groups
 
 >“The library is considered not only a foundation to the community, but a good community supporter. We say, “How can the library partner with you?” And it brings them in and they want to work here, and they want to work with teens, and they want to give back… We’re getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed.”<br/><br/>— Head of Youth Services at a southern urban library
 
@@ -58,7 +58,7 @@ Private individuals, local businesses, and community groups that are not oriente
 * **Inexperience with teens:** The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. A rural western library worker says of working with a retired electrical engineer on a regular robotics program: “He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know-how. So, between both of us, we're able to keep the kids somewhat engaged.”
 </div>
 
-## Youth-Serving Organizations
+## Youth-serving organizations
 
 > “We’ve partnered with a nonprofit organization… and they’re local and their focus is to get everyone coding… We’re both really excited. He loves libraries, and wanted to get technology and his organization doesn’t really have a building. They just teach, but they don’t have a site. So libraries are always good for space. So we were able to come together for a Computer Science Education Week.”<br/><br/>— Teen Educator/Librarian at an urban northeastern library
 

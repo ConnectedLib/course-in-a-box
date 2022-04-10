@@ -1,5 +1,5 @@
 ---
-title: Ending a partnership
+title: Ending a Partnership
 ---
 ## Wrapping up
 It’s tempting to move on to the next project once a collaboration has concluded, but taking the time to properly wrap-up will benefit both you and your partner. Collect any numbers, stories or artifacts that will help tell the story of your program. Have a debriefing meeting with everyone involved to discuss what went well and what could be improved. Make sure you thank the people you worked with directly, as well as any managers or administrators whose approval or cooperation was required.

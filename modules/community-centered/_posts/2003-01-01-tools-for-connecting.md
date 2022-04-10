@@ -1,5 +1,5 @@
 ---
-title: Tools for connecting your community
+title: Tools for Connecting Your Community
 tags: ['sectionHead']
 ---
 

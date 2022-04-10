@@ -28,11 +28,15 @@ Driving or walking around as if you are new to the area can help you:
 
 Community mapping focuses on the strengths and assets of a community instead of on weaknesses and gaps, leading to unconventional programs that leverage a community’s unique strengths.
 
-Community asset maps take many forms, from simple lists that fit on a single piece of paper to extensive reports and geographic maps. Plotting the resources and groups you discover on a map of your city or neighborhood may be useful and can inspire you to form out-of-the-box connections, but many community maps are much more simple. Look at the following examples for inspiration.
 
-* There is an example of a community asset map on page 38 of The Engaged Library: Chicago Stories of Community Building from the Urban Libraries Council.
-* This map from Brighter Futures Together depicts assets of individuals alongside those of associations and organizations in the community.
-* The UCLA Center for Health Policy Research locates assets on a geographic map.
+
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/yq4khZKghqY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">23:34 |</div> In this webinar, Verena Getahun discusses asset-based community development and how to embark on an asset-mapping project. </div>
+
+
+
+
 
 <div class="callout info" markdown="1">
 ## Low-capacity asset mapping 
@@ -44,4 +48,7 @@ Another way to make the job easier is to find out if someone from another organi
 </div>
 
 ## Asset Mapping Examples and Resources
-<iframe style="border: 0; width: 100%; height: 600px;" allowfullscreen frameborder="0" src="https://raindrop.io/cl21/asset-maps-24018575/embed/hide=header%2C+excerpt%2C+info%2C+add"></iframe>
+
+Community asset maps take many forms, from simple lists that fit on a single piece of paper to extensive reports and geographic maps. Plotting the resources and groups you discover on a map of your city or neighborhood may be useful and can inspire you to form out-of-the-box connections, but many community maps are much more simple. Look at the following examples for inspiration.
+
+<iframe style="border: 0; width: 100%; height: 600px;" allowfullscreen frameborder="0" src="https://raindrop.io/cl21/asset-maps-24018575/embed/sort=title&hide=header%2C+excerpt%2C+info%2C+add"></iframe>
