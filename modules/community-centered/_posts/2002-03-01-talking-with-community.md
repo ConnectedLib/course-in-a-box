@@ -28,6 +28,14 @@ One more way in which to answer the questions you have about your community, is 
 * Data USA
 * Local statistical dashboards
 
+<div class="callout casestudy" markdown="1">
+<iframe src="https://drive.google.com/file/d/1A8AbwWQNp7VEL8MoJZ-37_Df1WdgwQN4/view" title="Gathering Community Data" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
+
+
+
 As you think about the different tools available, reflect on the questions you would like to have answered.  Consider which tool(s) will best help you to answer the questions.  Ask yourself if you would like to start with a larger context and then dig down into local data in order to put the local data into context.  
 
 <div class="callout activity" markdown="1">
