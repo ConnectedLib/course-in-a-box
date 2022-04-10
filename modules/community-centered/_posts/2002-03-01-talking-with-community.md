@@ -15,7 +15,7 @@ It may be difficult for you to engage in the conversations that are described he
 
 If colleagues and administrators are not supportive of the conversations with community members, begin a conversation about what they would like to know about the community and how they would find out that information. Invite them to join you in the conversations or give you ideas of what to talk about.  Speak about the ways in which the conversations will better support the needs of teens which will ultimately lead to a thriving community.
 
-<div class="callout case_study" mardown="1">
+<div class="callout case_study" markdown="1">
 
 ## What should I ask? 
 
@@ -30,8 +30,6 @@ In a worksheet accompanying [_Library Staff as Public Servants_](https://yxlab.i
 * If I'd like to connect briefly with [community of interest], how should I go about it?
 
 </div>
-
-Use this template to get started planning these types of conversations.
 
 Remember that talking with community stakeholders may be  a first step to building the types of relationships that can lead to partnerships.  This means that you should keep in mind that the conversation has the potential to be more than a one and done experience.  After each of your conversations, consider opportunities to talk again with the person you connected with.  You may want to check-in about something you learned during your conversation or you may want to let them know how you are thinking about what you learned and ideas and knowledge you generated because of the conversation.   As you continue to talk and learn from each other you will gain insight into each other’s goals and start to generate ideas for partnering in support of those.
 
