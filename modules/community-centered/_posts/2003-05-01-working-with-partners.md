@@ -8,6 +8,13 @@ title: Working with Different Types of Partners
 
 Libraries are centers for informal learning, so other informal learning institutions—museums, science centers, archives, botanical gardens, and more—make natural partners. These organizations often share a library’s mission to empower the public through knowledge and learning.
 
+<div class="callout case_study" markdown="1">
+### Adler Planetarium and Chicago Public Library
+Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.
+* Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local museum to reach more teens! [YALSA members webinar].
+</div>
+
+
 <div class="colorhighlight color1" markdown="1">
 ### Opportunities
 
@@ -21,13 +28,9 @@ Libraries are centers for informal learning, so other informal learning institut
 
 * **Similar restraints:** Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.
 * **Management approval:** Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations.
+</div>
 
-<div class="callout case_study" markdown="1">
-### Adler Planetarium and Chicago Public Library
-Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.
-* Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local museum to reach more teens! [YALSA members webinar].
-</div>
-</div>
+
 
 ## Individuals, businesses, and community groups
 
@@ -93,7 +96,14 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/vJpQJKUoXio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime">5:21</div></div>
+<div class="videotime">5:21</div>
+</div>
+
+<div class="callout case_study" markdown="1">
+### Charlotte Mecklenburg Library & the Northwest School For the Arts
+
+The Charlotte Mecklenburg Library partnered with the Northwest School of the Arts’s library, incorporating tutoring, homework help, and video games in an afterschool program. The public library provided the board games and video game equipment, which the school library lacked. The partnership allowed the library to reach new audiences, and provided a beneficial service to the school’s students.
+</div>
 
 <div class="colorhighlight color1" markdown="1">
 ### Opportunities
@@ -121,7 +131,4 @@ Partnering with schools is particularly challenging for most of the librarians a
 * **Daily schedules conflict:** Even in the day-to-day, youth librarians tend to have “opposite” schedules from teachers and school librarians—they are most busy when youth are not in school. This can make communication challenging, so be patient yet persistent, and be flexible with your schedule to make occasional meetings possible if you can.
 </div>
 
-<div class="callout case_study" markdown="1">
-### Charlotte Mecklenburg Library & the Northwest School For the Arts
 
-The Charlotte Mecklenburg Library partnered with the Northwest School of the Arts’s library, incorporating tutoring, homework help, and video games in an afterschool program. The public library provided the board games and video game equipment, which the school library lacked. The partnership allowed the library to reach new audiences, and provided a beneficial service to the school’s students.</div>
