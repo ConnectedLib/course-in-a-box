@@ -1,5 +1,5 @@
 ---
-title: Rethinking partnerships
+title: Rethinking Partnerships
 ---
 
 Libraries can build partnerships in support of connected learning by starting to build relationships with people, organizations, and stakeholders that relate to the interests of teens.  You might get started by going to events in which teens are involved - school plays and sporting events for example - and talking with the adults at those events. If you attend meetings of organizations that support teens, talk with the people there about their connections to teens and  how they see teens being supported in the community.  Through these conversations and event/meeting attendance, library staff are able to learn about teen interests and begin to build relationships with others in the community who can through time and relationship-building can become partners in support of teen interests, building of relationships, and creating opportunities.
