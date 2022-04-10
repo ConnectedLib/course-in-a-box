@@ -32,9 +32,9 @@ Community mapping focuses on the strengths and assets of a community instead of 
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/yq4khZKghqY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime">23:34 |</div> In this webinar, Verena Getahun discusses asset-based community development and how to embark on an asset-mapping project. 
+<div class="videotime">23:34 | In this webinar, Verena Getahun discusses asset-based community development and how to embark on an asset-mapping project. 
 </div>
-
+</div>
 
 
 
