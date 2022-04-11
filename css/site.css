@@ -217,8 +217,8 @@ line-height:  2em;
 /* CASE STUDY/EXAMPLES */
 
 .case_study { 
-  border-left: solid 10px #3d244e; /* dark purple */
-  background-color: lavender;
+  /*border-left: solid 10px #3d244e; dark purple */
+  background-color: #AC66CC; /* medium purple */
   /* background-image: url(../img/boxIcons/casestudies.png);
   background-size: auto;
   background-position: 10px 10px;
