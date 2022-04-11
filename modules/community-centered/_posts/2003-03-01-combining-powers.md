@@ -13,9 +13,7 @@ title: Combining Your Powers
 ### Providence Public Library & Rhode Island School of Design
 
 <img src="{{ site.baseurl }}/img/ccs/RISD_1.jpg"  ALT="Teens gathered around a woman using a dressmaking model." />
-<br/> 
-
-_Source: Providence Public Library/ConnectedLib._
+<br/><i>Source: Providence Public Library/ConnectedLib.</i>
 
 For a program about 1920’s fashion, Providence Public Library partnered with the Rhode Island School of Design, a prestigious institution located only a few blocks away. An instructor from the school’s Young Artist program provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a professional designer gave teens an experience that would not have been possible with the library’s resources alone.
 
