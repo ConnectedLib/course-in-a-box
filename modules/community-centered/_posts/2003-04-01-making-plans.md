@@ -49,3 +49,7 @@ Each memorandum of understanding, or MOU, may be a little different, depending o
 * Who will be responsible for maintaining the project or program and any related materials?
 * If changes are needed mid-way through the collaboration, who will decide what changes to make, and when? 
 * How will you evaluate the program’s success? What will you measure, and who will collect that information? Who will receive a copy of the final evaluation report? 
+
+### MOU Resources
+
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/cl21/establishing-partnerships-24134700/embed/sort=title&hide=header%2C+excerpt%2C+info%2C+add"></iframe>
