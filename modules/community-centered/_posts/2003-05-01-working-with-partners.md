@@ -9,13 +9,17 @@ title: Working with Different Types of Partners
 Libraries are centers for informal learning, so other informal learning institutions—museums, science centers, archives, botanical gardens, and more—make natural partners. These organizations often share a library’s mission to empower the public through knowledge and learning.
 
 <div class="callout case_study" markdown="1">
+
 ### Adler Planetarium and Chicago Public Library
+
 Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.
+
 * Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). Partner with a local museum to reach more teens! [YALSA members webinar].
 </div>
 
 
 <div class="colorhighlight color1" markdown="1">
+
 ### Opportunities
 
 * **Similar programs and goals:** Since informal learning institutions often share similar missions, the programs they develop and the goals they set are often similar as well, making collaboration easier.
