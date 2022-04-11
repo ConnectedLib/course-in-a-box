@@ -100,14 +100,43 @@ Chicago Public Library’s YOUmedia program and the National Veterans Art Museum
 Library staff can help partners integrate library resources—equipment, software, physical collections, or library staff themselves—into their programs. Staff at an urban library in the south keep an eye out for opportunities to promote the library’s resources in activities held in the library: “[W]e might just offer, as part of their program, to talk about our library resources if it fits in.”
 </div>
 
+<div class="callout case_study" markdown="1">
+
+### Charlotte Mecklenburg Library & the Northwest School for the Arts
+
+The Charlotte Mecklenburg Library partnered with the Northwest School of the Arts’s library, incorporating tutoring, homework help, and video games in an afterschool program. The public library provided the board games and video game equipment, which the school library lacked. The partnership allowed the library to reach new audiences, and provided a beneficial service to the school’s students.
+
+_For more information, see It takes two: School and public libraries, partnerships that can work! by A. Pelman, in Young Adult Library Services, 2009(Fall), 26, and [Game On!](http://www.lizromanek.com/game-on.html){:target="_blank"} by Liz Romanek._
+
+
+</div>
+
+
 <div class="colorhighlight color1" markdown="1">
 **Libraries can deliver programming and expertise to partners**
 Partners don’t always have to come to the library—libraries can bring their expertise to their partners’ spaces. This can be as simple as conducting an established program or workshop in a new location, or working with the partner to develop something brand new or tailored to the partner’s needs. Library staff have unique knowledge and skills that can be shared. Conducting programming on-site can also help partners learn to conduct more programming themselves.
 </div>
 
+
+<div class="case_study callout" markdown="1">
+
+### Learning about history with the Laotian Community Center
+
+The executive director of the Laotian Community Center wanted to capture the stories of the seniors in the Laotian community in Providence, Rhode Island, many of whom came to the United States as refugees. Brainstorming with Providence Public Library led to a project to teach teens how to create oral histories. Librarians at PPL were able to adapt an existing workshop to be suitable for the context and participants and conducted a day-long program at the community center with the help of a third partner: a graduate student from nearby Brown University. The program taught the teens history, interview techniques, and media skills, and led to additional collaborations between some of the partners.
+
+</div>
+
 <div class="colorhighlight color2" markdown="1">
 **Libraries can promote partners and help with outreach**
 Any organization that partners with a library can benefit from increased visibility in the community, but the more the organization interacts with patrons the stronger the potential impact can be. Theater, dance, and arts organizations in particular can use workshops to spark community interest in their productions and exhibits and even recruit new members. Some libraries provide community groups with time and space to be available to teens, particularly organizations that provide services like mental health counseling or legal services.
+</div>
+
+<div class="callout case_study" markdown="1">
+
+### Partnering with youth-serving organizations
+
+To help address the needs of teens in the high-poverty suburban area surrounding one northeastern library, the library hosted community organizations to make them more accessible to teens. “We work with other youth organizations who are serving youth… We have a mobile legal team who comes in on a monthly basis to provide free legal support to teens who need it. There are LGBTQ organizations for youth whose information we keep on display regularly. We have community partners from various areas kind of come in and do tabling. Because of the nature of our space, no one's giving presentations but they have access to the teens... We have access to youth, they need access to youth, and we provide them with that access and they provide our youth with resources. It's a beautiful relationship where everyone's benefiting. And just making sure that the relationship is always a two-way beneficial relationship is the key to \[sustaining the relationship\].”
+
 </div>
 
 <div class="colorhighlight color3" markdown="1">
@@ -116,3 +145,13 @@ Through teen volunteer programs, libraries can offer opportunities for organizat
 Teens aren’t the only ones who need or want to volunteer. Libraries provide opportunities for adults, often retirees, to share their professional skills and knowledge with youth. Librarians interviewed for the ConnectedLib project mentioned individuals in their community who found fulfillment through volunteering to work with youth in areas as diverse as robotics, programming, and knitting.
 </div>
 
+<div class="callout case_study" markdown="1">
+
+### Adult Volunteers
+
+Adult community members are a rich source of expertise for many libraries. Library staff we interviewed spoke highly of their many adult volunteers who work with teens.
+
+A librarian at a rural western library uses personal connections and relationships to recruit both adult and teen volunteers: “I try my best to remember everybody's name… I build this relationship with every single person that I come in contact with and the next thing you know, they lead me to another person, they lead me to another thing and then we just have so many different partnerships right now. It's awesome. And because we have so much good families, good sentiment where everybody's pitching in, we can do so much more.”
+
+One of the biggest benefits to come from this relationship building is the expertise of a retired electrical engineer who was working with the local high school’s computer club. “Somebody mentioned to us that he'd be interested in helping you with the Lego robotics because he likes anything techy and he likes to work with older kids." The librarian invited him to volunteer at the library as well, and he now runs weekly Lego robotics workshops when he’s not enjoying retirement by traveling. The librarian helps by managing the teens. “He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know how. So, between both of us, we're able to keep the kids somewhat engaged.”
+</div>
