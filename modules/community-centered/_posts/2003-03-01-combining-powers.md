@@ -85,6 +85,16 @@ As community centers, most libraries can offer partners space to conduct their o
 A library with a thriving teen population can provide a ready-made audience for the partners’ activities. They can also help bridge the “trust gap” that new youth-serving organizations may face when they try to offer new services to an audience that is not familiar with them.
 </div>
 
+<div class="callout videos" markdown="1">
+
+### YOUMedia and the National Veterans Art Museum
+
+<iframe src="https://www.youtube.com/embed/CkqyRzRehbM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">4:07</div>
+
+Chicago Public Library’s YOUmedia program and the National Veterans Art Museum made their first connection through Hive Chicago. The museum hosted weekly art programs in the library’s teen space, which was more centrally located and had an established teen community. Museum staff modified their workshop programming to suit YOUmedia’s “drop-in” style.
+</div>
+
 <div class="colorhighlight color3" markdown="1">
 **Libraries can provide resources for partners.** 
 Library staff can help partners integrate library resources—equipment, software, physical collections, or library staff themselves—into their programs. Staff at an urban library in the south keep an eye out for opportunities to promote the library’s resources in activities held in the library: “[W]e might just offer, as part of their program, to talk about our library resources if it fits in.”
