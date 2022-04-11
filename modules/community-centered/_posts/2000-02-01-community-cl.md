@@ -2,7 +2,7 @@
 title: Community at the Center of Connected Learning
 ---
 
-> Working with other community members can expand what a library can provide for teens and create with teens when it comes to media literacy education, and this will give teens the chance to connect to others who can play a valuable educational, informational, and personal role in their lives, especially in relation to workforce preparedness.<br/><br/>— Linda Braun et al. in _The Future of Library Services For and With Teens: A Call to Action_
+> Working with other community members can expand what a library can provide for teens and create with teens when it comes to media literacy education, and this will give teens the chance to connect to others who can play a valuable educational, informational, and personal role in their lives, especially in relation to workforce preparedness.<br/><br/>— Linda Braun et al. in [_The Future of Library Services For and With Teens: A Call to Action_](http://www.ala.org/yaforum/future-library-services-and-teens-project-report){:target="_blank"}
 
 It may seem drastic to say that without community-centered services connected learning is not possible. However, if connected learning is the foundation of teen services, and not just an add-on, then community does have to be at the center of each and every aspect of those services.
 

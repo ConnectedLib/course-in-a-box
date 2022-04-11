@@ -33,13 +33,32 @@ Partners who have already built a youth community can introduce them to the libr
 Youth services librarians need to get out of the library building and meet teens where they are.  Partners might have spaces that youth are already using where you can bring programs. 
 </div>
 
+<div class="case_study callout" markdown="1">
 
+### Charlotte Mecklenburg Library and the Mecklenburg County Sheriff's Office
+
+The Mecklenburg County Sheriff's Office had operated a successful library system in the two county jails for years, but administrators saw a need to increase programming for youthful offenders. The jail did not have the staff capacity to handle more specialized programming, so the jail library's director—a former public librarian—reached out to the Charlotte Mecklenburg Library. Administrators at the public library immediately saw the benefits of such a partnership to the jail (better programming for their youth), the library (the ability to reach an audience that was unable to visit the library), and the community (youth would be better prepared for life after release).
+
+Library staff were able to use existing youth programming modified slightly for the youth at the jail. For instance, they offered single-session versions of some classes, for youth who were about to be released, and they made connections to other youth programs that were available at the jail. The most needed programming involved technology literacy, which library staff combined with creativity and social skills to create impactful programs—for example, they incorporated book reports into a podcasting class, and encouraged computer literacy and peer interactions through gaming tournaments. The items the youth created served as evidence of the program's impact.
+
+_For more information, see High Impact Partnership: Serving Youth Offenders by Angela Craig, in Young Adult Library Services, 2010(Fall), 20-22._
+
+</div>
 
 
 
 <div class="colorhighlight color1" markdown="1">
 **Partners can provide material support.** 
 Simply donating money or materials in return for a public “thank you” from the library is an easy entry point to working together for many organizations, particularly local businesses. 
+</div>
+
+
+<div class="case_study callout" markdown="1">
+
+### Partnering with local businesses
+
+Simple partnerships can lead to more extensive collaborations as the relationship develops. In a midwestern town surrounded by rural farmland, one librarian developed a great relationship with a local game store. The owner donated merchandise to be used as trivia prizes and themed snacks for movie nights (_**“For our Naruto movie, everybody went home with either wasabi candy or ginger candy.”**_) He shared his expertise by running video game tournaments at the library and judging a game-making contest. In return, the store earned exposure and goodwill with the teens, and the library bought gift cards from the store as additional prizes.
+
 </div>
 
 <div class="colorhighlight color2" markdown="1">
