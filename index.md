@@ -39,7 +39,7 @@ published: true
  <img src="{{ site.baseurl }}/img/moduleLogos/community-centered.png" width="90px" ALT="Community-Centered Services"/>
 </div></a></div>
 
-<div class="grid-item"> <a href="modules/capacity/"><div>community centered services<br/>
+<div class="grid-item"> <a href="modules/capacity/"><div>capacity<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/capacity.png" width="90px" ALT="Capacity"/>
 </div></a></div>
 
