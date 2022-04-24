@@ -1,5 +1,5 @@
 ---
-title: Internal Asset Mapping
+title: Internal Asset Mapping 
 tags: ['sectionHead']
 ---
 
@@ -47,37 +47,44 @@ Partnerships
 
 
  
+</div>
+
+<div class="colorhighlight color2" markdown="1">
+
 
 
 ### Midsize, Suburban Library: Sunnydale Public Library
 
 Sunnydale Public Library is located in a sprawling suburban area. It is a midsize library, and serves a population of about 16,000. It has a meeting room for library programs, and two study rooms. As well as having open seating areas for reading and studying, the library uses roughly half of its open space to make room for 38 computers. They have knowledgeable staff and strong community partnerships. Many of these community partnerships help to fund new technology acquisitions, since the library’s tech budget is split across the system to which it belongs. The library employs two adult services librarians, a children’s librarian, and a teen librarian. Also on staff are five library associates and a base of twenty rotating volunteers.
-
+ 
 **Space**:
 * 1 meeting room (40 people)
 * 2 study rooms (3 people)
 * Open seating
 * Teen space with configurable seating and tables
-
+ 
 **Staff**:
 * Adult Services (2)
 * Children’s Librarian
 * Teen Librarian
 * Library Associate (5)
 * Volunteers (20)
-
+ 
 **Material Resources**:
 * 38 computers
 * Small technology budget
 * Arts & crafts supplies
 * Button maker
-
+ 
 **Partnerships**:
 * Friends group
 * Neighborhood associations (2)
 * High school
-
  
+</div>
+
+<div class="colorhighlight color3" markdown="1">
+
 
 Small, Rural Library: Smallville Public Library
 
@@ -102,9 +109,14 @@ Partnerships
 
 
  
+</div>
+ 
 <div class="callout activity" markdown="1">
 	
 ### [Worksheet #2: Start mapping your capacity]( ){:target="_blank"}
 
 Now it’s your turn. Start mapping your library’s capacity in the areas of staffing, space, material resources, and partnerships. 
 </div>
+
+
+
