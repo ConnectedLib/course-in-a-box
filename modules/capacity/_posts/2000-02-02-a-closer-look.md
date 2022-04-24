@@ -2,26 +2,80 @@
 title: Taking a closer look 
 ---
 You can gain further insight into your library’s capacity and potential by looking at each element in more detail: staffing, partnerships, material resources, and space. 
+
 ## Staffing
 Staffing capacity refers not only to the number of staff members your library has, but also to your staff’s strengths and unique abilities. For example, how many youth librarians do you have on staff? Does your library have staff dedicated to or knowledgable about specific technologies? Staff availability is also important. For instance, if you have one teen librarian on staff who is in charge of the reference desk for a certain number of hours a day in addition to their other duties, they may have less capacity for teen programming.
 
-If your library is not extremely small, you can begin by looking at staffing at a macro level, as shown in the following example from our mid-sized library.
+If your library is not extremely small, you can begin by looking at staffing at a macro level, as shown in the following examples.
+
+<div class="colorhighlight color1" markdown="1">
+
+### Gotham Public Library
+
+<table class="worksheet">
+
+<tr>
+	<th>Staff</th>
+	<th>Strengths</th>
+	<th>Weaknesses</th>
+</tr>
+
+<tr>
+	<td>Teen services staff</td>
+	<td>Comfortable working and co-learning with teens<br/>
+	    Knowledgeable about connected learning</td>
+	<td>Can't keep up with every topic teens are interested in</td>
+</tr>
+
+<tr>
+	<td>IT staff</td>
+	<td>Have training programs for all library software</td>
+	<td>Programs focus exclusively on software features and how-tos, not the creative process or connecting to other areas of life</td>
+</tr>
+
+<tr>
+	<td>Children's Services</td>
+	<td>Have established relationships with library visitors who are aging up into the teen programs</td>
+	<td>Are occupied with children's programming</td>
+</tr>
+
+</table>
+
+</div>
+
 
 <div class="colorhighlight color2" markdown="1">
 
-### Sunnydale Public Library (midsize, suburban)
+### Sunnydale Public Library
 
 <table class="worksheet">
-<tr><th>Staff</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
-<tr><td>2 adult services staff</td><td>Not enough staff for additional adult-oriented programs and book groups</td><td>Leverage community partnerships and knowledgeable volunteers to help staff programs</td></tr>
-<tr><td>1 Children's Services staff</td><td>Knowledgeable in early literacy</td><td>Large deaf community unable to access stroytime, no ASL speakers</td><td>Work with community to find an ASL speaking volunteer to translate storytime</td></tr>
-<tr><td>1 Teen Services Staff</td><td>Large afterschool teen population is too big for 1 staff member</td><td>Leverage Library Associates, as well as community partnerships and knowledgeable volunteers to help staff programs</td></tr>
-<tr><td>4 Library Associates</td><td>1 LA has an MLIS and is familiar with connected learning</td><td>
-Library Associates have little extra  time because they shelve books and work the front desk--no library page positions</td><td>
-Work with community volunteers to help train them in book shelving, which will free up the time of a few of the Library Associates to help with other programs</td></tr>
+<tr>
+<th>Staff</th>
+<th>Strengths</th>
+<th>Weaknesses</th>
+</tr>
+<tr>
+<td>2 adult services staff</td>
+<td></td>
+<td>Not enough staff for additional adult-oriented programs and book groups</td>
+</tr>
+<tr>
+<td>1 Children's Services staff</td>
+<td>Knowledgeable in early literacy</td>
+<td>Large deaf community unable to access storytime, no ASL speakers</td>
+</tr>
+<tr>
+<td>1 Teen Services Staff</td>
+<td>Large afterschool teen population is too big for 1 staff member</td>
+</tr>
+<tr>
+<td>4 Library Associates</td>
+<td>1 LA has an MLIS and is familiar with connected learning</td>
+<td>Library Associates have little extra  time because they shelve books and work the front desk--no library page positions</td></tr>
 
 
 </table>
+
 
 </div>
 
