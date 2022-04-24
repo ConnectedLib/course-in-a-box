@@ -56,7 +56,7 @@ If your library is not extremely small, you can begin by looking at staffing at 
 </tr>
 <tr>
 <td>2 adult services staff</td>
-<td></td>
+<td>&nbsp;</td>
 <td>Not enough staff for additional adult-oriented programs and book groups</td>
 </tr>
 <tr>
@@ -75,6 +75,7 @@ If your library is not extremely small, you can begin by looking at staffing at 
 
 
 </table>
+
 
 
 </div>
