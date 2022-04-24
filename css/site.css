@@ -359,3 +359,21 @@ line-height:  2em;
  Youth Development:  Growth by Dmitry Vasiliev from NounProject.com
 
  */
+
+/* Tables */
+.worksheet, .worksheet td {
+  border:1px solid #000000;
+  padding:10px;
+  font-family:'Courier New';
+  color: #000000;
+  vertical-align:top;
+}
+
+.worksheet th {
+  border:1px solid #000000;
+  padding:10px;
+  font-family:'Courier New';
+  color: #ffffff;
+  background-color: #000000;
+  vertical-align:top;
+}
