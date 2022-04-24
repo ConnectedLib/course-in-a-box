@@ -11,10 +11,15 @@ If your library is not extremely small, you can begin by looking at staffing at 
 
 ### Sunnydale Public Library (midsize, suburban)
 
-Staffing
-Strengths
-Weaknesses
-How can it be improved?
+| Staffing | Strengths | Weaknesses | How can it be improved? |
+|---|---|---|---|
+|Adult services | 2 adult services staff | Not enough staff for additional adult-oriented programs and book groups | Leverage community partnerships and knowledgeable volunteers to help staff programs | 
+
+
+**Staffing**:
+* Strengths
+* Weaknesses
+* How can it be improved?
 Adult Services
 2 Adult Services Staff
 Not enough staff for additional adult oriented programs and book groups
@@ -32,9 +37,6 @@ Library Associates
 Collaborative work space for 2-5 people
 Rarely used
 Advertise the study space at the front desk
-
-
-
 </div>
 
 
