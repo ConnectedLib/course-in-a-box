@@ -13,10 +13,14 @@ If your library is not extremely small, you can begin by looking at staffing at 
 
 <table class="worksheet">
 <tr><th>Staff</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
-<tr><td>Adult services</td><td>2 adult services staff</td><td>Not enough staff for additional adult-oriented programs and book groups</td><td>Leverage community partnerships and knowledgeable volunteers to help staff programs</td></tr>
-<tr><td>Children's Services</td><td>1 Children's Services staff</td><td>Knowledgeable in early literacy</td><td>Large deaf community unable to access stroytime, no ASL speakers</td><td>Work with community to find an ASL speaking volunteer to translate storytime</td></tr>
-<tr><td>Teen Services</td><td>1 Teen Services Staff</td><td>Large afterschool teen population is too big for 1 staff member</td><td>Leverage Library Associates, as well as community partnerships and knowledgeable volunteers to help staff programs</td></tr>
-<tr><td>Library Associates</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
+<tr><td>2 adult services staff</td><td>Not enough staff for additional adult-oriented programs and book groups</td><td>Leverage community partnerships and knowledgeable volunteers to help staff programs</td></tr>
+<tr><td>1 Children's Services staff</td><td>Knowledgeable in early literacy</td><td>Large deaf community unable to access stroytime, no ASL speakers</td><td>Work with community to find an ASL speaking volunteer to translate storytime</td></tr>
+<tr><td>1 Teen Services Staff</td><td>Large afterschool teen population is too big for 1 staff member</td><td>Leverage Library Associates, as well as community partnerships and knowledgeable volunteers to help staff programs</td></tr>
+<tr><td>4 Library Associates</td><td>1 LA has an MLIS and is familiar with connected learning</td><td>
+Library Associates have little extra  time because they shelve books and work the front desk--no library page positions</td><td>
+Work with community volunteers to help train them in book shelving, which will free up the time of a few of the Library Associates to help with other programs</td></tr>
+
+
 </table>
 
 </div>
