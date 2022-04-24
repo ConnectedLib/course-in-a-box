@@ -17,6 +17,8 @@ You may have already created a community asset map while working through the [Co
 
 To explore how this process works, let’s look at three different fictional libraries: a large urban library, a midsized suburban library, and a small rural library. 
 
+<div class="colorhighlight color1" markdown="1">
+
 ### Large, Urban Library: Gotham Public Library
 
 Gotham Public Library is a large system with 17 branches scattered across the densely populated city of Gotham. The central branch serves a population of [???] and has a number of sizable meeting spaces. Despite this seeming wealth of resources, there has been much more focus on adult and children’s services and programming, with teen services falling through the cracks. Teen Services has a relationship with most of the local high schools, but has not leveraged many other community partnerships.
@@ -51,26 +53,29 @@ Partnerships
 
 Sunnydale Public Library is located in a sprawling suburban area. It is a midsize library, and serves a population of about 16,000. It has a meeting room for library programs, and two study rooms. As well as having open seating areas for reading and studying, the library uses roughly half of its open space to make room for 38 computers. They have knowledgeable staff and strong community partnerships. Many of these community partnerships help to fund new technology acquisitions, since the library’s tech budget is split across the system to which it belongs. The library employs two adult services librarians, a children’s librarian, and a teen librarian. Also on staff are five library associates and a base of twenty rotating volunteers.
 
-Space
-1 meeting room (40 people)
-2 study rooms (3 people)
-Open seating
-Teen space with configurable seating and tables
-Staff
-Adult Services (2)
-Children’s Librarian
-Teen Librarian
-Library Associate (5)
-Volunteers (20)
-Material Resources
-38 computers
-Small technology budget
-Arts & crafts supplies
-Button maker
-Partnerships
-Friends group
-Neighborhood associations (2)
-High school
+**Space**:
+* 1 meeting room (40 people)
+* 2 study rooms (3 people)
+* Open seating
+* Teen space with configurable seating and tables
+
+**Staff**:
+* Adult Services (2)
+* Children’s Librarian
+* Teen Librarian
+* Library Associate (5)
+* Volunteers (20)
+
+**Material Resources**:
+* 38 computers
+* Small technology budget
+* Arts & crafts supplies
+* Button maker
+
+**Partnerships**:
+* Friends group
+* Neighborhood associations (2)
+* High school
 
  
 
