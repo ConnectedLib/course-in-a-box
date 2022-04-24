@@ -124,7 +124,20 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 	<td>Can't keep up with every topic teens are interested in</td>
 </tr>
 
+<tr>
+	<td>IT staff</td>
+	<td>Have training programs for all library software</td>
+	<td>Programs focus exclusively on software features and how-tos, not the creative process or connecting to other areas of life</td>
+</tr>
+
+<tr>
+	<td>Children's Services</td>
+	<td>Have established relationships with library visitors who are aging up into the teen programs</td>
+	<td>Are occupied with children's programming</td>
+</tr>
+
 </table>
+
 
 </div>
 
