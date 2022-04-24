@@ -80,7 +80,7 @@ Sunnydale Public Library is located in a sprawling suburban area. It is a midsiz
 
 ### Small, Rural Library: Smallville Public Library
 
-Smallville is a rural town located between two larger cities, both over an hour’s drive away with no public transportation options. The library serves a population of about [???], most of whom are employed in agriculture or a local factory. There is one full-time librarian, and two part-time staff. One of the part-time staff members is the designated “children’s librarian” which covers infancy through high school. Everyone in town knows the library, but not many official partnerships have been established. Most of the library collection is contained in a single room, with a corner dedicated to the children’s section with low tables and chairs. There are some tables and seating in the area where the two public access computers are located. </div>
+Smallville is a rural town located between two larger cities, both over an hour’s drive away with no public transportation options. The library serves a population of about [???], most of whom are employed in agriculture or a local factory. There is one full-time librarian, and two part-time staff. One of the part-time staff members is the designated “children’s librarian” which covers infancy through high school. Everyone in town knows the library, but not many official partnerships have been established. Most of the library collection is contained in a single room, with a corner dedicated to the children’s section with low tables and chairs. There are some tables and seating in the area where the two public access computers are located. 
 **Space**:
 * 1 activity room (10 people)
 * 2 tables w/ chairs in children’s area
@@ -100,11 +100,10 @@ Smallville is a rural town located between two larger cities, both over an hour�
 * 2 guinea pigs
  
 **Partnerships**:
- 
+</div>
 <div class="callout activity" markdown="1">
 	
 ### [Worksheet #2: Start mapping your capacity](https://docs.google.com/document/d/14FRMg54QQpWBZymkAtbECpGbtRVI5dwk5CGuuUiXASc/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
 
 Now it’s your turn. Start mapping your library’s capacity in the areas of staffing, space, material resources, and partnerships. 
 </div>
-
