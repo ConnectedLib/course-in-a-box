@@ -85,23 +85,27 @@ If your library is on the smaller side, or if you want to focus in on the key pe
 <div class="colorhighlight color3" markdown="1">
 
 
-Smallville Library 
+### Smallville Library 
 
 
-Staff member title
-What are their personal and/or professional passions and interests
-What relationships do they have with library staff
-Who in the community do they have relationships with
-What are their organizational priorities
-What stories can you tell about the staff member’s values, goals, etc.
-Example:
-Reference librarian
-Loves to cook, reads a lot of fantasy, learns local history whenever they can 
-Talks regularly with the tech services supervisor and the volunteer coordinator
-Meets with the minister of the church across the street once a month for coffee
-Getting people answers to their questions is a driving 
-Strongly believes that those that visit the library deserve high-quality service
-
+<table class="worksheet">
+<tr>
+	<th>Title</th>
+	<th>Passions and interests</th>
+	<th>Relationships with other staff</th>
+	<th>Relationships with community</th>
+	<th>Organizational priorities</th>
+	<th>Values, goals, etc.</th>
+	</tr>
+	<tr>
+		<td>Reference librarian</td>
+		<td>Loves to cook, reads a lot of fantasy, learns local history whenever they can</td>
+<td>Talks regularly with the tech services supervisor and the volunteer coordinator</td>
+<td>Meets with the minister of the church across the street once a month for coffee</td>
+<td>Getting people answers to their questions</td> 
+<td>Strongly believes that those that visit the library deserve high-quality service</td>
+</tr>
+</table>
 
 
 </div>
