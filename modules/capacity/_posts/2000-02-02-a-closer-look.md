@@ -11,8 +11,8 @@ If your library is not extremely small, you can begin by looking at staffing at 
 
 ### Sunnydale Public Library (midsize, suburban)
 
-<table class=”worksheet”>
-<tr><th>Staffing</th><th>Strengths</th><th>Weakenesses</th><th>How can it be improved?</th></tr>
+<table class="worksheet">
+<tr><th>Staffing</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Adult services</td><td>2 adult services staff</td><td>Not enough staff for additional adult-oriented programs and book groups</td><td>Leverage community partnerships and knowledgeable volunteers to help staff programs</td></tr>
 </table>
 
