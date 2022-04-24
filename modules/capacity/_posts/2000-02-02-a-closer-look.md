@@ -12,33 +12,13 @@ If your library is not extremely small, you can begin by looking at staffing at 
 ### Sunnydale Public Library (midsize, suburban)
 
 <table class="worksheet">
-<tr><th>Staffing</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
+<tr><th>Staff</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Adult services</td><td>2 adult services staff</td><td>Not enough staff for additional adult-oriented programs and book groups</td><td>Leverage community partnerships and knowledgeable volunteers to help staff programs</td></tr>
+<tr><td>Children's Services</td><td>1 Children's Services staff</td><td>Knowledgeable in early literacy</td><td>Large deaf community unable to access stroytime, no ASL speakers</td><td>Work with community to find an ASL speaking volunteer to translate storytime</td></tr>
+<tr><td>Teen Services</td><td>1 Teen Services Staff</td><td>Large afterschool teen population is too big for 1 staff member</td><td>Leverage Library Associates, as well as community partnerships and knowledgeable volunteers to help staff programs</td></tr>
+<tr><td>Library Associates</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
 </table>
 
-
-
-**Staffing**:
-* Strengths
-* Weaknesses
-* How can it be improved?
-Adult Services
-2 Adult Services Staff
-Not enough staff for additional adult oriented programs and book groups
-Leverage community partnerships and knowledgeagble volunteers to help staff programs
-Children's Services
--1 Children's Services staff
--Knowledgeable in early literacy
-Large deaf community unable to access stroytime, no ASL speakers
-Work with community to find an ASL speaking volunteer to translate storytime
-Teen Services
--1 Teen Services Staff
-Large afterschool teen population is too big for 1 staff member
-Leverage Library Associates, as well as community partnerships and knowledgeable volunteers to help staff programs
-Library Associates
-Collaborative work space for 2-5 people
-Rarely used
-Advertise the study space at the front desk
 </div>
 
 
