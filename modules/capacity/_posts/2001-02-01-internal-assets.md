@@ -48,3 +48,5 @@ Smallville is a rural town located between two larger cities, both over an hour�
 
 Now it’s your turn. Start mapping your library’s capacity in the areas of staffing, space, material resources, and partnerships. 
 </div>
+
+You can gain further insight into your library’s capacity and potential by looking at each element in more detail: staffing, partnerships, material resources, and space. 
