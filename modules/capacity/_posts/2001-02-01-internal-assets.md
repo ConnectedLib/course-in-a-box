@@ -21,6 +21,11 @@ To explore how this process works, let’s look at three different fictional lib
 
 ### Large, Urban Library: Gotham Public Library
 
+<img src="{{ site.baseurl }}/img/capacity/big_city.png"  ALT="Big City" style="padding-right:10px;padding-bottom:10px;" />
+<br/> 
+
+Artist: [Pablo Stanley](https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley){:target="_blank"}. 
+
 Gotham Public Library is a large system with 17 branches scattered across the densely populated city of Gotham. The central branch serves a population of [???] and has a number of sizable meeting spaces. Despite this seeming wealth of resources, there has been much more focus on adult and children’s services and programming, with teen services falling through the cracks. Teen Services has a relationship with most of the local high schools, but has not leveraged many other community partnerships.
 </div>
 
@@ -49,4 +54,4 @@ Smallville is a rural town located between two larger cities, both over an hour�
 Now it’s your turn. Start mapping your library’s capacity in the areas of staffing, space, material resources, and partnerships. 
 </div>
 
-You can gain further insight into your library’s capacity and potential by looking at each element in more detail: staffing, partnerships, material resources, and space. 
+You can gain further insight into your library’s capacity and potential by looking at each element in more detail: staffing, relationships, material resources, and space. 
