@@ -13,15 +13,14 @@ You may have already created a community asset map while working through the [Co
 * Leverage community interests determine organizational priorities
 * Provide a better language for the organization to serve the local connected learning ecosystem and the entire community
 
-## Fictional Case Studies
 
 To explore how this process works, let’s look at three different fictional libraries: a large urban library, a midsized suburban library, and a small rural library. 
 
 <div class="colorhighlight color1" markdown="1">
 
-### Large, Urban Library: Gotham Public Library
+## Large, Urban Library: Gotham Public Library
 
-<img src="{{ site.baseurl }}/img/capacity/big_city.png"  ALT="Big City"/>
+<img src="{{ site.baseurl }}/img/capacity/big_city_med.png"  ALT="Big City"/>
 
 Gotham Public Library is a large system with 17 branches scattered across the densely populated city of Gotham. The central branch serves a population of [???] and has a number of sizable meeting spaces. Despite this seeming wealth of resources, there has been much more focus on adult and children’s services and programming, with teen services falling through the cracks. Teen Services has a relationship with most of the local high schools, but has not leveraged many other community partnerships.
 </div>
@@ -30,9 +29,9 @@ Gotham Public Library is a large system with 17 branches scattered across the de
 
 
 
-### Midsize, Suburban Library: Sunnydale Public Library
+## Midsize, Suburban Library: Sunnydale Public Library
 
-<img src="{{ site.baseurl }}/img/capacity/suburban.png"  ALT="Suburbs"/>
+<img src="{{ site.baseurl }}/img/capacity/suburban_med.png"  ALT="Suburbs"/>
 
 Sunnydale Public Library is located in a sprawling suburban area. It is a midsize library, and serves a population of about 16,000. It has a meeting room for library programs, and two study rooms. As well as having open seating areas for reading and studying, the library uses roughly half of its open space to make room for 38 computers. They have knowledgeable staff and strong community partnerships. Many of these community partnerships help to fund new technology acquisitions, since the library’s tech budget is split across the system to which it belongs. The library employs two adult services librarians, a children’s librarian, and a teen librarian. Also on staff are five library associates and a base of twenty rotating volunteers.
  
@@ -42,7 +41,7 @@ Sunnydale Public Library is located in a sprawling suburban area. It is a midsiz
 <div class="colorhighlight color3" markdown="1">
 
 
-### Small, Rural Library: Smallville Public Library
+## Small, Rural Library: Smallville Public Library
 
 <img src="{{ site.baseurl }}/img/capacity/rural_med.png"  ALT="Rural area"/>
 
@@ -56,5 +55,7 @@ Now it’s your turn. Start mapping your library’s capacity in the areas of st
 </div>
 
 You can gain further insight into your library’s capacity and potential by looking at each element in more detail: staffing, relationships, material resources, and space. 
+
+---
 
 <p style="font-size: .8em; font-style: italic;">Illustrations by <a href="https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley">Pablo Stanley</a>.</p> 
