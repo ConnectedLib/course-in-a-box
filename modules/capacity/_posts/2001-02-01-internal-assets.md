@@ -18,13 +18,10 @@ You may have already created a community asset map while working through the [Co
 To explore how this process works, let’s look at three different fictional libraries: a large urban library, a midsized suburban library, and a small rural library. 
 
 <div class="colorhighlight color1" markdown="1">
+<img src="{{ site.baseurl }}/img/capacity/big_city.png"  ALT="Big City" style="padding-right:10px;padding-bottom:10px;" />
+<br/><span style="font-size: .8em; font-style: italic; color: #f0f0f0;">Artist: <a href="https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley">Pablo Stanley</a>.</span> 
 
 ### Large, Urban Library: Gotham Public Library
-
-<img src="{{ site.baseurl }}/img/capacity/big_city.png"  ALT="Big City" style="padding-right:10px;padding-bottom:10px;" />
-<br/> 
-
-Artist: [Pablo Stanley](https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley){:target="_blank"}. 
 
 Gotham Public Library is a large system with 17 branches scattered across the densely populated city of Gotham. The central branch serves a population of [???] and has a number of sizable meeting spaces. Despite this seeming wealth of resources, there has been much more focus on adult and children’s services and programming, with teen services falling through the cracks. Teen Services has a relationship with most of the local high schools, but has not leveraged many other community partnerships.
 </div>
