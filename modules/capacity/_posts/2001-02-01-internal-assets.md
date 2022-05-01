@@ -19,7 +19,7 @@ To explore how this process works, let’s look at three different fictional lib
 
 <div class="colorhighlight color1" markdown="1">
 <img src="{{ site.baseurl }}/img/capacity/big_city.png"  ALT="Big City"/>
-<br/><span style="font-size: .8em; font-style: italic;">Artist: <a href="https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley">Pablo Stanley</a>.</span> 
+<br/><span style="font-size: .4em; font-style: italic;">Artist: <a href="https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley">Pablo Stanley</a>.</span> 
 
 ### Large, Urban Library: Gotham Public Library
 
