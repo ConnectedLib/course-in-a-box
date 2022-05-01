@@ -18,8 +18,8 @@ You may have already created a community asset map while working through the [Co
 To explore how this process works, let’s look at three different fictional libraries: a large urban library, a midsized suburban library, and a small rural library. 
 
 <div class="colorhighlight color1" markdown="1">
-<img src="{{ site.baseurl }}/img/capacity/big_city.png"  ALT="Big City" style="padding-right:10px;padding-bottom:10px;" />
-<br/><span style="font-size: .8em; font-style: italic; color: #f0f0f0;">Artist: <a href="https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley">Pablo Stanley</a>.</span> 
+<img src="{{ site.baseurl }}/img/capacity/big_city.png"  ALT="Big City"/>
+<br/><span style="font-size: .8em; font-style: italic;">Artist: <a href="https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley">Pablo Stanley</a>.</span> 
 
 ### Large, Urban Library: Gotham Public Library
 
