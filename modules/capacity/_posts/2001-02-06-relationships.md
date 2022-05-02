@@ -15,8 +15,10 @@ Partnerships are an important aspect for the capacity of your individual library
 <th>Weaknesses</th>
 </tr>
 <tr>
-	<td></td><td></td><td></td>
-	</tr>
+	<td>Local high schools</td>
+	<td></td>
+	<td></td>
+</tr>
 </table>
 
 
@@ -30,35 +32,25 @@ Partnerships are an important aspect for the capacity of your individual library
 <table>
 	<tr>
 		<th>Relationship<th>
-<th>Strengths</th>
-<th>Weaknesses</th>
-</tr>
-<tr>
-	<td></td><td></td><td></td>
+		<th>Strengths</th>
+		<th>Weaknesses</th>
+	</tr>
+	<tr>
+		<td>Neighborhood association 1</td>
+		<td>Many bilingual members (English/Farsi)</td>
+		<td>Distance from the library makes it difficult to volunteer</td>
+	</tr>
+	<tr>
+		<td>Local schools (teachers & PTA)</td>
+		<td>Gym and auditorium spaces</td>
+		<td>Busy schedule makes coordination difficult</td>
+	</tr>
+	<tr>
+		<td>Neighborhood association 2</td>
+		<td>Owns a building with a large meeting space<br/>Provides technology</td>
+		<td>Has few members</td>
 	</tr>
 </table>
-
-
-Partnership
-Strengths
-Weaknesses
-How can it be improved?
-Neighborhood Association 1
--Many bilingual - English/Farsi Speakers
-Distance from library makes it difficult to volunteer
-Work with the association to organize a carpool for volunteers
-School Partnership
--Teachers
--PTA
--Gym and Auditorium spaces
-Busy schedule makes coordination difficult
-Work with the teachers and PTA to make a shared calendar that is updated weekly
-Neighborhood Association 2
--Owns a building with a large meeting space
--Provides technology
-Has few members
-Collaborate with the association to help recruit more members in exchange for resources
-
  
 </div>
  

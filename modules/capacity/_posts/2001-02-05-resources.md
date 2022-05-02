@@ -11,6 +11,9 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 ## Gotham Public Library
 
 <table class="worksheet">
+<tr>
+		<th>Resources</th><th>Strengths</th><th>Weaknesses</th>
+</tr>
 	<tr>
 		<td>Resource Acquisition (overall)</td>
 		<td></td><td></td>
@@ -24,9 +27,7 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 <td>Ordered with Children's Services for bulk discount</td>
 <td></td>
 </tr>
-<tr>
-		<th>Resources</th><th>Strengths</th><th>Weaknesses</th>
-</tr>
+
 <tr>
 	<td>Public access computers</td>
 <td>Usually enough for everyone who wants to access one</td>
@@ -51,16 +52,31 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 <table class="worksheet">
 	<tr>
 		<td>Resource Acquisition (overall)</td>
-		<td></td><td></td>
+		<td></td>
+		<td>Small technology budget</td>
 	</tr>
 <tr>
 		<td>Resource Use (overall)</td>
 		<td></td><td></td>
 	</tr>
+	<tr>
+		<td>38 computers</td>
+		<td></td><td></td>
+	</tr>
+		<tr>
+		<td>Arts & Crafts supplies</td>
+		<td></td><td></td>
+	</tr>
+			<tr>
+		<td>Button maker</td>
+		<td></td><td></td>
+	</tr>
+			<tr>
+		<td>Sewing machine</td>
+		<td></td><td></td>
+	</tr>
 	</table>
 
-
- 
 </div>
 
 <div class="colorhighlight color3" markdown="2">
@@ -76,9 +92,25 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 		<td>Resource Use (overall)</td>
 		<td></td><td></td>
 	</tr>
+	<tr>
+		<td>2 computers</td><td></td>
+	</tr>
+	<tr>
+		<td>1 Wii</td><td></td>
+	</tr>
+		<tr>
+		<td>2 iPads</td><td></td>
+	</tr>
+		<tr>
+		<td>Art supplies</td><td></td>
+	</tr>
+		<tr>
+		<td>1,000 Googly Eyes (donation)</td><td></td>
+	</tr>
+		<tr>
+		<td>2 guinea pigs</td><td></td>
+	</tr>
 	</table>
-</div>
-
 
 </div>
 
