@@ -8,36 +8,37 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 
 <div class="colorhighlight color1" markdown="1">
 
-### Gotham Public Library
+## Gotham Public Library
 
 <table class="worksheet">
-
+	<tr>
+		<td>Resource Acquisition (overall)</td>
+		<td></td><td></td>
+	</tr>
 <tr>
-	<th>Staff</th>
-	<th>Strengths</th>
-	<th>Weaknesses</th>
+		<td>Resource Use (overall)</td>
+		<td></td><td></td>
+	</tr>
+	<tr>
+<td>Craft supplies</td>
+<td>Ordered with Children's Services for bulk discount</td>
+<td></td>
 </tr>
-
 <tr>
-	<td>Teen services staff</td>
-	<td>Comfortable working and co-learning with teens<br/>
-	    Knowledgeable about connected learning</td>
-	<td>Can't keep up with every topic teens are interested in</td>
+		<th>Resources</th><th>Strengths</th><th>Weaknesses</th>
 </tr>
-
 <tr>
-	<td>IT staff</td>
-	<td>Have training programs for all library software</td>
-	<td>Programs focus exclusively on software features and how-tos, not the creative process or connecting to other areas of life</td>
+	<td>Public access computers</td>
+<td>Usually enough for everyone who wants to access one</td>
+<td>Not easily reservable for library programs<br/>Not movable (desktops)</td>
 </tr>
-
 <tr>
-	<td>Children's Services</td>
-	<td>Have established relationships with library visitors who are aging up into the teen programs</td>
-	<td>Are occupied with children's programming</td>
-</tr>
-
+		<td>10 laptops</td>
+		<td>10 laptops owned by Teen Services; more can be reserved for programs from IT<br/>IT keeps updated</td>
+		<td>Can only install software on Teen Services laptops without going through a permission process through IT</td>
+	</tr>
 </table>
+
 
 
 </div>
@@ -45,25 +46,42 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 
 <div class="colorhighlight color2" markdown="2">
 
-### Sunnydale Public Library
+## Sunnydale Public Library
 
-Technology
-Strengths
-Weaknesses
-How can it be improved?
-Acquisition
-Technology partnership with Neighborhood Association 2
--Small budget
--Not up to date with current technologies
--Connect with tech industry about current technology
--Poll library users on what new acquisitions would be most useful
-Use
-Knowledgeable staff
-Computers next to silent reading area
-Rearrange to make computer space more collaborative and less disruptive
+<table class="worksheet">
+	<tr>
+		<td>Resource Acquisition (overall)</td>
+		<td></td><td></td>
+	</tr>
+<tr>
+		<td>Resource Use (overall)</td>
+		<td></td><td></td>
+	</tr>
+	</table>
+
 
  
 </div>
+
+<div class="colorhighlight color3" markdown="2">
+
+## Smallville Library
+
+<table class="worksheet">
+	<tr>
+		<td>Resource Acquisition (overall)</td>
+		<td></td><td></td>
+	</tr>
+<tr>
+		<td>Resource Use (overall)</td>
+		<td></td><td></td>
+	</tr>
+	</table>
+</div>
+
+
+</div>
+
 <div class="callout activity" markdown="1">
 	
 ### [Worksheet #5: Your material resources capacity]( ){:target="_blank"}

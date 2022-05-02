@@ -6,13 +6,38 @@ Partnerships are an important aspect for the capacity of your individual library
 
 <div class="colorhighlight color1" markdown="1">
 
-### Gotham Public Library
+## Gotham Public Library
+
+<table>
+	<tr>
+		<th>Relationship<th>
+<th>Strengths</th>
+<th>Weaknesses</th>
+</tr>
+<tr>
+	<td></td><td></td><td></td>
+	</tr>
+</table>
+
+
 
 </div>
 
 <div class="colorhighlight color2" markdown="1">
 
-### Sunnydale Public Library
+## Sunnydale Public Library
+
+<table>
+	<tr>
+		<th>Relationship<th>
+<th>Strengths</th>
+<th>Weaknesses</th>
+</tr>
+<tr>
+	<td></td><td></td><td></td>
+	</tr>
+</table>
+
 
 Partnership
 Strengths
@@ -40,6 +65,18 @@ Collaborate with the association to help recruit more members in exchange for re
 <div class="colorhighlight color3" markdown="1">
 
 ### Smallville Library
+
+<table>
+	<tr>
+		<th>Relationship<th>
+<th>Strengths</th>
+<th>Weaknesses</th>
+</tr>
+<tr>
+	<td></td><td></td><td></td>
+	</tr>
+</table>
+
 
 </div>
 
