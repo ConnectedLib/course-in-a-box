@@ -8,20 +8,18 @@ Partnerships are an important aspect for the capacity of your individual library
 
 ## Gotham Public Library
 
-<table>
+<table class="worksheet">
 	<tr>
 		<th>Relationship<th>
-<th>Strengths</th>
-<th>Weaknesses</th>
-</tr>
-<tr>
-	<td>Local high schools</td>
-	<td></td>
-	<td></td>
-</tr>
+		<th>Strengths</th>
+		<th>Weaknesses</th>
+	</tr>
+	<tr>
+		<td>Local high schools</td>
+		<td></td>
+		<td></td>
+	</tr>
 </table>
-
-
 
 </div>
 
@@ -29,7 +27,7 @@ Partnerships are an important aspect for the capacity of your individual library
 
 ## Sunnydale Public Library
 
-<table>
+<table class="worksheet">
 	<tr>
 		<th>Relationship<th>
 		<th>Strengths</th>
@@ -58,14 +56,16 @@ Partnerships are an important aspect for the capacity of your individual library
 
 ### Smallville Library
 
-<table>
+<table class="worksheet">
 	<tr>
 		<th>Relationship<th>
-<th>Strengths</th>
-<th>Weaknesses</th>
-</tr>
-<tr>
-	<td></td><td></td><td></td>
+		<th>Strengths</th>
+		<th>Weaknesses</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 
