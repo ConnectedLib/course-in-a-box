@@ -25,7 +25,8 @@ In the Mentoring module you can learn about connecting with volunteers to suppor
 Read more about implementing volunteer programs, including volunteer policies, in the Mentoring module.
 
 
-Building Capacity through Community Collective Impact and Targeted Universalism
+## Building Capacity through Community Collective Impact and Targeted Universalism
+
 There are multiple models of capacity building that you can engage with to build connected learning services with your community.  While these models structure their ideas within the context of solving large community problems, each can be used as a framing for building capacity in support of connected learning. Two models to start learning about are Collective Impact and Targeted Universalism.
 
 ### Collective Impact

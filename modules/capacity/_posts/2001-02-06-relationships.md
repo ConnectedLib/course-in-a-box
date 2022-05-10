@@ -19,9 +19,7 @@ Partnerships are an important aspect for the capacity of your individual library
 		<td>-</td>
 		<td>-</td>
 	</tr>
-</table>
-
-</div>
+</table></div>
 
 <div class="colorhighlight color2" markdown="1">
 
@@ -49,7 +47,6 @@ Partnerships are an important aspect for the capacity of your individual library
 		<td>Has few members</td>
 	</tr>
 </table>
- 
 </div>
  
 <div class="colorhighlight color3" markdown="1">
@@ -68,8 +65,6 @@ Partnerships are an important aspect for the capacity of your individual library
 		<td>-</td>
 	</tr>
 </table>
-
-
 </div>
 
 
