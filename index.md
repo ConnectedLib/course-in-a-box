@@ -25,7 +25,7 @@ published: true
  <div class="grid-item"> <a href="modules/basics/"><div>connected learning<br/>basics<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/basics.png" width="90px" ALT="Connected Learning Basics"/>
 </div></a></div>
-
+<p/>
 
 <div class="grid-item"> <a href="modules/youth-development/"><div>youth<br/>development<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/youth-development.png" width="90px" ALT="Youth Development"/>
