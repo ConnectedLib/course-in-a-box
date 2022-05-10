@@ -16,8 +16,8 @@ Partnerships are an important aspect for the capacity of your individual library
 	</tr>
 	<tr>
 		<td>Local high schools</td>
-		<td></td>
-		<td></td>
+		<td>-</td>
+		<td>-</td>
 	</tr>
 </table>
 
@@ -63,9 +63,9 @@ Partnerships are an important aspect for the capacity of your individual library
 		<th>Weaknesses</th>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
 	</tr>
 </table>
 

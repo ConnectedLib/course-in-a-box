@@ -58,4 +58,4 @@ You can gain further insight into your library’s capacity and potential by loo
 
 ---
 
-<p style="font-size: .8em; font-style: italic;">Illustrations by <a href="https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley">Pablo Stanley</a>.</p> 
+<p style="font-style: italic;">Illustrations by <a href="https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley">Pablo Stanley</a>.</p> 
