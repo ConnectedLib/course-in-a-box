@@ -43,7 +43,7 @@ published: true
  <img src="{{ site.baseurl }}/img/moduleLogos/capacity.png" width="90px" ALT="Capacity"/>
 </div></a></div>
 
-<div class="grid-item"> <a href="modules/evaluation/"><div>assessment & evaluation<br/>
+<div class="grid-item"> <a href="modules/evaluation/"><div>assessment<br/>& evaluation<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/evaluation.png" width="90px" ALT="Evaluation"/>
 </div></a></div>
 
