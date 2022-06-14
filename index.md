@@ -22,7 +22,7 @@ published: true
     <div>using<br/>the toolkit<br/><img src="{{ site.baseurl }}/img/moduleLogos/introducing-the-toolkit.png" width="90px" ALT="Introducing the Toolkit"/>
   </div></a></div>
 
- <div class="grid-item"> <a href="modules/basics/"><div>connected learning<br/>basics<br/>
+ <div class="grid-item"> <a href="modules/basics/"><div>the connected learning<br/>mindset<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/basics.png" width="90px" ALT="Connected Learning Basics"/>
 </div></a></div>
 <p/>
@@ -45,6 +45,10 @@ published: true
 
 <div class="grid-item"> <a href="modules/evaluation/"><div>assessment<br/>& evaluation<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/evaluation.png" width="90px" ALT="Evaluation"/>
+</div></a></div>
+
+<div class="grid-item"> <a href="modules/civic-engagement/"><div>civic<br/>engagement<br/>
+ <img src="{{ site.baseurl }}/img/moduleLogos/civic-engagement.png" width="90px" ALT="Civic Engagement"/>
 </div></a></div>
 
  <!-- NOT READY YET 
