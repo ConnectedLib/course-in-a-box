@@ -1,5 +1,4 @@
 ---
-title: Civic Engagement 
+title: Core Concepts 
 tags: ['sectionHead']
-permalink: /modules/civic-engagement/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Civic Engagement at the Library
+title: Civic Engagement &amp; Connected Learning 
 tags: ['sectionHead']
 ---
