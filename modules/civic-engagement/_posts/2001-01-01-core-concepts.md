@@ -14,7 +14,7 @@ What is Civic Engagement? We focus on two definitions among the many that exist.
 
 <div class="colorhighlight color1" markdown="1">
 
-## Political and non-political
+### Political and non-political
 
 There’s a tendency to assume that civic engagement is about participating in political activities, such as advocating for particular policies or issues for government action, whether at the local or national level. Certainly civic engagement encompasses political action, but the critical distinction is that political action is just one form of civic engagement. Civic engagement is a broader concept that allows us to think of the many ways we can create change in our communities.
 </div>
@@ -91,7 +91,7 @@ Does civic engagement need to have all of the above attributes? Ideally, yes. Bu
 
 <div class="callout activity" markdown="1">
     
-### [Activity #1: Civic Care Scavenger Hunt (https://docs.google.com/document/d/1uPmhiT61et6bkAChEcgjCZPWVTGtgmdrK6o7MoNqlvU/edit#bookmark=id.oxzcg9bc4nop)
+###[Activity #1: Civic Care Scavenger Hunt(https://docs.google.com/document/d/1uPmhiT61et6bkAChEcgjCZPWVTGtgmdrK6o7MoNqlvU/edit#bookmark=id.oxzcg9bc4nop)]
 
 Every community has examples of people working to make a difference. They may be single acts of caring, groups of people performing community service, or possibly more ambitious projects like the above examples. 
 
@@ -101,7 +101,8 @@ For this activity:
 
 **Arrange** the pictures and add brief descriptions if needed.
 
-Inspiration -- [Here are some examples](https://jamboard.google.com/d/1yVbi2FzfFIRHpSCg7RqfHJSpKMDw74yeqxpnIAlp26g/viewer?pli=1&f=3)from the libraries that helped build this module
+**Inspiration -- [Here are some examples](https://jamboard.google.com/d/1yVbi2FzfFIRHpSCg7RqfHJSpKMDw74yeqxpnIAlp26g/viewer?pli=1&f=3)
+from the libraries that helped build this module**
 
 **Discuss** with your library staff or community members: 
 * What makes each picture an example of civic care? Which attributes of civic engagement are most present? Which are absent?
