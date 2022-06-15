@@ -91,7 +91,7 @@ Does civic engagement need to have all of the above attributes? Ideally, yes. Bu
 
 <div class="callout activity" markdown="1">
     
-###[Activity #1: Civic Care Scavenger Hunt(https://docs.google.com/document/d/1uPmhiT61et6bkAChEcgjCZPWVTGtgmdrK6o7MoNqlvU/edit#bookmark=id.oxzcg9bc4nop)]
+## [Activity #1: Civic Care Scavenger Hunt](https://docs.google.com/document/d/1uPmhiT61et6bkAChEcgjCZPWVTGtgmdrK6o7MoNqlvU/edit#bookmark=id.oxzcg9bc4nop){:target="_blank"}
 
 Every community has examples of people working to make a difference. They may be single acts of caring, groups of people performing community service, or possibly more ambitious projects like the above examples. 
 
