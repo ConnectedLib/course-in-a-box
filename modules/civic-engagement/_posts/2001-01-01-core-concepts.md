@@ -34,7 +34,7 @@ Civic engagement is about empowering individuals to follow their own passions an
 
 </div>
 
-<div class="colorhighlight color4" markdown="1">
+<div class="colorhighlight color1" markdown="1">
 
 ### Deliberate
 
@@ -42,21 +42,21 @@ Civic engagement activities go deeper than community service projects, and empha
 </div>
 
 
-<div class="colorhighlight color5" markdown="1">
+<div class="colorhighlight color2" markdown="1">
 
 ### Consistent
 
 Prolonged engagement is key for meaningful civic engagement. Youth feel a sense of purpose and accomplishment when they have an opportunity to work on an issue over time. Civic engagement programs with the library can effectively channel  youth interests.
 </div>
 
-<div class="colorhighlight color5" markdown="1">
+<div class="colorhighlight color3" markdown="1">
 
 ### Equitable
 
 Civic engagement seeks to include all parts of a community from a place of empowerment. While initiatives may sometimes focus on specific segments, making sure all voices are heard is crucial to create meaningful civic action.
 </div>
 
-<div class="colorhighlight color5" markdown="1">
+<div class="colorhighlight color1" markdown="1">
 
 ### Quality of life
 
