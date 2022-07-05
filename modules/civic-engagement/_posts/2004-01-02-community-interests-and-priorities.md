@@ -71,7 +71,7 @@ This guide is particularly helpful for providing a compassionate and inclusive s
 
 * Consider partnering with a school to identify books that are used in the classroom. 
 * What could you do to spice up the event to make it more attractive for youth? Even serious topics can be made engaging. Perhaps have a debate coach (from the school?) organize a debate on the topic
-* Plan a follow-up activity (like the examples in 4.1 and 4.2) to generate more concrete ideas for doing something in your community.
+* Plan a follow-up activity (like the examples above) to generate more concrete ideas for doing something in your community.
 
 
 
