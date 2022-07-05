@@ -1,5 +1,5 @@
 ---
-title: Tools for designing civic engagement services
+title: Tools for Designing Civic Engagement Services
 ---
 
 There is no one way to create a civic engagement service; After having identified the interests of your community and the change you’d like to create, 
