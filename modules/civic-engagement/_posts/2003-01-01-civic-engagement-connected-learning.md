@@ -43,7 +43,7 @@ The above example embraces the **Connected Learning Principles**:
 * **Interests**: The whole HPA is based on the interests of the teens involved, and engages them through the metaphors and causes it chooses through the Harry Potter fan universe.
 * **Opportunities**: Through the activities that encourage youth to vote, donate books, or look into issues like involving women in STEAM, youth at the library can have opportunities to pursue these interests further and in other avenues. Throughout the programing, the participating youth also had the chance to develop skills (like working in teams, organizing for a cause, defining and working towards a goal, etc.) that can translate to future career opportunities.
 
-> ““A common issue identified in [young peoples’] early attempts to produce and share stories is that they often do not appreciate the potential power of their own thoughts and words. Realizing the extent to which simple, everyday stories told with empathy, positivity and wisdom can affect others is a very empowering experience”.” <br/><br/>— HPA
+> ““A common issue identified in [young peoples’] early attempts to produce and share stories is that they often do not appreciate the potential power of their own thoughts and words. Realizing the extent to which simple, everyday stories told with empathy, positivity and wisdom can affect others is a very empowering experience”. <br/><br/> [Fandom Foward/Harry Potter Alliance (HPA)] (https://fandomforward.org/)
 
 ## [Activity #4: Civic Engagement and Connected Learning](https://docs.google.com/document/d/1uPmhiT61et6bkAChEcgjCZPWVTGtgmdrK6o7MoNqlvU/edit#bookmark=id.xx740wy55fd3){:target="_blank"}
 
@@ -51,21 +51,21 @@ We’ll ask you to reflect on three fronts: **Connected Learning, Civic Engageme
 
 Think about the problem of food insecurity that many communities around the nation face. Insecurity ranges from the houseless population looking for their next meal to families unsure of where that meal will come from, perhaps getting assistance from food banks and organizations that may help lessen the burden.
 
-Now refer back to your own library roles/assets that you listed in the previous pages, plus what you know about connected learning and civic engagement, and build out a service. Situate the problem within your own community. For this exercise, don’t consider the constraints of time and budget. 
+Now refer back to your own library roles/assets that you listed in the previous pages, plus what you know about connected learning and civic engagement. Situate the problem within your own community, and answer the questions below as a guide to build out a potential service for this hypothetical (or not!) issue. For this exercise, don’t consider the constraints of time and budget. 
 
 **Connected Learning**:
 
 **How does the program connect to youth’s interests?** 
 Are there opportunities for “geeking out” or “going deeper” in the program?  How would you make the program inviting for youth? 
 
-What values are promoted in the program? Do these align with what youth in your community value? If you don’t have a good grasp of their values, how might you find out? Does the program touch on topics of value to both the youth and other ages in your community? 
-
-
-What values are promoted in the program? Do these align with what youth in your community value? If you don’t have a good grasp of their values, how might you find out? Does the program touch on topics of value to both the youth and other ages in your community? 
+What values are promoted in the service? Do these align with what youth in your community value? If you don’t have a good grasp of their values, how might you find out? Does the program touch on topics of value to both the youth and other ages in your community? 
 
 
 **Opportunities**:
-Does the program connect to larger issues outside your community? Do the youth have access to tangible real-world career and civic opportunities through this initiative? Are there further opportunities the library could provide for youth and the community, using this initiative as a jumping point?
+Does the service connect to larger issues outside your community? Do the youth have access to tangible real-world career and civic opportunities through this initiative? Are there further opportunities the library could provide for youth and the community, using this initiative as a jumping point?
+
+**Relationships**:
+Does the service promote relationships between youth in the community? Between youth and older members of your community? Are these relationships beneficial to youth, and if so in what way?
 
 
 #### Civic Engagement:
@@ -95,4 +95,3 @@ Does the library play any (or several) of the roles below in engaging with the p
 What assets does the library bring to the program? Are there any unique assets that make the library ideally positioned to offer the program? 
 
 For more information about designing programs alongside and for your community, check out the [Community Centered Services module](https://connectedlib.github.io/course-in-a-box//modules/community-centered/){:target="_blank"}
-</div>
