@@ -1,5 +1,5 @@
 ---
-title: Other Theories of Youth Development
+title: Topics to Spark Ideas
 ---
 
 Sometimes it may help to start your community's civic engagement journey through a specific topic the community cares about. 
@@ -40,7 +40,7 @@ Here are other examples of library programs on environmental action:
 * [Brooklyn Public Library’s Borrowed Time initiatives](https://borrowed-time.org/brooklyn-public-library/){:target="_blank"}. Includes workshops, a podcast, and other activities 
 * [Massachusetts Library’s Blue Marble Blog.](https://guides.masslibsystem.org/ClimatePrepWeek/BlueMarbleLibraryBlog){:target="_blank"}. Great resource with lots of resources, stories, and tools 
 
-### Social justice 
+### Social Justice 
 
 “In 2017, Seattle Public Library spent the year exploring the social impact of mass incarceration in our city and country,  as part of  a series designed 
 to empower and center communities throughout Seattle. 
@@ -49,4 +49,4 @@ raising, and enrichment, including public programs, a social media campaign, art
 of civic engagement was that it relied on a community-led process that placed individuals who are directly affected by criminal justice at the center of 
 program development while library staff played a supporting role”.
 
-Read more about the project [here](http://publiclibrariesonline.org/2018/03/civic-engagement-through-community-led-programming/){:target="_blank"}.
+Read more about the [Seattle Public Libraries initiatives](http://publiclibrariesonline.org/2018/03/civic-engagement-through-community-led-programming/){:target="_blank"}.
