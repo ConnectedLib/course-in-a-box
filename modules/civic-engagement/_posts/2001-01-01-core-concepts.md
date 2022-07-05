@@ -3,9 +3,9 @@ title: Core Concepts
 tags: ['sectionHead']
 ---
 
-What is Civic Engagement? We focus on two definitions among the many that exist. 
+What is civic engagement? We focus on two definitions among the many that exist. 
 
-> DEFINITION 1: Civic engagement is “deliberate, consistent, and purposeful outreach that creates an environment in which people of all ages and from all backgrounds believe they have a voice and role in decisions and actions that affect their lives.” (Urban Library Council pg.5)
+> DEFINITION 1: Civic engagement is “deliberate, consistent, and purposeful outreach that creates an environment in which people of all ages and from all backgrounds believe they have a voice and role in decisions and actions that affect their lives.” [Urban Library Council: Civic Engagement](https://www.urbanlibraries.org/assets/ULC_Civic_Engagement_Report.pdf){:target="_blank"}
 <br/><br/>
 
 >DEFINITION 2: “Civic engagement means… promoting the quality of life in a community, through both political and non-political processes.” (Ehrlich, 2000) <br/><br/>
@@ -21,7 +21,7 @@ There’s a tendency to assume that civic engagement is about participating in p
 
 <div class="colorhighlight color2" markdown="1">
 
-### Builds on community service
+### Built on community service
 
 Activities such as volunteering at a soup kitchen or cleaning up a park are valuable and can foster a community mindset. Civic engagement builds on this enthusiasm by involving people in sustained efforts to make lasting change in the community.
 </div>
@@ -30,7 +30,7 @@ Activities such as volunteering at a soup kitchen or cleaning up a park are valu
 
 ### Agency to shape one’s own path
 
-Civic engagement is about empowering individuals to follow their own passions and develop their own initiatives. While a passion may be sparked by participating in a community service project, civic engagement means having voice and agency.
+Civic engagement is about empowering individuals to follow their own passions and develop their own initiatives. While a passion for a cause may be sparked by participating in a community service project, civic engagement focuses on increasing the colelctive effort of a community through highlighting the voice and agency of the individual.
 
 </div>
 
@@ -38,7 +38,7 @@ Civic engagement is about empowering individuals to follow their own passions an
 
 ### Deliberate
 
-Civic engagement activities go deeper than community service projects, and emphasize working on the causes of issues rather than only their symptoms. For instance, why is food security an issue for people in the community? A civic engagement program builds on people’s interest in hunger (e.g. volunteering at soup kitchen) to identify the underlying reasons, imagine a community where hunger was eliminated, and develop programs to achieve that end goal.
+Civic engagement activities go deeper than community service projects, and emphasize working on the causes of issues rather than only their symptoms. For instance, why is food security an issue for people in the community? A civic engagement program builds on people’s interest in hunger (e.g. volunteering at soup kitchen) to identify the underlying reasons, imagine a community where hunger were eliminated, and develop programs to achieve that end goal.
 </div>
 
 
@@ -74,7 +74,7 @@ When her local art center was structurally damaged, young Breanna Burkhead decid
 &#x23F0; 2:14 \| *2020 4-H Youth in Action: Breanna Burkhead (Civic Engagment)*
 
 * **Political and non-political**: This effort to open the art center wasn’t necessarily political
-* **Broader than community service**: Breanna didn’t just join a pre-existing effort
+* **Broader than community service**: Breanna is trying to create lasting change in her community through the art center
 * **Agency**: Breanna found her voice and turned it into a force for change
 * **Deliberate**: Focused on restoring and rebuilding the art center
 * **Consistent**: This required prolonged action over an extended period of time. 
@@ -83,7 +83,7 @@ When her local art center was structurally damaged, young Breanna Burkhead decid
 
 ## Example: Creating a Community Garden
 
-The School Yards Roots project in Tuscaloosa, Alabama is another example. Combining “project-based learning, outdoor exploration, and nutrition education” for elementary students, the project embodies the principles of connected learning. [Check out the project here](https://schoolyardroots.org/)
+The School Yards Roots project in Tuscaloosa, Alabama is another example. The [School Yards Roots project website](https://schoolyardroots.org/) showcases how combining “project-based learning, outdoor exploration, and nutrition education” embodies the principles of civic engagement.
 
 ## Final note
 
@@ -97,9 +97,9 @@ Every community has examples of people working to make a difference. They may be
 
 For this activity:
 
-**Collect** pictures of people working to make a difference in the community. Collect as many as you can! The goal is to find examples of people doing things for the community that they care about. Don’t worry about trying to fit the definition perfectly. You'll likely find many simple acts of care that can serve as sources of inspiration.
+**Collect** pictures of people working to make a difference in your community. Collect as many as you can! The goal is to find examples of people doing things for the community that they care about. Don’t worry about trying to fit the definition perfectly. You'll likely find many simple acts of care that can serve as sources of inspiration.
 
-**Arrange** the pictures and add brief descriptions if needed.
+**Arrange** the pictures and add brief descriptions if needed. Digital whiteboard like [Jamboard] (https://edu.google.com/intl/ALL_us/jamboard/) are an especially useful tool for doing so.
 
 **Inspiration - [Here are some examples](https://jamboard.google.com/d/1yVbi2FzfFIRHpSCg7RqfHJSpKMDw74yeqxpnIAlp26g/viewer?pli=1&f=3)
 from the libraries that helped build this module**
