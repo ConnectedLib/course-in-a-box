@@ -25,7 +25,10 @@ published: true
  <div class="grid-item"> <a href="modules/basics/"><div>the connected learning<br/>mindset<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/basics.png" width="90px" ALT="Connected Learning Basics"/>
 </div></a></div>
-<p/>
+
+<div class="grid-item"> <a href="modules/community-centered/"><div>community centered services<br/>
+ <img src="{{ site.baseurl }}/img/moduleLogos/community-centered.png" width="90px" ALT="Community-Centered Services"/>
+</div></a></div>
 
 <div class="grid-item"> <a href="modules/youth-development/"><div>youth<br/>development<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/youth-development.png" width="90px" ALT="Youth Development"/>
@@ -35,9 +38,7 @@ published: true
  <img src="{{ site.baseurl }}/img/moduleLogos/mentoring.png" width="90px" ALT="Mentoring"/>
 </div></a></div>
 
-<div class="grid-item"> <a href="modules/community-centered/"><div>community centered services<br/>
- <img src="{{ site.baseurl }}/img/moduleLogos/community-centered.png" width="90px" ALT="Community-Centered Services"/>
-</div></a></div>
+
 
 <div class="grid-item"> <a href="modules/capacity/"><div>capacity<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/capacity.png" width="90px" ALT="Capacity"/>
@@ -49,6 +50,10 @@ published: true
 
 <div class="grid-item"> <a href="modules/civic-engagement/"><div>civic<br/>engagement<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/civic-engagement.png" width="90px" ALT="Civic Engagement"/>
+</div></a></div>
+
+<div class="grid-item"> <a href="modules/designing-connected-learning-services/"><div>designing connected learning services<br/>
+ <img src="{{ site.baseurl }}/img/moduleLogos/designing-connected-learning-services.png" width="90px" ALT="Designing Connected Learning Services"/>
 </div></a></div>
 
  <!-- NOT READY YET 
