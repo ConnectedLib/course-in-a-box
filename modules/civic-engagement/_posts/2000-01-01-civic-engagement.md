@@ -16,7 +16,7 @@ permalink: /modules/civic-engagement/
 
 In this module, we will explore the concept of civic engagement, providing you with the concepts, tips, and resources for  developing civic engagement programs in your library and advancing the quality of life in your community. 
 <div>
-
+<hr/>
 
 <i>Hand Shake by [Bernd Lakenbrink](https://thenounproject.com/boerni_lakenbrink/){:target="_blank"} from [NounProject.com](https://thenounproject.com){:target="_blank"}.</i>
 
