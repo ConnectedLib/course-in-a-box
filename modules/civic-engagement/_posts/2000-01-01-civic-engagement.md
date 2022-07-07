@@ -18,5 +18,5 @@ In this module, we will explore the concept of civic engagement, providing you w
 <div>
 <hr/>
 
-<i>Hand Shake by <a href="https://thenounproject.com/boerni_lakenbrink/" target=")blank">Bernd Lakenbrink</a>} from <a href="https://thenounproject.comNounProject.com" target="_blank">https://thenounproject.com</a>.</i>
+<i>Hand Shake by <a href="https://thenounproject.com/boerni_lakenbrink/" target=")blank">Bernd Lakenbrink</a>} from <a href="https://thenounproject.comNounProject.com" target="_blank">The Noun Project</a>.</i>
 
