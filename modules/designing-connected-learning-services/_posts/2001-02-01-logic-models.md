@@ -19,7 +19,13 @@ Below is one version of what an logic model template looks like.
 	<div class="example-cell">Youth become responsible users of technology</div>
 </div>
 
-
+<div class="example-row"> 
+	<b>Intermediate Outcomes</b>
+	<div class="example-cell">Youth gain new experience and insight into possible tech fields</div>
+	<div class="example-cell">Youth create and produce original media</div>
+	<div class="example-cell">Youth make new friends with shared interests</div>
+	<div class="example-cell">Youth gain skills that can be used in school & life</div>
+</div>
 
 <table class="worksheet-noborder">
 	<tr>

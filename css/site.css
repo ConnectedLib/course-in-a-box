@@ -414,8 +414,8 @@ line-height:  2em;
 }
 
 .example-cell {
-  width: 200px; 
-  float: left; 
+  min-width: 200px; 
+  float: right; 
   margin: 1em;
   border: 1px solid gray;
   padding:  5px;
