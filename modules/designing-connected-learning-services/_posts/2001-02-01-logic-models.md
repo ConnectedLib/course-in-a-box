@@ -14,7 +14,7 @@ Below is one version of what an logic model template looks like.
 <p><b>Goal:</b> Youth of Muskogee, Oklahoma have opportunities to learn, create, and share.</p>
 
 <div class="example-row"> 
-	<div class="example-cell">Long-Term Outcomes</div>
+	<b>Long-Term Outcomes</b>
 	<div class="example-cell">Youth recognized by family, friends, community for accomplishments</div>
 	<div class="example-cell">Youth become responsible users of technology</div>
 </div>
