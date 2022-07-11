@@ -53,7 +53,7 @@ published: true
 </div></a></div>
 
 <div class="grid-item"> <a href="modules/designing-connected-learning-services/"><div>designing connected learning services<br/>
- <img src="{{ site.baseurl }}/img/moduleLogos/designing-cl-services.png" width="90px" ALT="Designing Connected Learning Services"/>
+ <img src="{{ site.baseurl }}/img/moduleLogos/designing-connected-learning-services.png" width="90px" ALT="Designing Connected Learning Services"/>
 </div></a></div>
 
  <!-- NOT READY YET 
