@@ -8,10 +8,10 @@ Below is one version of what an logic model template looks like.
 
 <table class="worksheet-noborder">
 	<tr>
-		<td colspan="5">**Program:** Library Summer Tech Camp</td>
+		<td colspan="5"><b>Program:</b> Library Summer Tech Camp</td>
 	</tr>
 	<tr>
-		<td colspan="5">**Goal:** Youth of Muskogee, OK have opportunities to learn, create, & share.</td>
+		<td colspan="5"><b>Goal:</b> Youth of Muskogee, OK have opportunities to learn, create, & share.</td>
 	</tr>
 	<tr>
 		<td>Long-term<br/><b>OUTCOMES</b></td>
@@ -130,13 +130,17 @@ You’ll notice in the sample logic model that there are different “levels” 
 
 As you get started with outcomes you do not need to think about the different levels. Start with the immediate outcomes that you will be able to see demonstrated through a single program or activity.   
 
-Logic Model 1 - Intro Outcomes.mp4
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/IJ6gMb-dfsM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">4:44</div></div>
 
 ## Inputs
 
 Once you have your outcomes in the logic model it’s good to start thinking about the resources (inputs in the sample logic model) that you have available to reach that outcome.  Do you have funds? Do you have staff or space? Are there volunteers or mentors available to help you reach the outcome?  What partnerships do you have in place? What materials do you have available? That is the information that you put in the resources.  Keep in mind that you want to think about the resources specifically within the context of the outcomes you are working towards. These are not resources in general. Focus on resources that support your outcome.
 
-Logic Model 2 - Inputs.mp4
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/b99NHYOuOwc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">2:36</div></div>
 
 ## Activities
 
@@ -144,7 +148,9 @@ With an idea of your outcomes and available resources, next you should go back t
 
 In this section you will add the things you will do to use the resources, create your outputs, and reach your outcomes. The activities may include hosting co-design sessions with community partners, it may include working with colleagues to update policies, you might meet with your colleagues to brainstorm different aspects of the service. Those are the types of activities you list in the activities section of the logic model.
 
-Logic Model 3 - Activities.mp4
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/paA1lljoQeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">3:31</div></div>
 
 ## Outputs
 
@@ -157,13 +163,18 @@ When thinking about outputs you’ll start to make decisions about various progr
 
 Keep in mind that the design and development of the outputs and activities should be done with community stakeholders, members, and teens.  (See later in this module for information on how to embed a participatory design process into your design of activities to reach your outcomes.)
 
-Logic Models 4 - Outputs.mp4
+
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/pvKlJplFO9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">1:34</div></div>
 
 ## Logic Model Example and Walkthrough
 
 Keep in mind that you don’t want to create this roadmap in a vacuum. Bring community partners, teens, and colleagues into the development of the document.   
 
-Logic Model 5 - Example.mp4
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/iirdcAVupMc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">3:14</div></div>
 
 A logic model should not be a static document. You want to regularly review what you’ve included and update based on information, activities, and resources that have come to the fore since your last review of the document. 
 
