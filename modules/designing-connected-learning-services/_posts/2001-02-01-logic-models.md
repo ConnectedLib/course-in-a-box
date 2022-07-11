@@ -13,6 +13,13 @@ Below is one version of what an logic model template looks like.
 <p><b>Program:</b> Library Summer Tech Camp</p>
 <p><b>Goal:</b> Youth of Muskogee, Oklahoma have opportunities to learn, create, and share.</p>
 
+<div>
+	<div style="float:left;"><b>Long-term outcomes</b></div>
+	<div style="float:left; margin: 0 5px; border: 1px solid gray; padding: 3px; background-color: palegoldenrod;">Youth recognized by family, friends, community for accomplishments</div>
+	<div style="float:left;">Youth become responsible users of technology</div>
+</div>
+
+
 <ul>
 	<li style="display: inline-block; margin: 0 5px; font-weight: bold;">Long-term outcomes</li>
 	<li style="display: inline-block; margin: 0 5px; border: 1px solid gray; padding: 3px; background-color: palegoldenrod;">Youth recognized by family, friends, community for accomplishments</li>
