@@ -6,15 +6,15 @@ There are different techniques for implementing a backwards design approach in y
 
 Below is one version of what an logic model template looks like. 
 
-<div class="callout case_study" markdown="1" style="font-family: serif; background-color: white;">
+<div class="callout case_study" markdown="1" style="font-family: Courier, serif; background-color: white; border: solid 1px #000;">
     
 **Program:** Library Summer Tech Camp
 
 **Goal:** Youth of Muskogee, OK have opportunities to learn, create, & share.
 
-<table>
+<table border="0" cellpadding="5">
 	<tr>
-		<td>Long-term<br/>OUTCOMES</td>
+		<td>Long-term<br/>**OUTCOMES**</td>
 		<td>Youth recognized by family, friends, community for accomplishments</td>
 		<td>Youth become responsible users of technology</td>
 	</tr>
