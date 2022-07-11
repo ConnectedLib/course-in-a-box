@@ -15,10 +15,9 @@ Below is one version of what an logic model template looks like.
 
 <div class="example-row"> 
 	<div class="example-cell">Long-Term Outcomes</div>
-	<div style="background: blue; width: 200px; float: left; margin: 1em;">Youth recognized by family, friends, community for accomplishments</div>
-<div style="background: blue; width: 200px; float: left; margin: 1em;">
-		Youth become responsible users of technology</div>
-	</div>
+	<div class="example-cell">Youth recognized by family, friends, community for accomplishments</div>
+	<div class="example-cell">Youth become responsible users of technology</div>
+</div>
 
 
 

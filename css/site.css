@@ -403,12 +403,12 @@ line-height:  2em;
   padding: 5px; 
 }
 
-.example-form, .example-form p {
+.example-form, .example-form p, .example-form div.example-cell {
   font-family: Courier; 
   font-size: .8em;
 }
 
-.example-row {
+.example-form div.example-row {
   max-height: 400px; 
   overflow-y: hidden;
 }
@@ -420,3 +420,5 @@ line-height:  2em;
   border: 1px solid gray;
   padding:  5px;
 }
+
+
