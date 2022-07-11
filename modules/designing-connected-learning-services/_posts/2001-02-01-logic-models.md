@@ -8,10 +8,18 @@ There are different techniques for implementing a backwards design approach in y
 
 Below is one version of what an logic model template looks like. 
 
-<div style="border: 2px dashed gray;" markdown="1">
+<div style="border: 2px dashed gray; padding: 5px;" markdown="1">
 
 **Program:** Library Summer Tech Camp
+
 **Goal:** Youth of Muskogee, Oklahoma have opportunities to learn, create, and share.
+
+<ul>
+	<li style="display: inline-block; margin: 0 5px; border: 1px solid gray; padding: 3px; background-color: palegoldenrod;">Long-term outcomes</li>
+	<li style="display: inline-block; margin: 0 5px;">Youth recognized by family, friends, community for accomplishments</li>
+	<li style="display: inline-block; margin: 0 5px;">Youth become responsible users of technology</li>
+</ul>
+
 
 </div>
 
