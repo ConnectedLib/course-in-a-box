@@ -13,11 +13,15 @@ Below is one version of what an logic model template looks like.
 <p><b>Program:</b> Library Summer Tech Camp</p>
 <p><b>Goal:</b> Youth of Muskogee, Oklahoma have opportunities to learn, create, and share.</p>
 
-<div>
-	<div style="float:left; width:50px;"><b>Long-term outcomes</b></div>
-	<div style="float:left; margin: 0 5px; border: 1px solid gray; padding: 3px; background-color: palegoldenrod;width:50px;">Youth recognized by family, friends, community for accomplishments</div>
-	<div style="float:left;width:50px;">Youth become responsible users of technology</div>
-</div>
+```mermaid
+
+flowchart LR
+    id1([Long-term outcomes])
+    id2([Youth recognized by family, friends, community for accomplishments])
+    id3([Youth become responsible users of technology])
+
+```
+
 
 
 <ul>
