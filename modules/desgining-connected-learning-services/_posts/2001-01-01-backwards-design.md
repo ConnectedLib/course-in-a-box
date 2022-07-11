@@ -1,5 +1,6 @@
 ---
 title: Backwards Design
+tags: ['sectionHead']
 ---
 
 “Backwards design” is an approach to developing learning experiences. Starting with the desired outcomes for your program and how you will measure them, the process works in an "backwards" direction, planning the specific activities involved in the program last.
