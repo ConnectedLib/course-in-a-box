@@ -6,13 +6,13 @@ There are different techniques for implementing a backwards design approach in y
 
 Below is one version of what an logic model template looks like. 
 
-<div class="callout case_study" markdown="1" style="font-family: Courier, serif; background-color: white; border: solid 1px #000;">
-    
-**Program:** Library Summer Tech Camp
-
-**Goal:** Youth of Muskogee, OK have opportunities to learn, create, & share.
-
 <table class="worksheet-noborder">
+	<tr>
+		<td colspan="5">**Program:** Library Summer Tech Camp</td>
+	</tr>
+	<tr>
+		<td colspan="5">**Goal:** Youth of Muskogee, OK have opportunities to learn, create, & share.</td>
+	</tr>
 	<tr>
 		<td>Long-term<br/><b>OUTCOMES</b></td>
 		<td colspan="3">Youth recognized by family, friends, community for accomplishments</td>
@@ -117,8 +117,6 @@ HitFilm Express; MuseScore 2; Paint. NET; PicMonkey; Google Chrome; Cura; Google
 	</tr>
 
 </table>
-
-</div>
 
 
 ## Outcomes
