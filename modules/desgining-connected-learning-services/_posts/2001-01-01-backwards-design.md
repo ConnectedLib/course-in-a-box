@@ -12,7 +12,4 @@ permalink: /modules/designing-connected-learning-services/
 
 Lorem Ipsum
 
-<hr/>
-
 _Design by [monkik](https://thenounproject.com/monkik/) from NounProject.com_
-
