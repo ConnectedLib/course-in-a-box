@@ -44,7 +44,7 @@ To learn more about these issues and needs, read the [full report](http://www.al
     
 ### [Worksheet #1: Designing Connected Learning Services K-W-L](NEEDS LINK){:target="_blank"}
 
-How do your current teen offerings illustrate the principles of connected learning listed above? If they don’t, what are some ways you could integrate them into your existing programs? You can use your work from Section 2 in the Introduction to Connected Learning module if you’ve completed it. If you want, you can focus on a single program, project, or initiative. If you are not currently working in a library, choose a library you are familiar with and learn about their youth programs.
+How do your current teen offerings illustrate the principles of connected learning listed above? If they don’t, what are some ways you could integrate them into your existing programs? If you want, you can focus on a single program, project, or initiative. If you are not currently working in a library, choose a library you are familiar with and learn about their youth programs.
 
 - Programs are aligned with teens’ goals, motivations and interests
 - Teens learn through relationships, with other teens as well as adults
