@@ -12,17 +12,30 @@ Below is one version of what an logic model template looks like.
 
 **Goal:** Youth of Muskogee, OK have opportunities to learn, create, & share.
 
-<table border="0" cellpadding="5">
+<table style="border: none;">
 	<tr>
-		<td>Long-term<br/>**OUTCOMES**</td>
-		<td>Youth recognized by family, friends, community for accomplishments</td>
-		<td>Youth become responsible users of technology</td>
+		<td>Long-term<br/><b>OUTCOMES</b></td>
+		<td colspan="3">Youth recognized by family, friends, community for accomplishments</td>
+		<td colspan="2">Youth become responsible users of technology</td>
 	</tr>
 	<tr>
 		<td colspan="5">
 			<center>↑	↑	↑</center>
 		</td>
 	</tr>
+	<tr>
+		<td>Intermediate<br/><b>OUTCOMES</b></td>
+		<td>Youth gain new experience and insight into possible tech fields</td>
+		<td>Youth create and produce original media</td>
+		<td>Youth make new friends with shared interests</td>
+		<td>Youth gain skills that can be used in school & life</td>
+	</tr>
+	<tr>
+		<td colspan="5">
+			<center>↑	↑	↑</center>
+		</td>
+	</tr>
+
 </table>
 
 </div>
