@@ -16,8 +16,6 @@ Libraries have been undergoing transformation from passive archives of informati
 Connected learning, with its emphasis on creation and ownership, is well-suited for 21st century library teen services. [The Future of Library Services For and With Teens: A Call to Action](http://www.ala.org/yaforum/future-library-services-and-teens-project-report){:target="_blank"} outlines five issues that libraries face due to changing technology and demographics, four key things that teens need from libraries, along with several implications for library operations. These points are summarized in the box below, and you can use them as the basis for talking to your colleagues about why connected learning is important for your library.
 
 
-<div class="callout case_study" markdown="1">
-
 ## The Future of Library Services For and With Teens: A Call to Action
 
 The following points are from the YALSA report, [The Future of Library Services For and With Teens: A Call to Action](http://www.ala.org/yaforum/future-library-services-and-teens-project-report){:target="_blank"}, by Linda Braun, Maurnee Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke.
@@ -38,20 +36,19 @@ What teens need from libraries:
 
 To learn more about these issues and needs, read the [full report](http://www.ala.org/yaforum/future-library-services-and-teens-project-report){:target="_blank"} or the [three-page executive summary](http://www.ala.org/yaforum/sites/ala.org.yaforum/files/content/YALSA_nationalforum_ExecutiveSummary_Final_web.pdf){:target="_blank"}.
 
-</div>
 
 <div class="callout activity" markdown="1">
     
-### [Worksheet #1: Designing Connected Learning Services K-W-L](NEEDS LINK){:target="_blank"}
+### [Worksheet #2: Assess Your Current Teen Services](https://docs.google.com/document/d/1rK1CFq_WpT5k4oH4-jMYW4kXdKrzJfS_RlVND8S1Y6E/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
 
 How do your current teen offerings illustrate the principles of connected learning listed above? If they don’t, what are some ways you could integrate them into your existing programs? If you want, you can focus on a single program, project, or initiative. If you are not currently working in a library, choose a library you are familiar with and learn about their youth programs.
 
-- Programs are aligned with teens’ goals, motivations and interests
-- Teens learn through relationships, with other teens as well as adults
-- Orientation towards academic, civic, or economic opportunities
-- Production centered learning through creation
-- Providing teens with guidance and a variety of resources to build pathways to success
-- Sponsorship of teens’ interests, validating them through mentorship and other support
-- Instilling a sense of shared purpose among teens or between teens and other community members
+- Are services and programs aligned with teens’ goals, motivations and interests?
+- Do teens learn through relationships, with other teens as well as adults?
+- Is there an orientation towards academic, civic, or economic opportunities?
+- Do services and programs offer production centered learning through creation?
+- Does the library provide teens with guidance and a variety of resources to build pathways to success?
+- Is there sponsorship of teens’ interests, validating them through mentorship and other support?
+- Are you instilling a sense of shared purpose among teens or between teens and other community members?
 
 </div>

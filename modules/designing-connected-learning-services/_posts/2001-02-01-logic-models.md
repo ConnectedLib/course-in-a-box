@@ -2,9 +2,20 @@
 title: Logic Models
 ---
 
+# Note: formatting on this page is very much in progress
+
 There are different techniques for implementing a backwards design approach in your teen services work.  One of these is a logic model.  The logic model gives you the opportunity to visually connect your outcomes, resources, activities, outputs, and outcomes and see how the different pieces fit together. 
 
 Below is one version of what an logic model template looks like. 
+
+<div style="border: 2px dashed gray;" markdown="1">
+
+**Program:** Library Summer Tech Camp
+**Goal:** Youth of Muskogee, Oklahoma have opportunities to learn, create, and share.
+
+</div>
+
+
 
 <table class="worksheet-noborder">
 	<tr>

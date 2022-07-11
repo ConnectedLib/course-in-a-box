@@ -7,7 +7,9 @@ Once you have your logic model outcomes and resources in place - which you have 
 
 Participatory design (also called co-design) brings people together in a similar way as design thinking but is not as structured in terms of steps one cycles through.  Through participatory design, co-designers learn together and work towards solutions to a common design goal.
 
-## Why Should We Co-Design?  
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/CyT3xDRunRM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">1:38</div></div>
 
 The overarching principles of participatory design are:
 - All co-designers are equal partners
@@ -28,10 +30,9 @@ We are using participatory design in this module as it is a highly customizable 
 ## Design Thinking
 “Design thinking” is a mindset: It is a way of approaching challenges and problems like a designer. You don’t have to be a designer to use creative tools and find solutions! As a youth librarian, you can use design thinking within activities as a tool for learning, or you can use design thinking methods for solving your own challenges or to create new initiatives for your library. Design thinking can be another skill set you can bring to the table with what you already do–being actively engaged with youth in your community.
 
-The elements of design thinking are described in different ways, but they can be summed up as imagination (understanding the people who may use your new design or experience), ideation (refining your ideas), and iteration (testing and improving your ideas). IdeoU lists the steps as framing a question, gathering inspiration, generating ideas, making ideas tangible, testing to learn, and sharing the story, while the MIT Sloan School of Management lists them as understanding the problem, developing possible solutions, prototyping, testing, and refining, and implementing. 
+The elements of design thinking are described in different ways, but they can be summed up as imagination (understanding the people who may use your new design or experience), ideation (refining your ideas), and iteration (testing and improving your ideas). [IdeoU](https://www.ideou.com/blogs/inspiration/what-is-design-thinking){:target="_blank"} lists the steps as framing a question, gathering inspiration, generating ideas, making ideas tangible, testing to learn, and sharing the story, while the [MIT Sloan School of Management](https://mitsloan.mit.edu/ideas-made-to-matter/design-thinking-explained){:target="_blank"} lists them as understanding the problem, developing possible solutions, prototyping, testing, and refining, and implementing. 
 
 However you choose to conceptualize the specific steps in your design process, the gist of design thinking is that a good design doesn't happen unless the designer is able to put themselves in the shoes of the people you are designing for, and willing to put their ideas to the test and respond to feedback.
-—
 
 ## VRTALITY
 
