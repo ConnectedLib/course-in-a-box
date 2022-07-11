@@ -395,3 +395,28 @@ line-height:  2em;
   background-color: #000000;
   vertical-align:top;
 }
+
+
+
+.example-form {
+  border: 2px dashed gray; 
+  padding: 5px; 
+}
+
+.example-form, .example-form p {
+  font-family: Courier; 
+  font-size: .8em;
+}
+
+.example-row {
+  max-height: 400px; 
+  overflow-y: hidden;
+}
+
+.example-cell {
+  width: 200px; 
+  float: left; 
+  margin: 1em;
+  border: 1px solid gray;
+  padding:  5px;
+}

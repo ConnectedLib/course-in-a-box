@@ -8,13 +8,13 @@ There are different techniques for implementing a backwards design approach in y
 
 Below is one version of what an logic model template looks like. 
 
-<div style="border: 2px dashed gray; padding: 5px; font-family: Courier; font-size: .8em;">
+<div class="example-form">
 
 <p><b>Program:</b> Library Summer Tech Camp</p>
 <p><b>Goal:</b> Youth of Muskogee, Oklahoma have opportunities to learn, create, and share.</p>
 
-<div style="max-height: 400px; overflow-y: hidden;">
-	<div style="width: 200px; float: left; margin: 1em;">Long-Term Outcomes</div>
+<div class="example-row"> 
+	<div class="example-cell">Long-Term Outcomes</div>
 	<div style="background: blue; width: 200px; float: left; margin: 1em;">Youth recognized by family, friends, community for accomplishments</div>
 <div style="background: blue; width: 200px; float: left; margin: 1em;">
 		Youth become responsible users of technology</div>
@@ -133,7 +133,7 @@ HitFilm Express; MuseScore 2; Paint. NET; PicMonkey; Google Chrome; Cura; Google
 	</tr>
 
 </table>
-
+</div>
 
 ## Outcomes
 
