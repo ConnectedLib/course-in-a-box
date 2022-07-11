@@ -12,7 +12,7 @@ Below is one version of what an logic model template looks like.
 
 **Goal:** Youth of Muskogee, OK have opportunities to learn, create, & share.
 
-<table>
+<table class="worksheet-noborder">
 	<tr>
 		<td>Long-term<br/><b>OUTCOMES</b></td>
 		<td colspan="3">Youth recognized by family, friends, community for accomplishments</td>
@@ -111,7 +111,7 @@ projection system; external speakers; CISCO video conferencing; (x20) flash driv
 <li>Photography: 12 digital cameras</li>
 <li>Video: 6 video cameras, 6 tripods</li></ul>
 <b>Technology:</b> LCS web site; Scratch; GameMaker Studio; Twine; Thonny (Python); Arduino;
-HitFilm Express; MuseScore 2; Paint. NET; PicMonkey; Google Chrome; Cura; Google Slides
+HitFilm Express; MuseScore 2; Paint. NET; PicMonkey; Google Chrome; Cura; Google Slides<br/>
 <b>Funders:</b> potential grants via City of Muskogee Foundation & Best Buy
 		</td>
 	</tr>

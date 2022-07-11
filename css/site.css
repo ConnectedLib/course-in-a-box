@@ -369,6 +369,15 @@ line-height:  2em;
   vertical-align:top;
 }
 
+.worksheet-noborder, .worksheet-noborder td {
+  border:0px;
+  padding:10px;
+  font-family:'Courier New';
+  font-size: .9em;
+  color: #000000;
+  vertical-align:top;
+}
+
 .worksheet th {
   border:1px solid #000000;
   padding:10px;
