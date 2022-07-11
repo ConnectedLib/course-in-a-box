@@ -14,9 +14,9 @@ Below is one version of what an logic model template looks like.
 <p><b>Goal:</b> Youth of Muskogee, Oklahoma have opportunities to learn, create, and share.</p>
 
 <div>
-	<div style="float:left;"><b>Long-term outcomes</b></div>
-	<div style="float:left; margin: 0 5px; border: 1px solid gray; padding: 3px; background-color: palegoldenrod;">Youth recognized by family, friends, community for accomplishments</div>
-	<div style="float:left;">Youth become responsible users of technology</div>
+	<div style="float:left; width:50px;"><b>Long-term outcomes</b></div>
+	<div style="float:left; margin: 0 5px; border: 1px solid gray; padding: 3px; background-color: palegoldenrod;width:50px;">Youth recognized by family, friends, community for accomplishments</div>
+	<div style="float:left;width:50px;">Youth become responsible users of technology</div>
 </div>
 
 
