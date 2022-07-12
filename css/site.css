@@ -423,7 +423,7 @@ line-height:  2em;
 }
 
 .col-xl-6 {
-  min-width: 80% !important;
-  flex: auto !important;
+  min-width: 75% !important;
+  flex: initial !important;
 }
 
