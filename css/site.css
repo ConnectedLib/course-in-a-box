@@ -422,9 +422,11 @@ line-height:  2em;
   padding:  5px;
 }
 
-.col-xl-6 {
+/* .col-xl-6 {
   min-width: 75% !important;
   max-width:  900px !important;
   flex: auto !important;
-}
+} */
+
+
 

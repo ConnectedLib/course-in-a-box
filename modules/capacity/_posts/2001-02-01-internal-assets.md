@@ -45,7 +45,7 @@ Sunnydale Public Library is located in a sprawling suburban area. It is a midsiz
 
 <img src="{{ site.baseurl }}/img/capacity/rural_med.png"  ALT="Rural area"/>
 
-Smallville is a rural town located between two larger cities, both over an hour’s drive away with no public transportation options. The library serves a population of about [???], most of whom are employed in agriculture or a local factory. There is one full-time librarian, and two part-time staff. One of the part-time staff members is the designated “children’s librarian” which covers infancy through high school. Everyone in town knows the library, but not many official partnerships have been established. Most of the library collection is contained in a single room, with a corner dedicated to the children’s section with low tables and chairs. There are some tables and seating in the area where the two public access computers are located. 
+Smallville is a rural town located between two larger cities, both over an hour’s drive away with no public transportation options. The library serves a population of about 20,000, most of whom are employed in agriculture or a local factory. There is one full-time librarian, and two part-time staff. One of the part-time staff members is the designated “children’s librarian” which covers infancy through high school. Everyone in town knows the library, but not many official partnerships have been established. Most of the library collection is contained in a single room, with a corner dedicated to the children’s section with low tables and chairs. There are some tables and seating in the area where the two public access computers are located. 
 </div>
 <div class="callout activity" markdown="1">
 	
