@@ -423,6 +423,6 @@ line-height:  2em;
 }
 
 .col-xl-6 {
-  flex: none !important;
+  max-width: 90% !important;
 }
 
