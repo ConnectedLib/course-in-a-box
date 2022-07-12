@@ -23,6 +23,7 @@ Partnerships are an important aspect for the capacity of your individual library
 		<td>Natural History Museum</td>
 		<td>Students can get free tickets through the library or school</td>
 		<td>Untapped source of expertise and activities</td>
+	</tr>
 </table>
 </div>
 
