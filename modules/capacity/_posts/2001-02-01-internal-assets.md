@@ -22,7 +22,7 @@ To explore how this process works, let’s look at three different fictional lib
 
 <img src="{{ site.baseurl }}/img/capacity/big_city_med.png"  ALT="Big City"/>
 
-Gotham Public Library is a large system with 17 branches scattered across the densely populated city of Gotham. The central branch serves a population of [???] and has a number of sizable meeting spaces. Despite this seeming wealth of resources, there has been much more focus on adult and children’s services and programming, with teen services falling through the cracks. Teen Services has a relationship with most of the local high schools, but has not leveraged many other community partnerships.
+Gotham Public Library is a large system with 17 branches scattered across the densely populated city of Gotham. The central branch serves a population of several hundred thousand, and has a number of sizable meeting spaces. Despite this seeming wealth of resources, there has been much more focus on adult and children’s services and programming, with teen services falling through the cracks. Teen Services has a relationship with most of the local high schools, but has not leveraged many other community partnerships.
 </div>
 
 <div class="colorhighlight color2" markdown="1">

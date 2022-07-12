@@ -423,3 +423,8 @@ line-height:  2em;
 }
 
 
+
+.col-md-9 {
+  max-width: 90% !important;
+}
+
