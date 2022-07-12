@@ -424,7 +424,6 @@ line-height:  2em;
 
 
 .col-md-9 {
-  display:  flex !important;
   max-width: 90% !important;
   flex-basis:  90% !important;
   flex-grow: 0 !important;
