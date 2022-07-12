@@ -12,13 +12,17 @@ Partnerships are an important aspect for the capacity of your individual library
 	<tr>
 		<th>Relationship</th>
 		<th>Strengths</th>
-		<th>Weaknesses</th>
+		<th>Challenges</th>
 	</tr>
 	<tr>
 		<td>Local high schools</td>
-		<td>-</td>
-		<td>-</td>
+		<td>Longstanding relationship with Gotham City High Schools</td>
+		<td>Teen services doesn't know what assignments students will have, making it hard to prepare resources</td>
 	</tr>
+	<tr>
+		<td>Natural History Museum</td>
+		<td>Students can get free tickets through the library or school</td>
+		<td>Untapped source of expertise and activities</td>
 </table>
 </div>
 
@@ -31,7 +35,7 @@ Partnerships are an important aspect for the capacity of your individual library
 	<tr>
 		<th>Relationship</th>
 		<th>Strengths</th>
-		<th>Weaknesses</th>
+		<th>Challenges</th>
 	</tr>
 	<tr>
 		<td>Neighborhood association 1</td>

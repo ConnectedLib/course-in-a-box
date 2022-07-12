@@ -16,13 +16,15 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 	</tr>
 	<tr>
 		<td>Resource Acquisition (overall)</td>
-		<td></td>
-		<td></td>
+		<td>Large technology budget and generous funders<br/>
+		Can share other resources like art materials with Children's Services</td>
+		<td>Limited storage for resources</td>
 	</tr>
 	<tr>
 		<td>Resource Use (overall)</td>
-		<td></td>
-		<td></td>
+		<td>Not all teen/children's staff know how to use all materials</td>
+		<td>Staff must learn to use and maintain new technology<br/>
+			Security issues with technology</td>
 	</tr>
 	<tr>
 		<td>Craft supplies</td>
@@ -37,12 +39,17 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 	<tr>
 		<td>10 laptops</td>
 		<td>10 laptops owned by Teen Services; more can be reserved for programs from IT<br/>IT keeps updated</td>
-		<td>Can only install software on Teen Services laptops without going through a permission process through IT</td>
+		<td>Can only install software on Teen Services laptops by going through a permission process through IT</td>
+	</tr>
+	<tr>
+		<td>3D Printer</td>
+		<td>Staff are trained in use</td>
+		<td>Not high capacity<br/>Breaks a lot</td>
 	</tr>
 </table>
 </div>
 
-<div class="colorhighlight color2" markdown="2">
+<div class="colorhighlight color2" markdown="1">
 
 ## Sunnydale Public Library
 
@@ -81,7 +88,7 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
 
 </div>
 
-<div class="colorhighlight color3" markdown="2">
+<div class="colorhighlight color3" markdown="1">
 
 ## Smallville Library
 
