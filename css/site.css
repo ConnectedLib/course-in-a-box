@@ -424,5 +424,6 @@ line-height:  2em;
 
 .col-xl-6 {
   max-width: 90% !important;
+  flex: none !important;
 }
 
