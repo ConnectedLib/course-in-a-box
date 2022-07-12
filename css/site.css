@@ -424,6 +424,6 @@ line-height:  2em;
 
 .col-xl-6 {
   min-width: 80% !important;
-  flex: none !important;
+  flex: auto !important;
 }
 
