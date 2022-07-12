@@ -424,6 +424,7 @@ line-height:  2em;
 
 
 .col-md-9 {
-  max-width: 90% !important;
+  max-width: 80% !important;
+  flex-basis:  80% !important;
 }
 
