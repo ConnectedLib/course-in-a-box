@@ -51,7 +51,7 @@ Smallville is a rural town located between two larger cities, both over an hour�
 	
 ### [Worksheet #2: Start mapping your capacity](https://docs.google.com/document/d/14FRMg54QQpWBZymkAtbECpGbtRVI5dwk5CGuuUiXASc/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
 
-Now it’s your turn. Start mapping your library’s capacity in the areas of staffing, space, material resources, and partnerships. 
+Now it’s your turn to start mapping your library’s internal assets in the areas of staff, space, material resources, and partnerships. On this worksheet, jot down an overview of each area in broad strokes. Run it past a colleague to see if you've missed anything — and make notes about any information you need to check on (e.g., exactly how many meeting rooms you have, or how big the IT department is). 
 </div>
 
 You can gain further insight into your library’s capacity and potential by looking at each element in more detail: staffing, relationships, material resources, and space. 
