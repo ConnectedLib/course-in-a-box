@@ -398,6 +398,10 @@ line-height:  2em;
   vertical-align:top;
 }
 
+.worksheet-noborder ul, .worksheet-noborder ul li {
+  font-family:'Courier New';
+  font-size: .9em;
+}
 
 
 .example-form {
