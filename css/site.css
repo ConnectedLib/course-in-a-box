@@ -6,7 +6,7 @@ h1 {
     margin-bottom: 25px;
 }
 
-.content h2, .content h3 {
+.content h2, .content h3, .content h4 {
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     margin-bottom: 20px;
