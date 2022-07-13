@@ -64,8 +64,8 @@ Below is one version of what an logic model template looks like.
 	</tr>
 	<tr>
 		<td colspan="5">
-			<b>ACTIVITIES</b>
-			
+			<p><b>ACTIVITIES</b></p>
+
 <b>Maker Camp:</b>
 <ul><li>1 maker space skill development per day</li>
 <li>2 STEM challenges per day</li></ul>
@@ -94,7 +94,7 @@ Below is one version of what an logic model template looks like.
 	</tr>
 	<tr>
 		<td colspan="5">
-			<b>INPUTS</b>
+			<p><b>INPUTS</b></p>
 			
 <b>Staff:</b> 3.5 library staff to act as camp counselors and assist with day-to-day management of camp activities
 

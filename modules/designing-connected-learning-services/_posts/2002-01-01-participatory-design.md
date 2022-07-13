@@ -11,19 +11,17 @@ Participatory design (also called co-design) brings people together in a similar
 <iframe src="https://www.youtube.com/embed/CyT3xDRunRM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">1:38</div></div>
 
-The overarching principles of participatory design are:
+According to the team behind the [VRtality project](https://www.vrtality.org/about/our-philosophy/){:target="_blank"} (see below), the overarching principles of participatory design are:
 - All co-designers are equal partners
 - Every opinion is valid and of equal importance
 - Design takes place without constraints
 - There are no preconceived notions
 
 Within those co-design principles the following elements are critical:
-Relationships: centered on trust and power sharing 
-Flexibility and agility: centered on scaffolding learning, risk taking and failure
-Teamwork: centered on embracing different perspectives and varying levels of expertise
-Openness to learning: centered on co-learning, new ideas, and not being an expert
-
-(https://www.vrtality.org/about/our-philosophy/)
+- Relationships: centered on trust and power sharing 
+- Flexibility and agility: centered on scaffolding learning, risk taking and failure
+- Teamwork: centered on embracing different perspectives and varying levels of expertise
+- Openness to learning: centered on co-learning, new ideas, and not being an expert
 
 We are using participatory design in this module as it is a highly customizable approach for learning with and from community members - including teens - and building programs and services based on that learning.
 
@@ -36,9 +34,6 @@ However you choose to conceptualize the specific steps in your design process, t
 
 ## VRTALITY
 
-In 2021/2022 The Seattle Public Library;The D.C. Public Library; and the LaGrange Public Library, Archive, and Museum in Fayette, TX worked together on an IMLS initiative that brought participatory design, mental health, and VR together.  The presentation below, by Jin Ha Lee at the University of Washington provides an overview of participatory design.  
+In 2021/2022 The Seattle Public Library, The D.C. Public Library, and the LaGrange Public Library, Archive, and Museum in Fayette, TX worked together on an IMLS initiative that brought participatory design, mental health, and VR together: [VRtality](https://www.vrtality.org/){:target="_blank"}.  The presentation below, by Jin Ha Lee at the University of Washington provides an overview of participatory design.  
 
-<<video on participatory design - https://drive.google.com/file/d/1ZaDosOAYchlt4spxnYRLoK-i_lbPkiYZ/view>
-
-You can learn more about the Seattle, DC, and LaGrange, TX project at https://www.vrtality.org/
-—
+UPLOAD TO YOUTUBE - video on participatory design - https://drive.google.com/file/d/1ZaDosOAYchlt4spxnYRLoK-i_lbPkiYZ/view>

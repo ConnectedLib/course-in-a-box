@@ -468,3 +468,8 @@ details summary {
 details summary > * {
   display: inline;
 }
+
+details {
+  color:  slategray;
+  font-size:  .8em;
+}
