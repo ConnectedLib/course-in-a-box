@@ -40,9 +40,7 @@ This is the “nitty gritty” section that lays out the details of how you will
 
 ---
 
-<button type="button" class="collapsible">Footnotes</button>
-<div class="collapsed-content" markdown="1">
+<details>  
+<summary>Footnotes</summary> 
 1. "Nothing as Practical as Good Theory: Exploring Theory-Based Evaluation for Comprehensive Community Initiatives for Children and Families," pp. 65-92, by C. H. Weiss. In _New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts_.
-</div>
-
-
+</details>
