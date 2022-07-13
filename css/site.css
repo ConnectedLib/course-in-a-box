@@ -448,7 +448,7 @@ line-height:  2em;
 }
 
 /* Style the collapsible content. Note: hidden by default */
-.collaposed-content {
+.collapsed-content {
   padding: 0 18px;
   display: none;
   overflow: hidden;
