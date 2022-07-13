@@ -10,23 +10,6 @@ Below is one version of what an logic model template looks like.
 
 <div class="example-form">
 
-<p><b>Program:</b> Library Summer Tech Camp</p>
-<p><b>Goal:</b> Youth of Muskogee, Oklahoma have opportunities to learn, create, and share.</p>
-
-<div class="example-row"> 
-	<b>Long-Term Outcomes</b>
-	<div class="example-cell">Youth recognized by family, friends, community for accomplishments</div>
-	<div class="example-cell">Youth become responsible users of technology</div>
-</div>
-
-<div class="example-row"> 
-	<b>Intermediate Outcomes</b>
-	<div class="example-cell">Youth gain new experience and insight into possible tech fields</div>
-	<div class="example-cell">Youth create and produce original media</div>
-	<div class="example-cell">Youth make new friends with shared interests</div>
-	<div class="example-cell">Youth gain skills that can be used in school & life</div>
-</div>
-
 <table class="worksheet-noborder">
 	<tr>
 		<td colspan="5"><b>Program:</b> Library Summer Tech Camp</td>
@@ -199,6 +182,20 @@ Keep in mind that you don’t want to create this roadmap in a vacuum. Bring com
 
 A logic model should not be a static document. You want to regularly review what you’ve included and update based on information, activities, and resources that have come to the fore since your last review of the document. 
 
+## Theory of Change
 
+A theory of change is similar to a logic model, but it is a slightly different approach to program design that explains “how and why the program will work.” A theory of change describes how your program will help you get from where you are to your desired outcomes in both narrative and graphic formats. A theory of change can be messy, recursive, and multidimensional (just like reality).^2  Connell and Kubisch3 describe a good theory of change as plausible, doable, and testable. In both models, you work backwards from your outcomes until you reach the specific activities that will begin the change you want to see.
+
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/6zRre_gB6A4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">3:40</div></div>
+
+---
+
+<details>
+	<summary>Footnotes</summary>
+	<p>1. Differences Between the Theory of Change and the Logic Model. By Ann-Murray Brown, 2016.</p>
+	<p>2. Applying a theory of change approach to the evaluation of comprehensive community initiatives: progress, prospects, and problems. By J.P. Connell & A. C. Kubisch (1998).</p>
+</details>
 
 
