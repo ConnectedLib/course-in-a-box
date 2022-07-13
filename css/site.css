@@ -338,6 +338,7 @@ line-height:  2em;
   border-style:solid; 
   padding:10px 10px 10px 20px; 
   margin-top: 20px
+  margin-bottom: 20px;
 }
 
 .color1 {
@@ -455,4 +456,11 @@ line-height:  2em;
   background-color: #f1f1f1;
 }
 
+details summary { 
+  cursor: pointer;
+  color:  slategray;
+}
 
+details summary > * {
+  display: inline;
+}
