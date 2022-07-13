@@ -1,5 +1,5 @@
 ---
-title: Collecting and analyzing data
+title: Collecting data
 ---
 
 ## Data collection

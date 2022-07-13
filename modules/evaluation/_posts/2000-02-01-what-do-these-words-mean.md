@@ -8,9 +8,7 @@ title: What do these words mean?
 - **Reflecting**, where data is used to improve ongoing programming (also called _formative evaluation_)
 - **Documenting**, where outcomes are captured to evaluate the overall impact of a program (also called _summative evalution_)
 
-<img src="{{ site.baseurl }}/img/assessment/program_trajectory.png]" ALT="Program trajectory diagram"/>
-
-_Source: 
+<img src="{{ site.baseurl }}/img/assessment/program_trajectory.png" ALT="Program trajectory diagram"/><br/>_Source: 
 [Evaluating Library Programming Guide](https://clalliance.org/publications/evaluating-library-programming-a-practical-guide-to-collecting-and-analyzing-data-to-improve-or-evaluate-connected-learning-programs-for-youth-in-libraries/){:target="_blank"}; used with permission._ 
 
 Whether you want to conduct an assessment or a full-fledge evaluation depends on what part of the trajectory you are in, what questions you want to answer,  and how many resources you want to devote to answering them. 
