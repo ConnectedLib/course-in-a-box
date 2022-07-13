@@ -96,17 +96,16 @@ Below is one version of what an logic model template looks like.
 		<td colspan="5">
 			<p><b>INPUTS</b></p>
 			
-<b>Staff:</b> 3.5 library staff to act as camp counselors and assist with day-to-day management of camp activities
-
-<b>Money:</b> $11,000 funding for Maker, Coding, Photography, & Video camps
+<b>Staff:</b> 3.5 library staff to act as camp counselors and assist with day-to-day management of camp activities<br/>
+<b>Money:</b> $11,000 funding for Maker, Coding, Photography, & Video camps<br/>
 <b>Time:</b> 9 weeks. Approximate daily time required: 
 <ul><li>Photography - 3 hours</li>
 <li>Maker - 4 hours</li>
 <li>Coding & Video - 6 hours</li></ul>
-<b>Volunteers:</b> 1-2 to assist with daily activities and setup
+<b>Volunteers:</b> 1-2 to assist with daily activities and setup<br/>
 <b>Partners:</b> MPS & Hilldale schools provide marketing for students; Cleveland Museum of Art &
 Museum of Fine Arts Boston provides instruction; Techogee & Shutterbug provide advice &
-speakers; City of Muskogee provides access to Butterfly Pavilion
+speakers; City of Muskogee provides access to Butterfly Pavilion<br/>
 <b>Program participants:</b>
 <ul><li>Photography - 40 youth, Grades 1 - 12</li>
 	<li>Coding & Video - 40 youth, Grades 5 - 8</li>
@@ -196,8 +195,9 @@ A theory of change is similar to a logic model, but it is a slightly different a
 
 <details>
 	<summary>References</summary>
-	<p>1. Differences Between the Theory of Change and the Logic Model. By Ann-Murray Brown, 2016.</p>
-	<p>2. Applying a theory of change approach to the evaluation of comprehensive community initiatives: progress, prospects, and problems. By J.P. Connell & A. C. Kubisch (1998).</p>
+	<ul>
+		<li>1. Differences Between the Theory of Change and the Logic Model. By Ann-Murray Brown, 2016.</li>
+		<li>2. Applying a theory of change approach to the evaluation of comprehensive community initiatives: progress, prospects, and problems. By J.P. Connell & A. C. Kubisch (1998).</li>
 </details>
 
 
