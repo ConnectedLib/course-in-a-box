@@ -45,7 +45,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 
-  <script type="text/javascript" src="{{ site.baseurl }}/js/collapsible.js"></script>
+
 	<script type="text/javascript" src="{{ site.baseurl }}/js/modernizr-2.6.2.min.js"></script>
 </head>
 <body {% if page.itemtype %}itemscope itemtype="{{ page.itemtype }}"{% endif %}
@@ -62,6 +62,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 <script src="{{site.baseurl}}/js/init.js"></script>
 <script src="{{site.baseurl}}/js/gh_link_helper.js"></script>
+<script src="{{site.baseurl}}/js/collapsible.js"></script>
 
 {% if page.extra_js %}
   {% for js in page.extra_js %}
@@ -79,4 +80,5 @@
 {% endif %}
 
 </body>
+
 </html>
