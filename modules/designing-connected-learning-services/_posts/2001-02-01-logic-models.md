@@ -63,7 +63,9 @@ Below is one version of what an logic model template looks like.
 		</td>
 	</tr>
 	<tr>
-		<td colspan="5"><h4>ACTIVITIES</h4>
+		<td colspan="5">
+			<b>ACTIVITIES</b>
+			
 <b>Maker Camp:</b>
 <ul><li>1 maker space skill development per day</li>
 <li>2 STEM challenges per day</li></ul>
@@ -92,8 +94,8 @@ Below is one version of what an logic model template looks like.
 	</tr>
 	<tr>
 		<td colspan="5">
-			<h4>INPUTS</h4>
-			INPUTS
+			<b>INPUTS</b>
+			
 <b>Staff:</b> 3.5 library staff to act as camp counselors and assist with day-to-day management of camp activities
 
 <b>Money:</b> $11,000 funding for Maker, Coding, Photography, & Video camps
@@ -193,7 +195,7 @@ A theory of change is similar to a logic model, but it is a slightly different a
 ---
 
 <details>
-	<summary>Footnotes</summary>
+	<summary>References</summary>
 	<p>1. Differences Between the Theory of Change and the Logic Model. By Ann-Murray Brown, 2016.</p>
 	<p>2. Applying a theory of change approach to the evaluation of comprehensive community initiatives: progress, prospects, and problems. By J.P. Connell & A. C. Kubisch (1998).</p>
 </details>
