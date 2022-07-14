@@ -1,4 +1,4 @@
----
+–--
 title: Internal Asset Mapping 
 tags: ['sectionHead']
 ---
@@ -7,55 +7,39 @@ Library staff sometimes feel like they don’t have the capacity to build connec
 
 You may have already created a community asset map while working through the [Community-Centered Services module](../../community-centered/). Internal asset mapping is a similar activity: you look inward at library resources and consider the assets that the library already brings to its work with and for the community. This process enables you to: 
 
-* Consider library staff strengths in context of the needs of youth served
-* Dismantle silos within the organization so those working in different areas can join forces to build capacity in support of youth and families and connected learning
-* Consider relationships between you and other staff members
-* Leverage community interests determine organizational priorities
-* Provide a better language for the organization to serve the local connected learning ecosystem and the entire community
+- Consider library staff strengths in context of the needs of youth served
+- Dismantle silos within the organization so those working in different areas can join forces to build capacity in support of youth and families and connected learning
+- Consider relationships between you and other staff members
+- Leverage community interests determine organizational priorities
+- Provide a better language for the organization to serve the local connected learning ecosystem and the entire community
 
+## Staff
 
-To explore how this process works, let’s look at three different fictional libraries: a large urban library, a midsized suburban library, and a small rural library. 
+Staffing capacity refers not only to the number of staff members your library has, but also to your staff’s strengths and unique abilities. For example, how many staff work with you? Does your library have staff dedicated to or knowledgable about specific technologies? Staff availability is also important. For instance, if you have one teen librarian on staff who is in charge of the reference desk for a certain number of hours a day in addition to their other duties, they may have less capacity for teen programming.
 
-<div class="colorhighlight color1" markdown="1">
+For any size library, looking at different sets of human resources — such as departments or teams — can provide a helpful overview. It can also be helpful to focus in on the key people who work in or with youth services.
 
-## Large, Urban Library: Gotham Public Library
+## Space
 
-<img src="{{ site.baseurl }}/img/capacity/big_city_med.png"  ALT="Big City"/>
+Even staff at the largest library may find that they often do not have the physical capacity to implement all of the programs and activities that they would like. While space can be a challenge, the capacity of your library can be augmented using community strengths and partnerships. The first step is gaining in-depth knowledge of your library’s space.
+There are a variety of ways to assess the space capacity of your library. While the most common is to think of your spaces by their square footage, or by their max occupancy numbers, there are other factors that are often not thought about. Ask yourself the following questions as you evaluate your library's spaces: 
+* Can the shelving in that space be moved easily? 
+* Are the tables on wheels, or otherwise easily mobile? 
+* Can the chairs stack?
+* Can you configure the space for an everyday "hang out" area? How about a workshop with groups at different tables, or different computer workstations? What about meeting layout -- a speaker and audience, or a more intimate circle configuration? 
+* Is this space equally accessible to everyone?
+## Resources
+Resources are any physical or digital goods that you can use for youth services: art supplies, furniture, animals, puzzles, computers, software, machinery, snacks – the list can go on! The material resources capacity of your library can be thought of in two parts: 
 
-Gotham Public Library is a large system with 17 branches scattered across the densely populated city of Gotham. The central branch serves a population of several hundred thousand, and has a number of sizable meeting spaces. Despite this seeming wealth of resources, there has been much more focus on adult and children’s services and programming, with teen services falling through the cracks. Teen Services has a relationship with most of the local high schools, but has not leveraged many other community partnerships.
-</div>
+Acquisition: refers to your library’s unique capacity to acquire resources. This includes your library’s technology and programming budget, as well as the sources your library uses to acquire materials. For example, if you had a community partnership with a robotics club, they might be able to help supply you with motors, and a friendly movie theater might provide popcorn on special occasions. Both your budget and your library’s unique partnerships play roles in your resource acquisition.
 
-<div class="colorhighlight color2" markdown="1">
-
-
-
-## Midsize, Suburban Library: Sunnydale Public Library
-
-<img src="{{ site.baseurl }}/img/capacity/suburban_med.png"  ALT="Suburbs"/>
-
-Sunnydale Public Library is located in a sprawling suburban area. It is a midsize library, and serves a population of about 16,000. It has a meeting room for library programs, and two study rooms. As well as having open seating areas for reading and studying, the library uses roughly half of its open space to make room for 38 computers. They have knowledgeable staff and strong community partnerships. Many of these community partnerships help to fund new technology acquisitions, since the library’s tech budget is split across the system to which it belongs. The library employs two adult services librarians, a children’s librarian, and a teen librarian. Also on staff are five library associates and a base of twenty rotating volunteers.
+Use: refers to your library’s use of these resources, and your staff members’ abilities to use and teach the use of them. What is your library’s capacity in relation to technology use? Does anyone know how to use that sewing machine? 
  
+## Relationships
+Partnerships are an important aspect for the capacity of your individual library. As mentioned in our [Community Centered Services module](), partnerships can be formal ones with specific organizations, or informal ones with members of your community. For instance, a library might formally partner with the local Boys and Girls club for specific services for youth after school, or informally partner with a local artist by asking them to take part in a youth services program.
+## Examples
+### Large, Urban Library: Gotham City Public Library
  
-</div>
-
-<div class="colorhighlight color3" markdown="1">
-
-
-## Small, Rural Library: Smallville Public Library
-
-<img src="{{ site.baseurl }}/img/capacity/rural_med.png"  ALT="Rural area"/>
-
-Smallville is a rural town located between two larger cities, both over an hour’s drive away with no public transportation options. The library serves a population of about 20,000, most of whom are employed in agriculture or a local factory. There is one full-time librarian, and two part-time staff. One of the part-time staff members is the designated “children’s librarian” which covers infancy through high school. Everyone in town knows the library, but not many official partnerships have been established. Most of the library collection is contained in a single room, with a corner dedicated to the children’s section with low tables and chairs. There are some tables and seating in the area where the two public access computers are located. 
-</div>
-<div class="callout activity" markdown="1">
-	
-### [Worksheet #2: Start mapping your capacity](https://docs.google.com/document/d/14FRMg54QQpWBZymkAtbECpGbtRVI5dwk5CGuuUiXASc/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
-
-Now it’s your turn to start mapping your library’s internal assets in the areas of staff, space, material resources, and partnerships. On this worksheet, jot down an overview of each area in broad strokes. Run it past a colleague to see if you've missed anything — and make notes about any information you need to check on (e.g., exactly how many meeting rooms you have, or how big the IT department is). 
-</div>
-
-You can gain further insight into your library’s capacity and potential by looking at each element in more detail: staffing, relationships, material resources, and space. 
-
----
-
-<p style="font-style: italic;">Illustrations by <a href="https://blush.design/artists/RyUTVuP8G4QeAAEEQgug/pablo-stanley">Pablo Stanley</a>.</p> 
+### Mid-Sized Suburban Library: Sunnydale Library System
+ 
+### Small, Rural Library: Smallville Library

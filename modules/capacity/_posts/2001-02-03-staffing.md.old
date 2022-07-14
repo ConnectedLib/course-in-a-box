@@ -3,22 +3,21 @@ title: Staff
 ---
 
 
-Staffing capacity refers not only to the number of staff members your library has, but also to your staff’s strengths and unique abilities. For example, how many youth librarians do you have on staff? Does your library have staff dedicated to or knowledgable about specific technologies? Staff availability is also important. For instance, if you have one teen librarian on staff who is in charge of the reference desk for a certain number of hours a day in addition to their other duties, they may have less capacity for teen programming.
+Staffing capacity refers not only to the number of staff members your library has, but also to your staff’s strengths and unique abilities. For example, how many staff work with you? Does your library have staff dedicated to or knowledgable about specific technologies? Staff availability is also important. For instance, if you have one teen librarian on staff who is in charge of the reference desk for a certain number of hours a day in addition to their other duties, they may have less capacity for teen programming.
 
-If your library is not extremely small, you can begin by looking at staffing at a macro level, as shown in the following examples.
+For any size library, looking at different sets of human resources — such as departments or teams — can provide a helpful overview. It can also be helpful to to focus in on the key people who work in or with youth services. Review these examples of both approaches as they might look for our three fictional libraries. 
+
 
 <div class="colorhighlight color1" markdown="1">
 
-## Gotham Public Library
-
-<img src="{{ site.baseurl }}/img/capacity/3_people_med.png"  ALT="Three people"/>
+### Gotham Public Library
 
 <table class="worksheet">
 
 <tr>
 	<th>Staff</th>
 	<th>Strengths</th>
-	<th>Weaknesses</th>
+	<th>Challenges</th>
 </tr>
 
 <tr>
@@ -31,14 +30,15 @@ If your library is not extremely small, you can begin by looking at staffing at 
 <td>Can move between regional branches as needed<br/>
 	Comfortable working and co-learning with teens<br/>
 	    Knowledgeable about connected learning</td>
-	<td>Can't keep up with every topic teens are interested in<br/>
-Can't be in every branch every day</td>
+	<td>Worry about keeping up with every topic and new technology teens are interested in<br/>
+Can't be in every branch every day<br/>
+Find it hard to build relationships with community outside of the library buildings</td>
 </tr>
 	
 <tr>
 	<td>Children's Services - 1 dedicated librarian and 1 dedicated library paraprofessional in each branch</td>
 	<td>Can know each community intimately<br/>Can build relationships with regular visitors<br/>Can build relationships with library visitors who are aging up into the teen programs</td>
-	<td>Responsible for ages 0 to 18, not just teens</td>
+	<td>Responsible up to age 13, work infrequently with teen staff</td>
 </tr>
 
 <tr>
@@ -57,26 +57,19 @@ Can't be in every branch every day</td>
 </table>
 
 
-
-
-
-
 </div>
-
 
 
 
 <div class="colorhighlight color2" markdown="1">
 
-## Sunnydale Public Library
-
-<img src="{{ site.baseurl }}/img/capacity/2_people_med.png"  ALT="Two people"/>
+### Sunnydale Public Library (midsize, suburban)
 
 <table class="worksheet">
 <tr>
 <th>Staff</th>
 <th>Strengths</th>
-<th>Weaknesses</th>
+<th>Challenges</th>
 </tr>
 <tr>
 <td>2 adult services staff</td>
@@ -86,11 +79,10 @@ Can't be in every branch every day</td>
 <tr>
 <td>1 Children's Services staff</td>
 <td>Knowledgeable in early literacy</td>
-<td>Large deaf community unable to access storytime, no ASL speakers</td>
+<td>Large deaf community unable to access storytime, no ASL interpreters</td>
 </tr>
 <tr>
 <td>1 Teen Services Staff</td>
-<td>Works great with teens</td>
 <td>Large afterschool teen population is too big for 1 staff member</td>
 </tr>
 <tr>
@@ -98,16 +90,9 @@ Can't be in every branch every day</td>
 <td>1 LA has an MLIS and is familiar with connected learning</td>
 <td>Library Associates have little extra  time because they shelve books and work the front desk--no library page positions</td></tr>
 
-<tr>
-<td>20 volunteers</td>
-<td>Many volunteers are teens who are peers of the library visitors</td>
-<td> </td></tr>
 
 </table>
 
-
-
-</div>
 
 
 If your library is on the smaller side, or if you want to focus in on the key people who work in or with youth services, take a more micro approach. 
@@ -124,46 +109,35 @@ If your library is on the smaller side, or if you want to focus in on the key pe
 <tr>
 	<th>Title</th>
 	<th>Passions and interests</th>
-	<th>Relationships with other staff</th>
-	<th>Relationships with community</th>
+	<th>Relationships</th>
 	<th>Organizational priorities</th>
 	<th>Values, goals, etc.</th>
 	</tr>
 	<tr>
-		<td>FTE Librarian</td>
+		<td>FTE Director</td>
 		<td>Loves to cook, reads a lot of fantasy, learns local history whenever they can</td>
-<td>Talks regularly with the tech services supervisor and the volunteer coordinator</td>
-<td>Meets with the minister of the church across the street once a month for coffee</td>
+<td>Meets with the minister of the church across the street once a month for coffee<br/>
+Works closely with town hall staff on budget and administration</td>
 <td>Getting people answers to their questions</td> 
 <td>Strongly believes that those that visit the library deserve high-quality service</td>
 </tr>
+
 <tr>
-		<td>PT worker 1</td>
-		<td></td>
-<td></td>
-<td></td>
-<td></td> 
-<td></td>
+		<td>Volunteer - Pam</td>
+		<td>Enjoys arts and crafts and animal husbandry, cat lady<br/>
+		Owns a family farm with cows, pigs, horses, and other animals</td>
+<td>Pam's daughter is a teacher at the elementary school, her son is a vet in a nearby town</td>
+<td>Working with the kids on activities</td>
+<td>Cares about animal welfare</td> 
 </tr>
 
 <tr>
-		<td>PT worker 2</td>
-		<td></td>
-<td></td>
-<td></td>
-<td></td> 
-<td></td>
+		<td>Volunteer - John</td>
+		<td>Partially retired mechanic, can fix anything</td>
+<td>Member of the local Elks club</td>
+<td>John enjoys working on mechanical activities with the children and teens; can be counted on to fix a leaky faucet or squeaky door.</td>
+<td>A man of few words, but good at giivng accessible explanations of technical concepts</td> 
 </tr>
-
-<tr>
-		<td>Intermittent volunteers</td>
-		<td></td>
-<td></td>
-<td></td>
-<td></td> 
-<td></td>
-</tr>
-
 
 </table>
 

@@ -1,24 +1,16 @@
 ---
 title: Space 
 ---
-
-Even large libraries may find that they often do not have the physical capacity to implement all of the programs and activities that they would like. While space can be a challenge, the capacity of your library can be augmented using community strengths and partnerships. The first step is gaining in-depth knowledge of your library’s space.
-
+Even staff at the largest library may find that they often do not have the physical capacity to implement all of the programs and activities that they would like. While space can be a challenge, the capacity of your library can be augmented using community strengths and partnerships. The first step is gaining in-depth knowledge of your library’s space.
 There are a variety of ways to assess the space capacity of your library. While the most common is to think of your spaces by their square footage, or by their max occupancy numbers, there are other factors that are often not thought about. Ask yourself the following questions as you evaluate your library's spaces: 
-
 * Can the shelving in that space be moved easily? 
 * Are the tables on wheels, or otherwise easily mobile? 
 * Can the chairs stack?
 * Can you configure the space for an everyday "hang out" area? How about a workshop with groups at different tables, or different computer workstations? What about meeting layout -- a speaker and audience, or a more intimate circle configuration? 
 * Is this space equally accessible to everyone?
-
-
+ 
 <div class="colorhighlight color1" markdown="1">
-
-## Gotham Public Library
-
-<img src="{{ site.baseurl }}/img/capacity/big_space.jpeg"  ALT="A large library with tables"/>
-
+### Gotham Public Library
 <table class="worksheet">
 	<tr>
 		<th>Space</th>
@@ -26,48 +18,37 @@ There are a variety of ways to assess the space capacity of your library. While 
 		<th>Challenges</th>
 	</tr>
 	<tr>
-		<td>Teen spaces</td>
-		<td>Smaller branches have at least a small teen section with one or two comfortable seats and teen materials.</td>
-		<td>When dedicated teen staff are in branch libraries it can be difficult for them to connect with teens due to limited teen space.</td>
+		<td>Multiple small meeting rooms (10 people each)</td>
+		<td>Can be booked by individuals or community groups</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td>Children’s Spaces</td>
-		<td>All library buildings have a children’s room with seating, play space, materials. </td>
-		<td>Child-theming is strong and teens avoid any programming in the area</td>
+		<td>Several study rooms (2 people each)</td>
+		<td>Close to teen area</td>
+		<td>No projection/monitor in these rooms</td>
 	</tr>
 <tr>	
-	<td>Meeting spaces</td>
-<td>Regional Hubs have multi-use spaces that can be configured for different types of activities<br/>Approximately half of the smaller branches have a small meeting and/or program room<br/>These spaces can be booked by individuals or community groups
-</td>
-<td>Furniture is not easily rearranged in some rooms</td>
+	<td>5 large meeting rooms (50 people)</td>
+<td>Rarely fully booked<br/>Chairs and tables are easily rearranged</td>
+<td>Furniture is not easily rearranged</td>
 </tr>
 <tr>		
-<td>Study Spaces</td>
-<td>Regional hubs have between 2 and 4 study spaces. </td>
-<td>Small capacity, no projector/monitor in these rooms. </td>
-</tr>
-<tr>
-	<td>Auditorium (300 people) in central library</td>
-	<td>Very large capacity, large stage area<br/>Accessible entry and seating</td>
-	<td>Seats are not configurable</td></tr>	
+<td>1 auditorium (300 people)</td>
+<td>Very large capacity, large stage area</td>
+<td>nbsp;</td>
+</tr>		
 </table>
  
 </div>
-
-
-
-
+ 
 <div class="colorhighlight color2" markdown="1">
-
-## Sunnydale Public Library
-
-<img src="{{ site.baseurl }}/img/capacity/medium_space.jpeg"  ALT="A medium library with tables"/>
-
+ 
+### Sunnydale Public Library
 <table class="worksheet">
 	<tr>
 		<th>Space</th>
 		<th>Strengths</th>
-		<th>Weaknesses</th>
+		<th>Challenges</th>
 	</tr>
 	<tr>
 		<td>Main floor</td>
@@ -84,60 +65,47 @@ There are a variety of ways to assess the space capacity of your library. While 
 <td>Collaborative work space for 2-5 people</td>
 <td>Rarely used</td>
 </tr>
-<tr>
-	<td>Teen space</td>
-	<td>Configurable seating and tables</td>
-	<td>Can be heard from the adult reference section</td>
-</tr>
-</table>
-
-
- 
+</table> 
 </div>
-
-<div class="colorhighlight color3" markdown="1">
-
 ## Smallville Library
-
+ 
 <img src="{{ site.baseurl }}/img/capacity/small_space.jpeg"  ALT="A small library"/>
-
-
+ 
+ 
 <table class="worksheet">
 	<tr>
 		<th>Space</th>
 		<th>Strengths</th>
-		<th>Weaknesses</th>
+		<th>Challenges</th>
 	</tr>
 	<tr>
-		<td>1 activity room (10 people)</td>
-		<td></td>
+		<td>1 activity/meeting room (10 people)</td>
+		<td>Chairs and tables can be reconfigured or folded and placed against the wall for more space. </td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>2 tables w/ chairs in children’s area</td>
-		<td></td>
-		<td></td>
+		<td>Solidly constructed</td>
+		<td>In a clearly child-themed section of the library</td>
 	</tr>
 	<tr>
 		<td>Outdoor garden</td>
-		<td></td>
-		<td></td>
+		<td>Garden was planned and planted by a talented former volunteer</td>
+		<td>Library director does not always have time to water and weed the garden</td>
 	</tr>
 </table>
-
-
-
+ 
+ 
+ 
 </div>
 <div class="callout activity" markdown="1">
 	
 ### [Worksheet #4: Your space capacity]( ){:target="_blank"}
-
+ 
 Instructions
  
 </div>
-
+ 
 ---
-
+ 
 Photos by <a href="https://unsplash.com/photos/yUSLlcOkJnk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Claudio Schwarz</a>, <a href="https://unsplash.com/photos/n4y3eiQSIoc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Drahomír Posteby-Mach</a>, <a href="https://unsplash.com/photos/kcT-7cirBEw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink">Eliott Reyna</a>.
-
-
