@@ -1,7 +1,7 @@
 –--
 title: Troubleshooting Capacity Challenges
 tags: ['sectionHead']
-—
+—--
 
 If your library faces capacity challenges, know that you are not alone. Most public libraries face challenges in some aspect of capacity, whether it’s space, material resources, staffing, or partnerships. Our goal in this section is to make troubleshooting capacity challenges at your library accessible, so you can feel confident in your library’s capacity to provide connected learning infused programs.
 ## Small spaces
