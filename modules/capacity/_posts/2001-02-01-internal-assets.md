@@ -37,9 +37,3 @@ Use: refers to your libraryâ€™s use of these resources, and your staff membersâ€
  
 ## Relationships
 Partnerships are an important aspect for the capacity of your individual library. As mentioned in our [Community Centered Services module](), partnerships can be formal ones with specific organizations, or informal ones with members of your community. For instance, a library might formally partner with the local Boys and Girls club for specific services for youth after school, or informally partner with a local artist by asking them to take part in a youth services program.
-## Examples
-### Large, Urban Library: Gotham City Public Library
- 
-### Mid-Sized Suburban Library: Sunnydale Library System
- 
-### Small, Rural Library: Smallville Library
