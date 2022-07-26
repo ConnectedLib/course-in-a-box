@@ -198,6 +198,7 @@ A theory of change is similar to a logic model, but it is a slightly different a
 	<ul>
 		<li>1. Differences Between the Theory of Change and the Logic Model. By Ann-Murray Brown, 2016.</li>
 		<li>2. Applying a theory of change approach to the evaluation of comprehensive community initiatives: progress, prospects, and problems. By J.P. Connell & A. C. Kubisch (1998).</li>
+	</ul>
 </details>
 
 

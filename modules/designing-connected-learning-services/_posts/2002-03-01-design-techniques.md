@@ -3,7 +3,6 @@ title: Design Goals and Techniques
 ---
 
 ## Design Goals
-## Design Goals
 [Library Staff as Public Servants: A Field Guide for Preparing to Support Communities in Crisis](https://yxlab.ischool.umd.edu/wp-content/uploads/2021/02/Field-Guide-2021-Final.pdf){:target="_blank"} provides an overview of co-design.  The following set of steps is adapted from that document. 
 
 
@@ -28,8 +27,8 @@ Groups of co-designers receive a “bag of stuff.” This bag typically has arts
 
 ### Layered Elaboration/World Cafe
 In layered elaboration and world cafe activities, groups of co-designers build off of each other’s ideas and inspirations. For example, using the world cafe model, co-designers start their work on a design challenge question in groups. A sample design challenge question might be, “In what instances/ways are teens able to demonstrate confidence?”  As each group talks about the challenge question, they use chart paper on each table to take notes, draw images, etc.  After a short period of time, five to ten minutes, each group moves to the table next to them. (One person however stays at the original table to take on the role of host.)  At the new table the host provides an overview of the conversation previous and then the new group continues and adds ideas to the chart paper.  The groups continue to move, with the host always remaining, until returning to their original table. When back at the original table the group talks about all that’s on the chart paper and designs a visual that highlights the ideas discussed.  
-
 </div>
+
 
 <div class="colorhighlight color3" markdown="1">
 
