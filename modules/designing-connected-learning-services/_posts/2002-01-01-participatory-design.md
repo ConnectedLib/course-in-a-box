@@ -25,6 +25,10 @@ Within those co-design principles the following elements are critical:
 
 We are using participatory design in this module as it is a highly customizable approach for learning with and from community members - including teens - and building programs and services based on that learning.
 
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/V0ZvpXgPWPs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">28:46</div></div>
+
 ## Design Thinking
 “Design thinking” is a mindset: It is a way of approaching challenges and problems like a designer. You don’t have to be a designer to use creative tools and find solutions! As a youth librarian, you can use design thinking within activities as a tool for learning, or you can use design thinking methods for solving your own challenges or to create new initiatives for your library. Design thinking can be another skill set you can bring to the table with what you already do–being actively engaged with youth in your community.
 
@@ -34,6 +38,4 @@ However you choose to conceptualize the specific steps in your design process, t
 
 ## VRTALITY
 
-In 2021/2022 The Seattle Public Library, The D.C. Public Library, and the LaGrange Public Library, Archive, and Museum in Fayette, TX worked together on an IMLS initiative that brought participatory design, mental health, and VR together: [VRtality](https://www.vrtality.org/){:target="_blank"}.  The presentation below, by Jin Ha Lee at the University of Washington provides an overview of participatory design.  
-
-UPLOAD TO YOUTUBE - video on participatory design - https://drive.google.com/file/d/1ZaDosOAYchlt4spxnYRLoK-i_lbPkiYZ/view>
+In 2021/2022 The Seattle Public Library, The D.C. Public Library, and the LaGrange Public Library, Archive, and Museum in Fayette, TX worked together on an IMLS initiative that brought participatory design, mental health, and VR together: [VRtality](https://www.vrtality.org/){:target="_blank"}. 
