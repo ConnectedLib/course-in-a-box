@@ -26,3 +26,17 @@ Once you have the activities in place, think about what you will create through 
 Use our logic model template (or one of your own) to draft the first version of the logic model for your program or service. 
 </div>
 
+
+## VRTALITY
+
+In 2021/2022 The Seattle Public Library, The D.C. Public Library, and the LaGrange Public Library, Archive, and Museum in Fayette, TX worked together on an IMLS initiative that brought participatory design, mental health, and VR together: [VRtality](https://www.vrtality.org/){:target="_blank"}. Watch the conversation the project team had about outcomes, and compare it to the logic model they developed. 
+
+<img src="{{ site.baseurl }}/img/designing-services/vrtality_logic_model.png" ALT="VRTality Logic Model"/>
+
+<div class="callout videos" markdown="1">
+<iframe src="https://www.youtube.com/embed/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videotime">25:24</div></div>
+
+
+
+

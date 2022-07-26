@@ -36,6 +36,4 @@ The elements of design thinking are described in different ways, but they can be
 
 However you choose to conceptualize the specific steps in your design process, the gist of design thinking is that a good design doesn't happen unless the designer is able to put themselves in the shoes of the people you are designing for, and willing to put their ideas to the test and respond to feedback.
 
-## VRTALITY
 
-In 2021/2022 The Seattle Public Library, The D.C. Public Library, and the LaGrange Public Library, Archive, and Museum in Fayette, TX worked together on an IMLS initiative that brought participatory design, mental health, and VR together: [VRtality](https://www.vrtality.org/){:target="_blank"}. 
