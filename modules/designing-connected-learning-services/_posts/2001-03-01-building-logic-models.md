@@ -34,7 +34,7 @@ In 2021/2022 The Seattle Public Library, The D.C. Public Library, and the LaGran
 <img src="{{ site.baseurl }}/img/designing-services/vrtality_logic_model.png" ALT="VRTality Logic Model"/>
 
 <div class="callout videos" markdown="1">
-<iframe src="https://www.youtube.com/embed/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Wse3wYnvwmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">25:24</div></div>
 
 
