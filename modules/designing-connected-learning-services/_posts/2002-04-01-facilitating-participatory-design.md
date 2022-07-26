@@ -3,7 +3,7 @@ title: Facilitating Participatory Design
 ---
 
 
-It’s always a good idea to work with at least one other person as you move through the participatory design process.  This includes working on the design goal and planning and facilitating the participatory design sessions. Working with others helps to better plan and debrief sessions as well as gain understanding of the learning that takes place during sessions.
+It’s always a good idea to work with at least one other person as you move through the participatory design process.  This includes working on the design goal and planning and facilitating the participatory design sessions. Working with others helps to better plan and debrief sessions as well as gain understanding of the learning that takes place during sessions. Use the [participatory design session template](https://docs.google.com/document/d/1YAb1uXwSoK8qw6uOts8wmM4BIYRPEoYPIoDw-YpPf7c/edit){:target="_blank"} designed by Beth Bonsignore, Linda Braun, and Mega Subramaniam to help guide you.
 
 ## Participatory Design Tips
 
@@ -15,11 +15,11 @@ It’s always a good idea to work with at least one other person as you move thr
 
 You can read more about participatory design and techniques in the article [Designing the Library of the Future for and with Teens: Librarians as the “Connector” in Connected Learning](https://www.yalsa.ala.org/jrlya/2016/06/designing-the-library-of-the-future-for-and-with-teens-librarians-as-the-connector-in-connected-learning/){:target="_blank"} and via the Google Doc, [Implementing Participatory Design: A Few Resources](https://docs.google.com/document/d/1wzohRl2wQ8S6mt2tUjgUmoK7jXBCyD9Xzg4atKMkGFk/edit){:target="_blank"}.
 
-You can also watch this video in which Beth Bonsignore at the University of Maryland explores coming up with a design goal and participatory design techniques to learn more about the process of participatory design
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/itJ5Em11S08" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime">26:01</div> | In this video, Beth Bonsignore at the University of Maryland describes the participatory design process and some of the techniques she uses with the KidsTeam afterschool design program.</div>
+<div class="videotime">26:01</div> | In this video, Beth Bonsignore at the University of Maryland describes the participatory design process and some of the techniques she uses with the KidsTeam afterschool design program.
+</div>
 
 
 ### Example: Austin Public Library 

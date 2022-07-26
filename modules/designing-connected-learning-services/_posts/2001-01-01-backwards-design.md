@@ -101,3 +101,16 @@ Interest powered learning means creating programs around existing interests, but
 Connected learning programs, being opportunity oriented, can help learners build technical skills that employers are looking for. Volunteer and intern programs give teens something to put on their resume before entering the post-high school job market, and demonstrate that they have the interpersonal skills needed to be productive employees. Librarians and mentors can help teens turn their creative output into digital portfolios, or learn how to translate their activities into skills on their resumes.
 
 </div>
+
+
+<div class="callout activity" markdown="1">
+    
+### [Worksheet #3: Outcomes For Your Community](https://docs.google.com/document/d/1rK1CFq_WpT5k4oH4-jMYW4kXdKrzJfS_RlVND8S1Y6E/edit#heading=h.pvvbazhwa6dh){:target="_blank"}
+
+Outcomes are the changes in behavior, skills, attitudes, knowledge, etc. that you would like youth to gain through the program or service you develop. Based on what you’ve learned with your community stakeholders, what are some things you and your stakeholders would like to work towards to support youth learning and development?
+
+For example, if you’ve determined that one of the areas to work towards with stakeholders is to help build teen confidence, your desired outcome may be something like, “Teens demonstrate confidence.”
+
+Feel free to brainstorm as many outcomes as you can think of at this point. You'll select one to work on in the next worksheet.
+
+</div>
