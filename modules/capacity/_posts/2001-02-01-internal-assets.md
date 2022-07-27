@@ -37,3 +37,11 @@ Use: refers to your library’s use of these resources, and your staff members�
  
 ## Relationships
 Partnerships are an important aspect for the capacity of your individual library. As mentioned in our [Community Centered Services module](), partnerships can be formal ones with specific organizations, or informal ones with members of your community. For instance, a library might formally partner with the local Boys and Girls club for specific services for youth after school, or informally partner with a local artist by asking them to take part in a youth services program.
+
+<div class="callout activity" markdown="1">
+    
+### [Worksheet #2: Internal Assets](https://docs.google.com/document/d/14FRMg54QQpWBZymkAtbECpGbtRVI5dwk5CGuuUiXASc/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
+
+Now it’s your turn to start mapping your library’s internal assets in the areas of staff, space, material resources, and partnerships. On this worksheet, jot down an overview of each area in broad strokes. Run it past a colleague to see if you've missed anything — and make notes about any information you need to check on (e.g., exactly how many meeting rooms you have, or how big the IT department is). 
+</div>
+

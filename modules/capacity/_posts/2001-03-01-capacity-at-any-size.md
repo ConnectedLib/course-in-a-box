@@ -33,3 +33,39 @@ Smallville is a rural town located between two larger cities, both over an hourâ
 ### Leveraging Smallvilleâ€™s Strengths to Overcome Challenges
 
 The one full-time library director and the cadre of volunteers are all well tied into the community. Family members work in the agriculture industry and are library staff/volunteers and their family members are on the town council, the school department board, and involved in a variety of other local activities.  As a result of all of the connections, the library director and volunteers are well positioned to bring the knowledge and expertise of community members in the design and development of connected learning services.
+
+
+<div class="callout activity" markdown="1">
+    
+### [Worksheet #3: Capacity-building resources](https://docs.google.com/document/d/14FRMg54QQpWBZymkAtbECpGbtRVI5dwk5CGuuUiXASc/edit#heading=h.klpduap5218u){:target="_blank"}
+
+Look at the categories of people on the left, and the categories of potential capacity needs on the right. Which categories of people could potentially contribute to which areas of capacity needs? Draw an arrow from each people category to the relevant capacity category(ies) to show the potential connections. 
+
+<table>
+	<tr>
+		<th>People</th>
+		<th>Areas of Need</th>
+	</tr>
+	<tr>
+		<td>
+			<p>Community Organizations</p>
+			<p>Community Stakeholders</p>
+			<p>Library Staff</p>
+			<p>Volunteers</p>
+		</td>
+		<td>
+			<p>Expertise/Skill</p>
+			<p>Relationships</p>
+			<p>Passion/Interest</p>
+			<p>Space</p>
+			<p>Funding</p>
+		</td>
+	</tr>
+</table>
+
+<details>
+	<summary>Answers</summary>
+	All of these people could potentially contribute to the library's capacity needs in each area! 
+</details>
+
+</div>
