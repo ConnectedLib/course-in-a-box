@@ -28,6 +28,7 @@ There are a variety of ways to assess the space capacity of your library. While 
 * Can the chairs stack?
 * Can you configure the space for an everyday "hang out" area? How about a workshop with groups at different tables, or different computer workstations? What about meeting layout -- a speaker and audience, or a more intimate circle configuration? 
 * Is this space equally accessible to everyone?
+
 ## Resources
 Resources are any physical or digital goods that you can use for youth services: art supplies, furniture, animals, puzzles, computers, software, machinery, snacks – the list can go on! The material resources capacity of your library can be thought of in two parts: 
 
