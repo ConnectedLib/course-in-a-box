@@ -24,7 +24,7 @@ Now it's time to make connections between your library's assets and needs and yo
 		<th>Library Assets and Needs</th>
 	</tr>
 	<tr>
-		<td></td>
+		<td><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></td>
 		<td></td>
 		<td></td>
 	</tr>
