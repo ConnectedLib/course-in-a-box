@@ -6,7 +6,7 @@ There are different techniques for implementing a backwards design approach in y
 
 ## A Logic Model Walk-Through
 
-Below is one version of what an logic model template looks like. 
+Below is one version of what a logic model template looks like. 
 
 <div class="example-form">
 
@@ -126,14 +126,14 @@ HitFilm Express; MuseScore 2; Paint. NET; PicMonkey; Google Chrome; Cura; Google
 
 ### Outcomes
 
-Notice that on the top are the outcomes. While you may think you start filling out the logic model with activities,  using a backwards design approach you instead start with the outcomes and what you would like to achieve through the service you develop. What changes in behavior or attitudes would you like to work towards? What knowledge, skill, or expertise would you like teens to gain?
+Notice that on the top are the outcomes. While you may think you start filling out the logic model with activities,  using a backwards design approach you instead start with the outcomes and what you would like to achieve through the service you develop. What changes in behavior or attitudes would you like to work towards? What knowledge, skills, or expertise would you like teens to gain?
 
 You’ll notice in the sample logic model that there are different “levels” of outcomes included.  These are initial outcomes, intermediate outcomes, and long-term outcomes.  A good way to  think about these different levels is:
 - Initial outcomes may be met in one or two activities or sessions.
 - Intermediate outcomes are those attained after several activities or sessions.
-- Long-term outcomes are those reached over a longer period of time and might actually occur through several different programs or services or activities. Long-term outcomes are longitudinal.
+- Long-term outcomes are those reached over a longer period of time (months or even years) and might actually occur through several different programs or services or activities. 
 
-As you get started with outcomes you do not need to think about the different levels. Start with the immediate outcomes that you will be able to see demonstrated through a single program or activity.   
+As you get started with outcomes, you do not need to think about the different levels. Start with the immediate outcomes that you will be able to see demonstrated through a single program or activity.   
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/IJ6gMb-dfsM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ As you get started with outcomes you do not need to think about the different le
 
 ### Inputs
 
-Once you have your outcomes in the logic model it’s good to start thinking about the resources (inputs in the sample logic model) that you have available to reach that outcome.  Do you have funds? Do you have staff or space? Are there volunteers or mentors available to help you reach the outcome?  What partnerships do you have in place? What materials do you have available? That is the information that you put in the resources.  Keep in mind that you want to think about the resources specifically within the context of the outcomes you are working towards. These are not resources in general. Focus on resources that support your outcome.
+Once you have your outcomes in the logic model, it’s good to start thinking about the resources (inputs in the sample logic model) that you have available to reach that outcome.  Do you have funds? Do you have staff or space? Are there volunteers or mentors available to help you reach the outcome?  What partnerships do you have in place? What materials do you have available? That is the information that you put in the resources.  Keep in mind that you want to think about the resources specifically within the context of the outcomes you are working towards. These are not resources in general. Focus on resources that support your outcomes.
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/b99NHYOuOwc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -149,9 +149,15 @@ Once you have your outcomes in the logic model it’s good to start thinking abo
 
 ### Activities
 
-With an idea of your outcomes and available resources, next you should go back to the other areas of the logic model and add what you think you will create to reach the outcome using the resources you have available. It’s not until you get to this part of the logic model that you begin to define the program or service you will develop.  Think about the outcomes you want to achieve, consider the resources you have available, what will you be able to design that connects to each of those.  
+With an idea of your outcomes and available resources, next you should go back to the other areas of the logic model and add what you think you will create to reach the outcomes using the resources you have available. It’s not until you get to this part of the logic model that you begin to define the program or service you will develop.  Think about the outcomes you want to achieve, consider the resources you have available, what will you be able to design that connects to each of those.  
 
-In this section you will add the things you will do to use the resources, create your outputs, and reach your outcomes. The activities may include hosting co-design sessions with community partners, it may include working with colleagues to update policies, you might meet with your colleagues to brainstorm different aspects of the service. Those are the types of activities you list in the activities section of the logic model.
+In this section, you will add the things you will do to use the resources, create your outputs, and reach your outcomes. The activities may include: 
+
+- hosting co-design sessions with community partners
+-  working with colleagues to update policies
+- meeting with colleagues to brainstorm different aspects of the service
+
+Those are the types of activities you list in the activities section of the logic model.
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/paA1lljoQeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -159,14 +165,14 @@ In this section you will add the things you will do to use the resources, create
 
 ### Outputs
 
-When thinking about outputs you’ll start to make decisions about various program or service factors. For example: 
-- If you think the best way to reach outcomes is through a program, what type of program will that be? To reach the outcome do you need to host a multi-part series?  Will you be able to reach your outcomes through a one-off program?  Will your outcomes be reachable through passive programming?
-- To build the program will you create lesson plans and/or a curriculum?  If so then those lesson plans or curriculum become a part of your outputs?
-- For your service will you need to update or create new policies?  That is an output that you will want to add to your logic model.
-- What types of materials will you produce to recruit and promote the program or service? Wil there be a website or web pages, will you create social media posts, are there podcasts that will be a part of the output. Those too go into the logic model.
-- Is training of volunteers or mentors/coaches a part of what you will need to design? If so, that too is an output for your logic model.
+When thinking about outputs, you’ll start to make decisions about various program or service factors. For example: 
+- If you think the best way to reach outcomes is through a program, what type of program will that be? To reach the outcome, do you need to host a multi-part series?  Will you be able to reach your outcomes through a one-off program?  Will your outcomes be reachable through passive programming?
+- To build the program, will you create lesson plans and/or a curriculum?  If so, will those lesson plans or curriculum become a part of your outputs?
+- For your service, will you need to update or create new policies?  That is an output that you will want to add to your logic model.
+- What types of materials will you produce to recruit and promote the program or service? Will there be a website or web pages? Will you create social media posts? Are there podcasts that will be a part of the output? Those go into the logic model.
+- Is training of volunteers or mentors/coaches a part of what you will need to design? If so, that, too, is an output for your logic model.
 
-Keep in mind that the design and development of the outputs and activities should be done with community stakeholders, members, and teens.  (See later in this module for information on how to embed a participatory design process into your design of activities to reach your outcomes.)
+Keep in mind that the design and development of the outputs and activities should be done with community stakeholders, other community members, and teens.  (See later in this module for information on how to embed a participatory design process into your design of activities to reach your outcomes.)
 
 
 <div class="callout videos" markdown="1">
@@ -185,7 +191,7 @@ A logic model should not be a static document. You want to regularly review what
 
 ## Theory of Change
 
-A theory of change is similar to a logic model, but it is a slightly different approach to program design that explains “how and why the program will work.” A theory of change describes how your program will help you get from where you are to your desired outcomes in both narrative and graphic formats. A theory of change can be messy, recursive, and multidimensional (just like reality).<sup>1</sup>  Connell and Kubisch<sup>2</sup> describe a good theory of change as plausible, doable, and testable. In both models, you work backwards from your outcomes until you reach the specific activities that will begin the change you want to see.
+A theory of change is similar to a logic model, but it is a slightly different approach to program design that explains “how and why the program will work.” A theory of change describes how your program will help you get from where you are to your desired outcomes in both narrative and graphic formats. A theory of change can be messy, recursive, and multidimensional (just like reality).<sup>1</sup>  Connell and Kubisch<sup>2</sup> describe a good theory of change as plausible, doable, and testable. In both models, you work backwards from your outcomes until you reach the specific activities that will bring about the change you want to see.
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/6zRre_gB6A4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

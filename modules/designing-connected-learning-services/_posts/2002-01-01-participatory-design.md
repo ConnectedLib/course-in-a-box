@@ -17,7 +17,7 @@ According to the team behind the [VRtality project](https://www.vrtality.org/abo
 - Design takes place without constraints
 - There are no preconceived notions
 
-Within those co-design principles the following elements are critical:
+Within those co-design principles, the following elements are critical:
 - Relationships: centered on trust and power sharing 
 - Flexibility and agility: centered on scaffolding learning, risk taking and failure
 - Teamwork: centered on embracing different perspectives and varying levels of expertise
