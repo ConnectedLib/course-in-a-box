@@ -9,7 +9,7 @@ Gotham Public Library is a large system with 17 branches scattered across the de
 
 ### Leveraging Gotham’s Strengths to Overcome Challenges
 
-Teen library staff across the system have knowledge of connected learning yet feel siloed from other departments in the library and think that if they had better connections they could leverage those in support of bringing in mentors and coaches to teen services - either staff members or those in the community who non-teen staff have connections and relationships with.   Teen staff also recognize if they are able to build relationships with staff in other departments in the system there will be more capacity to design and implement teen services with impact.
+Teen library staff across the system have knowledge of connected learning yet feel siloed from other departments in the library and think that if they had better connections they could leverage those in support of bringing in mentors and coaches to teen services - either staff members or those in the community with whom non-teen staff have connections and relationships.   Teen staff also recognize if they are able to build relationships with staff in other departments in the system there will be more capacity to design and implement teen services with impact.
 
  
 ## Mid-Sized Suburban Library: Sunnydale Library
@@ -18,7 +18,7 @@ Teen library staff across the system have knowledge of connected learning yet fe
 
 The Sunnydale Library is located in a sprawling suburban area. It is a midsize library with a main library and one branch. The main branch has a meeting room for programs and meetings, two study rooms, and open seating areas across the building. There are 38 computers in the main library in various areas of the building including in the children’s area, the teen area, and in adult reading, studying, and browsing areas. Staff is knowledgeable about the community and the library’s services. Their community partnerships are strong and staff members are a part of committees and planning groups as well as work with partners to design services for the community. One partner supports the library’s technology needs through funding various technology purchases. Staff includes two full-time adult services librarians, a full-time children’s librarian, and a full time teen librarian. Each department also has part-time support staff. There are also volunteers who work with the library staff on various projects.
 
-### Leveraging Smallville’s Strengths to Overcome Challenges
+### Leveraging Sunnydale’s Strengths to Overcome Challenges
 
 Several of Smallville Library’s  branches are in communities and neighborhoods that don’t have out-of-school-time space for teens in the area.  Library staff who already have strong connections with community stakeholders, realize there is opportunity to bring together their community connections and consider how to leverage the library’s meeting and study spaces to reach mutual goals.  Library staff therefore work to discover how various stakeholders with connections to teens and their families can bring their expertise to library spaces as mentors and coaches and/or service designers and providers.
 

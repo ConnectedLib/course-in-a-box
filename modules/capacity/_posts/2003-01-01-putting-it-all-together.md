@@ -3,13 +3,13 @@ title: Putting it All Together
 tags: ['sectionHead']
 ---
 
-So far, we’ve gone over the different aspects of your library’s capacity and how to assess its different capacity areas: relationships, material resources, space, and staffing. The next step is to combine this information with an assessment of community strengths and needs. Here are some of the questions for you to answer:
+So far, we’ve gone over the different aspects of your library’s capacity and how to assess its different capacity areas: partnerships, material resources, space, and staffing. The next step is to combine this information with an assessment of community strengths and needs. Here are some of the questions for you to answer:
 
 * Where do your needs and capacity challenges overlap with your community assets? 
 * How is your library already addressing these needs?
 * How can you use the strengths of your community to address the needs your capacity does not already cover?
 
-Your community can provide unique strengths to your library’s capacity to implement programs and provide outreach. Just as the many aspects of capacity are interconnected (partnerships, technology, space…), so too are the strengths and needs of your community with your unique capacity. Now that you know the unique capacity of your library, you can begin using the strengths of your community to help your library reach its full potential.
+Your community can provide unique strengths to support your library’s capacity to implement programs and provide outreach. Just as the many aspects of capacity are interconnected (partnerships, technology, space…), so too are the strengths and needs of your community with your library’s unique capacity. Now that you have better insight into the unique capacity of your library, you can begin using the strengths of your community to help your library reach its full potential.
 
 <div class="callout activity" markdown="1">
     
@@ -29,4 +29,11 @@ Now it's time to make connections between your library's assets and needs and yo
 		<td></td>
 	</tr>
 </table>
+</div>
+
+<div class=“callout activity” markdown=“1”>
+	
+### [Back to Worksheet #1: Capacity K-W-L](https://docs.google.com/document/d/14FRMg54QQpWBZymkAtbECpGbtRVI5dwk5CGuuUiXASc/edit?usp=sharing){:target=“_blank”}
+
+It’s time to revisit Worksheet #1, the Capacity K-W-L, and complete the “L” column. What have you _learned_ during this module? Did you learn everything from your “Want to Know” column?
 </div>
