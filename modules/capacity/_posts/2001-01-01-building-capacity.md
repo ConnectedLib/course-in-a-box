@@ -38,10 +38,20 @@ In 2011, John Kania and Mark Kramer wrote about collective impact in the Stanfor
 * **Continuous communication:** In collective impact work, partners in the work regularly communicate with each other about ideas, activities, needs, assets, data, and so on.
 * **Backbone support organization:** One organization in a collective impact situation keeps all of the pieces in place including data management, communication, activities, etc.
 
+
+<div class=“callout videos” markdown=“1”>
+<iframe src=“https://www.youtube.com/embed/8CT41uUw8Fc” frameborder=“0” allow=“autoplay; encrypted-media” allowfullscreen></iframe>
+<div class=“videotime”>2:02</div></div>
+
 ### Targeted Universalism
 
 Like collective impact, targeted universalism is centered on the idea that community stakeholders and organizations often work towards the same or similar goals, but do so in isolation.  Targeted universalism looks at that framing with the lens that in each community reaching mutual goals requires looking deeply at different community neighborhoods and groups and working collectively to design solutions that are targeted specifically at the specific assets and needs of the groups or neighborhoods. For example, consider the different areas of your town or city.  Are people in all areas of that town or city exactly the same. Do they all have access to the same resources?  Most likely your answers are that they are not the same and they do not have access to the same resources.  
 
-With that in mind, it’s important for the library, working with other community organizations and stakeholders to take a targeted approach to working with the whole community on connected learning services. For one group you may decide to focus on virtual connected learning because of transportation challenges that the group faces. For another group you may determine that going to the 4H near where that group lives and goes to school is the best way to support their connected learning needs.   In this way your connected learning services are specifically targeted to the audience you are working towards reaching and in this way your connected learning services are equitable for that group.
+<div class=“callout videos” markdown=“1”>
+<iframe src=“https://www.youtube.com/embed/a0At2xbQB7w” frameborder=“0” allow=“autoplay; encrypted-media” allowfullscreen></iframe>
+<div class=“videotime”>3:38</div></div>
+
+
+With that in mind, it’s important for the library, working with other community organizations and stakeholders to take a targeted approach to working with the whole community on connected learning services. For one group you may decide to focus on virtual connected learning because of transportation challenges that the group faces. For another group you may determine that going to the 4H near where that group lives and goes to school is the best way to support their connected learning needs.   In this way your connected learning services are specifically targeted to the audience you are working towards reaching and in this way your connected learning services are equitable for that group. Learn more about targeted universalism at the Beckley [Othering & Belonging Institute’s excellent website](https://belonging.berkeley.edu/targeted-universalism) on the topic.
 
 While building collective impact and/or targeted universalism centered connected learning services may seem to take away from your library’s capacity, once you begin to work with others using a collective impact or targeted universalism approach you will find that capacity is not lessened, it’s built as you can work with and rely on others to help design and implement connected learning services for youth and families. 
