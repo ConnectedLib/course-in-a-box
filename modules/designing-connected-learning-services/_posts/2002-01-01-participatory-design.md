@@ -3,25 +3,23 @@ title: Participatory Design
 tags: ['sectionHead']
 ---
 
-Once you have your logic model outcomes and resources in place - which you have determined with teens and community stakeholders - it can be beneficial to use a participatory design process to determine activities and outputs.  In this section of the module we’ll provide an overview of participatory design and ideas on how you can get started integrating the technique into your connected learning work. The terms participatory design and co-design are often used interchangeably.
-
-Participatory design (also called co-design) brings people together in a similar way as design thinking but is not as structured in terms of steps one cycles through.  Through participatory design, co-designers learn together and work towards solutions to a common design goal.
+Once you have your logic model outcomes and resources in place - which you have determined community stakeholders, including teens - it can be beneficial to use a participatory design process to determine activities and outputs.  In this section of the module we’ll provide an overview of participatory design and ideas on how you can get started integrating the technique into your connected learning work. The terms participatory design and co-design are often used interchangeably. Through participatory design, co-designers learn together and work towards solutions to a common design goal.
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/CyT3xDRunRM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">1:38</div></div>
 
-According to the team behind the [VRtality project](https://www.vrtality.org/about/our-philosophy/){:target="_blank"} (see below), the overarching principles of participatory design are:
+The overarching principles of participatory design are<sup>1</sup>:
 - All co-designers are equal partners
 - Every opinion is valid and of equal importance
 - Design takes place without constraints
 - There are no preconceived notions
 
 Within those co-design principles, the following elements are critical:
-- Relationships: centered on trust and power sharing 
-- Flexibility and agility: centered on scaffolding learning, risk taking and failure
-- Teamwork: centered on embracing different perspectives and varying levels of expertise
-- Openness to learning: centered on co-learning, new ideas, and not being an expert
+- **Relationships**: centered on trust and power sharing 
+- **Flexibility and agility**: centered on scaffolding learning, risk taking and failure
+- **Teamwork**: centered on embracing different perspectives and varying levels of expertise
+- **Openness to learning**: centered on co-learning, new ideas, and not being an expert
 
 We are using participatory design in this module as it is a highly customizable approach for learning with and from community members - including teens - and building programs and services based on that learning.
 
@@ -29,11 +27,14 @@ We are using participatory design in this module as it is a highly customizable 
 <iframe src="https://www.youtube.com/embed/V0ZvpXgPWPs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">28:46</div></div>
 
-## Design Thinking
-“Design thinking” is a mindset: It is a way of approaching challenges and problems like a designer. You don’t have to be a designer to use creative tools and find solutions! As a youth librarian, you can use design thinking within activities as a tool for learning, or you can use design thinking methods for solving your own challenges or to create new initiatives for your library. Design thinking can be another skill set you can bring to the table with what you already do–being actively engaged with youth in your community.
 
-The elements of design thinking are described in different ways, but they can be summed up as imagination (understanding the people who may use your new design or experience), ideation (refining your ideas), and iteration (testing and improving your ideas). [IdeoU](https://www.ideou.com/blogs/inspiration/what-is-design-thinking){:target="_blank"} lists the steps as framing a question, gathering inspiration, generating ideas, making ideas tangible, testing to learn, and sharing the story, while the [MIT Sloan School of Management](https://mitsloan.mit.edu/ideas-made-to-matter/design-thinking-explained){:target="_blank"} lists them as understanding the problem, developing possible solutions, prototyping, testing, and refining, and implementing. 
 
-However you choose to conceptualize the specific steps in your design process, the gist of design thinking is that a good design doesn't happen unless the designer is able to put themselves in the shoes of the people you are designing for, and willing to put their ideas to the test and respond to feedback.
+<details>
+	<summary>References</summary>
+	<ul>
+		<li>1. [VRtality project](https://www.vrtality.org/about/our-philosophy/){:target="_blank"}</li>
+	</ul>
+</details>
 
+According to the team behind the  (see below), 
 
