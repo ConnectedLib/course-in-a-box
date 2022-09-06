@@ -3,7 +3,26 @@ title: Facilitating Participatory Design
 ---
 
 
-It’s always a good idea to work with at least one other person as you move through the participatory design process.  This includes working on the design goal and planning and facilitating the participatory design sessions. Working with others helps to better plan and debrief sessions as well as gain understanding of the learning that takes place during sessions. Use the [participatory design session template](https://docs.google.com/document/d/1YAb1uXwSoK8qw6uOts8wmM4BIYRPEoYPIoDw-YpPf7c/edit){:target="_blank"} designed by Beth Bonsignore, Linda Braun, and Mega Subramaniam to help guide you.
+It’s always a good idea to work with at least one other person as you move through the participatory design process.  This includes working on the design goal and planning and facilitating the participatory design sessions. Working with others helps to better plan and debrief sessions as well as gain understanding of the learning that takes place during sessions. 
+
+<div class="callout activity" markdown="1">
+    
+### [Worksheet #6: Participatory Design Session Planning Template](https://docs.google.com/document/d/1rK1CFq_WpT5k4oH4-jMYW4kXdKrzJfS_RlVND8S1Y6E/edit#heading=h.nak6vkeg1hyb){:target="_blank"}
+
+Use this template to plan a participatory design session, completing the following sections: 
+* Design goal statement
+* Length of session
+* Preparation/materials needed
+* Session introduction
+* Question of the day
+* Design task description
+* Design activity
+* Presentations/sharing back
+* Design task themes ("Big Ideas")
+
+
+</div>
+
 
 ## Participatory Design Tips
 
@@ -11,6 +30,21 @@ It’s always a good idea to work with at least one other person as you move thr
 - Remember that a key component of participatory design is that you don’t know exactly what you will learn and how activities will actually “go.”  Your planning has to allow for **flexibility and agility**.  While you must have a plan in mind, being able to shift as you see how things are unfolding is essential.
 - **Openness to ambiguity** is essential.  As participatory design is about learning with others so as to be able to develop solutions related to your design goal. You won’t know what you will learn and/or come up with until the process is complete.
 - **Debriefing** participatory design sessions is also essential. You and the others you are working with need to spend time talking about how the session went, what you learned, and how the session informs what you will do next.
+
+
+<div class="callout activity" markdown="1">
+    
+### [Worksheet #7: Design Session Debriefing](https://docs.google.com/document/d/1rK1CFq_WpT5k4oH4-jMYW4kXdKrzJfS_RlVND8S1Y6E/edit#heading=h.lxawoj96jpta){:target="_blank"}
+
+After your design session, hold a debriefing session with your co-facilitator(s). Discuss the following questions. 
+* What went well? 
+* What was difficult? 
+* How did the session help you to understand what might be put in place to reach your outcome?
+* What would you like to do next in a participatory design session? 
+* What changes need to be made to your logic model/theory of change? 
+
+</div>
+
 
 
 You can read more about participatory design and techniques in the article [Designing the Library of the Future for and with Teens: Librarians as the “Connector” in Connected Learning](https://www.yalsa.ala.org/jrlya/2016/06/designing-the-library-of-the-future-for-and-with-teens-librarians-as-the-connector-in-connected-learning/){:target="_blank"} and via the Google Doc, [Implementing Participatory Design: A Few Resources](https://docs.google.com/document/d/1wzohRl2wQ8S6mt2tUjgUmoK7jXBCyD9Xzg4atKMkGFk/edit){:target="_blank"}.
