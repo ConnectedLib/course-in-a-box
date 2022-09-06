@@ -21,4 +21,3 @@ Repeat the process until you have the information you need to build a program or
 It’s time to revisit Worksheet #1, the Designing Connected Learning Services K-W-L, and complete the “L” column. What have you _learned_ during this module? Did you learn everything from your “Want to Know” column?
 </div>
 
-</div>
