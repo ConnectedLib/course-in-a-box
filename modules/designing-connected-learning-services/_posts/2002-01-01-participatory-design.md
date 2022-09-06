@@ -32,9 +32,6 @@ We are using participatory design in this module as it is a highly customizable 
 <details>
 	<summary>References</summary>
 	<ul>
-		<li>1. [VRtality project](https://www.vrtality.org/about/our-philosophy/){:target="_blank"}</li>
+		<li>1. <a href="https://www.vrtality.org/about/our-philosophy/">VRtality.org</a></li>
 	</ul>
 </details>
-
-According to the team behind the  (see below), 
-
