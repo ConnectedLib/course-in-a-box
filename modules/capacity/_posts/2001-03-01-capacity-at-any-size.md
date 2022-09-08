@@ -47,7 +47,7 @@ Consider the following groups of people. Which categories of people could potent
 **People:**
 - Community Organizations
 - Community Stakeholders
-- Library Staff<
+- Library Staff
 - Volunteers
 
 **Areas of Need:**
