@@ -41,29 +41,21 @@ The one full-time library director and the cadre of volunteers are all well tied
     
 ### [Worksheet #3: Capacity-building resources](https://docs.google.com/document/d/14FRMg54QQpWBZymkAtbECpGbtRVI5dwk5CGuuUiXASc/edit#heading=h.klpduap5218u){:target="_blank"}
 
-Look at the categories of people on the left, and the categories of potential capacity needs on the right. Which categories of people could potentially contribute to which areas of capacity needs? Draw an arrow from each people category to the relevant capacity category(ies) to show the potential connections. 
 
-<table>
-	<tr>
-		<th>People</th>
-		<th>Areas of Need</th>
-	</tr>
-	<tr>
-		<td>
-			<p>Community Organizations</p>
-			<p>Community Stakeholders</p>
-			<p>Library Staff</p>
-			<p>Volunteers</p>
-		</td>
-		<td>
-			<p>Expertise/Skill</p>
-			<p>Relationships</p>
-			<p>Passion/Interest</p>
-			<p>Space</p>
-			<p>Funding</p>
-		</td>
-	</tr>
-</table>
+Consider the following groups of people. Which categories of people could potentially contribute to which areas of capacity needs, and how? 
+
+**People:**
+- Community Organizations
+- Community Stakeholders
+- Library Staff<
+- Volunteers
+
+**Areas of Need:**
+- Expertise/Skill
+- Relationships
+- Passion/Interest
+- Space
+- Funding
 
 <details>
 	<summary>Answers</summary>
