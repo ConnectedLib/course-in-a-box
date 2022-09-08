@@ -21,13 +21,19 @@ Talk to your stakeholders as you develop outcomes. They should all agree that th
 
 ## Connected Learning Outcomes
 
-In this section, we will look at different kinds of outcomes you might consider for your program. YALSA has identified six categories of outcomes for its “Teens First” approach to programming: community, creativity, digital citizenship, leadership, learning, and literacies. (For a list of sample outcomes for each category, see [Teens First: Basic Learning Outcomes](http://www.ala.org/yalsa/sites/ala.org.yalsa/files/content/Teens%20First_%20Basic%20Learning%20Outcomes%20Guide.pdf){:target="_blank"}
 
+In this section, you have the chance to consider outcomes you may work towards as a part of your connected learning initiative.
+
+YALSA identified six categories of outcomes as a part of the “Teens First” library services focus. The categories are: community, creativity, digital citizenship, leadership, learning, and literacies. (For a full overview of  these outcomes check out [Teens First: Basic Learning Outcomes](http://www.ala.org/yalsa/sites/ala.org.yalsa/files/content/Teens%20First_%20Basic%20Learning%20Outcomes%20Guide.pdf){:target="_blank"}.)
+
+Get started learning about the outcomes in YALSA’s publication by reading the information below.  As you read, keep in mind that in your library’s connected learning services the outcomes you work towards will intersect. It is likely that multiple categories of outcomes will be a part of any program or service you initiate.
 
 
 <div class="colorhighlight color1" markdown="1">
 
-**Community**-focused outcomes center around the teen engaging, connecting, and building relationships with their peers and with their broader community. So-called “soft skills” like collaboration and communication are critical for 21st century workplaces and will improve teens’ lives in general. Some of these skills can be developed by teens “just” hanging out at the library.
+### Community
+
+Community-focused outcomes center around teens engaging, connecting, and building relationships with their peers and with the broader community.   These skills are developed through activities that range from hanging out in the library and other locations throughout the community, to activities that require collaboration, critical thinking, discussion, and so on.
 
 </div>
 
@@ -40,69 +46,28 @@ In this section, we will look at different kinds of outcomes you might consider 
 
 <div class="colorhighlight color3" markdown="1">
 
-**Digital citizenship** means that teens are able to use technology responsibly, ethically, and safely.
+### Creativity
+
+Outcomes in the creativity category are a result of teens learning how to express themselves, innovate, and solve problems.  This creativity often is the result of teens spending time in welcoming and interest-driven environments.  Teen creativity shines through when teens are given the chance to be themselves, try things out, take risks, and make mistakes.
 
 </div>
 
 <div class="colorhighlight color1" markdown="1">
 
-An important part of connected learning is building the capacity for **learning** more in the future. Learning outcomes focus on building the skills needed to successfully pursue learning independently.
+### Leadership
+
+When teens build leadership skills they demonstrate self-confidence while at the same time listening to and respecting others.  Leadership is also seen in teen ability to persevere during challenging times and their ability to mentor others.  Connected learning centered activities that give teens the chance to gain and demonstrate confidence as well as assist others involved in the activity help to build leadership skills.  
 
 </div>
 
 <div class="colorhighlight color2" markdown="1">
 
-**Literacy** outcomes result in teens having the ability to use various media, tools, and platforms to create content and express themselves.
+### Learning
+
+An important part of connected learning is building teen capacity for ongoing learning. Outcomes in the learning category focus on areas such as demonstrating curiosity and a desire to keep learning; reflecting on learning so to understand what areas might be good for continued engagement; building social emotional skills in areas such as decision making, self-awareness, and self-management; and considering future learning needs related to life after high school.  
 
 </div>
 
-## More Outcome Categories
-
-In addition to these categories of outcomes identified by YALSA, we found a few more themes in our interviews with library staff.
-
-<div class="colorhighlight color3" markdown="1">
-
-### 21st century skills
-“21st century skills” is a broad term that describes a set of interrelated, transferable literacies and competencies that youth must develop “to succeed in college, career and life.” The National Research Council groups these skills into three major “domains of competence”: cognitive (including critical thinking, problem solving, and creativity), intrapersonal (involving self-regulation, conscientiousness, and intellectual openness), and interpersonal (involving communicating and working with others).
-
-</div>
-
-<div class="colorhighlight color1" markdown="1">
-
-### Academic enhancement
-
-Although connected learning is, by definition, not limited to the classroom, it can enhance knowledge of traditional academic subjects like math, science, history, and the arts. Library programming can help deepen students’ engagement with these topics or provide a new perspective.
-
-</div>
-
-<div class="colorhighlight color2" markdown="1">
-
-### Compassion and security
-
-Libraries can provide some amount of physical and emotional security for vulnerable teens, as well as food security. Simply having a welcoming space to turn to can be a huge benefit to many teens who do not feel comfortable in their neighborhood or who don’t have an ideal home life. Several youth librarians described their role as a non-teacher, non-parent adult that teens could turn to to discuss sensitive topics like gender identity and sexual orientation. 
-
-Some libraries partner with local organizations to provide summer lunches or after-school snacks to combat hunger and its related performance and behavioral issues. Connected learning programs that celebrate teens’ interests and culture can help get at-risk teens into the supportive environment of the library.
-
-> “I wouldn’t say that [playing board games at the library] is really achieving much besides they get to socialize in a space where no one’s yelling at them.”<br/><br/>— Young Adult Librarian at an urban northeastern library
-
-</div>
-
-<div class="colorhighlight color3" markdown="1">
-
-### Exploring interests
-Interest-powered learning means creating programs around existing interests, but it can also mean helping teens explore new areas of learning and developing new interests. Adolescence is a time of exploration, and public libraries can provide low-commitment opportunities for teens to “mess around” with new subjects, technologies, and career options. These connections can be made in surprising ways. A teen services librarian from a suburban western library told us about a program involving the dismantling and then remixing of stuffed animals to create new hybrid species. What started as a “just for fun” program became a much deeper learning experience when a veterinarian joined in, demonstrated suturing techniques, and talked to the participants about being a vet, sparking their interest in both human and animal medicine and anatomy.
-
-> “Teens especially encounter a lot of resistance from different areas of public life, and so I’m really dedicated to… wanting teens to feel comfortable enough to really explore and get messy with things and fail in their experiments and then build on that to succeed later.”<br/><br/>— Focus Group Participant
-
-</div>
-
-<div class="colorhighlight color1" markdown="1">
-
-### Career readiness
-
-Connected learning programs, being opportunity oriented, can help learners build technical skills that employers are looking for. Volunteer and intern programs give teens something to put on their resume before entering the post-high school job market, and demonstrate that they have the interpersonal skills needed to be productive employees. Librarians and mentors can help teens turn their creative output into digital portfolios, or learn how to translate their activities into skills on their resumes.
-
-</div>
 
 
 <div class="callout activity" markdown="1">
