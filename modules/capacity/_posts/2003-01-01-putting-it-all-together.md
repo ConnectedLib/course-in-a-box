@@ -31,10 +31,9 @@ Now it's time to make connections between your library's assets and needs and yo
 </table>
 </div>
 
-<div class=“callout activity” markdown=“1”>
-	
+<div class="callout activity" markdown=“1”>
+
 ### [Back to Worksheet #1: Capacity K-W-L](https://docs.google.com/document/d/14FRMg54QQpWBZymkAtbECpGbtRVI5dwk5CGuuUiXASc/edit?usp=sharing){:target=“_blank”}
 
 It’s time to revisit Worksheet #1, the Capacity K-W-L, and complete the “L” column. What have you _learned_ during this module? Did you learn everything from your “Want to Know” column?
-
 </div>
