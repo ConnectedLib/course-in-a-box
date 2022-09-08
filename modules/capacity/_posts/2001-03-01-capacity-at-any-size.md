@@ -2,6 +2,8 @@
 title: Capacity at any size
 ---
 
+Libraries big and small, urban and rural, can use the principles in this module to enhance their capacity to serve their communities. Let's look at three fictional examples of a large urban library, a mid-sized suburban library, and a small rural library all leveraging their community assets to build capacity. 
+
 ## Large, Urban Library: Gotham City Public Library
 <img src="{{ site.baseurl }}/img/capacity/big_city_med.png"  ALT="Big City"/>
 
