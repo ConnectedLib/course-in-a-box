@@ -41,7 +41,8 @@ In 2011, John Kania and Mark Kramer wrote about collective impact in the Stanfor
 
 <div class=“callout videos” markdown=“1”>
 <iframe src=“https://www.youtube.com/embed/8CT41uUw8Fc” frameborder=“0” allow=“autoplay; encrypted-media” allowfullscreen></iframe>
-<div class=“videotime”>2:02</div></div>
+<div class=“videotime”>2:02</div>
+</div>
 
 ### Targeted Universalism
 
@@ -49,7 +50,8 @@ Like collective impact, targeted universalism is centered on the idea that commu
 
 <div class=“callout videos” markdown=“1”>
 <iframe src=“https://www.youtube.com/embed/a0At2xbQB7w” frameborder=“0” allow=“autoplay; encrypted-media” allowfullscreen></iframe>
-<div class=“videotime”>3:38</div></div>
+<div class=“videotime”>3:38</div>
+</div>
 
 
 With that in mind, it’s important for the library, working with other community organizations and stakeholders to take a targeted approach to working with the whole community on connected learning services. For one group you may decide to focus on virtual connected learning because of transportation challenges that the group faces. For another group you may determine that going to the 4H near where that group lives and goes to school is the best way to support their connected learning needs.   In this way your connected learning services are specifically targeted to the audience you are working towards reaching and in this way your connected learning services are equitable for that group. Learn more about targeted universalism at the Beckley [Othering & Belonging Institute’s excellent website](https://belonging.berkeley.edu/targeted-universalism) on the topic.
