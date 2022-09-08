@@ -33,10 +33,3 @@ Libraries with few volunteers might have trouble keeping up with the demands on 
 * Provide volunteer rewards. Rewards can be something as simple as a special library tote bag or pin, and can also include awards like “Volunteer of the Month.”
 * Teens who volunteer can be more than just extra hands — make sure their volunteering is a connected learning experience that will help them build community connections and prepare for future opportunities. This will make their volunteer impact more powerful for the library as well!
 
-## Low teen involvement
-What are some ways to increase the turnout of your library’s teens?
-
-* Outreach and more outreach. Visit teens at schools, after school clubs, and the skatepark to get to know them and pass out information about library programs and resources. Consider hosting events at these locations where teens spend their time. 
-* Form a teen advisory council. Knowing what teens want in terms of materials and programs, in their own words, is key to bringing teens into the library.
-* Create a space just for teens. If teens have their own space in the library to collaborate and interact in, they are more likely to feel welcome in the library.
-
