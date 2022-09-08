@@ -39,7 +39,7 @@ In 2011, John Kania and Mark Kramer wrote about collective impact in the Stanfor
 * **Backbone support organization:** One organization in a collective impact situation keeps all of the pieces in place including data management, communication, activities, etc.
 
 
-<div class="callout videos" markdown=“1”>
+<div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/8CT41uUw8Fc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">2:02</div>
 </div>
@@ -48,7 +48,7 @@ In 2011, John Kania and Mark Kramer wrote about collective impact in the Stanfor
 
 Like collective impact, targeted universalism is centered on the idea that community stakeholders and organizations often work towards the same or similar goals, but do so in isolation.  Targeted universalism looks at that framing with the lens that in each community reaching mutual goals requires looking deeply at different community neighborhoods and groups and working collectively to design solutions that are targeted specifically at the specific assets and needs of the groups or neighborhoods. For example, consider the different areas of your town or city.  Are people in all areas of that town or city exactly the same. Do they all have access to the same resources?  Most likely your answers are that they are not the same and they do not have access to the same resources.  
 
-<div class="callout videos" markdown=“1”>
+<div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/a0At2xbQB7w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">3:38</div>
 </div>
