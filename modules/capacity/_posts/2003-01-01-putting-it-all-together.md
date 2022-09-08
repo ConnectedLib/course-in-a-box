@@ -31,7 +31,7 @@ Now it's time to make connections between your library's assets and needs and yo
 </table>
 </div>
 
-<div class="callout activity" markdown=“1”>
+<div class="callout activity" markdown="1">
 
 ### [Back to Worksheet #1: Capacity K-W-L](https://docs.google.com/document/d/14FRMg54QQpWBZymkAtbECpGbtRVI5dwk5CGuuUiXASc/edit?usp=sharing){:target=“_blank”}
 
