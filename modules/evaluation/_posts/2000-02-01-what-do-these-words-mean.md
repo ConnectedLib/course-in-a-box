@@ -6,7 +6,7 @@ title: What do these words mean?
 
 - **Identifying**, where data is collected to help make decisions for new programming
 - **Reflecting**, where data is used to improve ongoing programming (also called _formative evaluation_)
-- **Documenting**, where outcomes are captured to evaluate the overall impact of a program (also called _summative evalution_)
+- **Documenting**, where outcomes are captured to evaluate the overall impact of a program (also called _summative evaluation_)
 
 <img src="{{ site.baseurl }}/img/assessment/program_trajectory.png" ALT="Program trajectory diagram"/><br/>_Source: 
 [Evaluating Library Programming Guide](https://clalliance.org/publications/evaluating-library-programming-a-practical-guide-to-collecting-and-analyzing-data-to-improve-or-evaluate-connected-learning-programs-for-youth-in-libraries/){:target="_blank"}; used with permission._ 
