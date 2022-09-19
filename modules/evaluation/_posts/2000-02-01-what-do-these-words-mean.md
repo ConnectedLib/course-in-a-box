@@ -46,3 +46,10 @@ The end product of your evaluation will be an argument to convince stakeholders 
 ## Test Your Knowledge
 
 <iframe src="https://connectedlib.ischool.uw.edu/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="917" height="378" frameborder="0" allowfullscreen="allowfullscreen" title="Assessment Question or Evaluation Question?"></iframe><script src="https://connectedlib.ischool.uw.edu/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<div class="callout activity" markdown="1">
+    
+### [Worksheet #2: Program Trajectory](https://docs.google.com/document/d/1YO8aWs59kALm48t1D30BvbMkGH0xOCn7xXLlUHAC4EY/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
+Think about the teen services at your library. Where are you (or where could you be) conducting assessments and/or evaluations for identifying, for reflecting, and for documenting? 
+
+</div>

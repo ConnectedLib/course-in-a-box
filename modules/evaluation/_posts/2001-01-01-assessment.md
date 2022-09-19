@@ -14,5 +14,5 @@ When you know the question that needs to be answered, the next step is to decide
 
 ### Outcomes 
 
-Outcomes are the differences your programs make for your library’s youth and for the community—things outside of your program and outside of connected learning that matter. If you are evaluating a program or other connected learning activity, you may have already determined the desired outcomes (see the Designing Connected Learning Services module for more).
+Outcomes are the differences your programs make for your library’s youth and for the community—things outside of your program and outside of connected learning that matter. If you are evaluating a program or other connected learning activity, you may have already determined the desired outcomes (see the [Designing Connected Learning Services](../designing-connected-learning-services) module for more).
 

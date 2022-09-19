@@ -96,3 +96,17 @@ Formal tests of knowledge or skills feel too much like school for a connected le
 
 </div>
 
+
+<div class="callout activity" markdown="1">
+    
+### [Worksheet #3: Design a Talkback Board](https://docs.google.com/document/d/1YO8aWs59kALm48t1D30BvbMkGH0xOCn7xXLlUHAC4EY/edit#heading=h.fsih396c3zvm){:target="_blank"}
+
+Talkback boards can be a quick and easy way to gather data about the people who visit your library. Look through this [Talkback Board Repository](http://connectedlearning.uci.edu/wp-content/uploads/2022/01/Talkback-Board-Repository.pdf){:target="_blank"}
+ from the [Connected Learning Lab](https://connectedlearning.uci.edu/research-tools/tools/talkback-board-repository/){:target="_blank"}, and the [Talkback Board Instructions](https://view.genial.ly/606ca2c3885bd90d805e74dc) from [Impact Libraries](https://impact.ischool.umd.edu){:target="_blank"}. Now, let's design a talkback board that you can put up in your library or teen space in the next few days. 
+
+* What question do you have about your community, your patrons, or programming? Don't start with the question you'll put on the talkback board — start with a bigger question about something you want to know. Example: Are youth building relationships through this program?
+* Will it be easier to answer your with an open-ended prompt (teens write their own responses), a close-ended prompt (teens can place stickers underneath the answer they choose), or a mix of both? Your answer will not only guide the way you write the prompt, but what supplies you have on hand for participants (e.g., markers for writing or just stickers for selecting an answer). 
+* Now, word the prompt (either as an open-ended or close-ended question) in a way that is engaging and will elicit the responses you need. 
+* Create the talkback board, and present it to your visitors. You'll analyze the data in the next worksheet!
+
+</div>
