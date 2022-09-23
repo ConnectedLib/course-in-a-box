@@ -23,8 +23,7 @@ All evaluations answer the same three fundamental questions, according to the [C
 - **DO** use stakeholder input to _inform_ the evaluation design, not determine it
 
 - **DON'T** ask questions that are too broad or aspirational	
-- **DO ask questions that can be answered realistically
-evaluation question examples
+- **DO** ask questions that can be answered realistically
 
 
 ## Types of evaluations

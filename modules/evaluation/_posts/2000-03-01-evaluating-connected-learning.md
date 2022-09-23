@@ -4,7 +4,7 @@ title: Evaluating connected learning
 
 > “You don’t need a lot of technical expertise to do this. You just need the discipline of thinking first about what the outcome is, what young people might say or do that would give you some indicator, and think hard about the situations that would elicit those things that a student might say or do.”<br/><br/>— Dr. William Penuel (University of Colorado at Boulder) in [Developing Outcome Measures Tailored to a Program](https://youtu.be/oifGIJq7D94)
 
-Evaluation and assessment are important to all library activities, but it can be particularly challenging to assess and evaluate connected learning initiatives. Some of the approaches used for measuring learning in a traditional classroom can be difficult or impossible to apply in connected learning settings. For example,
+Evaluation and assessment are important to all library activities, but it can be particularly challenging to assess and evaluate connected learning initiatives. Some of the approaches used for measuring learning in a traditional classroom can be difficult or impossible to apply to connected learning, especially in informal learning settings. For example,
 
 - Without mandatory assessments that are possible in formal learning settings, collecting information about individual learners can be more difficult
 - While teachers can assess a student throughout a school year, conducting repeated assessments of the same individuals over a period of time (called a “longitudinal” assessment) can be virtually impossible

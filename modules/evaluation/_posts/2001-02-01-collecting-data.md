@@ -3,7 +3,7 @@ title: Collecting data
 ---
 
 ## Data collection
-You need to collect data on your measure (or measures) in order to answer your question. Data collection can be resource-intensive, so choose your data sources and collection strategy wisely. Ask the following questions (adapted from page 53 of the [CAISE Principal Investigator’s Guide](http://www.informalscience.org/evaluation/pi-guide){:target="_blank"}) to guide you through the process:
+You need to collect data on your indicator (or indicators) in order to answer your question. Data collection can be resource-intensive, so choose your data sources and collection strategy wisely. Ask the following questions (adapted from page 53 of the [CAISE Principal Investigator’s Guide](http://www.informalscience.org/evaluation/pi-guide){:target="_blank"}) to guide you through the process:
 
 - What kind of information do you need? Do you need to know about opinions or attitudes? Knowledge levels? Details about implementation?
 - What is the best method to obtain that information? You have many choices for data collection—surveys, focus groups, interviews, and more.
@@ -15,7 +15,7 @@ To put it simply, quantitative data means numbers, and qualitative data means an
 ### Data collection instruments
 An instrument is a tool you use in the collection process—for example, a survey, interview guide, or observation record. You can find examples of instruments for informal learning in the Additional Resources for this section. However, connected learning programs are often unique, with one-of-a-kind elements that may need one-of-a-kind assessments. You may wish to modify someone else’s instrument to fit your own assessment needs, or even create one that is entirely original.
 
-### Testing the process
+### Pilot-testing the process
 Before diving headlong into data collection, test the entire process. For a small and simple assessment, this could simply be asking a co-worker to review your plan. A larger effort should be tested more thoroughly, ideally with a sample that resembles who or what you will be assessing. A large survey, for example, would benefit from being tested with a handful of teens first. As you conduct your tests, consider the following questions:
 
 - Does the instrument you are using give you the kind of data you need to answer your question? Do you need to make changes to wording, format, time or place?
@@ -59,7 +59,7 @@ Along with on-demand surveys and questionnaires, you can collect passive feedbac
 - Responses may come only from people with extreme or passionate opinions—not from people “in the middle”
 
 <div class="callout videos" markdown="1">
-<iframe src="https://www.youtube.com/embed/https://youtu.be/tSDP7LbGHAY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/tSDP7LbGHAY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">10:03</div></div>
 
 </div>
@@ -105,7 +105,7 @@ Talkback boards can be a quick and easy way to gather data about the people who 
  from the [Connected Learning Lab](https://connectedlearning.uci.edu/research-tools/tools/talkback-board-repository/){:target="_blank"}, and the [Talkback Board Instructions](https://view.genial.ly/606ca2c3885bd90d805e74dc) from [Impact Libraries](https://impact.ischool.umd.edu){:target="_blank"}. Now, let's design a talkback board that you can put up in your library or teen space in the next few days. 
 
 * What question do you have about your community, your patrons, or programming? Don't start with the question you'll put on the talkback board — start with a bigger question about something you want to know. Example: Are youth building relationships through this program?
-* Will it be easier to answer your with an open-ended prompt (teens write their own responses), a close-ended prompt (teens can place stickers underneath the answer they choose), or a mix of both? Your answer will not only guide the way you write the prompt, but what supplies you have on hand for participants (e.g., markers for writing or just stickers for selecting an answer). 
+* Will it be easier to answer your question with an open-ended prompt (teens write their own responses), a close-ended prompt (teens can place stickers underneath the answer they choose), or a mix of both? Your answer will not only guide the way you write the prompt, but what supplies you have on hand for participants (e.g., markers for writing or just stickers for selecting an answer). 
 * Now, word the prompt (either as an open-ended or close-ended question) in a way that is engaging and will elicit the responses you need. 
 * Create the talkback board, and present it to your visitors. You'll analyze the data in the next worksheet!
 

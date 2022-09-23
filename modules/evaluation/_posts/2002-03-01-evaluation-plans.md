@@ -6,7 +6,7 @@ An evaluation plan is a roadmap for the activities and assessments you will cond
 
 ## Overview and Background Information
 
-If you will be sharing it with people who aren’t deeply familiar with the project, introduce the project and the reason for the evaluation. After reading these sections, your readers should have a general sense of what is being evaluated and why.
+If you will be sharing your evaluation plan with people who aren’t deeply familiar with the project, introduce the project and the reason for the evaluation. After reading these sections, your readers should have a general sense of what is being evaluated and why.
 
 - Executive summary. An abstract of the entire report. This may be the only section that some of your stakeholders read, so capture the “gist” of the evaluation clearly and succinctly. You can also write different summaries for different stakeholders.
 - Project (or program, initiative, etc.) description. Include a high-level overview, then go into detail about the elements or activities that make it up. Include any history or context that might be helpful.
