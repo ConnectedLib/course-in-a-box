@@ -17,9 +17,8 @@ In the simplest terms, **quantitative data** means **numbers**. Traditional libr
 
 An assessment can collect both qualitative and quantitative data. For instance, a survey can have quantitative and qualitative questions, and an and an observation may involve both counting the number of times something happens (quantitative) and listening to someone’s comments (qualitative). You can also quantitatively analyze qualitative data (see the next section on [analyzing data](analyzing-data)).
 
-
 ### Data collection tools
-The data collection process usually involves tools (also called instruments) — for example, surveys, interview guides, or observation records. If possible, it can be helpful to reuse a tool that someone else has already created (you can find examples in the Module Resources). However, connected learning programs are often unique, with one-of-a-kind elements that may need one-of-a-kind assessments. You can modify someone else’s tool to fit your own assessment needs, or even create one that is entirely original.
+The data collection process usually involves tools (also called instruments) — for example, surveys, interview guides, or observation records — that directly capture the **indicators** that will tell you if you've achieved your desired **outcomes**. If possible, it can be helpful to reuse a tool that someone else has already created (you can find examples in the Module Resources). However, connected learning programs are often unique, with one-of-a-kind elements that may need one-of-a-kind assessments. You can modify someone else’s tool to fit your own assessment needs, or even create one that is entirely original.
 
 ### Pilot-testing the process
 Before diving headlong into data collection, test the entire process. For a small and simple assessment, this could simply be asking a co-worker to review your plan. A larger effort should be tested more thoroughly, ideally with a sample that resembles who or what you will be assessing. A large survey, for example, would benefit from being tried out with a handful of teens first. As you conduct your pilot tests, consider the following questions:
@@ -55,7 +54,7 @@ You can gain a great deal of insight from the items learners create through your
 
 ### Passive feedback
 
-Along with on-demand surveys and questionnaires, you can collect passive feedback through methods such as comment cards or “talkback boards”. 
+Collecting data through _active feedback_ means that you, the researcher, take action to get data from particpants — such as making observations, holding focus groups, or asking for feedback after a program. _Passive feedback_ means that the data collection happens in the background, without direct interaction from the researcher — you can think of it as "always-on" data collection.<sup>1</sup> Along with on-demand surveys and questionnaires, you can collect passive feedback through methods such as comment cards or “talkback boards”. 
 
 **Good for:**
 - Collecting data unobtrusively
@@ -115,3 +114,9 @@ Talkback boards can be a quick and easy way to gather data about the people who 
 * Create the talkback board, and present it to your visitors. You'll analyze the data in the next worksheet!
 
 </div>
+
+<details>
+    <summary>Footnotes</summary>
+    1. Pendo, 2021. <a href="https://www.pendo.io/pendo-blog/the-difference-between-active-and-passive-customer-feedback-and-why-you-need-both/">The Difference Between Active and Passive Customer Feedback and Why You Need Both</a>.
+
+</details>
