@@ -11,7 +11,7 @@ Much of the time, your information needs can be met with one or two assessments.
 - Who are you doing it for?
 - How do you want the findings to be used?
 
-The **utilization-focused** approach to evaluation maintains that an evaluation is only as good as it is useful. Design your evaluation in a way that will maximize its usefulness to its intended audience—whether that is your manager, a partner, or yourself. Learn more at [BetterEvaluation.org](http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation){:target="_blank"}.
+The **utilization-focused** approach to evaluation maintains that an evaluation is only as good as it is useful. Design your evaluation in a way that will maximize its usefulness to its intended audience—whether that is your manager, a funder, a partner, or yourself. Learn more at [BetterEvaluation.org](http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation){:target="_blank"}.
 
 ## Stakeholders
 
@@ -21,7 +21,7 @@ An evaluation can have several stakeholders. After yourself, the most prominent 
 - Any partners who worked with you
 - Participants in the program, as well as their parents.
 - Other community members who are impacted by the initiative.
-- People who may want to participate in the future.
+- People who may want to participate in the future -- or who you want to participate in the future.
 
 Your stakeholders should be involved in the evaluation process—defining values, identifying essential measures, and collecting or providing data. They may have different perspectives on what the outcomes should be and ways to measure them. You may not be able to speak to every individual stakeholder, but try to get input from representatives of each group, at least. However, don’t fall into the trap of thinking you have to follow every recommendation from every group — as the saying goes, if you try to please everyone, you end up pleasing no one. The purpose of an evaluation is to inform a decision, not dictate the path forward.
 

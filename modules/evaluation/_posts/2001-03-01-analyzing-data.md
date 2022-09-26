@@ -6,7 +6,7 @@ Once you have collected data, you must somehow transform it into evidence that y
 
 ## Qualitative analysis
 
-Given the variety of methods and goals for assessing a connected learning initiative, not to mention the variation in connected learning programs in general, the exact process you follow to analyze your qualitative data will also vary. However, you will probably be following the following three steps: 
+Given the variety of methods and goals for assessing a connected learning initiative, not to mention the variation in connected learning programs in general, the exact process you follow to analyze your qualitative data will also vary. However, you will probably be following these general steps: 
 
 
 * **Read through the data** several times until you are thoroughly familiar with the content. 
