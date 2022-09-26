@@ -2,7 +2,9 @@
 title: What do these words mean? 
 ---
 
-**Assessments** and **evaluations** can help you answer questions about your library’s services, your community, and your youth. What kind of questions? Well, according to the [Evaluating Library Programming Guide](https://clalliance.org/publications/evaluating-library-programming-a-practical-guide-to-collecting-and-analyzing-data-to-improve-or-evaluate-connected-learning-programs-for-youth-in-libraries/){:target="_blank"}, data collection and analysis relating to a library program can occur in three different stages. Each stage serves a different purpose, and may require different collection and analysis techniques:
+**Assessments** and **evaluations** can help you answer questions about your library’s services, your community, and your youth. Although the terms “evaluation” and “assessment” are often used interchangeably in everyday usage, in many fields (such as education and community development) they are distinct concepts. 
+
+According to the [Evaluating Library Programming Guide](https://clalliance.org/publications/evaluating-library-programming-a-practical-guide-to-collecting-and-analyzing-data-to-improve-or-evaluate-connected-learning-programs-for-youth-in-libraries/){:target="_blank"}, data collection and analysis relating to a library program occurs in three different stages. Whether you want to conduct an assessment or a full evaluation depends on what part of the trajectory you are in, what questions you want to answer, and how many resources you want to devote to answering them. 
 
 - **Identifying**, where data is collected to help make decisions for new programming
 - **Reflecting**, where data is used to improve ongoing programming (also called _formative evaluation_)
@@ -11,9 +13,6 @@ title: What do these words mean?
 <img src="{{ site.baseurl }}/img/assessment/program_trajectory.png" ALT="Program trajectory diagram"/><br/>_Source: 
 [Evaluating Library Programming Guide](https://clalliance.org/publications/evaluating-library-programming-a-practical-guide-to-collecting-and-analyzing-data-to-improve-or-evaluate-connected-learning-programs-for-youth-in-libraries/){:target="_blank"}; used with permission._ 
 
-Whether you want to conduct an assessment or a full evaluation depends on what part of the trajectory you are in, what questions you want to answer,  and how many resources you want to devote to answering them. 
-
-Although the terms “evaluation” and “assessment” are often used interchangeably in everyday usage, in many fields (such as education and community development) they are distinct concepts. 
  
 ## Assessment
 
@@ -21,15 +20,10 @@ An assessment is an activity that collects data to use as evidence to answer a q
 
 Assessments can help you answer many different questions, such as:
 - What knowledge or skill does a teen have in a particular area?
-- What was the scale of an initiative’s impact?
-- What benchmarks should we use to help measure progress later?
 - What or how much did a teen learn from the program?
-- How do teens feel about the program?
-- What are participants’ attitudes toward a topic?
-- What was improved or achieved?
+- How do teens feel about a particular topic?
 - How many teens were helped?
 - How quickly were issues resolved?
-- What was the quality of the program implementation?
 
 ## Evaluation
 

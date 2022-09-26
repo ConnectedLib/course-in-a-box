@@ -2,7 +2,7 @@
 title: Evaluation plans
 ---
 
-An evaluation plan is a roadmap for the activities and assessments you will conduct to answer your questions. If your evaluation plan will be used only internally, you may not need every section. If you are working with a partner, make sure you are both onboard with the plan.
+An evaluation plan is a roadmap for the activities and assessments you will conduct to answer your questions. If your evaluation plan will be used only internally, you may not need every section. If you are working with a partner, make sure you are both onboard with the plan. Knowing how you will evaluate the success of your program or service is part of the [Backwards Design process](../designing-connected-learning-services/backwards-design) you can learn about in the [Designing Connected Learning Services module](../designing-connected-learning-services). 
 
 ## Overview and Background Information
 
@@ -11,15 +11,15 @@ If you will be sharing your evaluation plan with people who aren’t deeply fami
 - Executive summary. An abstract of the entire report. This may be the only section that some of your stakeholders read, so capture the “gist” of the evaluation clearly and succinctly. You can also write different summaries for different stakeholders.
 - Project (or program, initiative, etc.) description. Include a high-level overview, then go into detail about the elements or activities that make it up. Include any history or context that might be helpful.
 - Purpose of the evaluation. Describe the general reason you are conducting an evaluation and what you hope to get out of it. A detailed examination of your evaluation questions comes later, so don’t get too granular here.
-- Key stakeholders. Introduce your readers to the key people involved with or affected by your project (see Section X). You can also introduce key project staff here.
+- Key stakeholders. Introduce your readers to the key people involved with or affected by your project. You can also introduce key project staff here.
 
 ## Program Outcomes
 
 These sections explain in greater detail what your program does, and how and why you expect it to achieve what you want.
 
 - Program goals. Introduce the impacts and outcomes you hope your project will have.
-- Theory of change or logic model. This section explains “how and why the program will work”^1 in both narrative and graphic formats. (For more about developing theories of change, see the Connected Learning Programs module.)
-- Activities. Include a list of all the activities that will take place as part of the project being evaluated. You may break them into categories—e.g., activities that staff will complete, activities the partner will complete, and activities the program participants will complete.
+- Theory of change or logic model. This section explains “how and why the program will work”<sup>1</sup> in both narrative and graphic formats. (For more about developing logic models and theories of change, see the [Designing Connected Learning Services module](../designing-connected-learning-services).)
+- Activities. Include a list of all the activities that will take place as part of the project being evaluated. You may break them into categories — e.g., activities that staff will complete, activities the partner will complete, and activities the program participants will complete.
 
 ## About the Evaluation
 
