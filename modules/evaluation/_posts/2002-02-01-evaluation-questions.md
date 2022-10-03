@@ -71,9 +71,9 @@ Don’t start with indicators! Start by determining your desired **outcomes**. I
 
 <details markdown="1">
 	<summary>References</summary>
-	1. [Evaluation Use](http://search.credoreference.com/content/entry/sageeval/evaluation_use/){:target="_blank"}, by Marvin C. Alkin, in the [Encyclopedia of Evaluation](http://search.credoreference.com/content/title/sageeval/){:target="_blank"}.
-	2. [Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects](http://www.informalscience.org/evaluation/pi-guide){:target="_blank"}, by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, p. 13, 16, 61. Center for Advancement of Informal Science Education, 2001.
-	3. The [2010 User-Friendly Handbook for Project Evaluation](http://www.informalscience.org/sites/default/files/TheUserFriendlyGuide.pdf){:target="_blank"}, pp. 8-9, by J. F. Westat. National Science Foundation, 2010.
-	4. [Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects](http://www.informalscience.org/evaluation/pi-guide){:target="_blank"}, by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, p. 51. Center for Advancement of Informal Science Education, 2001.
-	5. [W. K. Kellogg Foundation Evaluation Handbook](https://dmlcommons.net/wp-content/uploads/2015/12/Kellog-2006.pdf){:target="_blank"}, p. 33.
+	1. <a href="http://search.credoreference.com/content/entry/sageeval/evaluation_use/" target="_blank">Evaluation Use</a>, by Marvin C. Alkin, in the <a href="http://search.credoreference.com/content/title/sageeval/)" target="_blank">Encyclopedia of Evaluation</a>.
+	2. <a href="http://www.informalscience.org/evaluation/pi-guide" target="_blank">Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects</a>, by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, p. 13, 16, 61. Center for Advancement of Informal Science Education, 2001.
+	3. The <a href="http://www.informalscience.org/sites/default/files/TheUserFriendlyGuide.pdf" target="_blank">2010 User-Friendly Handbook for Project Evaluation</a>, pp. 8-9, by J. F. Westat. National Science Foundation, 2010.
+	4. <a href="http://www.informalscience.org/evaluation/pi-guide" target="_blank">Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects</a>, by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, p. 51. Center for Advancement of Informal Science Education, 2001.
+	5. <a href="https://dmlcommons.net/wp-content/uploads/2015/12/Kellog-2006.pdf" target="_blank">W. K. Kellogg Foundation Evaluation Handbook</a>, p. 33.
 </details>
