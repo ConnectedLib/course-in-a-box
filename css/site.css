@@ -37,6 +37,7 @@ p, table, td, th, tr {
   font-family:  Merriweather, serif;
   margin-left: 20px !important; 
   line-height:  1.5;
+  margin-bottom:  5px !important;
 }
 
 .content a {
@@ -171,10 +172,6 @@ iframe {
 
 
 /* LISTS */
-
-.content .li {
-  margin-bottom: 5px;
-}
 
 
 /* OBJECTIVES BOX */
