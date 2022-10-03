@@ -30,8 +30,8 @@ The answer to the question should be something one or more of your stakeholder g
 Stakeholders should always be involved in an evaluation, providing context, advice, and feedback about the evaluation. **Participatory evaluation** takes stakeholder participation to the next level and actively involves stakeholders in the process of planning and carrying out the evaluation. To learn more about participatory evaluation, see Chapter 36, Section 2 of the [Community Toolbox: Community-Based Participatory Research](http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main){:target="_blank"}.
 
 ---
-<details markdown="1">
+<details>
 	<summary>References</summary>
 	<p>1: <a href="https://doi.org/10.17226/12614" target="_blank">Surrounded by Science: Learning Science in Informal Environments</a> by Marilyn Fenichel and Heidi A. Schweingruber, p. 111. National Academies Press, 2010.</p>
  	<p>2: <a href="http://www.informalscience.org/evaluation/pi-guide" target="_blank">Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects</a>, by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, pp. 3-4. Center for Advancement of Informal Science Education, 2001.</p>
-</details>
+</summary>

@@ -69,7 +69,7 @@ Don’t start with indicators! Start by determining your desired **outcomes**. I
 
 ---
 
-<details markdown="1">
+<details>
 	<summary>References</summary>
 	<p>1: <a href="http://search.credoreference.com/content/entry/sageeval/evaluation_use/" target="_blank">Evaluation Use</a>, by Marvin C. Alkin, in the <a href="http://search.credoreference.com/content/title/sageeval/)" target="_blank">Encyclopedia of Evaluation</a>.</p>
 	<p>2: <a href="http://www.informalscience.org/evaluation/pi-guide" target="_blank">Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects</a>, by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, p. 13, 16, 61. Center for Advancement of Informal Science Education, 2001.</p>
