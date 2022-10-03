@@ -168,6 +168,15 @@ iframe {
   border:  solid 2px #000;
 }
 
+
+
+/* LISTS */
+
+.content .li {
+  margin-bottom: 5px;
+}
+
+
 /* OBJECTIVES BOX */
 
 
