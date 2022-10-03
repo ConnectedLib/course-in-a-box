@@ -30,7 +30,7 @@ Eli Bennett<sup>1</sup> suggests asking the following questions to help determin
 
 ---
 
-<details markup="1">
+<details markdown="1">
 	<summary>References</summary>
 	1. Eli Bennet, [Outcome Measurement: Outcome Indicators and Influencing Factors](https://charityvillage.com/outcome_measurement_outcome_indicators_and_influencing_factors/#:~:text=An%20outcome%20is%20the%20change,and%20linked%20to%20outcome%20achievement){:target="_blank"}. 
 </details>
