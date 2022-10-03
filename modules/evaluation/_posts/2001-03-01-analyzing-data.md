@@ -51,5 +51,5 @@ The Impact Libraries Project has two examples of talkback boards with analysis t
 
 <details>
     <summary>References</summary>
-    1. Grad Coach. (2021). <a href="https://www.youtube.com/watch?v=EUeQRE5UJpg" target="_blank">Quantitative Data Analysis 101 Tutorial</a>.
+    1: Grad Coach. (2021). <a href="https://www.youtube.com/watch?v=EUeQRE5UJpg" target="_blank">Quantitative Data Analysis 101 Tutorial</a>.
 </details>

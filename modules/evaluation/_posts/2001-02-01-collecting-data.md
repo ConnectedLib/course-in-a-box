@@ -117,6 +117,6 @@ Talkback boards can be a quick and easy way to gather data about the people who 
 
 <details>
     <summary>References</summary>
-    1. Pendo, 2021. <a href="https://www.pendo.io/pendo-blog/the-difference-between-active-and-passive-customer-feedback-and-why-you-need-both/">The Difference Between Active and Passive Customer Feedback and Why You Need Both</a>.
+    1: Pendo, 2021. <a href="https://www.pendo.io/pendo-blog/the-difference-between-active-and-passive-customer-feedback-and-why-you-need-both/">The Difference Between Active and Passive Customer Feedback and Why You Need Both</a>.
 
 </details>

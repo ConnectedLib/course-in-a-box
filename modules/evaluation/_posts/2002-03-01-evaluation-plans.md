@@ -42,5 +42,5 @@ This is the “nitty gritty” section that lays out the details of how you will
 
 <details>  
 <summary>References</summary> 
-1. "Nothing as Practical as Good Theory: Exploring Theory-Based Evaluation for Comprehensive Community Initiatives for Children and Families," pp. 65-92, by C. H. Weiss. In <i>New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts</i>.
+1: "Nothing as Practical as Good Theory: Exploring Theory-Based Evaluation for Comprehensive Community Initiatives for Children and Families," pp. 65-92, by C. H. Weiss. In <i>New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts</i>.
 </details>
