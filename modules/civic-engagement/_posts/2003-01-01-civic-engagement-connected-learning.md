@@ -15,7 +15,7 @@ These principles manifest in civic engagement in many ways, including:
 
 * **Equity**: Civic engagement is about improving the quality of life for all members of a community, drawing on  a diversity of voices. Civic engagement does not, and should not, look the same for every community.  In a project done with the Civic Imagination Project called [Defining America 2060](https://www.civicimaginationproject.org/defining-american-2060){:target="_blank"}, a diverse group of youth from the Chicago area imagined what America might look like in 2060, what values it could be based on, and how they might be able to contribute to that vision. You can read more about the importance of promoting equity in our [Connected Learning Module](https://connectedlib.github.io/course-in-a-box//modules/basics/){:target="_blank"}.
 
-### Example: Harry Potter Fandom
+## Example: Harry Potter Fandom
 The [Harry Potter Alliance (HPA)](https://fandomforward.org/){:target="_blank"} was built by Harry Potter fans asking the question, “what if fans used their passion and creativity to make the world a more loving, equitable place?” Now known as “Fandom Forward,” the organization takes on a wide range of global issues from climate change to poverty through trainings, campaigns, and community building. 
 
 Now let’s look at how a library leveraged HPA for civic engagement, employing the connected learning principles.
@@ -43,7 +43,7 @@ The above example embraces the **Connected Learning Principles**:
 * **Interests**: The whole HPA is based on the interests of the teens involved, and engages them through the metaphors and causes it chooses through the Harry Potter fan universe.
 * **Opportunities**: Through the activities that encourage youth to vote, donate books, or look into issues like involving women in STEAM, youth at the library can have opportunities to pursue these interests further and in other avenues. Throughout the programing, the participating youth also had the chance to develop skills (like working in teams, organizing for a cause, defining and working towards a goal, etc.) that can translate to future career opportunities.
 
-> ““A common issue identified in [young peoples’] early attempts to produce and share stories is that they often do not appreciate the potential power of their own thoughts and words. Realizing the extent to which simple, everyday stories told with empathy, positivity and wisdom can affect others is a very empowering experience”. <br/><br/> [Fandom Foward/Harry Potter Alliance (HPA)] (https://fandomforward.org/)
+> “A common issue identified in [young peoples’] early attempts to produce and share stories is that they often do not appreciate the potential power of their own thoughts and words. Realizing the extent to which simple, everyday stories told with empathy, positivity and wisdom can affect others is a very empowering experience”. <br/><br/>— [Fandom Foward/Harry Potter Alliance (HPA)](https://fandomforward.org/){:target="_blank"}
 
 ## [Activity #4: Civic Engagement and Connected Learning](https://docs.google.com/document/d/1uPmhiT61et6bkAChEcgjCZPWVTGtgmdrK6o7MoNqlvU/edit#bookmark=id.xx740wy55fd3){:target="_blank"}
 
@@ -53,7 +53,7 @@ Think about the problem of food insecurity that many communities around the nati
 
 Now refer back to your own library roles/assets that you listed in the previous pages, plus what you know about connected learning and civic engagement. Situate the problem within your own community, and answer the questions below as a guide to build out a potential service for this hypothetical (or not!) issue. For this exercise, don’t consider the constraints of time and budget. 
 
-**Connected Learning**:
+### Connected Learning:
 
 **How does the program connect to youth’s interests?** 
 Are there opportunities for “geeking out” or “going deeper” in the program?  How would you make the program inviting for youth? 
@@ -68,7 +68,7 @@ Does the service connect to larger issues outside your community? Do the youth h
 Does the service promote relationships between youth in the community? Between youth and older members of your community? Are these relationships beneficial to youth, and if so in what way?
 
 
-#### Civic Engagement:
+### Civic Engagement:
 **Attributes**
 Is the program **political or non-political**? Does it touch a subject many people in the community are supportive of? 
 
@@ -81,8 +81,8 @@ Does the program support youth’s **agency** to drive its mission and the value
 
 How does the program meet **equity** principles? How does the program enhance the quality of life for the community?
 
-#### Library Roles and Assets
-**Roles**
+### Library Roles and Assets
+#### Roles
 
 Does the library play any (or several) of the roles below in engaging with the program:
 * The library is a **Civic Educator**: raising awareness of civics, civic engagement, and civic responsibility 
@@ -91,7 +91,7 @@ Does the library play any (or several) of the roles below in engaging with the p
 * The library is a **Visionary**: leading efforts to develop a broad and inclusive community vision 
 * The library is a **Center for Democracy in Action**: walking, talking, thinking, and acting as the place where democracy, civic engagement, and public discourse happen
 
-**Assets**
+#### Assets
 What assets does the library bring to the program? Are there any unique assets that make the library ideally positioned to offer the program? 
 
 For more information about designing programs alongside and for your community, check out the [Community Centered Services module](https://connectedlib.github.io/course-in-a-box//modules/community-centered/){:target="_blank"}

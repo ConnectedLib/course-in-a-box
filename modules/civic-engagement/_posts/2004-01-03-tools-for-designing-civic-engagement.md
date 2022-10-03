@@ -13,10 +13,10 @@ engaging in civic engagement. Social media, podcasts, video, performance, online
 
 Some examples of these tools include:
 
-* Creating a **podcast** (See example of central library of the [Dallas Public Library] (https://connectedlib.github.io/course-in-a-box//modules/civic-engagement/roles/))
+* Creating a **podcast** (See example of central library of the [Dallas Public Library](https://connectedlib.github.io/course-in-a-box//modules/civic-engagement/roles/){:target="_blank"}
 * **Online campaigns** (think of the power of starting an awareness campaign with hashtags on different platforms, creating a site rallying people to your 
 cause, etc.)
-* Joining **national movements**, like [ZeroHour] (https://www.thisiszerohour.org/). 
+* Joining **national movements**, like [ZeroHour](https://www.thisiszerohour.org/){:target="_blank"}. 
 
 A great example of technology use for civic and community engagement is happening in the **Chicago Public Library YouMedia Lab**,  
 where youth are using media creation tools to create a change in their immediate community.
@@ -40,7 +40,7 @@ Some of these games include:
 
 * [Democracy games](https://www.democracygame.org/){:target="_blank"} 
 * [iCivic games](https://www.icivics.org/games){:target="_blank"}   
-* Simulation games like the Sims or [iThrive games] ((https://ithrivegames.org/) can be used to help young residents of the community 
+* Simulation games like the Sims or [iThrive games](https://ithrivegames.org/){:target="_blank"} can be used to help young residents of the community 
 learn about community necessities, priority building and so on
 
 <div class="callout objectives" markdown="1">
@@ -57,6 +57,6 @@ Art (digital, physical, or otherwise!) is a powerful medium for sparking the civ
 Some examples include:
 * Raising awareness by putting on a community play
 * Building art to engage the local community, like the [TinyWPA project](http://www.tinywpa.org/){:target="_blank"} 
-* Creating a mural together with youth organizations to raise awareness for issues within the community like the [Madison Public Library community] (https://www.madisonpubliclibrary.org/impact/bubbler-time-covid ){:target="_blank"}  
+* Creating a mural together with youth organizations to raise awareness for issues within the community like the [Madison Public Library community](https://www.madisonpubliclibrary.org/impact/bubbler-time-covid ){:target="_blank"}  
 * Engaging the older community members through targeted programs like the Brooklyn Public Library did through their [services](https://www.bklynlibrary.org/outreach/older-adults/creative-aging){:target="_blank"}  
 

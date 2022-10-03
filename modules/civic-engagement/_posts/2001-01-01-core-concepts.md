@@ -5,10 +5,10 @@ tags: ['sectionHead']
 
 What is civic engagement? We focus on two definitions among the many that exist. 
 
-> **Definition 1:** Civic engagement is “deliberate, consistent, and purposeful outreach that creates an environment in which people of all ages and from all backgrounds believe they have a voice and role in decisions and actions that affect their lives.” [Urban Library Council: Civic Engagement](https://www.urbanlibraries.org/assets/ULC_Civic_Engagement_Report.pdf){:target="_blank"}
+> **Definition 1:** Civic engagement is “deliberate, consistent, and purposeful outreach that creates an environment in which people of all ages and from all backgrounds believe they have a voice and role in decisions and actions that affect their lives.”<br/><br/>— [Urban Library Council: Civic Engagement](https://www.urbanlibraries.org/assets/ULC_Civic_Engagement_Report.pdf){:target="_blank"}
 <br/><br/>
 
-> **Definition 2:** “Civic engagement means… promoting the quality of life in a community, through both political and non-political processes.” (Ehrlich, 2000) <br/><br/>
+> **Definition 2:** “Civic engagement means… promoting the quality of life in a community, through both political and non-political processes.”<br/><br/>—Ehrlich, 2000
 
 ## Let’s break this down. Civic engagement is:
 
@@ -71,7 +71,6 @@ When her local art center was structurally damaged, young Breanna Burkhead decid
 <iframe src="https://www.youtube.com/embed/zJMbKayD2rU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">2:14</div></div>
 
-&#x23F0; 2:14 \| *2020 4-H Youth in Action: Breanna Burkhead (Civic Engagment)*
 
 * **Political and non-political**: This effort to open the art center wasn’t necessarily political
 * **Broader than community service**: Breanna is trying to create lasting change in her community through the art center
