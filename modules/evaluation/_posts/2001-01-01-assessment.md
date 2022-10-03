@@ -32,8 +32,8 @@ Eli Bennett<sup>3</sup> suggests asking the following questions to help determin
 
 <details>
 	<summary>References</summary>
-	1. <a href="https://doi.org/10.17226/12614" target="_blank">Surrounded by Science: Learning Science in Informal Environments</a> by Marilyn Fenichel and Heidi A. Schweingruber, p. 111. National Academies Press, 2010.
-	2. William Penuel, <a href="https://youtu.be/WXbkeFIEN8Y" target="_blank">Introduction to Program Evaluations for Connected Learning (Session 1)]</a>, 28:40
-	3. Eli Bennet, <a href="https://charityvillage.com/outcome_measurement_outcome_indicators_and_influencing_factors/#:~:text=An%20outcome%20is%20the%20change,and%20linked%20to%20outcome%20achievement" target="_blank">Outcome Measurement: Outcome Indicators and Influencing Factors</a>. 
+	<p>1: <a href="https://doi.org/10.17226/12614" target="_blank">Surrounded by Science: Learning Science in Informal Environments</a> by Marilyn Fenichel and Heidi A. Schweingruber, p. 111. National Academies Press, 2010.</p>
+	<p>2: William Penuel, <a href="https://youtu.be/WXbkeFIEN8Y" target="_blank">Introduction to Program Evaluations for Connected Learning (Session 1)]</a>, 28:40</p>
+	<p>3: Eli Bennet, <a href="https://charityvillage.com/outcome_measurement_outcome_indicators_and_influencing_factors/#:~:text=An%20outcome%20is%20the%20change,and%20linked%20to%20outcome%20achievement" target="_blank">Outcome Measurement: Outcome Indicators and Influencing Factors</a>. </p>
 </details>
 
