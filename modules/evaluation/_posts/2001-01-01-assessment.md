@@ -9,6 +9,8 @@ An assessment is a way to answer a single question (or a collection of questions
 
 ## Choosing what to measure
 
+> “You don’t need a lot of technical expertise to do this. You just need the discipline of thinking first about what the outcome is, what young people might say or do that would give you some indicator, and think hard about the situations that would elicit those things that a student might say or do.”<br/><br/>— Dr. William Penuel (University of Colorado at Boulder) in [_Developing Outcome Measures Tailored to a Program_](https://youtu.be/oifGIJq7D94?t=520){:target="_blank"}
+
 ### Indicators
 When you know the question that needs to be answered, the next step is to decide how to answer it. The thing you measure to answer the question is called an indicator (it "indicates" what the answer is). For instance, you may want to know if participating in a program helps participants become more confident in the use of photo editing software. What you want to know is the level of participants’ confidence in using the software, but that isn’t directly measurable in the way the number of attendees is. You may decide to measure participants’ self-reported increase in confidence (by using a feedback survey, perhaps) or demonstrations of confident behavior that you observe. Using assessments for both indicators will provide a more complete picture of the situation.
 
