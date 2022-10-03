@@ -5,7 +5,7 @@ permalink: /modules/civic-engagement/
 
 ---
 <div class="callout objectives" markdown="1"> 
-## Module Objectives: 
+## Goals for this module: 
 
 * Define civic engagement and its core attributes
 * Identify your library’s roles and assets for building powerful civic engagement services
@@ -15,8 +15,8 @@ permalink: /modules/civic-engagement/
 
 
 In this module, we will explore the concept of civic engagement, providing you with the concepts, tips, and resources for  developing civic engagement programs in your library and advancing the quality of life in your community. 
-<div>
-<hr/>
 
-<i>Hand Shake by <a href="https://thenounproject.com/boerni_lakenbrink/" target=")blank">Bernd Lakenbrink</a> from <a href="https://thenounproject.comNounProject.com" target="_blank">The Noun Project</a>.</i>
+---
+
+<i>The module for this icon is Hand Shake by <a href="https://thenounproject.com/boerni_lakenbrink/" target=")blank">Bernd Lakenbrink</a> from <a href="https://thenounproject.comNounProject.com" target="_blank">The Noun Project</a>.</i>
 
