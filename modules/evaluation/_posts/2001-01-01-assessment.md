@@ -5,7 +5,7 @@ tags: ['sectionHead']
 
 > “We’ve had a wall where customers can put up Post-It notes on certain topics, like, ‘What was your favorite book? What do you love about the library?’ So it’s kind of like an informal kind of subjective opinion gathering rather than a formal assessment.”<br/><br/>— Programming Coordinator & Technology Coordinator in a southern suburban library
 
-An assessment is a way to answer a single question (or a collection of questions) at one point in time. Assessment can be a quick and easy process if you have a simple question, or it can be more extensive if you need to assess something large or complicated. Multiple assessments can be conducted to answer questions that involve comparisons, such as before-and-after questions, or to provide multiple perspectives. Assessments focus on the state or extent of something, such as what or how much individuals are learning, without digging deeper into value-based judgments like are participants learning enough? or how can we make this partnership more productive?
+An assessment is a way to answer a single question (or a collection of questions) at one point in time. Assessment can be a quick and easy process if you have a simple question, or it can be more extensive if you need to assess something large or complicated. Multiple assessments can be conducted to answer questions that involve comparisons, such as before-and-after questions, or to provide multiple perspectives. Assessments focus on the state or extent of something, such as what or how much individuals are learning, without digging deeper into value-based judgments like are participants learning enough? or how can we make this partnership more productive?<sup>1</sup>
 
 ## Choosing what to measure
 
@@ -13,7 +13,7 @@ An assessment is a way to answer a single question (or a collection of questions
 
 ### Outcomes 
 
-Outcomes are the differences your programs make for your library’s youth and for the community—things outside of your program and outside of connected learning that matter. If you are evaluating a program or other connected learning activity, you may have already determined the desired outcomes (see the [Designing Connected Learning Services](../designing-connected-learning-services) module for more).
+Outcomes are the differences your programs make for your library’s youth and for the community—things outside of your program and outside of connected learning that matter.<sup>2</sup> If you are evaluating a program or other connected learning activity, you may have already determined the desired outcomes (see the [Designing Connected Learning Services](../designing-connected-learning-services) module for more).
 
 
 ### Indicators
@@ -22,7 +22,7 @@ Outcomes are the differences your programs make for your library’s youth and f
 
 When you know the question that needs to be answered, the next step is to decide how to answer it. The thing you measure to answer the question is called an indicator (it "indicates" what the answer is). For instance, you may want to know if participating in a program helps participants become more confident in the use of photo editing software. What you want to know is the level of participants’ confidence in using the software, but that isn’t directly measurable in the way the number of attendees is. You may decide to measure participants’ self-reported increase in confidence (by using a feedback survey, perhaps) or demonstrations of confident behavior that you observe. Using assessments for both indicators will provide a more complete picture of the situation.
 
-Eli Bennett<sup>1</sup> suggests asking the following questions to help determine which indicators to use: 
+Eli Bennett<sup>3</sup> suggests asking the following questions to help determine which indicators to use: 
 
 - How will we know when the outcome has occurred?
 - What does the outcome look like when it occurs?
@@ -32,6 +32,8 @@ Eli Bennett<sup>1</sup> suggests asking the following questions to help determin
 
 <details markdown="1">
 	<summary>References</summary>
-	1. Eli Bennet, [Outcome Measurement: Outcome Indicators and Influencing Factors](https://charityvillage.com/outcome_measurement_outcome_indicators_and_influencing_factors/#:~:text=An%20outcome%20is%20the%20change,and%20linked%20to%20outcome%20achievement){:target="_blank"}. 
+	1. 1: [Surrounded by Science: Learning Science in Informal Environments](https://doi.org/10.17226/12614){:target="_blank"} by Marilyn Fenichel and Heidi A. Schweingruber, p. 111. National Academies Press, 2010.
+	2. William Penuel, [Introduction to Program Evaluations for Connected Learning (Session 1)](https://youtu.be/WXbkeFIEN8Y){:target="_blank"}, 28:40
+	3. Eli Bennet, [Outcome Measurement: Outcome Indicators and Influencing Factors](https://charityvillage.com/outcome_measurement_outcome_indicators_and_influencing_factors/#:~:text=An%20outcome%20is%20the%20change,and%20linked%20to%20outcome%20achievement){:target="_blank"}. 
 </details>
 

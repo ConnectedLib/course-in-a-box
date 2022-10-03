@@ -2,7 +2,7 @@
 title: Evaluation questions
 ---
 
-You probably have some idea of why you are conducting an evaluation. For instance, evaluations can directly affect future actions or decisions or change someone’s attitude or way of thinking. **Evaluation questions** transform a vague idea into specific elements that are tied to one or more outcomes and can be measured through assessments.
+You probably have some idea of why you are conducting an evaluation. For instance, evaluations can directly affect future actions or decisions or change someone’s attitude or way of thinking.<sup>1</sup> **Evaluation questions** transform a vague idea into specific elements that are tied to one or more outcomes and can be measured through assessments.
 
 All evaluations answer the same three fundamental questions, according to the [CAISE Principal Investigator’s Guide](http://www.informalscience.org/evaluation/pi-guide){:target="_blank"}.
 
@@ -30,7 +30,7 @@ All evaluations answer the same three fundamental questions, according to the [C
 
 ### Front-end evaluation
 
-Front-end evaluation occurs in the **Identifying** stage of a library program or service. It is similar to  user research and is used to inform the initial design of a program.
+Front-end evaluation occurs in the **Identifying** stage of a library program or service. It is similar to  user research and is used to inform the initial design of a program.<sup>2</sup>
 
 **Examples:** 
 - What aspects of this topic are our youth interested in?
@@ -38,7 +38,7 @@ Front-end evaluation occurs in the **Identifying** stage of a library program or
 
 ### Formative evaluation
 
-Formative evaluation occurs in the **Reflecting** stage of a library program or service and consists of periodic evaluations conducted during the development and implementation of a program. It is used for course-correcting and making changes if necessary. Formative evaluation can look at how a project is progressing towards its goals and whether the implementation of the project going according to plan.
+Formative evaluation occurs in the **Reflecting** stage of a library program or service and consists of periodic evaluations conducted during the development and implementation of a program. It is used for course-correcting and making changes if necessary. Formative evaluation can look at how a project is progressing towards its goals and whether the implementation of the project going according to plan.<sup>3</sup>
 
 **Examples:**
 - Are participants learning what we expected?
@@ -58,10 +58,22 @@ Summative evaluation occurs in the **Documenting** stage of a library program or
 Assessments used in evaluations are not much different from the standalone assessments discussed earlier. Since evaluations ask deep and complex questions, however, they typically involve multiple assessments to help build a better picture and construct stronger evidence. 
 
 ### Indicators
-Assessments used in evaluations need to be tied directly to the outcome or outcomes you are evaluating. You need to choose indicators that will provide measurable ways to show the impact of your initiative in relation to that outcome. To determine the appropriate indicators for your project, look at one of your outcomes and ask “How will I know it when I see it?” 1
+Assessments used in evaluations need to be tied directly to the outcome or outcomes you are evaluating. You need to choose indicators that will provide measurable ways to show the impact of your initiative in relation to that outcome. To determine the appropriate indicators for your project, look at one of your outcomes and ask “How will I know it when I see it?”<sup>4</sup>
 
 Just as the outcomes of connected learning are often nontraditional, so are the indicators. Using a variety of indicators to answer a single question can help triangulate your interpretations. (The same indicator can also be used to answer multiple questions sometimes.) Traditional library assessment measures (number of attendees, number of questions asked, how often a resource is used, patron satisfaction) play an important role and can be part of your evaluation. However, in a connected learning evaluation, they should exist in support of other measures.
 
 #### Don’t start with indicators!
 
-Don’t start with indicators! Start by determining your desired **outcomes**. If you start with measures, you run the risk of defaulting to only the easiest and most obvious measures. The outcomes of connected learning can be much richer than that. Start with the outcomes, and then figure out the best way to measure your progress towards those outcomes. 
+Don’t start with indicators! Start by determining your desired **outcomes**. If you start with indicators, you run the risk of defaulting to only the easiest and most obvious measures.<sup>5</sup> The outcomes of connected learning can be much richer than that. Start with the outcomes, and then figure out the best way to measure your progress towards those outcomes. 
+
+
+---
+
+<details markdown="1">
+	<summary>References</summary>
+	1. [Evaluation Use](http://search.credoreference.com/content/entry/sageeval/evaluation_use/){:target="_blank"}, by Marvin C. Alkin, in the [Encyclopedia of Evaluation](http://search.credoreference.com/content/title/sageeval/){:target="_blank"}.
+	2. [Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects](http://www.informalscience.org/evaluation/pi-guide){:target="_blank"}, by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, p. 13, 16, 61. Center for Advancement of Informal Science Education, 2001.
+	3. The [2010 User-Friendly Handbook for Project Evaluation](http://www.informalscience.org/sites/default/files/TheUserFriendlyGuide.pdf){:target="_blank"}, pp. 8-9, by J. F. Westat. National Science Foundation, 2010.
+	4. [Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects](http://www.informalscience.org/evaluation/pi-guide){:target="_blank"}, by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, p. 51. Center for Advancement of Informal Science Education, 2001.
+	5. [W. K. Kellogg Foundation Evaluation Handbook](https://dmlcommons.net/wp-content/uploads/2015/12/Kellog-2006.pdf){:target="_blank"}, p. 33.
+</details>
