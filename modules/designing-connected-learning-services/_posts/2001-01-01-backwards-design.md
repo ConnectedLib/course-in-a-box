@@ -19,6 +19,21 @@ The outcomes you want from your programs should align with your library’s stra
 
 Talk to your stakeholders as you develop outcomes. They should all agree that the outcomes are important and desired. They may even suggest surprising or nontraditional outcomes. By involving your stakeholders, you can get different perspectives on what outcomes are the most important.
 
+
+<div class="callout case_study">
+
+### Outcomes and Evaluation
+
+How do you know what outcomes are appropriate for your library and your community? Although we often think of assessment and evaluation occuring at the end of a library program or service, they should also happen when you are in the **Identifying** stage of a program — when you are making decisions about new programming. See the [Assessment and Evaluation module](../evaluation/) for more. 
+
+
+<img src="{{ site.baseurl }}/img/assessment/program_trajectory.png" ALT="Program trajectory diagram"/><br/>_Source: 
+[Evaluating Library Programming Guide](https://clalliance.org/publications/evaluating-library-programming-a-practical-guide-to-collecting-and-analyzing-data-to-improve-or-evaluate-connected-learning-programs-for-youth-in-libraries/){:target="_blank"}; used with permission._ 
+
+
+</div>
+
+
 ## Connected Learning Outcomes
 
 
@@ -37,14 +52,8 @@ Community-focused outcomes center around teens engaging, connecting, and buildin
 
 </div>
 
- 
+
 <div class="colorhighlight color2" markdown="1">
-
-**Creativity** outcomes result in teens’ learning how to express themselves, innovate, and solve problems.
-
-</div>
-
-<div class="colorhighlight color3" markdown="1">
 
 ### Creativity
 
@@ -52,7 +61,7 @@ Outcomes in the creativity category are a result of teens learning how to expres
 
 </div>
 
-<div class="colorhighlight color1" markdown="1">
+<div class="colorhighlight color3" markdown="1">
 
 ### Leadership
 
@@ -60,7 +69,7 @@ When teens build leadership skills they demonstrate self-confidence while at the
 
 </div>
 
-<div class="colorhighlight color2" markdown="1">
+<div class="colorhighlight color1" markdown="1">
 
 ### Learning
 
