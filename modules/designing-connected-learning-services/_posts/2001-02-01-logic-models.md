@@ -6,7 +6,7 @@ There are different techniques for implementing a backwards design approach in y
 
 ## A Logic Model Walk-Through
 
-Below is one version of what a logic model template looks like. 
+This logic model, developed by Jason Gonsalez at the Muskogee (Oklahoma) Library, is an example of what a logic model can look like. 
 
 <div class="example-form">
 
