@@ -52,7 +52,7 @@ You can read more about participatory design and techniques in the article [Desi
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/itJ5Em11S08" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime">26:01</div> | In this video, Beth Bonsignore at the University of Maryland describes the participatory design process and some of the techniques she uses with the KidsTeam afterschool design program.
+<div class="videotime">26:01</div> In this video, Beth Bonsignore at the University of Maryland describes the participatory design process and some of the techniques she uses with the KidsTeam afterschool design program.
 </div>
 
 

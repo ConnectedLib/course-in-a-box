@@ -48,6 +48,7 @@ The Impact Libraries Project has two examples of talkback boards with analysis t
 </div>
 
 
+---
 
 <details>
     <summary>References</summary>
