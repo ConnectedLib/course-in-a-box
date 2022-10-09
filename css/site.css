@@ -344,8 +344,8 @@ line-height:  2em;
   border-width:0px 0px 0px 25px; 
   border-style:solid; 
   padding:10px 10px 10px 20px; 
-  margin-top: 20px
-  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px !important;
 }
 
 .color1 {
