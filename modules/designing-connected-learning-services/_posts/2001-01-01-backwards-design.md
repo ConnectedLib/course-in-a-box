@@ -20,7 +20,7 @@ The outcomes you want from your programs should align with your library’s stra
 Talk to your stakeholders as you develop outcomes. They should all agree that the outcomes are important and desired. They may even suggest surprising or nontraditional outcomes. By involving your stakeholders, you can get different perspectives on what outcomes are the most important.
 
 
-<div class="callout case_study">
+<div class="callout case_study" markdown="1">
 
 ### Outcomes and Evaluation
 

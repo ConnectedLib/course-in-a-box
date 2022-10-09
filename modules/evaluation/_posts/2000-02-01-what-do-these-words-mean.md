@@ -6,7 +6,7 @@ title: What do these words mean?
 
 According to the [Evaluating Library Programming Guide](https://clalliance.org/publications/evaluating-library-programming-a-practical-guide-to-collecting-and-analyzing-data-to-improve-or-evaluate-connected-learning-programs-for-youth-in-libraries/){:target="_blank"}, data collection and analysis relating to a library program occurs in three different stages. Whether you want to conduct an assessment or a full evaluation depends on what part of the trajectory you are in, what questions you want to answer, and how many resources you want to devote to answering them. 
 
-- **Identifying**, where data is collected to help make decisions for new programming
+- **Identifying**, where data is collected to help make decisions for new programming (see the [Designing Connected Learning Services module](../designing-connected-learning-services/) to learn more about this stage)
 - **Reflecting**, where data is used to improve ongoing programming (also called _formative evaluation_)
 - **Documenting**, where outcomes are captured to evaluate the overall impact of a program (also called _summative evaluation_)
 
