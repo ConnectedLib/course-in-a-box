@@ -24,7 +24,7 @@ Talk to your stakeholders as you develop outcomes. They should all agree that th
 
 ### Outcomes and Evaluation
 
-How do you know what outcomes are appropriate for your library and your community? Although we often think of assessment and evaluation occuring at the end of a library program or service, they should also happen when you are in the **Identifying** stage of a program — when you are making decisions about new programming. See the [Assessment and Evaluation module](../evaluation/) for more. 
+How do you know what outcomes are appropriate for your library and your community? Although we often think of assessment and evaluation occuring at the end of a library program or service, they should also happen when you are in the **Identifying** stage of a program — when you are making decisions about new programming. See the [Assessment and Evaluation module](../../evaluation/) for more. 
 
 
 <img src="{{ site.baseurl }}/img/assessment/program_trajectory.png" ALT="Program trajectory diagram"/><br/>_Source: 

@@ -34,4 +34,4 @@ Stakeholders should always be involved in an evaluation, providing context, advi
 	<summary>References</summary>
 	<p>1: <a href="https://doi.org/10.17226/12614" target="_blank">Surrounded by Science: Learning Science in Informal Environments</a> by Marilyn Fenichel and Heidi A. Schweingruber, p. 111. National Academies Press, 2010.</p>
  	<p>2: <a href="http://www.informalscience.org/evaluation/pi-guide" target="_blank">Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects</a>, by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, pp. 3-4. Center for Advancement of Informal Science Education, 2001.</p>
-</summary>
+</details>
