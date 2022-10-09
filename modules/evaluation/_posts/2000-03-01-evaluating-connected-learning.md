@@ -25,7 +25,8 @@ By the end of this module, you will feel confident about evaluating and assessin
 
 <div class="callout videos" markdown="1">
 <iframe src="https://www.youtube.com/embed/u6rguxNk8kY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div class="videotime" markdown="1">7:51</div>
+	<div class="videotime" markdown="1">7:51
+	</div>
 In this short trailer for his free online [Program Evaluations for Connected Learning](https://dmlcommons.net/2016-course/){:target="_blank"} course, Dr. William Penuel from the University of Colorado at Boulder describes the class as well as some of the challenges and opportunities of evaluating connected learning programs.
 </div>
 
