@@ -3,7 +3,9 @@ title: Evaluation
 tags: ['sectionHead']
 ---
 
-> “Evaluation is about judging the value of an initiative.”<br/><br/>— [Dr. William Penuel, University of Colorado at Boulder](https://www.youtube.com/watch?v=WXbkeFIEN8Y){:target="_blank"}
+> Time and money are always highly prized commodities. There is always a surplus of great ideas, and never enough time and money to implement them. So why, you may wonder, would you want to adopt more measurement work? The answer is that by showing how your work is delivering your mission, you make your organization more accountable, more likely to receive funding, and more attractive to staff, volunteers, members, and donors. Most importantly, by measuring the extent to which your work succeeds, you will be able to improve your programs in concrete and measurable ways that make a real difference to the people you serve. Without this, improvement is ad hoc guesswork, at best. <br/><br/>— [Outcome Measurement: An Introduction to Mission Delivery](https://charityvillage.com/outcome_measurement_an_introduction_to_mission_delivery/){:target="_blank"})
+
+“Evaluation is about judging the value of an initiative.”[Dr. William Penuel, University of Colorado at Boulder](https://www.youtube.com/watch?v=WXbkeFIEN8Y){:target="_blank"}
 
 Much of the time, your information needs can be met with one or two assessments. Other times, you have a bigger, deeper question that an assessment can address. In these cases, you can perform an evaluation. An evaluation makes a judgment about something, such as the value, quality, or efficacy of a program, partnership, or other activity, to provide information that will help with a decision about some future action.<sup>1</sup> It begins with questions, finds answers, and ends with conclusions or recommendations. The questions you have will help determine the type of evaluation you choose and how you use it. As you design your evaluation, think about the following factors:
 
