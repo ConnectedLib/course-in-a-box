@@ -28,6 +28,16 @@ Eli Bennett<sup>3</sup> suggests asking the following questions to help determin
 - What does the outcome look like when it occurs?
 - What will we see?
 
+<div class="callout case_study" markdown="1">
+
+<img src="{{ site.baseurl }}/img/assessment/unitedway_outcomemeasurement.png" ALT="Outcome Measurement Framework"/><br/>_Source: 
+[Outcome Measurement Training](https://www.unitedwayofwashingtoncounty.org/sites/unitedwayofwashingtoncounty/files/Outcome%20Measurement%20Training%20General%202020%20with%20logo.pdf) by John Schiraj_
+
+
+</div>
+
+
+
 ---
 
 <details>

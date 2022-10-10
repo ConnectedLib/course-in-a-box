@@ -179,7 +179,7 @@ Keep in mind that the design and development of the outputs and activities shoul
 <iframe src="https://www.youtube.com/embed/pvKlJplFO9I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <div class="videotime">1:34</div></div>
 
-### Logic Model Example
+### Logic Model Examples
 
 Keep in mind that you don’t want to create this roadmap in a vacuum. Bring community partners, teens, and colleagues into the development of the document.   
 
@@ -188,6 +188,18 @@ Keep in mind that you don’t want to create this roadmap in a vacuum. Bring com
 <div class="videotime">3:14</div></div>
 
 A logic model should not be a static document. You want to regularly review what you’ve included and update based on information, activities, and resources that have come to the fore since your last review of the document. 
+
+
+<div class="callout case_study" markdown="1">
+
+This sample logic model comes from the United Way of Greater Richmond and Petersburg and depicts the inputs, activities, outputs, and outcomes that make up a logic model for a career program at a community shelter. 
+
+<img src="{{ site.baseurl }}/img/designing-services/unitedway_logicmodel.png" ALT="United Way example of a logic model"/><br/>_Source: 
+[Guide to Outcomes and Logic Models: United Way of Greater Richmond and Petersburg](https://www.yourunitedway.org/wp-content/uploads/2015/12/UWGRP-Guide-to-Outcomes-and-Logic-Models-6-8-15.pdf){:target="_blank"}_
+
+
+</div>
+
 
 ## Theory of Change
 

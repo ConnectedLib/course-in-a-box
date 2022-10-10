@@ -67,6 +67,21 @@ Just as the outcomes of connected learning are often nontraditional, so are the 
 Don’t start with indicators! Start by determining your desired **outcomes**. If you start with indicators, you run the risk of defaulting to only the easiest and most obvious measures.<sup>5</sup> The outcomes of connected learning can be much richer than that. Start with the outcomes, and then figure out the best way to measure your progress towards those outcomes. 
 
 
+United Way has identified eight "steps to success" in measuring program outcomes.
+
+<img src="{{ site.baseurl }}/img/assessment/unitedway_programsuccess.png" ALT="United Way: 8 steps to program success"/><br/>_Source: 
+[Measuring Program Outcomes: A Practical Approach](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1047&context=slceeval){:target="_blank"}_
+
+
+1. Get ready
+2. Choose the outcomes you want to measure
+3. Specify indicators for your outcomes
+4. Prepare to collect data on your indicators
+5. Try out your outcome measurement system
+6. Analyze and report your findings
+7. Improve your system
+8. Use your findings
+
 ---
 
 <details>
