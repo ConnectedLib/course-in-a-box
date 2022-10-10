@@ -30,6 +30,8 @@ Eli Bennett<sup>3</sup> suggests asking the following questions to help determin
 
 <div class="callout case_study" markdown="1">
 
+This outcome measurement framework from the United Way of Washington County depicts the relationships between outcomes, indicators, data sources, and data collection methods. 
+
 <img src="{{ site.baseurl }}/img/assessment/unitedway_outcomemeasurement.png" ALT="Outcome Measurement Framework"/><br/>_Source: 
 [Outcome Measurement Training](https://www.unitedwayofwashingtoncounty.org/sites/unitedwayofwashingtoncounty/files/Outcome%20Measurement%20Training%20General%202020%20with%20logo.pdf) by John Schiraj_
 
