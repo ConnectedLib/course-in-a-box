@@ -119,6 +119,11 @@ p.sidebar-title {
   opacity:1.0;
 }
 
+.grid-container h2 {
+    font-family:'Comfortaa',Helvetica,Arial,sans-serif !important;
+
+}
+
 /* end grid for home page */
 
 /* CALLOUT BOXES */
