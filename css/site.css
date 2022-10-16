@@ -257,7 +257,7 @@ line-height:  2em;
 
 .info { 
  
-  border-left: solid 10px #3d244e; /* dark purple */
+  border: solid .5px #3d244e; /* dark purple */
   background-color: #F3F3FC;
 
   /* border-left: solid 10px #0ccc05;   bright green 
