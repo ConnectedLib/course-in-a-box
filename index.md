@@ -22,64 +22,40 @@ published: true
     <div>using<br/>the toolkit<br/><img src="{{ site.baseurl }}/img/moduleLogos/introducing-the-toolkit.png" width="90px" ALT="Introducing the Toolkit"/>
   </div></a></h2></div>
 
- <div class="grid-item"> <a href="modules/basics/"><div>the connected learning<br/>mindset<br/>
+ <div class="grid-item"> <h2><a href="modules/basics/"><div>the connected learning<br/>mindset<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/basics.png" width="90px" ALT="Connected Learning Basics"/>
-</div></a></div>
+</div></a></h2></div>
 
-<div class="grid-item"> <a href="modules/community-centered/"><div>community centered services<br/>
+<div class="grid-item"><h2> <a href="modules/community-centered/"><div>community centered services<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/community-centered.png" width="90px" ALT="Community-Centered Services"/>
-</div></a></div>
+</div></a></h2></div>
 
-<div class="grid-item"> <a href="modules/youth-development/"><div>youth<br/>development<br/>
+<div class="grid-item"><h2> <a href="modules/youth-development/"><div>youth<br/>development<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/youth-development.png" width="90px" ALT="Youth Development"/>
-</div></a></div>
+</div></a></h2></div>
 
-<div class="grid-item"> <a href="modules/mentoring/"><div>mentoring<br/>
+<div class="grid-item"> <h2><a href="modules/mentoring/"><div>mentoring<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/mentoring.png" width="90px" ALT="Mentoring"/>
-</div></a></div>
+</div></a></h2></div>
 
 
 
-<div class="grid-item"> <a href="modules/capacity/"><div>capacity<br/>
+<div class="grid-item"> <h2><a href="modules/capacity/"><div>capacity<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/capacity.png" width="90px" ALT="Capacity"/>
-</div></a></div>
+</div></a></h2></div>
 
-<div class="grid-item"> <a href="modules/evaluation/"><div>assessment<br/>& evaluation<br/>
- <img src="{{ site.baseurl }}/img/moduleLogos/evaluation.png" width="90px" ALT="Evaluation"/>
-</div></a></div>
+<div class="grid-item"> <h2><a href="modules/evaluation/"><div>assessment<br/>& evaluation<br/>
+ <img src="{{ site.baseurl }}/img/moduleLogos/evaluation.png" width="90px" ALT="Assessment & Evaluation"/>
+</div></a></h2></div>
 
-<div class="grid-item"> <a href="modules/civic-engagement/"><div>civic<br/>engagement<br/>
+<div class="grid-item"><h2> <a href="modules/civic-engagement/"><div>civic<br/>engagement<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/civic-engagement.png" width="90px" ALT="Civic Engagement"/>
-</div></a></div>
+</div></a></h2></div>
 
-<div class="grid-item"> <a href="modules/designing-connected-learning-services/"><div>designing connected learning services<br/>
+<div class="grid-item"> <h2><a href="modules/designing-connected-learning-services/"><div>designing connected learning services<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/designing-connected-learning-services.png" width="90px" ALT="Designing Connected Learning Services"/>
-</div></a></div>
+</div></a></h2></div>
 
- <!-- NOT READY YET 
-
-  <div class="grid-item"><a href="modules/programming/"><div>
-    connected learning<br/>programming<br/>
-    <img src="{{site.url}}{{site.baseurl}}/assets/img/programmingModuleIcon.png" width="90px"/>  </div></a></div>
-
-  
-  <div class="grid-item"><a href="modules/partnerships/index.html"><div>community<br/>partnerships<br/>
-    <img src="{{site.url}}{{site.baseurl}}/assets/img/partnershipsModuleIcon.png" width="90px"/></div></a></div>
-
-  <div class="grid-item"><a href="modules/communitymapping/index.html"><div>community<br/>mapping<br/>
-    <img src="{{site.url}}{{site.baseurl}}/assets/img/communitymappingModuleIcon.png" width="90px"/></div></a></div>
-
- <div class="grid-item"> <a href="modules/assessment/index.html"><div>assessment<br/>& evaluation<br/>
-    <img src="{{site.url}}{{site.baseurl}}/assets/img/assessmentModuleIcon.png" width="90px"/></div></a></div>
-
- <div class="grid-item"><a href="modules/capacity/index.html"><div>capacity<br/>&nbsp;<br/>
-    <img src="{{site.url}}{{site.baseurl}}/assets/img/capacityModuleIcon.png" width="90px"/></div></a></div>
-
- <div class="grid-item"><a href="modules/design-thinking/index.html"><div>design<br/>thinking<br/>
-    <img src="{{site.url}}{{site.baseurl}}/assets/img/design-thinkingModuleIcon.png" width="90px"/></div></a></div>
-
-
-  -->
 
 </div>
 
