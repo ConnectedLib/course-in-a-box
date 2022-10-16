@@ -52,6 +52,13 @@ strong {
     font-weight: 700 !important;
 }
 
+
+/* FOOTER */
+
+.footer {
+  background-color: #393E41;
+}
+
 /* SIDEBAR */
 
 li.subsection {

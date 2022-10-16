@@ -12,15 +12,15 @@ published: true
 
 <!-- THIS IS THE LANDING PAGE CONTENT -->
 
-<center>
-<img src="{{ site.baseurl }}/img/connectedlib_logo_slogan.png" alt="Connected Learning: Helping Librarians Use Digital Media to Make Learning Connections With Youth" />
+<center><h1>
+<img src="{{ site.baseurl }}/img/connectedlib_logo_slogan.png" alt="Connected Learning: Helping Librarians Use Digital Media to Make Learning Connections With Youth" /></h1>
 </center>
 
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
 
- <div class="grid-item"> <a href="modules/introducing-the-toolkit/">
+ <div class="grid-item"><h2><a href="modules/introducing-the-toolkit/">
     <div>using<br/>the toolkit<br/><img src="{{ site.baseurl }}/img/moduleLogos/introducing-the-toolkit.png" width="90px" ALT="Introducing the Toolkit"/>
-  </div></a></div>
+  </div></a></h2></div>
 
  <div class="grid-item"> <a href="modules/basics/"><div>the connected learning<br/>mindset<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/basics.png" width="90px" ALT="Connected Learning Basics"/>
