@@ -56,7 +56,7 @@ strong {
 /* FOOTER */
 
 .footer {
-  background-color: #393E41;
+  background-color: #393E41 !important;
 }
 
 /* SIDEBAR */
