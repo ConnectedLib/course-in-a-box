@@ -19,7 +19,7 @@ published: true
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
 
  <div class="grid-item"><h2><a href="modules/introducing-the-toolkit/">
-    <div>using<br/>the toolkit<br/><img src="{{ site.baseurl }}/img/moduleLogos/introducing-the-toolkit.png" width="90px" ALT="Introducing the Toolkit"/>
+    <div>introducing<br/>the toolkit<br/><img src="{{ site.baseurl }}/img/moduleLogos/introducing-the-toolkit.png" width="90px" ALT=""/>
   </div></a></h2></div>
 
  <div class="grid-item"> <h2><a href="modules/basics/"><div>the connected learning<br/>mindset<br/>
