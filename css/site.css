@@ -104,11 +104,9 @@ p.sidebar-title {
   height:100%;
 }
 
-.grid-container .grid-item, .grid-container h2 {
+.grid-container .grid-item, {
   background-color: #2CA198;
-  text-align: center;
   padding: 20px 0;
-  font-size: 1.2em;
   opacity:.70;
   grid-column: span 1;
 }
@@ -121,6 +119,8 @@ p.sidebar-title {
 
 .grid-container h2 {
     font-family:'Comfortaa',Helvetica,Arial,sans-serif !important;
+  text-align: center;
+    font-size: 1.2em;
 
 }
 
