@@ -249,7 +249,7 @@ line-height:  2em;
 /* CASE STUDY/EXAMPLES */
 
 .case_study { 
-  background-color: #D1A9DB; /* medium purple */
+  background-color: #F3F3FC; /* light purple */
 }
 
 
@@ -258,7 +258,7 @@ line-height:  2em;
 .info { 
  
   border-left: solid 10px #3d244e; /* dark purple */
-  background-color: lavender;
+  background-color: #F3F3FC;
 
   /* border-left: solid 10px #0ccc05;   bright green 
   background-color: #d2ffb9; */
