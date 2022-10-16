@@ -85,8 +85,8 @@ p.sidebar-title {
   color:  #03776C !important;
 }
 
-.pagination-section {
-  color: #484E60;
+.pagination-section .title {
+  color: #484E60 !important;
 }
 
 /* INDEX - GRID */
