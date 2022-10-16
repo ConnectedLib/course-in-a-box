@@ -82,7 +82,11 @@ p.sidebar-title {
 }
 
 .sidebar li.active a:hover, .sidebar li.active a:focus {
-  color:  #038175 !important;
+  color:  #03776C !important;
+}
+
+.pagination-section {
+  color: #484E60;
 }
 
 /* INDEX - GRID */
