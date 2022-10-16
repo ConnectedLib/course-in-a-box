@@ -48,7 +48,7 @@ p, table, td, th, tr {
 }
 
 
-body a {
+.about_page a {
   color: #037C70 !important;
   text-decoration: underline !important;
 }
