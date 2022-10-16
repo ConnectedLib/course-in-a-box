@@ -42,11 +42,16 @@ p, table, td, th, tr {
 }
 
 .content a {
-  color: #037C70 !important;
+  color: #377a5e !important;
   font-weight: bold;
   text-decoration:  underline;
 }
 
+
+body a {
+  color: #037C70 !important;
+  text-decoration: underline !important;
+}
 
 strong {
     font-weight: 700 !important;
