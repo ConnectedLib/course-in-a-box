@@ -170,7 +170,7 @@ blockquote {
   /* background: lightgray; 
   border-left: solid 10px dimgray; */
   background: #E0FAF5; 
-  border-left:  solid 10px #14E3AC;
+  border:  solid .5px #14E3AC;
   /* font-family:  Patrick Hand, san-serif; 
   line-height:  2;*/
   padding-top: 15px;
