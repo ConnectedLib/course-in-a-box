@@ -85,6 +85,10 @@ p.sidebar-title {
   color:  #03776C !important;
 }
 
+.sidebar li.a {
+  color:  #035E53 !important;
+}
+
 .pagination-section .title {
   color: #484E60 !important;
 }
