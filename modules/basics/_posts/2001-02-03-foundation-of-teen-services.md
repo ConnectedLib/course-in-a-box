@@ -17,7 +17,7 @@ When connected learning is the foundation of teen services, all the teen-centric
 
 <div class="callout activity" markdown="1">
 
-### [Worksheet #2: A Vision for your Library's Teen Services](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
+## [Worksheet #2: A Vision for your Library's Teen Services](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.4hwqn6no1hlk){:target="_blank"}
 
 Start thinking about how to truly make connected learning the foundation of your teen services by developing a vision for your library’s teen services.  A vision is a short statement about what the library’s impact will be. Examples from the nonprofit world are:  
 

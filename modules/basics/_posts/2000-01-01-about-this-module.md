@@ -5,7 +5,7 @@ permalink: /modules/basics/
 ---
 
 <div class="callout objectives" markdown="1"> 
-### Goals for this module: 
+## Goals for this module: 
 
 * Describe connected learning 
 * Explain how connected learning is fundamental to teen services
@@ -29,7 +29,7 @@ Throughout the Connected Learning Basics module, there are reflections and activ
 
 <div class="callout activity" markdown="1">
 	
-### [Worksheet #1: Connected Learning K-W-L](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.5pf3n53wqrjk){:target="_blank"}
+## [Worksheet #1: Connected Learning K-W-L](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.5pf3n53wqrjk){:target="_blank"}
 
 Before moving forward in the module, spend some time thinking about what you already know about connected learning, and what you hope to learn from this module. The [first worksheet](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit#heading=h.5pf3n53wqrjk){:target="_blank"} in your [_Connected Learning Basics Workbook_](https://docs.google.com/document/d/1X5MxpToji6SQEN3-6uzvvkfjpQFvUhTbZB1cPTM6FwA/edit?usp=sharing){:target="_blank"} is a "KWL" — that stands for Know, Want to learn, and Learned. 
 
