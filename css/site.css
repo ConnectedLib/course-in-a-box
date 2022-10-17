@@ -82,9 +82,15 @@ p.sidebar-title {
 }
 
 .sidebar li.active a:hover, .sidebar li.active a:focus {
-  /* color:  #03776C !important; */
+  color:  #03776C !important;
+}
+
+.sidebar li a:hover, .sidebar li. a:focus {
   color:  #FFFFFF !important;
 }
+
+
+
 
 body .sidebar a {
   color:  #047B6D !important;
