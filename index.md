@@ -18,7 +18,7 @@ published: true
 
 
 <div style="margin-left:auto;margin-right:auto;background-color:lightgray;text-align:center; padding:15px;"><h2>We've remodeled!</h2>
-<p>The ConnectedLib Toolkit has been refurbished to provide a better user experience and more relevance to small and rural libraries. If you can't find something you're looking for, <a href="https://forms.gle/yLe3gLzV4L23B6c29">please let us know</a>!</p>
+<p>The ConnectedLib Toolkit has been refurbished to provide a better user experience and more relevance to small and rural libraries. If you can't find something you're looking for, <a href="https://forms.gle/yLe3gLzV4L23B6c29" style="color: #377a5e;">please let us know</a>!</p>
 </div>
 
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
