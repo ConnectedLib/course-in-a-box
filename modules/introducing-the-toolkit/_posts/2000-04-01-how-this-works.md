@@ -11,14 +11,14 @@ The ConnectedLib Toolkit was designed to be as flexible as possible for use by a
 ### The Modules
 
 * **Introducing the Toolkit**: You are here! This module provides a quick introduction to the Toolkit and the different ways you can use it.
-* **[The Connected Learning Mindset](/basics/)** provides an introduction to what connected learning is and how it can help your library's teen services.
-* **[Community-Centered Services](/community-centered/)** will help you describe community in terms of assets and strengths and put community at the center of your youth services.
-* **[Youth Development](/youth-development/)** explores how libraries can support tweens and teens in their development at every stage.
-* **[Mentoring](/mentoring/)** offers guidance and best practices for encouraging mentoring relationships within a youth services context.
-* **[Capacity](/capacity/)** will help you recognize and optimize the unique capacity of your library and community.
-* **[Civic Engagement](/civic-engagement/)** provides concepts, tips, and resources for developing civic engagement programs and advancing the quality of life in your community.
-* **[Assessment & Evaluation](/evaluation/)** illustrates how to conduct assessment and evaluation throughout the lifecycle of a connected learning program or service.
-* **[Designing Connected Learning Services](/designing-connected-learning-services/)** provides a framework for designing connected learning services with community stakeholders, including teens.
+* **[The Connected Learning Mindset](/modules/basics/)** provides an introduction to what connected learning is and how it can help your library's teen services.
+* **[Community-Centered Services](/modules/community-centered/)** will help you describe community in terms of assets and strengths and put community at the center of your youth services.
+* **[Youth Development](/modules/youth-development/)** explores how libraries can support tweens and teens in their development at every stage.
+* **[Mentoring](/modules/mentoring/)** offers guidance and best practices for encouraging mentoring relationships within a youth services context.
+* **[Capacity](/modules/capacity/)** will help you recognize and optimize the unique capacity of your library and community.
+* **[Civic Engagement](/modules/civic-engagement/)** provides concepts, tips, and resources for developing civic engagement programs and advancing the quality of life in your community.
+* **[Assessment & Evaluation](/modules/evaluation/)** illustrates how to conduct assessment and evaluation throughout the lifecycle of a connected learning program or service.
+* **[Designing Connected Learning Services](/modules/designing-connected-learning-services/)** provides a framework for designing connected learning services with community stakeholders, including teens.
 
 
 <!-- ### Experiencing the Entire Toolkit
