@@ -16,6 +16,11 @@ published: true
 <img src="{{ site.baseurl }}/img/connectedlib_logo_slogan.png" alt="Connected Learning: Helping Librarians Use Digital Media to Make Learning Connections With Youth" /></h1>
 </center>
 
+
+<div style="margin-left:auto;margin-right:auto;background-color:lightgray;"><h2>We've remodeled!</h2>
+<p>The ConnectedLib Toolkit has been refurbished to provide a better user experience and more relevance to small and rural libraries. If you can't find something you're looking for, <a href="https://forms.gle/yLe3gLzV4L23B6c29">please let us know</a>!</p>
+</div>
+
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
 
  <div class="grid-item"><h2><a href="modules/introducing-the-toolkit/">
@@ -44,12 +49,12 @@ published: true
  <img src="{{ site.baseurl }}/img/moduleLogos/capacity.png" width="90px" ALT="Capacity"/>
 </div></a></h2></div>
 
-<div class="grid-item"> <h2><a href="modules/evaluation/"><div>assessment<br/>& evaluation<br/>
- <img src="{{ site.baseurl }}/img/moduleLogos/evaluation.png" width="90px" ALT="Assessment & Evaluation"/>
-</div></a></h2></div>
-
 <div class="grid-item"><h2> <a href="modules/civic-engagement/"><div>civic<br/>engagement<br/>
  <img src="{{ site.baseurl }}/img/moduleLogos/civic-engagement.png" width="90px" ALT="Civic Engagement"/>
+</div></a></h2></div>
+
+<div class="grid-item"> <h2><a href="modules/evaluation/"><div>assessment<br/>& evaluation<br/>
+ <img src="{{ site.baseurl }}/img/moduleLogos/evaluation.png" width="90px" ALT="Assessment & Evaluation"/>
 </div></a></h2></div>
 
 <div class="grid-item"> <h2><a href="modules/designing-connected-learning-services/"><div>designing connected learning services<br/>
