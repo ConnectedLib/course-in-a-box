@@ -1,7 +1,7 @@
 # basic configuration
 markdown: kramdown
 permalink: /:categories/:title/
-baseurl: /course-in-a-box/
+baseurl: /
 
 # Change this tracking code with your own tracking code
 # ga_tracking_code: UA-139717412-2
