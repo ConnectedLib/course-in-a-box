@@ -8,7 +8,6 @@ What is civic engagement? We focus on two definitions among the many that exist.
 > **Definition 1:** Civic engagement is “deliberate, consistent, and purposeful outreach that creates an environment in which people of all ages and from all backgrounds believe they have a voice and role in decisions and actions that affect their lives.”<br/><br/>— [Urban Library Council: Civic Engagement](https://www.urbanlibraries.org/assets/ULC_Civic_Engagement_Report.pdf){:target="_blank"}
 
 > **Definition 2:** “Civic engagement means… promoting the quality of life in a community, through both political and non-political processes.”<br/><br/>—_Civic Responsibility and Higher Education_<sup>1</sup>
-Ehrlich, 2000
 
 ## Let’s break this down. Civic engagement is:
 
@@ -98,7 +97,7 @@ For this activity:
 
 **Collect** pictures of people working to make a difference in your community. Collect as many as you can! The goal is to find examples of people doing things for the community that they care about. Don’t worry about trying to fit the definition perfectly. You'll likely find many simple acts of care that can serve as sources of inspiration.
 
-**Arrange** the pictures and add brief descriptions if needed. Digital whiteboard like [Jamboard] (https://edu.google.com/intl/ALL_us/jamboard/) are an especially useful tool for doing so.
+**Arrange** the pictures and add brief descriptions if needed. Digital whiteboards like [Jamboard](https://edu.google.com/intl/ALL_us/jamboard/) are an especially useful tool for doing so.
 
 **Inspiration - [Here are some examples](https://jamboard.google.com/d/1yVbi2FzfFIRHpSCg7RqfHJSpKMDw74yeqxpnIAlp26g/viewer?pli=1&f=3)
 from the libraries that helped build this module**
@@ -115,5 +114,5 @@ Later in the module you’ll have an opportunity to take one (or more) of the ex
 <details>
 	<summary>References</summary>
 
-1. Ehrlich, T. (Ed.) (2000)._Civic Responsibility and Higher Education_. Phoenix, AZ: Oxy Press. 
+1. Ehrlich, T. (Ed.) (2000). <i>Civic Responsibility and Higher Education</i>. Phoenix, AZ: Oxy Press. 
 </details>
