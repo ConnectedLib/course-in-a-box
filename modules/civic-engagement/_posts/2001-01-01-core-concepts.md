@@ -99,8 +99,8 @@ For this activity:
 
 **Arrange** the pictures and add brief descriptions if needed. Digital whiteboards like [Jamboard](https://edu.google.com/intl/ALL_us/jamboard/) are an especially useful tool for doing so.
 
-**Inspiration - [Here are some examples](https://jamboard.google.com/d/1yVbi2FzfFIRHpSCg7RqfHJSpKMDw74yeqxpnIAlp26g/viewer?pli=1&f=3)
-from the libraries that helped build this module**
+**Inspiration** - [Here are some examples](https://jamboard.google.com/d/1yVbi2FzfFIRHpSCg7RqfHJSpKMDw74yeqxpnIAlp26g/viewer?pli=1&f=3)
+from the libraries that helped build this module.
 
 **Discuss** with your library staff or community members: 
 * What makes each picture an example of civic care? Which attributes of civic engagement are most present? Which are absent?
