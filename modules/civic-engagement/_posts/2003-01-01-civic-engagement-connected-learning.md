@@ -5,15 +5,35 @@ tags: ['sectionHead']
 
 Now let’s connect **Civic Engagement with Connected Learning**. You’ve probably already identified many ways in which the two connect. 
 
-In the [Connected Learning Module](https://connectedlib.github.io/course-in-a-box//modules/basics/){:target="_blank"}, we see that real and meaningful engagement with the library community can happen when we engage in activities that revolve around youths’ and adults’ **interests**, personal **relationships**, and present **opportunities** for growth and connection within the community.
+In the [Connected Learning Mindset module](/modules/basics/){:target="_blank"}, we see that real and meaningful engagement with the library community can happen when we engage in activities that revolve around youths’ and adults’ **interests**, personal **relationships**, and present **opportunities** for growth and connection within the community.
 
-These principles manifest in civic engagement in many ways, including: 
+These principles manifest in civic engagement in many ways.
 
-* **Youth Agency**: Since we want to encourage the youth in our community to step up to the plate and meaningfully engage with issues they care about, it is vitally important that they are the ones leading the conversation about the what, how, and when of this prolonged, direct action in their surroundings. The [Connected Learning Module](https://connectedlib.github.io/course-in-a-box//modules/basics/){:target="_blank"} contains tools for engaging youth as drivers of change in their communities.
+<div class="colorhighlight color1" markdown="1">
 
-* **Mentorship**: Healthy and prolonged mentorships, formal or informal, can provide youth with the agency to dream of a better future, gain confidence that they have the power to create change, and practical knowledge and skills to bring ideas to fruition. More about how to set up successful mentorship opportunities in our [Mentoring module](https://connectedlib.github.io/course-in-a-box//modules/mentoring/){:target="_blank"}.
+## Youth Agency
 
-* **Equity**: Civic engagement is about improving the quality of life for all members of a community, drawing on  a diversity of voices. Civic engagement does not, and should not, look the same for every community.  In a project done with the Civic Imagination Project called [Defining America 2060](https://www.civicimaginationproject.org/defining-american-2060){:target="_blank"}, a diverse group of youth from the Chicago area imagined what America might look like in 2060, what values it could be based on, and how they might be able to contribute to that vision. You can read more about the importance of promoting equity in our [Connected Learning Module](https://connectedlib.github.io/course-in-a-box//modules/basics/){:target="_blank"}.
+Since we want to encourage the youth in our community to step up to the plate and meaningfully engage with issues they care about, it is vitally important that they are the ones leading the conversation about the what, how, and when of this prolonged, direct action in their surroundings. The [Connected Learning Mindset Module](/modules/basics/){:target="_blank"} contains tools for engaging youth as drivers of change in their communities.
+
+</div>
+
+<div class="colorhighlight color2" markdown="1">
+
+## Mentorship
+
+Healthy and prolonged mentorships, formal or informal, can provide youth with the agency to dream of a better future, gain confidence that they have the power to create change, and practical knowledge and skills to bring ideas to fruition. More about how to set up successful mentorship opportunities in our [Mentoring module](/modules/mentoring/){:target="_blank"}.
+
+</div>
+
+<div class="colorhighlight color3" markdown="1">
+
+## Equity
+
+Civic engagement is about improving the quality of life for all members of a community, drawing on  a diversity of voices. Civic engagement does not, and should not, look the same for every community.  In a project done with the Civic Imagination Project called [Defining America 2060](https://www.civicimaginationproject.org/defining-american-2060){:target="_blank"}, a diverse group of youth from the Chicago area imagined what America might look like in 2060, what values it could be based on, and how they might be able to contribute to that vision. You can read more about the importance of promoting equity in our [Connected Learning Module](https://connectedlib.github.io/course-in-a-box//modules/basics/){:target="_blank"}.
+
+
+</div>
+
 
 ## Example: Harry Potter Fandom
 The [Harry Potter Alliance (HPA)](https://fandomforward.org/){:target="_blank"} was built by Harry Potter fans asking the question, “what if fans used their passion and creativity to make the world a more loving, equitable place?” Now known as “Fandom Forward,” the organization takes on a wide range of global issues from climate change to poverty through trainings, campaigns, and community building. 
