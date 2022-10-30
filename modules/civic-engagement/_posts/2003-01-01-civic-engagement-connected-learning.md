@@ -29,7 +29,7 @@ Healthy and prolonged mentorships, formal or informal, can provide youth with th
 
 ## Equity
 
-Civic engagement is about improving the quality of life for all members of a community, drawing on  a diversity of voices. Civic engagement does not, and should not, look the same for every community.  In a project done with the Civic Imagination Project called [Defining America 2060](https://www.civicimaginationproject.org/defining-american-2060){:target="_blank"}, a diverse group of youth from the Chicago area imagined what America might look like in 2060, what values it could be based on, and how they might be able to contribute to that vision. You can read more about the importance of promoting equity in our [Connected Learning Module](https://connectedlib.github.io/course-in-a-box//modules/basics/){:target="_blank"}.
+Civic engagement is about improving the quality of life for all members of a community, drawing on  a diversity of voices. Civic engagement does not, and should not, look the same for every community.  In a project done with the Civic Imagination Project called [Defining America 2060](https://www.civicimaginationproject.org/defining-american-2060){:target="_blank"}, a diverse group of youth from the Chicago area imagined what America might look like in 2060, what values it could be based on, and how they might be able to contribute to that vision. You can read more about the importance of promoting equity in our [Connected Learning Mindset module](https://connectedlib.github.io/course-in-a-box//modules/basics/){:target="_blank"}.
 
 
 </div>
@@ -114,4 +114,4 @@ Does the library play any (or several) of the roles below in engaging with the p
 #### Assets
 What assets does the library bring to the program? Are there any unique assets that make the library ideally positioned to offer the program? 
 
-For more information about designing programs alongside and for your community, check out the [Community Centered Services module](https://connectedlib.github.io/course-in-a-box//modules/community-centered/){:target="_blank"}
+For more information about designing programs alongside and for your community, check out the [Community Centered Services module](/modules/community-centered/){:target="_blank"}

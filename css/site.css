@@ -225,7 +225,7 @@ line-height:  2em;
 
 .objectives { 
   background: #85c0fe; /* pale blue */
-  border-left: solid 10px #0b4eab;
+  border: solid 2x #0b4eab;
 }
 
 /* ACTIVITY BOX */
