@@ -7,7 +7,8 @@ What is civic engagement? We focus on two definitions among the many that exist.
 
 > **Definition 1:** Civic engagement is “deliberate, consistent, and purposeful outreach that creates an environment in which people of all ages and from all backgrounds believe they have a voice and role in decisions and actions that affect their lives.”<br/><br/>— [Urban Library Council: Civic Engagement](https://www.urbanlibraries.org/assets/ULC_Civic_Engagement_Report.pdf){:target="_blank"}
 
-> **Definition 2:** “Civic engagement means… promoting the quality of life in a community, through both political and non-political processes.”<br/><br/>—Ehrlich, 2000
+> **Definition 2:** “Civic engagement means… promoting the quality of life in a community, through both political and non-political processes.”<br/><br/>—_Civic Responsibility and Higher Education_<sup>1</sup>
+Ehrlich, 2000
 
 ## Let’s break this down. Civic engagement is:
 
@@ -110,3 +111,9 @@ from the libraries that helped build this module**
 Later in the module you’ll have an opportunity to take one (or more) of the examples and work through how you would turn it into a civic engagement program at the library.
 
 </div>
+
+<details>
+	<summary>References</summary>
+
+1. Ehrlich, T. (Ed.) (2000)._Civic Responsibility and Higher Education_. Phoenix, AZ: Oxy Press. 
+</details>
