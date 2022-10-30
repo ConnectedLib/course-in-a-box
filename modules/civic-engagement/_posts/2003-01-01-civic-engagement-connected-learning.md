@@ -114,4 +114,4 @@ Does the library play any (or several) of the roles below in engaging with the p
 #### Assets
 What assets does the library bring to the program? Are there any unique assets that make the library ideally positioned to offer the program? 
 
-For more information about designing programs alongside and for your community, check out the [Community Centered Services module](/modules/community-centered/){:target="_blank"}
+For more information about designing programs alongside and for your community, check out the [Community-Centered Services module](/modules/community-centered/){:target="_blank"}.
