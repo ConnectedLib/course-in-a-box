@@ -520,7 +520,7 @@ line-height:  2em;
 }
 
 /* Style the collapsible content. Note: hidden by default */
-.content2 {
+.content {
   padding: 0 18px;
   background-color: white;
   max-height: 0;
