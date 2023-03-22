@@ -502,7 +502,7 @@ details {
   font-size: 15px;
 }
 
-.active, .collapsible:hover {
+.clfactive, .collapsible:hover {
   background-color: #555;
 }
 
@@ -513,4 +513,8 @@ details {
   transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
   margin-bottom:  10px;
+}
+
+.clcontent p {
+  padding-top: 10px;
 }
