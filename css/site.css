@@ -490,7 +490,6 @@ details {
 
 /* TRYING TO MAKE COLLAPSIBLES WORK */
 
-<style>
 .collapsible {
   background-color: #777;
   color: white;
@@ -507,10 +506,9 @@ details {
   background-color: #555;
 }
 
-.content {
+.clcontent {
   padding: 0 18px;
-  display: none !important;
+  display: none ;
   overflow: hidden;
   background-color: #f1f1f1;
 }
-</style>
