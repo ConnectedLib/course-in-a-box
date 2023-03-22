@@ -500,6 +500,7 @@ details {
   text-align: left;
   outline: none;
   font-size: 15px;
+  margin-top:  15px !important;
 }
 
 .clfactive, .collapsible:hover {
@@ -517,9 +518,4 @@ details {
 
 .clcontent p {
   padding-top: 10px;
-}
-
-
-.button {
-  margin: 10px !important;
 }
