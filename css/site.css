@@ -509,7 +509,7 @@ details {
 
 .content {
   padding: 0 18px;
-  display: none;
+  display: none !important;
   overflow: hidden;
   background-color: #f1f1f1;
 }
