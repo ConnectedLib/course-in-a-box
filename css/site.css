@@ -519,3 +519,7 @@ details {
 .clcontent p {
   padding-top: 10px;
 }
+
+button.collapsible {
+  font-size:  2em;
+}
