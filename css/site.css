@@ -494,7 +494,7 @@ details {
   background-color: #777;
   color: white;
   cursor: pointer;
-  padding: 18px;
+  padding: 10px;
   width: 100%;
   border: none;
   text-align: left;
@@ -521,7 +521,7 @@ details {
 }
 
 button.collapsible h3 {
-  font-size:  1em;
+  font-size:  1.1em;
 }
 
 
