@@ -520,9 +520,9 @@ details {
   padding-top: 10px;
 }
 
-/* button.collapsible {
-  font-size:  1.5em;
-}*/
+button.collapsible h3 {
+  font-size:  1em;
+}
 
 
 iframe.clfest {
