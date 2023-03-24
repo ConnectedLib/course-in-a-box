@@ -516,6 +516,10 @@ details {
   margin-bottom:  10px;
 }
 
+.clcontent ul li {
+font-family: Merriweather, serif;
+
+}
 .clcontent p {
   padding-top: 10px;
   font-size:  .9em;
